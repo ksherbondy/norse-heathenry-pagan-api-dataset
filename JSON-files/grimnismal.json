@@ -1,0 +1,541 @@
+[
+  {
+    "stanza_id": "grim_01",
+    "original": "Heitr ertu, hripuðr, ok heldr til mikill; gakk þú fjær, funi! loði deigr, þótt ek á lopt berak, brinnat feldr, þótt ek firi eldi hafumk.",
+    "translations": {
+      "bellows": "Hot art thou, fire, and far too great; fare thee hence, thou flame! My coat is scorched, though I raise it high, my cloak is burned away.",
+      "thorpe": "Hot thou art, Agni! and exceeding great; go further off, thou fire! The cloak is singed, although I lift it high; the mantle is burnt before it.",
+      "literal": "Hot are-you, fire-flickerer, and rather too great; go you far-off, flame! clothing gets-wet [from sweat], though I in air bear [it], burns-not cloak, though I before fire have-myself."
+    },
+    "sot_links": { "deities": ["deity_odin"], "figures": ["Geirroth"], "themes": ["The Torture between Fires"] }
+  },
+  {
+    "stanza_id": "grim_02",
+    "original": "Átta nætr sat ek milli elda hér, svá at mér manngi mat né bauð, nema einn Agnarr, er einn skal ráða, Geirröðar sonr, Gotna landi.",
+    "translations": {
+      "bellows": "Eight nights I sat between the fires here, and no man offered me meat, save Agnar alone, the son of Geirroth, who should rule the land of the Goths.",
+      "thorpe": "Eight nights have I sat between these fires, and no one offered me food, save Agnar only, who alone shall rule, Geirröð’s son, o’er the land of the Goths.",
+      "literal": "Eight nights sat I between fires here, so that to-me no-one food nor offered, except one Agnar, who alone shall rule, Geirroth's son, Goths' land."
+    },
+    "sot_links": { "figures": ["Agnar", "Geirroth"], "themes": ["Hospitality Violation"] }
+  },
+  {
+    "stanza_id": "grim_03",
+    "original": "Heill skaltu, Agnarr, allz þik heilan biðr Veratýr vera; eins drykkjar þú skalt aldregi betri seiling fá.",
+    "translations": {
+      "bellows": "Hail to thee, Agnar! for hail to thee now the Lord of Men bids thee be; for one single drink a better reward never shalt thou find.",
+      "thorpe": "Hail to thee, Agnar! as Veratýr [Odin] bids thee hail. For one draught thou shalt never receive a better reward.",
+      "literal": "Hale shall-you [be], Agnar, as you hale bids Man-god [Odin] be; of-one drink you shall never better reward get."
+    },
+    "sot_links": { "deities": ["deity_odin"], "figures": ["Agnar"] }
+  },
+  {
+    "stanza_id": "grim_04",
+    "original": "Land er heilagt, er ek liggja sé ásum ok alfum nær; en í Þrúðheimi skal Þórr vera, unz rjúfask regin.",
+    "translations": {
+      "bellows": "The land is holy that lies hard by the Aesir and the elves; but in Thrudheim Thor shall ever dwell until the gods shall go.",
+      "thorpe": "Holy is the land, which I see lying near to the Aesir and the Alfs; but in Thrúdheim shall Thor dwell, until the powers perish.",
+      "literal": "Land is holy, which I lie [see] Aesir and elves near; but in Thrudheimr shall Thor be, until break-apart powers."
+    },
+    "sot_links": { "locations": ["Thrudheimr"], "deities": ["deity_thor"], "themes": ["Divine Geography"] }
+  },
+  {
+    "stanza_id": "grim_05",
+    "original": "Ýdalir heita, þar er Ullr hefir sér of görva sali; Álfheim Frey gáfu í árdaga tívar at tannfé.",
+    "translations": {
+      "bellows": "Ydalir it is called, where Ullr has a hall for himself; and Alfheim the gods to Freyr once gave as a tooth-gift in ancient days.",
+      "thorpe": "Ýdalir it is named, where Ullr has a dwelling for himself. Álfheim the gods to Freyr gave in days of yore for a tooth-gift.",
+      "literal": "Yew-dales named-are, there where Ullr has for-himself of made halls; Alfheimr Freyr gave [to him] in early-days gods as tooth-gift."
+    },
+    "sot_links": { "locations": ["Ydalir", "Alfheimr"], "deities": ["deity_ullr", "deity_freyr"], "themes": ["Hall Registry"] }
+  },
+  {
+    "stanza_id": "grim_06",
+    "original": "Bær er sá inn þriði, er blíð regin silfri þöktu sali; Valaskjálf heitir, er sér of valði áss í árdaga.",
+    "translations": {
+      "bellows": "A third dwelling is there which the holy gods with silver have thatched; Valaskjalf is it called, which the god chose for himself in ancient days.",
+      "thorpe": "The third dwelling is, where the benevolent powers with silver have thatched the hall; Valaskjálf it is named, which for himself chose an Ás [Odin] in days of yore.",
+      "literal": "Stead is that the third, where kind powers with-silver thatched halls; Valaskjalf named-is, which for-himself of chose god in early-days."
+    },
+    "sot_links": { "locations": ["Valaskjalf"], "deities": ["deity_odin"] }
+  },
+  {
+    "stanza_id": "grim_07",
+    "original": "Sökkvabekkr heitir inn fjórði, en þar svalar unnir riðu; þar þau Óðinn ok Sága drekka of alla daga glaðir ór gullnum kerum.",
+    "translations": {
+      "bellows": "Sokkvabekk the fourth is named, and over it the cold waves roar; there Odin and Saga every day drink glad from golden cups.",
+      "thorpe": "Sökkvabekk the fourth is named, and over it the chill waters ripple; there Odin and Sága every day drink glad from golden cups.",
+      "literal": "Sinking-bench named-is the fourth, but there cool waves ride; there they Odin and Saga drink through all days glad from golden vats."
+    },
+    "sot_links": { "locations": ["Sokkvabekkr"], "deities": ["deity_odin", "deity_saga"] }
+  },
+  {
+    "stanza_id": "grim_08",
+    "original": "Glaðsheimr heitir inn fimmti, þar er in gullbjarta Valhöll víð of þrumir; en þar Hroftr kýss hverjan dag vápndauða vera.",
+    "translations": {
+      "bellows": "Gladsheim the fifth is named, and there the golden-bright Valhall stands; and there Hropt chooses every day the men who in battle have fallen.",
+      "thorpe": "Gladsheim the fifth is named, where the golden-bright Valhall stands spacious; there Hropt chooses every day those who by weapons die.",
+      "literal": "Glad-home named-is the fifth, there where the gold-bright Valhall wide of stands; but there Hroptr [Odin] chooses each day weapon-dead beings."
+    },
+    "sot_links": { "locations": ["Gladsheimr", "Valhall"], "deities": ["deity_odin"] }
+  },
+  {
+    "stanza_id": "grim_09",
+    "original": "Mjök er auðþekkt, þeim er til Óðins koma, salarkynni at sjá; sköftum er rann reft, skjöldum er salr þakiðr, brynju eru á bekki stráðar.",
+    "translations": {
+      "bellows": "Easy to know is for those who come to Odin his hall to see; with spears is it roofed, with shields is it thatched, and mail-coats are spread on the benches.",
+      "thorpe": "Easily is it known to those who to Odin come, to see his mansion. Its roof with spears is laid, its hall with shields is thatched, with byrnies are its benches strewed.",
+      "literal": "Much is easily-recognized, to-those who to Odin come, hall-kind to see; with-shafts is house roofed, with-shields is hall thatched, byrnies are on benches strewn."
+    },
+    "sot_links": { "locations": ["Valhall"], "themes": ["Architectural Specs"] }
+  },
+  {
+    "stanza_id": "grim_10",
+    "original": "Mjök er auðþekkt, þeim er til Óðins koma, salarkynni at sjá; vargr hangir fyr vestan dyrr, ok drúpir örn yfir.",
+    "translations": {
+      "bellows": "Easy to know is for those who come to Odin his hall to see; a wolf hangs west of the door, and an eagle droops above it.",
+      "thorpe": "Easily is it known to those who to Odin come, to see his mansion. A wolf hangs before its western door, an eagle hovers over it.",
+      "literal": "Much is easily-recognized, to-those who to Odin come, hall-kind to see; wolf hangs before western doors, and droops eagle over."
+    }
+  },
+  {
+    "stanza_id": "grim_11",
+    "original": "Breiðablik heita in séttu, þar er Baldr hefir sér of görva sali; á því landi, er ek liggja veit fæsta feikinstafi.",
+    "translations": {
+      "bellows": "Breidablik the sixth is named, and there has Baldr for himself a hall; in that land where I have found the fewest evil runes.",
+      "thorpe": "Breidablik is the sixth, where Baldr has for himself a mansion reared, in that land where I know are fewest baleful runes.",
+      "literal": "Broad-gleam named-is the sixth, there where Baldr has for-himself of made halls; on that land, where I lie [know] fewest evil-staves."
+    },
+    "sot_links": { "locations": ["Breidablik"], "deities": ["deity_baldr"] }
+  },
+  {
+    "stanza_id": "grim_12",
+    "original": "Himinbjörg heita in sjöundu, en þar Heimdall kveða ráða fyrir véum; þar vörðr goða drekkr í væru ranni glaðr inn góða mjöð.",
+    "translations": {
+      "bellows": "Himinbjorg the seventh is named, and there they say Heimdall rules o'er the shrines; the watchman of gods in his quiet house drinks glad the goodly mead.",
+      "thorpe": "Himinbjörg the seventh is, where Heimdall, it is said, the temples rules. There the gods’ watchman, in his pleasant dwelling, glad drinks good mead.",
+      "literal": "Heaven-cliffs named-is the seventh, but there Heimdallr say [they] rules for shrines; there warder of-gods drinks in pleasant house glad the good mead."
+    },
+    "sot_links": { "locations": ["Himinbjorg"], "deities": ["deity_heimdallr"] }
+  },
+  {
+    "stanza_id": "grim_13",
+    "original": "Fólkvangr er inn átti, en þar Freyja ræðr sessa kostum í sal; hálfan val hón kýss hverjan dag, en hálfan Óðinn á.",
+    "translations": {
+      "bellows": "Folkvang the eighth is named, and there Freyja rules o'er the choosing of seats in the hall; half of the dead she chooses each day, and half does Odin have.",
+      "thorpe": "Fólkvang is the eighth, where Freyja has the power to appoint the seats in the hall. Half the slain she chooses every day, and half Odin has.",
+      "literal": "People-plain is the eighth, but there Freyja rules of-seats choices in hall; half slain she chooses each day, but half Odin has."
+    },
+    "sot_links": { "locations": ["Folkvangr"], "deities": ["deity_freyja", "deity_odin"], "themes": ["Division of the Slain"] }
+  },
+  {
+    "stanza_id": "grim_14",
+    "original": "Glitnir er inn níundi, hann er gulli studdr ok silfri þakiðr it sama; en þar Forseti byggir flestan dag ok svæfir allar sakir.",
+    "translations": {
+      "bellows": "Glitnir the ninth is named, with gold it is pillared and silver is thatched as well; and there Forseti dwells most days and settles all disputes.",
+      "thorpe": "Glitnir is the ninth, which on silver columns rests, and with gold is thatched. There Forseti mostly dwells, and allives all disputes.",
+      "literal": "Glitnir is the ninth, it is with-gold supported and with-silver thatched the same; but there Forseti inhabits most day and sleeps [settles] all cases."
+    },
+    "sot_links": { "locations": ["Glitnir"], "deities": ["deity_forseti"], "themes": ["Jurisdiction"] }
+  },
+  {
+    "stanza_id": "grim_15",
+    "original": "Nóatún heita in tíundu, en þar Njörðr hefir sér of görva sali; meinstafi áss ræðr þar vís fyrir háu hörgi.",
+    "translations": {
+      "bellows": "Noatun the tenth is named, and there has Njord for himself a hall; the blameless ruler of men there sits in his high-timbered shrine.",
+      "thorpe": "Nóatún is the tenth, where Njörd has for himself a mansion reared. The guiltless prince of men there sits in his high-timbered temple.",
+      "literal": "Ship-stead named-is the tenth, but there Njord has for-himself of made halls; harm-staves [guiltless] god rules there wise before high altar."
+    },
+    "sot_links": { "locations": ["Noatun"], "deities": ["deity_njord"] }
+  },
+  {
+    "stanza_id": "grim_16",
+    "original": "Hrísi vex ok háu grasi Víðars land Viði; en þar mögfrá ríðr hests baki, þá er hann hefna skal föður.",
+    "translations": {
+      "bellows": "With brushwood and high grass is Vithi grown, the land of Vithar's home; there the son from his horse's back leaps down, when his father he shall avenge.",
+      "thorpe": "With brushwood is overgrown and high grass Víðir’s land, the spacious one. There the son descends from his horse’s back, ready to avenge his father.",
+      "literal": "With-brushwood grows and high grass Vidar's land Vidi; but there son-of-fame [Vidar] rides horse's back, when he avenge shall father."
+    },
+    "sot_links": { "locations": ["Vidi"], "deities": ["deity_vidar", "deity_odin"], "themes": ["Vengeance"] }
+  },
+  {
+    "stanza_id": "grim_17",
+    "original": "Elduhrímnir lætr Sæhrímni soðinn í Andhrímni fleska bezt; en þat fátt veit, við hvat einherjar alask.",
+    "translations": {
+      "bellows": "In Eldhrimnir Andhrimnir cooks Saehrimnir, the best of meat; but few know with what the Einherjar are fed.",
+      "thorpe": "Eldhrímnir has Saehrímnir sodden in Andhrímnir, of all meats best; but few know with what the Einherjar are fed.",
+      "literal": "Fire-sooty [cauldron] lets Sea-sooty [boar] cooked in Breath-sooty [cook] meat best; but that few know, with what Einherjar are-fed."
+    },
+    "sot_links": { "artifacts": ["artifact_eldhrimnir"], "figures": ["Saehrimnir", "Andhrimnir", "Einherjar"], "themes": ["Valhalla Provisions"] }
+  },
+  {
+    "stanza_id": "grim_18",
+    "original": "Geri ok Freki seðr gunntamiðr, hróðigr Herjaföðr; en við vín eitt vopngöfugr Óðinn æ lifir.",
+    "translations": {
+      "bellows": "Geri and Freki the battle-tamer feeds, the noble Father of Hosts; but by wine alone the weapon-proud Odin ever lives.",
+      "thorpe": "Geri and Freki the battle-tamer feeds, the victorious army-father; but by wine alone Odin, weapon-renowned, for ever lives.",
+      "literal": "Geri and Freki sates battle-tamed, famous Army-father; but with wine alone weapon-noble Odin ever lives."
+    },
+    "sot_links": { "beasts": ["beast_geri", "beast_freki"], "deities": ["deity_odin"], "themes": ["Divine Diet"] }
+  },
+  {
+    "stanza_id": "grim_19",
+    "original": "Huginn ok Muninn fljúga hverjan dag jörmungrund yfir; óumk ek of Hugin, at hann aftr né komit, þó sjáumk ek meir of Munin.",
+    "translations": {
+      "bellows": "Hugin and Munin fly each day over the spacious earth; I fear for Hugin lest he come not back, yet more do I fear for Munin.",
+      "thorpe": "Hugin and Munin fly each day over the mighty earth. I fear for Hugin lest he come not back, yet more am I anxious for Munin.",
+      "literal": "Thought and Memory fly each day mighty-ground over; fear I of Thought, that he back never come, though fear I more of Memory."
+    },
+    "sot_links": { "beasts": ["beast_huginn", "beast_muninn"], "deities": ["deity_odin"] }
+  },
+  {
+    "stanza_id": "grim_20",
+    "original": "Þjóðvitnir heitir á, er þjóðá deilir með jötna sonum grund ok með goðum; opin renna hún skal of aldrdaga, verðrat íss á á.",
+    "translations": {
+      "bellows": "Thjodvitnir is the river that divides the earth between the sons of giants and the gods; open shall it flow through all time, and ice shall never be on the river.",
+      "thorpe": "Thjodvitnir is the river named, which divides the earth between the giants’ sons and gods. Open it shall flow through all time: ice comes not on that river.",
+      "literal": "People-wolf [Ifing] named-is river, who people-river divides between giants' sons ground and between gods; open run it shall through age-days, becomes-not ice on river."
+    },
+    "sot_links": { "locations": ["Ifing"], "themes": ["Cosmography"] }
+  },
+  {
+    "stanza_id": "grim_21",
+    "original": "Þjóðvitnis fiskr bídr í þjóðá; árstraumr þykkir ofmikill valdi valraufa at vaða.",
+    "translations": {
+      "bellows": "The fish of Thjodvitnir is the river's joy; the flood of the river is far too great for the fallen in battle to wade.",
+      "thorpe": "Thjodvitnir’s fish in the river stands; the river’s current seems too great for the host of the slain to wade.",
+      "literal": "People-wolf's [Ifing's] fish bides in people-river; river-stream seems over-much for-ruler of-slain-spoils [warrior] to wade."
+    },
+    "sot_links": { "locations": ["Ifing"], "themes": ["Hydrology", "Barriers"] }
+  },
+  {
+    "stanza_id": "grim_22",
+    "original": "Valgrind heitir, er stendr velli á heilög fyr helgum durum; forn er sú grind, en þat fátt veit, hvé hón er í lás lokin.",
+    "translations": {
+      "bellows": "Valgrind is the lattice that stands on the plain, holy before the holy doors; ancient is the lattice, and few can tell how the lock is closed and barred.",
+      "thorpe": "Valgrind is the gate named, which stands on the plain, holy before the holy doors. Old is that gate, but few know how it is locked.",
+      "literal": "Slain-gate named-is, which stands field on holy before holy doors; ancient is that gate, but that few know, how she is in lock locked."
+    },
+    "sot_links": { "locations": ["Valgrind", "Valhall"], "themes": ["Security Protocols"] }
+  },
+  {
+    "stanza_id": "grim_23",
+    "original": "Fimm hundruð dura ok of fjórum tögum, svá hygg ek á Valhöllu vera; átta hundruð einherja ganga ór einum durum, þá er þeir fara við varg at vega.",
+    "translations": {
+      "bellows": "Five hundred doors and forty more are in Valhall, I ween; eight hundred fighters through one door fare when they go to fight with the wolf.",
+      "thorpe": "Five hundred doors and forty more, I believe, are in Valhall. Eight hundred Einherjar will at once pass through each door, when they go to fight with the wolf.",
+      "literal": "Five hundred doors and over four tens [40], so think I on Valhall to-be; eight hundred Einherjar go from one doors, when that they go with wolf to fight."
+    },
+    "sot_links": { "locations": ["Valhall"], "figures": ["Einherjar"], "beasts": ["beast_fenrir"], "themes": ["Capacity Specs", "Ragnarok"] }
+  },
+  {
+    "stanza_id": "grim_24",
+    "original": "Fimm hundruð gulfa ok of fjórum tögum, svá hygg ek Bilskirni með bugum; ranna þeira, er ek reft vita, míns sonar kveð ek mest vera.",
+    "translations": {
+      "bellows": "Five hundred rooms and forty more has Bilskirnir with its bends; of all the houses that roofed I know, my son's is the greatest of all.",
+      "thorpe": "Five hundred halls and forty more, I believe, are in Bilskirnir’s windings. Of those mansions which I know roofed, my son’s I know to be the largest.",
+      "literal": "Five hundred rooms and over four tens [40], so think I Bilskirnir with bends; of-houses those, which I roofed know, my son's [Thor's] say I most to-be."
+    },
+    "sot_links": { "locations": ["Bilskirnir"], "deities": ["deity_thor", "deity_odin"] }
+  },
+  {
+    "stanza_id": "grim_25",
+    "original": "Heiðrún heitir geit, er stendr höllu á Herjaföðrs ok bítr af Læraðs limum; hón skal fylla skapker víni; þess mjaðar kná-at brenna.",
+    "translations": {
+      "bellows": "Heithrun is the goat who stands by the hall of the Father of Hosts and eats from Laerath's limbs; the pitcher she fills with the sparkling mead, and the drink can never fail.",
+      "thorpe": "Heidrun is the goat named, that stands o’er the Father of Host's hall, and browses on Lærad’s branches. She the pails shall fill with bright mead; that drink can never fail.",
+      "literal": "Heidrun named-is goat, who stands hall on Army-father's and bites from Laerad's limbs; she shall fill measure-vat with-wine; of-that mead can-not burn-out [fail]."
+    },
+    "sot_links": { "beasts": ["beast_heidrun"], "locations": ["Laeradr"], "themes": ["Valhalla Provisions"] }
+  },
+  {
+    "stanza_id": "grim_26",
+    "original": "Eikþyrnir heitir hjörtr, er stendr höllu á Herjaföðrs ok bítr af Læraðs limum; en af hans hornum drýpr í Hvergelmi, þaðan eigu vötn öll vega.",
+    "translations": {
+      "bellows": "Eikthyrnir is the hart who stands by the hall of the Father of Hosts and eats from Laerath's limbs; from his horns the water drips into Hvergelmir, and thence all the rivers run.",
+      "thorpe": "Eikthyrnir is the hart named, that stands o’er the Father of Host's hall, and browses on Lærad’s branches. From his horns drops fall into Hvergelmir, whence all waters rise.",
+      "literal": "Oak-thorny named-is hart, who stands hall on Army-father's and bites from Laerad's limbs; but from his horns drips in Hvergelmir, thence have waters all ways."
+    },
+    "sot_links": { "beasts": ["beast_eikthyrnir"], "locations": ["Hvergelmir"], "themes": ["Hydrology Source"] }
+  },
+  {
+    "stanza_id": "grim_27",
+    "original": "Síð ok Víð, Sækin ok Eikin, Svöl ok Gunnþró, Fjörm ok Fimbulþul, Rín ok Rennandi, Gípul ok Göpul, Gömul ok Geirvimul; þær hverfa um hodd goða, Þyn ok Vín, Þöll ok Höll, Gráð ok Gunnþorin.",
+    "translations": {
+      "bellows": "[List of Rivers]... they flow around the gods' treasure, Thyn and Vin, Tholl and Holl, Grad and Gunnthorin.",
+      "thorpe": "[List of Rivers]... they flow around the gods’ hoard, Thyn and Vin, Thöll and Höll, Grád and Gunnthorin.",
+      "literal": "[List of Rivers]... they turn around hoard of-gods, Thyn and Vin, Tholl and Holl, Grad and Battle-daring."
+    },
+    "sot_links": { "themes": ["River Registry"] }
+  },
+  {
+    "stanza_id": "grim_28",
+    "original": "Vína heitir ein, önnur Vegsvinn, þriðja Þjóðnuma, Nyt ok Nöt, Nönn ok Hrönn, Slíðr ok Hríð, Sylgr ok Ylgr, Víð ok Ván, Vönd ok Strönd, Gjöll ok Leiftr; þær falla gumnum nær, en falla þaðan til Heljar.",
+    "translations": {
+      "bellows": "[List of Rivers]... Gjoll and Leipt, they flow near to men, and hence they go to Hel.",
+      "thorpe": "[List of Rivers]... Gjöll and Leipt; these flow near to men, but fall hence to Hel.",
+      "literal": "[List of Rivers]... Gjoll and Leipt; they fall men near, but fall thence to Hel."
+    },
+    "sot_links": { "locations": ["Hel", "Gjoll"], "themes": ["River Registry"] }
+  },
+  {
+    "stanza_id": "grim_29",
+    "original": "Körmt ok Örmt ok Kerlaugar tvær, þær skal Þórr vaða hverjan dag, er hann dæma ferr at aski Yggdrasils; því at Ásbrú brenn öll loga, heilög vötn hlóa.",
+    "translations": {
+      "bellows": "Kormt and Ormt and the Kerlaugs two, these shall Thor wade every day when he goes to judge at Yggdrasil's ash; for the Aesir-bridge is all on fire, and the holy waters glow.",
+      "thorpe": "Körmt and Örmt, and the two Kerlaugs: these Thor must wade every day, when he to council goes by Yggdrasil’s ash; for the Ás-bridge is all on fire, the holy waters boil.",
+      "literal": "Kormt and Ormt and Kerlaugs two, those shall Thor wade each day, when he to-judge goes at ash of-Yggdrasil; because that Aesir-bridge [Bifrost] burns all in-flame, holy waters glow."
+    },
+    "sot_links": { "deities": ["deity_thor"], "locations": ["Yggdrasill", "Bifrost"], "themes": ["Transportation Constraints"] }
+  },
+  {
+    "stanza_id": "grim_30",
+    "original": "Glaðr ok Gyllir, Gler ok Skeiðbrimir, Silfrintoppr ok Sinir, Gisl ok Falhófnir, Gulltoppr ok Léttfeti; þessum ríða æsir jóm á hverjan dag, er þeir dæma fara at aski Yggdrasils.",
+    "translations": {
+      "bellows": "[List of Horses]... on these steeds the Aesir ride every day when they go to judge at Yggdrasil's ash.",
+      "thorpe": "[List of Horses]... these steeds the Aesir ride every day, when they to council go by Yggdrasil’s ash.",
+      "literal": "[List of Horses]... these ride Aesir steeds on each day, when they to-judge go at ash of-Yggdrasil."
+    },
+    "sot_links": { "beasts": ["beast_gladr", "beast_gyllir", "beast_skeidbrimir", "beast_silfrintoppr", "beast_gulltoppr", "beast_lettfeti"], "locations": ["Yggdrasill"] }
+  },
+  {
+    "stanza_id": "grim_31",
+    "original": "Þrjár rætr standa á þrjá vega undan aski Yggdrasils; Hel býr undir einni, annarri hrímþursar, þriðju mennskir menn.",
+    "translations": {
+      "bellows": "Three roots spread three ways forth from Yggdrasil's ash; Hel dwells 'neath one, the frost-giants 'neath another, and mortals 'neath the third.",
+      "thorpe": "Three roots stretch three ways under Yggdrasil’s ash; Hel dwells under one, under another the Hrimthursar, under the third mankind.",
+      "literal": "Three roots stand on three ways under ash of-Yggdrasil; Hel dwells under one, another rime-giants, third human men."
+    },
+    "sot_links": { "locations": ["Yggdrasill", "Hel", "Jotunheimr", "Midgardr"], "themes": ["System Architecture"] }
+  },
+  {
+    "stanza_id": "grim_32",
+    "original": "Ratatoskr heitir íkorni, er renna skal at aski Yggdrasils; arnars orð hann skal ofan bera ok segja Niðhöggvi niðr.",
+    "translations": {
+      "bellows": "Ratatosk is the squirrel who there shall run on the ash of Yggdrasil; from above the eagle's words he carries, and hurls them down at Nidhogg below.",
+      "thorpe": "Ratatosk is the squirrel named, which has to run up and down on Yggdrasil’s ash; he from above the eagle’s words must bear, and below to Nidhögg repeat.",
+      "literal": "Drill-tooth [Ratatosk] named-is squirrel, who run shall at ash of-Yggdrasil; eagle's word he shall from-above bear and say to-Nidhogg below."
+    },
+    "sot_links": { "beasts": ["beast_ratatoskr", "beast_nidhoggr"], "themes": ["Information Transfer"] }
+  },
+  {
+    "stanza_id": "grim_33",
+    "original": "Hirtir eru ok fjórir, þeir er af hálsum gapa, dýshæfir á askinum: Dáinn ok Dvalinn, Duneyrr ok Duraþrór.",
+    "translations": {
+      "bellows": "Four harts there are who the high twigs bite, even Dáin and Dvalin, Duneyr and Durathror.",
+      "thorpe": "There are also four harts, which the highest buds browse, stretching their necks: Dáinn and Dvalinn, Duneyrr and Duraþrór.",
+      "literal": "Harts are also four, those who from necks gape, twig-biters on ash-the: Dead-one, Sleeping-one, Thundering-ear, Door-thriver."
+    },
+    "sot_links": { "beasts": ["beast_dainn", "beast_dvalinn", "beast_duneyrr", "beast_durathror"], "locations": ["Yggdrasill"] }
+  },
+  {
+    "stanza_id": "grim_34",
+    "original": "Ormar fleiri liggja undir aski Yggdrasils, en þat of hyggi hverr afglapi; Goinn ok Móinn, þeir eru Grafvitnis synir, Grábakr ok Grafvölluðr, Ófnir ok Sváfnir, tel ek, at æ skyli meina asks limum.",
+    "translations": {
+      "bellows": "More serpents lie 'neath Yggdrasil's ash than is known to every fool; [List of Serpents]... ever I think they shall eat the twigs of the ash.",
+      "thorpe": "More serpents lie under Yggdrasil’s ash than any one can imagine: [List of Serpents]... methinks they will ever lacerate the ash’s branches.",
+      "literal": "Serpents more lie under ash of-Yggdrasil, than that of think each fool; [List of Serpents]... count I, that ever shall harm ash's limbs."
+    },
+    "sot_links": { "beasts": ["beast_goinn", "beast_moinn", "beast_grafvitnir", "beast_grabakr", "beast_ofnir", "beast_svafnir"], "themes": ["System Decay"] }
+  },
+  {
+    "stanza_id": "grim_35",
+    "original": "Askr Yggdrasils drýgir erfiði meira en menn viti; hjörtr bitr ofan, en á hliðu fúnar, skerðir Niðhöggr neðan.",
+    "translations": {
+      "bellows": "The ash of Yggdrasil suffers more than men can know; the hart bites above, the side is rotting, and Nidhogg gnaws from below.",
+      "thorpe": "Yggdrasil’s ash suffers greater hardship than men know of; a hart bites it above, in its side it rots, Nidhögg gnaws it below.",
+      "literal": "Ash of-Yggdrasil suffers hardship more than men know; hart bites from-above, but on sides [it] rots, shears Nidhogg from-below."
+    },
+    "sot_links": { "locations": ["Yggdrasill"], "beasts": ["beast_nidhoggr"] }
+  },
+  {
+    "stanza_id": "grim_36",
+    "original": "Hrist ok Mist vil ek, at mér horn beri, Skeggjöld ok Skögul, Hildr ok Þrúðr, Hlökk ok Herfjötur, Göll ok Geirahöð, Randgríðr ok Ráðgríðr ok Reginleif; þær bera einherjum öl.",
+    "translations": {
+      "bellows": "Hrist and Mist shall bear the horn to me, [List of Valkyries]... these shall bear ale to the Einherjar.",
+      "thorpe": "Hrist and Mist I would have bear me a horn; [List of Valkyries]... these bear ale to the Einherjar.",
+      "literal": "Shaker and Mist will I, that to-me horn bear, [List of Valkyries]... they bear to-Einherjar ale."
+    },
+    "sot_links": { "figures": ["Valkyries", "Einherjar"], "themes": ["Valhalla Protocols"] }
+  },
+  {
+    "stanza_id": "grim_37",
+    "original": "Árvakr ok Alsviðr, þeir skulu upp heðan svangir sól draga; en undir þeira bógum fólu blíð regin, æsir, ísarnkol.",
+    "translations": {
+      "bellows": "Arvak and Alsvith shall hence from the south the sun all-hungry draw; and 'neath their shoulders the gods have hidden, the Aesir, the cooling iron.",
+      "thorpe": "Arvak and Alsvid shall from hence the sun draw, with emaciated bodies; but under their withers the benevolent powers, the gods, have iron-coolness hidden.",
+      "literal": "Early-awake and All-swift, they shall up from-here hungry sun draw; but under their shoulders hid kind powers, Aesir, iron-cooling [ bellows]."
+    },
+    "sot_links": { "beasts": ["beast_arvakr", "beast_alsvidr"], "themes": ["Celestial Hardware"] }
+  },
+  {
+    "stanza_id": "grim_38",
+    "original": "Svalinn heitir, hann stendr sólu fyrir, skjöldr, skínanda goði; björg ok brim, ek veit, at brenna skulu, ef hann fellr í frá.",
+    "translations": {
+      "bellows": "Svalin is he who stands before the sun, a shield for the shining god; the mountains and sea would burn, I know, if he should fall away.",
+      "thorpe": "Svalin is the shield named, which stands before the sun, the shining deity; rocks and ocean I know must burn, if it from its place should fall.",
+      "literal": "Cooler named-is, he stands sun before, shield, shining god [sun]; mountains and sea, I know, that burn shall, if he falls away."
+    },
+    "sot_links": { "artifacts": ["artifact_svalinn"], "themes": ["Solar Regulation"] }
+  },
+  {
+    "stanza_id": "grim_39",
+    "original": "Sköll heitir vargr, er fylgir inu skírleita goði til varna viðar; en annarr Hati, hann er Hróðvitnis sonr, sá skal fyr heiða brúði himins.",
+    "translations": {
+      "bellows": "Skoll is the wolf that to the wood of iron follows the glittering god; and the other is Hati, Hrodvitnir's son, who shall run before the bright bride of heaven.",
+      "thorpe": "Sköll is the wolf named, that to the shadow-giving wood follows the shining deity; but another, Hati, he is Hródvitnir’s son, who must before the bright bride of heaven run.",
+      "literal": "Skoll named-is wolf, who follows the bright-faced god [sun] to defense wood [horizon]; but other Hati, he is Hrodvitnir's son, he shall before bright bride of-heaven [sun/moon]."
+    },
+    "sot_links": { "beasts": ["beast_skoll", "beast_hati"], "themes": ["Celestial Pursuit"] }
+  },
+  {
+    "stanza_id": "grim_40",
+    "original": "Ór Ymis holdi var jörð of sköpuð, en ór sveita sær, björg ór beinum, baðmr ór hári, en ór hausi himinn.",
+    "translations": {
+      "bellows": "Out of Ymir's flesh was fashioned the earth, and the ocean out of his blood; of his bones the mountains, of his hair the trees, and of his skull the sky.",
+      "thorpe": "From Ymir’s flesh the earth was formed, and from his sweat the sea; from his bones the mountains, from his hair the trees, from his skull the heaven.",
+      "literal": "From Ymir's flesh was earth of shaped, but from sweat [blood] sea, mountains from bones, trees from hair, but from skull heaven."
+    },
+    "sot_links": { "figures": ["Ymir"], "themes": ["Cosmogony"] }
+  },
+  {
+    "stanza_id": "grim_41",
+    "original": "Gunnr ok Róta ok nornir þrjár, þær er örlög seggja; þær kjósa val hverjan dag ok ríða vígi frá.",
+    "translations": {
+      "bellows": "Gunn and Rota and the nornir three, who the fate of men decide; they choose the slain each day and from the battle ride.",
+      "thorpe": "Gunn and Rota, and the three Norns, who the destiny of men decide; they choose the slain every day, and from the battle ride.",
+      "literal": "Battle [Gunnr] and Rota and norns three, those who fate of-men say [decide]; they choose slain each day and ride battle from."
+    },
+    "sot_links": { "figures": ["Gunnr", "Rota", "Norns"], "themes": ["Fate", "Valkyrie Duties"] }
+  },
+  {
+    "stanza_id": "grim_42",
+    "original": "Ullr hylli á ok allir goð, hverr er tekr fyrstr á funa; því at opnir heimar verða Ása sonum, þá er hefja af hvera.",
+    "translations": {
+      "bellows": "Ullr's favor has he, and all the gods, who first shall the fire reach; for open are the worlds to the sons of the Aesir when the kettles are lifted away.",
+      "thorpe": "Ullr’s favor he shall have, and all the gods’, who first the fire shall seize; for open worlds lie before the Aesir’s sons, when the pails are away taken.",
+      "literal": "Ullr's favor has [he] and all gods, who is takes first on fire; because that open worlds become to-Aesir's sons, when [they] heave off kettles."
+    },
+    "sot_links": { "deities": ["deity_ullr"], "themes": ["The Torture between Fires", "Divine Intervention"] }
+  },
+  {
+    "stanza_id": "grim_43",
+    "original": "Ívalda synir gengu í árdaga Skíðblaðni at skapa, skipa bezt, skírum Frey, nýtum Njarðar syni.",
+    "translations": {
+      "bellows": "In days of old did Ivaldi's sons Skidbladnir fashion fair, the best of ships for the shining Freyr, the noble son of Njord.",
+      "thorpe": "Ivaldi’s sons went in days of old Skidbladnir to form, of ships the best, for the bright Freyr, Njörd’s beneficent son.",
+      "literal": "Ivaldi's sons went in early-days Skidbladnir to shape, of-ships best, to-bright Freyr, useful Njord's son."
+    },
+    "sot_links": { "figures": ["Ivaldi's Sons"], "artifacts": ["artifact_skidbladnir"], "deities": ["deity_freyr", "deity_njord"] }
+  },
+  {
+    "stanza_id": "grim_44",
+    "original": "Askr Yggdrasils, hann er æðstr viða, en Skíðblaðnir skipa, Óðinn Ása, en jóm Sleipnir, Bilröst brúa, en Bragi skálda, Hábrók hauka, en hunda Garmr.",
+    "translations": {
+      "bellows": "The ash of Yggdrasil is the foremost of trees, Skidbladnir of ships, Odin of gods, Sleipnir of steeds, Bilrost of bridges, Bragi of skalds, Habrok of hawks, and Garm of hounds.",
+      "thorpe": "Yggdrasil’s ash is of all trees the best; Skidbladnir of ships; Odin of the Aesir; Sleipnir of horses; Bilröst of bridges; Bragi of skalds; Hábrók of hawks; and Garm of dogs.",
+      "literal": "Ash of-Yggdrasil, it is highest of-woods, but Skidbladnir of-ships, Odin of-Aesir, but of-steeds Sleipnir, Bilrost [Bifrost] of-bridges, but Bragi of-skalds, Habrok of-hawks, but of-hounds Garmr."
+    },
+    "sot_links": { "locations": ["Yggdrasill", "Bifrost"], "deities": ["deity_odin", "deity_bragi"], "beasts": ["beast_sleipnir", "beast_habrok", "beast_garmr"], "artifacts": ["artifact_skidbladnir"], "themes": ["System Hierarchy"] }
+  },
+  {
+    "stanza_id": "grim_45",
+    "original": "Svipum hefi ek nú ypt firi sigtíva sonum, við þat skal vilbjörg vaka; öllum ásum þat inn koma skal Ægis bekki á, Ægis drekku at.",
+    "translations": {
+      "bellows": "My face have I shown to the sons of the gods, for the help that it may bring; to all the gods it shall be known, as they sit on Aegir's benches, at Aegir's feast.",
+      "thorpe": "My face I have now shown to the gods’ victorious sons, for them the desired help shall awaken; to all the Aesir it shall be known, on Ægir’s benches, at Ægir’s banquet.",
+      "literal": "Faces have I now lifted before victory-gods' sons, with that shall desired-help wake; to-all Aesir that in come shall Aegir's benches on, Aegir's drink at."
+    },
+    "sot_links": { "figures": ["Aegir"], "themes": ["Revelation"] }
+  },
+  {
+    "stanza_id": "grim_46",
+    "original": "Hétumk Grímnir, hétumk Gangleri, Herjan ok Hjálmberi, Þekkr ok Þriði, Þuðr ok Uðr, Helblindi ok Hár.",
+    "translations": {
+      "bellows": "Grimnir I am called, Gangleri am I, Herjan and Hjalmberi, Thekk and Thrithi, Thuth and Uth, Helblindi and Har.",
+      "thorpe": "Grimnir I am named, Gangleri I was named, Herjan and Hjálmberi, Thekkr and Thridi, Thudr and Udr, Helblindi and Hárr.",
+      "literal": "Named-myself Masked-one [Grimnir], named-myself Way-weary [Gangleri], Army-lord and Helmet-bearer, Pleasing-one and Third, Lean-one and Wave, Hell-blinder and High-one."
+    },
+    "sot_links": { "deities": ["deity_odin"], "themes": ["Names of Odin"] }
+  },
+  {
+    "stanza_id": "grim_47",
+    "original": "Saðr ok Svipall ok Sanngetall, Herteitr ok Hnikarr, Billeygr, Báleygr, Bölverkr, Fjölnir, Grímr ok Grímnir, Glapsviðr ok Fjölsviðr.",
+    "translations": {
+      "bellows": "Sath and Svipall and Sanngetall, Herteit and Hnikar, Billeyg, Baleyg, Bolverk, Fjolnir, Grim and Grimnir, Glapsvith and Fjolsvith.",
+      "thorpe": "Sadr and Svipall, and Sanngetall, Herteitr and Hnikarr, Bileyg, Báleyg, Bölverkr, Fjölnir, Grímr and Grímnir, Glapsvidr and Fjölsvidr.",
+      "literal": "Truthful and Shifting and Truth-getter, Army-glad and Overthrower, Weak-eyed, Fire-eyed, Evil-worker, concealer, Mask and Masked-one, Deceit-wise and Much-wise."
+    },
+    "sot_links": { "deities": ["deity_odin"] }
+  },
+  {
+    "stanza_id": "grim_48",
+    "original": "Síðhöttr, Síðskeggr, Sigföðr, Hnikuðr, Alföðr, Valföðr, Atríðr ok Farmatýr; einu nafni hétumk aldregi, síðan ek með fólkum fór.",
+    "translations": {
+      "bellows": "Sithhott, Sithskegg, Sigfoth, Hnikuth, Allfoth, Valfoth, Atrith and Farmatyr; by one name I have never been known since among the people I fared.",
+      "thorpe": "Sídhöttr, Sídskeggr, Sigföðr, Hnikuðr, Alföðr, Valföðr, Atríðr and Farmatýr; by one name I have never been called since among the nations I have gone.",
+      "literal": "Broad-hat, Broad-beard, Victory-father, Overthrower, All-father, Slain-father, Attacker and Cargo-god; by-one name named-myself never, since I among folks went."
+    },
+    "sot_links": { "deities": ["deity_odin"] }
+  },
+  {
+    "stanza_id": "grim_49",
+    "original": "Grímnir mik hétu at Geirröðar, en Jálk at Ásmundar, en þá Kjölar, er ek kerrur dró; Þrór þingum at, Viðurr vígum at, Óski ok Ómi, Jafnhár ok Biflindi, Göndlir ok Hárbarðr með goðum.",
+    "translations": {
+      "bellows": "Grimnir they called me at Geirroth's hall, Jalk at Asmund's... Thror at the assembly, Vithur in battle, Oski and Omi, Jafnhar and Biflindi, Gondlir and Harbarth with the gods.",
+      "thorpe": "Grimnir they called me at Geirröð’s, and Jálkr at Ásmund’s, and also Kjalar, when I sledges drew; Thrór at the Things, Vidurr in battles, Óski and Ómi, Jafnhárr and Biflindi, Göndlir and Hárbarðr among the gods.",
+      "literal": "Grimnir me called [they] at Geirroth's, but Jalkr at Asmund's, and then Kjalar, when I sledges drew; Thror assembly at, Vidurr battles at, Desired-one and Resounder, Just-as-high and Shield-shaker, Wand-bearer and Grey-beard among gods."
+    },
+    "sot_links": { "deities": ["deity_odin"], "figures": ["Geirroth", "Asmundr"] }
+  },
+  {
+    "stanza_id": "grim_50",
+    "original": "Sviðurr ok Sviðrir er ek hét at Sökkmímis, ok dulða ek þann inn gamla jötun, þá er ek Miðvitnis varð ins mæra burar orðinn einbani.",
+    "translations": {
+      "bellows": "Svidur and Svidrir I was at Sokkmimir's, and the ancient giant I hid, when Midvitnir's son, the famous, I slew in single fight.",
+      "thorpe": "Svidurr and Svidrir I was named at Sökk-mímir’s, and I beguiled that old giant, when I of Midvitnir’s son, that renowned one, was the sole slayer.",
+      "literal": "Svidurr and Svidrir as I named at Sokkmimir's, and hid [deceived] I that the old giant, when I of-Midvitnir was the famous son's become sole-slayer."
+    },
+    "sot_links": { "deities": ["deity_odin"], "figures": ["Sokkmimir", "Midvitnir"] }
+  },
+  {
+    "stanza_id": "grim_51",
+    "original": "Ölr ertu, Geirröðr, hefir þú ofmikið drukkið; miklu ertu hnugginn, er þú ert mínu gengi, öllum einherjum ok Óðins hylli.",
+    "translations": {
+      "bellows": "Drunk art thou, Geirroth, too much hast thou drunk; much hast thou lost, my help to lack, and the grace of Odin and the Einherjar all.",
+      "thorpe": "Drunk art thou, Geirröðr! thou hast too much drunken. Much art thou deprived of, being of my help bereft, of all the Einherjar’s and Odin’s favor.",
+      "literal": "Drunk are-you, Geirroth, have you over-much drunk; of-much are-you deprived, when you are [of] my help, all Einherjar and Odin's favor."
+    },
+    "sot_links": { "figures": ["Geirroth", "Einherjar"], "deities": ["deity_odin"] }
+  },
+  {
+    "stanza_id": "grim_52",
+    "original": "Fjölt ek þér sagða, en þú fátt of mant; tæla þig vinir þínir; eggmóðan sé ek nú míns vinar sverð liggja allt í dreyra.",
+    "translations": {
+      "bellows": "Much have I told thee, but little thou mindest; thy friends deceive thee; a sword all bloody I see now lying, that belongs to my friend.",
+      "thorpe": "Much I have told thee, but thou rememberest little. Thy friends deceive thee. I see my friend’s sword lying all bloody.",
+      "literal": "Much I to-you said, but you little of remember; deceive you friends your; edge-weary [bloody] see I now my friend's sword lie all in gore."
+    },
+    "sot_links": { "themes": ["Betrayal", "Impending Death"] }
+  },
+  {
+    "stanza_id": "grim_53",
+    "original": "Eggmóðan val nú mun Yggr hafa, þitt veit ek líf of liðið; úfar eru dísir, nú knáttu Óðin sjá, nálgast þú mik, ef þú megir.",
+    "translations": {
+      "bellows": "The sword-worn slain shall Ygg now have, thy life is at an end; the disir are wroth, and Odin thou seest, draw near me if thou canst.",
+      "thorpe": "The sword-fallen Yggr shall now have; thy life is run out. Wroth are the Dísir. Odin thou now shalt see: draw near to me, if thou canst.",
+      "literal": "Edge-weary slain now will Yggr [Odin] have, your know I life of passed; angry are disir, now may-you Odin see, approach you me, if you may."
+    },
+    "sot_links": { "deities": ["deity_odin"], "figures": ["Disir"], "themes": ["Execution"] }
+  },
+  {
+    "stanza_id": "grim_54",
+    "original": "Óðinn ek nú heiti, Yggr ek áðan hét, hétumk Þundr fyr þat, Vakr ok Skilfingr, Vafuðr ok Hroptatýr, Gautr ok Jálkr með goðum, Ófnir ok Sváfnir, er ek hygg, at sé orðnir allir at einum mér.",
+    "translations": {
+      "bellows": "Odin I now am, Ygg I was of late, Thund my name of old; Vak and Skilfing, Vafuth and Hroptatyr, Gaut and Jalk with the gods, Ofnir and Svafnir, and all, I ween, are names for me alone.",
+      "thorpe": "Odin I now am named, Yggr I was before; Thundr I was called, Vakr and Skilfingr, Vafuðr and Hroptatýr; Gautr and Jálkr among the gods, Ofnir and Svafnir, all which I believe to be but names of me alone.",
+      "literal": "Odin I now named-am, Yggr I before named-was, named-myself Thundr before that, Vakr and Skilfingr, Vafudr and Hroptatyr, Gautr and Jalkr among gods, Ofnir and Svafnir, which I think, that be become all at one me."
+    },
+    "sot_links": { "deities": ["deity_odin"], "themes": ["Names of Odin", "Divine Unity"] }
+  }
+]
