@@ -1,0 +1,518 @@
+[
+  {
+    "stanza_id": "vaf_01",
+    "original": "Ráð þú mér nú, Frigg, allz mik fregna lystir at vitja Vafþrúðnis; forvitni mikla kveð ek mér á fornum stöfum við þann inn alsvinna jötun.",
+    "translations": {
+      "bellows": "Counsel me, Frigg, for I long to fare to visit Vafthrudnir; great curiosity have I to commune with that all-wise giant in ancient lore.",
+      "thorpe": "Counsel me now, Frigg! as I long to go Vafthrudnir to visit; great desire I have, in ancient runes to converse with that all-wise giant.",
+      "literal": "Counsel you me now, Frigg, as me to-ask desires to visit Vafthrudnir; curiosity great say I for-myself on ancient staves [lore] with that the all-wise giant."
+    },
+    "sot_links": { "deities": ["deity_odin", "deity_frigg"], "figures": ["Vafthrudnir"], "themes": ["Counsel", "Wisdom-Seeking"] }
+  },
+  {
+    "stanza_id": "vaf_02",
+    "original": "Heima letja ek vilda Herjaföðr í görðum goða, því at engi jötun tel ek jafnsnjallan sem Vafþrúðni vera.",
+    "translations": {
+      "bellows": "At home would I hold the Father of Hosts in the dwellings of the gods, for no giant, I think, is as mighty as Vafthrudnir is.",
+      "thorpe": "At home to remain I would Hera-father counsel, in the gods' dwellings; for no giant I think as wise as Vafthrudnir.",
+      "literal": "At-home to-hinder I would-wish Army-father in courts of-gods, because that no giant count I equally-clever as Vafthrudnir to-be."
+    },
+    "sot_links": { "deities": ["deity_frigg", "deity_odin"] }
+  },
+  {
+    "stanza_id": "vaf_03",
+    "original": "Fjölð ek fór, fjölð ek freistaða, fjölð ek of reunda regin; hitt vil ek vita, hvé Vafþrúðnis salakynni sé.",
+    "translations": {
+      "bellows": "Much have I fared, much have I found, much have I the gods tested; this would I know, how Vafthrudnir's hall-home may be.",
+      "thorpe": "Much have I wandered, much have I tried, much have I experienced the powers; I would know how Vafthrudnir's dwelling is.",
+      "literal": "Much I went, much I tried, much I of tested powers; this will I know, how Vafthrudnir's hall-kind be."
+    },
+    "sot_links": { "themes": ["Travel", "The Test"] }
+  },
+  {
+    "stanza_id": "vaf_04",
+    "original": "Heill þú farir, heill þú aftr komir, heill þú á sinnum sér! geð þitt dugi, er þú skalt, Glapsviðr, við jötun mæli vega.",
+    "translations": {
+      "bellows": "Hale mayst thou fare, hale mayst thou return, hale on thy ways mayst thou be! may thy wit suffice when thou, Glapsvid, shalt weigh thy words with the giant.",
+      "thorpe": "In safety depart, in safety return, in safety be on thy way! may thy wit avail thee, when thou, Glapsvid! with the giant shalt converse.",
+      "literal": "Hale you go, hale you back come, hale you on journeys be! spirit your avail, when you shall, Glapsvidr, with giant words weigh."
+    },
+    "sot_links": { "deities": ["deity_odin"], "themes": ["Blessing"] }
+  },
+  {
+    "stanza_id": "vaf_05",
+    "original": "Fór þá Óðinn at freista orðspeki þess ins alsvinna jötuns; hann kom at höllu, er átti Íms faðir, gekk inn Yggr þegar.",
+    "translations": {
+      "bellows": "Then Odin went to test the wisdom of that all-wise giant; he came to the hall which Im's father owned; Ygg went in at once.",
+      "thorpe": "Odin then went to try the wisdom of that all-wise giant. He came to the hall which Im's father owned; Ygg entered straightway.",
+      "literal": "Went then Odin to try word-wisdom of-that the all-wise giant; he came to hall, which owned Im's father, went in Yggr at-once."
+    },
+    "sot_links": { "deities": ["deity_odin"], "figures": ["Imr", "Vafthrudnir"] }
+  },
+  {
+    "stanza_id": "vaf_06",
+    "original": "Heill þú nú, Vafþrúðnir! nú em ek í höll kominn, sjálfan þik at sjá; hitt vil ek fyrst vita, ef þú fróðr sér eða alsviðr, jötunn.",
+    "translations": {
+      "bellows": "Hail to thee, Vafthrudnir! now am I come to the hall, to see thee thyself; this first would I know, if thou art wise or all-knowing, giant.",
+      "thorpe": "Hail to thee, Vafthrudnir! I am now come to thy hall, thyself to see. This I first would know, whether thou art wise or all-knowing.",
+      "literal": "Hail you now, Vafthrudnir! now am I in hall come, self you to see; this will I first know, if you wise be or all-knowing, giant."
+    }
+  },
+  {
+    "stanza_id": "vaf_07",
+    "original": "Hvat er þat manna, er í mínom sal mæli deilir við mik? út þú né komir várom höllom ór, nema þú inn snotrari sér.",
+    "translations": {
+      "bellows": "What man is this who in my hall addresses me? Out thou shalt not come from our halls unless thou the wiser be.",
+      "thorpe": "What man is this, who in my hall addresses me? Out from our halls thou shalt not go, unless thou be the wiser.",
+      "literal": "What is that of-men, who in my hall speech shares with me? out you never come our halls from, unless you the wiser be."
+    },
+    "sot_links": { "themes": ["The Challenge", "Hospitality Protocol"] }
+  },
+  {
+    "stanza_id": "vaf_08",
+    "original": "Gagnráðr ek heiti, nú em ek af göngu kominn þyrstr til þinna sala, laðar þurfi - hefi ek lengi farið - ok þinna andfanga, jötunn.",
+    "translations": {
+      "bellows": "Gagnrath I am called, now am I come from my journey thirsty to thy halls, needing a welcome—long have I traveled—and thy hospitality, giant.",
+      "thorpe": "Gagnrath is my name, from my journey I am come thirsty to thy halls, needing a welcome—long have I wandered—and thy hospitality, giant.",
+      "literal": "Gagnrad I named-am, now am I from journey come thirsty to your halls, invitation's need - have I long traveled - and your reception, giant."
+    },
+    "sot_links": { "deities": ["deity_odin"] }
+  },
+  {
+    "stanza_id": "vaf_09",
+    "original": "Hví þú þá, Gagnráðr, mælisk af gólfi firi? sess þú á bekki bera! þá skal freista, hvárr fleira viti, gestr eða inn gamli þulr.",
+    "translations": {
+      "bellows": "Why then, Gagnrath, dost thou speak from the floor? Take thy seat on the bench; then shall we try who knows more, the guest or the ancient sage.",
+      "thorpe": "Why then, Gagnrath! speakest thou from the floor? Take thy seat on the bench. Then shall it be seen which knows the more, the guest or the old talker.",
+      "literal": "Why you then, Gagnrad, speak from floor before? seat you on bench bear! then shall [we] try, which more knows, guest or the old sage."
+    }
+  },
+  {
+    "stanza_id": "vaf_10",
+    "original": "Ósnotr maðr, er til auðigs kemr, mæli þarft eða þegi; ofrmægi mikit kveð ek lúsum verða, þeim er við kaldrifjaðan kemr.",
+    "translations": {
+      "bellows": "A poor man who comes to a rich man's house should speak what is needful or be silent; too much talk, I think, works ill for him who comes to the cold-ribbed one.",
+      "thorpe": "A poor man who comes to a rich man's, let him speak what is needful or be silent; too much talking, I think, works no good to him who with a cold-ribbed [giant] comes.",
+      "literal": "Un-wise man, when to rich-one comes, speaks needful or is-silent; over-talk great say I to-base-one becomes, to-him who with cold-ribbed-one comes."
+    },
+    "sot_links": { "themes": ["Caution", "Wisdom"] }
+  },
+  {
+    "stanza_id": "vaf_11",
+    "original": "Segðu mér, Gagnráðr, allz þú á gólfi vilt þíns of freista frama, hvé sá hestr heitir, er hverjan dregr dag of dolgþjóðir.",
+    "translations": {
+      "bellows": "Tell me, Gagnrath, since on the floor thou wilt try thy luck, what the horse is called who draws every day over the tribes of men.",
+      "thorpe": "Tell me, Gagnrath! since on the floor thou wilt try thy luck, how the horse is named, that every day draws over the human race.",
+      "literal": "Say me, Gagnrad, as you on floor will your of try fame, how that horse named-is, who each draws day over battle-people [men]."
+    },
+    "sot_links": { "themes": ["The First Question"] }
+  },
+  {
+    "stanza_id": "vaf_12",
+    "original": "Skinfaxi heitir, er inn skíra dregr dag of dolgþjóðir; hrossa beztr þykkir hann með Hreiðgotum, ey lýsir mön af því hrossi.",
+    "translations": {
+      "bellows": "Skinfaxi heitir, he who draws the bright day over the tribes of men; the best of horses he is thought by the Hreidgoths; always light comes from that horse's mane.",
+      "thorpe": "Skinfaxi he is named, who draws the bright day over the human race; best of horses he is thought by the Hreid-goths; ever from that horse's mane light beams.",
+      "literal": "Skinfaxi named-is, who the bright draws day over battle-people; of-horses best seems he with Hreidgoths, ever lights mane from that horse."
+    },
+    "sot_links": { "beasts": ["beast_skinfaxi"], "themes": ["Celestial Hardware"] }
+  },
+  {
+    "stanza_id": "vaf_13",
+    "original": "Segðu mér þat, Gagnráðr, allz þú á gólfi vilt þíns of freista frama, hvé sá hestr heitir, er austan dregr nótt of nýzt regin.",
+    "translations": {
+      "bellows": "Tell me, Gagnrath, since on the floor thou wilt try thy luck, what the horse is called who from the east draws night over the noble gods.",
+      "thorpe": "Tell me, Gagnrath! since on the floor thou wilt try thy luck, how the horse is named, that from the east draws night over the blessed powers.",
+      "literal": "Say me that, Gagnrad, as you on floor will your of try fame, how that horse named-is, who from-east draws night over useful powers [gods]."
+    }
+  },
+  {
+    "stanza_id": "vaf_14",
+    "original": "Hrímfaxi heitir, er hverja dregr nótt of nýzt regin; méldropar falla af hann hverjan morgun, þaðan kemr dögg í dala.",
+    "translations": {
+      "bellows": "Hrimfaxi heitir, he who draws every night over the noble gods; foam from his bit falls every morning, and thence comes the dew in the dales.",
+      "thorpe": "Hrimfaxi he is named, that draws every night over the blessed powers; from his bit foam drops every morning, whence in the dales comes dew.",
+      "literal": "Hrimfaxi named-is, who each draws night over useful powers; bit-drops fall from him each morning, thence comes dew in dales."
+    },
+    "sot_links": { "beasts": ["beast_hrimfaxi"], "themes": ["Celestial Hardware"] }
+  },
+  {
+    "stanza_id": "vaf_15",
+    "original": "Segðu mér þat, Gagnráðr, allz þú á gólfi vilt þíns of freista frama, hvé sú á heitir, er deilir með jötna sonum grund ok með goðum.",
+    "translations": {
+      "bellows": "Tell me, Gagnrath, since on the floor thou wilt try thy luck, what the river is called which divides the earth between the sons of giants and the gods.",
+      "thorpe": "Tell me, Gagnrath! since on the floor thou wilt try thy luck, how the river is named, which divides the earth between the giants' sons and gods.",
+      "literal": "Say me that, Gagnrad, as you on floor will your of try fame, how that river named-is, who divides between giants' sons ground and between gods."
+    }
+  },
+  {
+    "stanza_id": "vaf_16",
+    "original": "Ífing heitir á, er deilir með jötna sonum grund ok með goðum; opin renna hún skal of aldrdaga, verðrat íss á á.",
+    "translations": {
+      "bellows": "Ifing is the river which divides the earth between the sons of giants and the gods; open shall it flow through all time, and ice shall never be on the river.",
+      "thorpe": "Ifing the river is named, which divides the earth between the giants' sons and gods; open it shall flow through all time; ice comes not on the river.",
+      "literal": "Ifing named-is river, who divides between giants' sons ground and between gods; open run it shall through age-days, becomes-not ice on river."
+    },
+    "sot_links": { "locations": ["Ifing"], "themes": ["Cosmography"] }
+  },
+  {
+    "stanza_id": "vaf_17",
+    "original": "Segðu mér þat, Gagnráðr, allz þú á gólfi vilt þíns of freista frama, hvé sá völlr heitir, er finnast í vígi at Surtur ok in svinnu regin.",
+    "translations": {
+      "bellows": "Tell me, Gagnrath, since on the floor thou wilt try thy luck, what the field is called where Surt and the noble gods shall meet in battle.",
+      "thorpe": "Tell me, Gagnrath! since on the floor thou wilt try thy luck, how the plain is named, where in fight shall meet Surt and the gentle gods.",
+      "literal": "Say me that, Gagnrad, as you on floor will your of try fame, how that field named-is, where find-themselves in battle Surtr and the wise powers."
+    }
+  },
+  {
+    "stanza_id": "vaf_18",
+    "original": "Vigríðr heitir völlr, er finnast í vígi at Surtur ok in svinnu regin; hundrað rasta hann er á hverjan veg, sá er þeim völlr vitaðr.",
+    "translations": {
+      "bellows": "Vigrid is the field where Surt and the noble gods shall meet in battle; a hundred miles it is every way, the field that is marked for them.",
+      "thorpe": "Vigrid the plain is named, where in fight shall meet Surt and the gentle gods; a hundred rasts it is every way. That plain is for them decreed.",
+      "literal": "Vigrid named-is field, where find-themselves in battle Surtr and the wise powers; hundred of-miles it is on each way, that is to-them field decreed."
+    },
+    "sot_links": { "locations": ["Vigrid"], "figures": ["Surtr"], "themes": ["Ragnarok"] }
+  },
+  {
+    "stanza_id": "vaf_19",
+    "original": "Fróðr ertu nú, gestr, gakk þú á bekk jötuns, ok mælumsk í sessi saman; höfði veðja við skulum höllu í, gestr, of geðspeki.",
+    "translations": {
+      "bellows": "Wise art thou, guest! come to the giant's bench, and let us sit and speak together; for our heads shall we wager in the hall, guest, on our wisdom.",
+      "thorpe": "Wise art thou now, guest! Come to the giant's bench, and let us sit and speak together; our heads we will wager in the hall, guest, on our wisdom.",
+      "literal": "Wise are-you now, guest, go you on bench of-giant, and speak-together in seat together; head wager we shall hall in, guest, over spirit-wisdom."
+    },
+    "sot_links": { "themes": ["The Wager"] }
+  },
+  {
+    "stanza_id": "vaf_20",
+    "original": "Segðu þat it eina, ef þitt æðri dugir ok þú, Vafþrúðnir, vitir: hvaðan jörð of kom eða upphiminn fyrst, inn fróði jötunn?",
+    "translations": {
+      "bellows": "Tell me first, if thy wit suffices and thou, Vafthrudnir, knowest, whence came the earth or the sky above first, thou wise giant?",
+      "thorpe": "Tell me first, if thy wit avails, and thou, Vafthrudnir! knowest: whence the earth came, or the sky above, at first, thou wise giant?",
+      "literal": "Say that the one [first], if your wit avails and you, Vafthrudnir, know: whence earth of came or up-heaven first, the wise giant?"
+    },
+    "sot_links": { "themes": ["Odin's Questions", "Cosmogeny"] }
+  },
+  {
+    "stanza_id": "vaf_21",
+    "original": "Ór Ymis holdi var jörð of sköpuð, en ór beinum björg, himinn ór hausi ins hrímkalda jötuns, en ór sveita sær.",
+    "translations": {
+      "bellows": "Out of Ymir's flesh was fashioned the earth, and the mountains were made of his bones; the sky from the frost-cold giant's skull, and the ocean out of his blood.",
+      "thorpe": "From Ymir’s flesh the earth was formed, and from his bones the hills, the heaven from the skull of that ice-cold giant, and from his blood the sea.",
+      "literal": "From Ymir's flesh was earth of shaped, but from bones mountains, heaven from skull of-the frost-cold giant, but from sweat [blood] sea."
+    },
+    "sot_links": { "figures": ["Ymir"], "themes": ["Cosmogony", "Creation from Ymir"] }
+  },
+  {
+    "stanza_id": "vaf_22",
+    "original": "Segðu þat it annat, alls þik svinnan kveða ok þú, Vafþrúðnir, vitir: hvaðan máni of kom, svá at ferr menn yfir, eða sól it sama?",
+    "translations": {
+      "bellows": "Second answer me well, if thy wisdom avails and thou, Vafthrudnir, knowest: whence the moon came, that fares over men, or the sun likewise?",
+      "thorpe": "Tell me secondly, if thy wit avails, and thou, Vafthrudnir! knowest: whence the moon came, which over mankind passes, and the sun likewise?",
+      "literal": "Say that the second, as you wise call and you, Vafthrudnir, know: whence moon of came, so that goes men over, or sun the same?"
+    },
+    "sot_links": { "themes": ["Celestial Origins"] }
+  },
+  {
+    "stanza_id": "vaf_23",
+    "original": "Mundilfari heitir, hann er mána faðir, ok svá sólar it sama; þau skulu himin hverfask á hverjan dag, öldum at ártali.",
+    "translations": {
+      "bellows": "Mundilferi is he who begat the moon, and fathered the flaming sun; the round of heaven each day they run, to tell the time for men.",
+      "thorpe": "Mundilfari is he named, who is the moon’s father, and the sun’s likewise; through heaven they shall journey every day, to tell the time for men.",
+      "literal": "Mundilfari named-is, he is moon's father, and so sun's the same; they shall heaven turn on each day, to-men to year-count."
+    },
+    "sot_links": { "figures": ["Mundilfari"], "themes": ["Time-Keeping"] }
+  },
+  {
+    "stanza_id": "vaf_24",
+    "original": "Segðu þat it þriðja, alls þik fróðan kveða, ok þú, Vafþrúðnir, vitir: hvaðan dagr of kom, er ferr drótt yfir, eða nótt með nýjum?",
+    "translations": {
+      "bellows": "Third answer me well, if wise thou art called, and thou, Vafthrudnir, knowest: whence came the day, o'er mankind that fares, or night with the narrowing moon?",
+      "thorpe": "Tell me thirdly, since thou art called wise, if thou, Vafthrudnir! knowest: whence the day came, which over people passes, or night with the waning moon?",
+      "literal": "Say that the third, as you wise call, and you, Vafthrudnir, know: whence day of came, which goes folk over, or night with new-moons?"
+    }
+  },
+  {
+    "stanza_id": "vaf_25",
+    "original": "Dellingr heitir, hann er dags faðir, en nótt var Nörvi borin; ný ok nið sköpuðu nýt regin öldum at ártali.",
+    "translations": {
+      "bellows": "The father of day is Delling called, and the night was begotten by Nor; full moon and old by the gods were fashioned, to tell the time for men.",
+      "thorpe": "Delling is he named, who is the day’s father, but night was of Norvi born; new and waning moons the beneficent powers created, to tell the time for men.",
+      "literal": "Dellingr named-is, he is day's father, but night was of-Norvi born; new and waning-moon shaped useful powers [gods] to-men to year-count."
+    },
+    "sot_links": { "figures": ["Dellingr", "Norvi"] }
+  },
+  {
+    "stanza_id": "vaf_26",
+    "original": "Segðu þat it fjórða, alls þik fróðan kveða, ok þú, Vafþrúðnir, vitir: hvaðan vetr of kom eða sumar varmt fyrst með vísregin?",
+    "translations": {
+      "bellows": "Fourth answer me well, if wise thou art called, and thou, Vafthrudnir, knowest: whence did winter come, or the summer warm, first with the gracious gods?",
+      "thorpe": "Tell me fourthly, since thou art called wise, if thou, Vafthrudnir! knowest: whence winter came, or the warm summer, first among the wise powers?",
+      "literal": "Say that the fourth, as you wise call, and you, Vafthrudnir, know: whence winter of came or summer warm first with wise-powers?"
+    }
+  },
+  {
+    "stanza_id": "vaf_27",
+    "original": "Vindsvalr heitir, hann er vetrar faðir, en Svásuðr sumars; (báðir þessir skulu of aldr hafa, unz rjúfask regin.)",
+    "translations": {
+      "bellows": "Vindsval he is named, the father of winter, and Svasuth the summer's sire; (both of these shall through all time be, until the gods shall go.)",
+      "thorpe": "Vindsval is he named, who is the winter’s father, and Svasud the summer’s; (each of these shall for ever be, until the powers perish.)",
+      "literal": "Vindsvalr named-is, he is winter's father, but Svasudr summer's; (both these shall through age have, until break-apart powers.)"
+    },
+    "sot_links": { "figures": ["Vindsvalr", "Svasudr"], "themes": ["Seasonal Origins"] }
+  },
+  {
+    "stanza_id": "vaf_28",
+    "original": "Segðu þat it fimmta, alls þik fróðan kveða, ok þú, Vafþrúðnir, vitir: hverr Ása eða jötna sona yrði í árdaga elztr?",
+    "translations": {
+      "bellows": "Fifth answer me well, if wise thou art called, and thou, Vafthrudnir, knowest: what giant first was fashioned of old, and the eldest of Ymir's kin?",
+      "thorpe": "Tell me fifthly, since thou art called wise, if thou, Vafthrudnir! knowest: who of the Aesir, or of Ymir’s sons, was oldest in the beginning of days?",
+      "literal": "Say that the fifth, as you wise call, and you, Vafthrudnir, know: who of-Aesir or giants' sons became in early-days oldest?"
+    }
+  },
+  {
+    "stanza_id": "vaf_29",
+    "original": "Örfiri vetra, áðr væri jörð of sköpuð, þá var Aurgelmir borinn; Þrúðgelmir var þess faðir, en Bergelmir var hans sonr.",
+    "translations": {
+      "bellows": "Uncounted winters ere earth was fashioned was Aurgelmir born of old; Thrudgelmir's son was he, and his sire was Bergelmir.",
+      "thorpe": "Winters unnumbered before the earth was formed, was Aurgelmir born; Thrudgelmir was his father, and Bergelmir his son.",
+      "literal": "Out-of-count winters, before were earth of shaped, then was Aurgelmir born; Thrudgelmir was of-that father, but Bergelmir was his son."
+    },
+    "sot_links": { "figures": ["Aurgelmir", "Thrudgelmir", "Bergelmir"], "themes": ["Giant Lineage"] }
+  },
+  {
+    "stanza_id": "vaf_30",
+    "original": "Segðu þat it sétta, alls þik svinnan kveða ok þú, Vafþrúðnir, vitir: hvaðan Aurgelmir kom með jötna sonum fyrst, inn fróði jötunn?",
+    "translations": {
+      "bellows": "Sixth answer me well, if thy wisdom avails and thou, Vafthrudnir, knowest: whence Aurgelmir came with the giants' sons first, thou wise giant?",
+      "thorpe": "Tell me sixthly, since thou art called wise, if thou, Vafthrudnir! knowest: whence Aurgelmir came, with the giants’ sons, at first, thou wise giant?",
+      "literal": "Say that the sixth, as you wise call and you, Vafthrudnir, know: whence Aurgelmir came with giants' sons first, the wise giant?"
+    }
+  },
+  {
+    "stanza_id": "vaf_31",
+    "original": "Ór Élivágum stukku eitrdropar, svá óx, unz varð ór jötunn; þar eru órar ættir komnar allar saman, því er þat æ allt til amat.",
+    "translations": {
+      "bellows": "Down from Elivagar did venom-drops drag, and grew till a giant was gone; then our race and kin all came from him, and so it is fierce for us all.",
+      "thorpe": "From Elivagar exuded venom-drops, which grew until they became a giant; from him our race are all sprung; therefore is it for ever fierce.",
+      "literal": "From Elivagar sprang poison-drops, so grew, until became from-it giant; there are our lineages come all together, because is that ever all to [us] terrible."
+    },
+    "sot_links": { "locations": ["Elivagar"], "themes": ["Venomous Origins"] }
+  },
+  {
+    "stanza_id": "vaf_32",
+    "original": "Segðu þat it sjöunda, alls þik svinnan kveða ok þú, Vafþrúðnir, vitir: hvé börn gat sá inn baldi jötunn, er hann átti-at gýgjar gaman?",
+    "translations": {
+      "bellows": "Seventh answer me well, if wise thou art called, and thou, Vafthrudnir, knowest: how begat he children, the giant grim, who never a giantess knew?",
+      "thorpe": "Tell me seventhly, since thou art called wise, if thou, Vafthrudnir! knowest: how that bold giant begat children, without a giantess’s company?",
+      "literal": "Say that the seventh, as you wise call and you, Vafthrudnir, know: how children got that the bold giant, when he had-not giantess's pleasure?"
+    }
+  },
+  {
+    "stanza_id": "vaf_33",
+    "original": "Undir hendi óxu kveða hrímþursi mey ok mög saman; fótr við fæti gat ins fróða jötuns sexhöfðaðan son.",
+    "translations": {
+      "bellows": "They say 'neath the arms of the frost-giant grew a maid and a youth together; foot with foot did the wise giant fashion a six-headed son.",
+      "thorpe": "Under the armpit grew, ‘tis said, of the Hrimthurs, a girl and boy together; foot with foot begat of that wise giant a six-headed son.",
+      "literal": "Under hand [armpit] grew say rime-giant maid and youth together; foot with foot got the wise giant six-headed son."
+    },
+    "sot_links": { "themes": ["Asexual Reproduction"] }
+  },
+  {
+    "stanza_id": "vaf_34",
+    "original": "Segðu þat it átta, alls þik svinnan kveða ok þú, Vafþrúðnir, vitir: hvat þú fyrst mant eða fremst of veizt, þú ert alsviðr jötunn.",
+    "translations": {
+      "bellows": "Eighth answer me well, if thy wisdom avails and thou, Vafthrudnir, knowest: what first thou rememberest or foremost knowest, thou all-wise giant.",
+      "thorpe": "Tell me eighthly, since thou art called wise, if thou, Vafthrudnir! knowest: what thou first rememberest, or earliest knowest? Thou art an all-wise giant.",
+      "literal": "Say that the eighth, as you wise call and you, Vafthrudnir, know: what you first remember or foremost of know, you are all-wise giant."
+    }
+  },
+  {
+    "stanza_id": "vaf_35",
+    "original": "Örfiri vetra, áðr væri jörð of sköpuð, þá var Bergelmir borinn; þat ek fyrst of mant, er sá inn fróði jötunn á lúðr of lagiðr.",
+    "translations": {
+      "bellows": "Uncounted winters ere earth was fashioned was Bergelmir born of old; the first that I know is when this giant wise on a boat-rack was laid of old.",
+      "thorpe": "Winters unnumbered before the earth was formed, was Bergelmir born. That I first remember, when that wise giant on a lúðr [coffin/mill-box] was laid.",
+      "literal": "Out-of-count winters, before were earth of shaped, then was Bergelmir born; that I first of remember, when that the wise giant on mill-box [lúðr] of laid."
+    },
+    "sot_links": { "figures": ["Bergelmir"], "themes": ["The Flood Survival"] }
+  },
+  {
+    "stanza_id": "vaf_36",
+    "original": "Seg þú þat it níunda, alls þik svinnan kveða ok þú, Vafþrúðnir, vitir: hvaðan vindr of kemr, svá at ferr vág yfir; æ menn hann sjalfan of sjá.",
+    "translations": {
+      "bellows": "Ninth answer me well, if wise thou art called, if thou knowest it, Vafthrudnir, now: whence comes the wind that fares o'er the waves, yet never itself is seen?",
+      "thorpe": "Tell me ninthly, since thou art called wise, if thou, Vafthrudnir! knowest: whence the wind comes, which moves over the ocean; its self no one sees.",
+      "literal": "Say you that the ninth, as you wise call and you, Vafthrudnir, know: whence wind of comes, so that goes wave over; never men him self of see."
+    }
+  },
+  {
+    "stanza_id": "vaf_37",
+    "original": "Hræsvelgr heitir, er sitr á himins enda, jötunn í arnar ham; af hans vængjum kvæða vind koma alla menn yfir.",
+    "translations": {
+      "bellows": "In an eagle's guise at the end of heaven Hræsvelg sits, they say; and from his wings does the wind come forth to move o'er the world of men.",
+      "thorpe": "Hraesvelg is he named, who at the end of heaven sits, a giant in an eagle’s plumage: from his wings the wind is said to come over all mankind.",
+      "literal": "Hraesvelgr named-is, who sits on heaven's end, giant in eagle's hide; from his wings say [they] wind come all men over."
+    },
+    "sot_links": { "figures": ["Hraesvelgr"], "themes": ["Meteorology"] }
+  },
+  {
+    "stanza_id": "vaf_38",
+    "original": "Seg þú þat it tíunda, alls þú tívor öll vísir, Vafþrúðnir, vitir: hvaðan Njörðr of kom með Ása sonum - auðum ok véum hann ræðr mörgum - ok varð-at hann Ásum borinn.",
+    "translations": {
+      "bellows": "Tenth answer me well, if thou knowest the gods, and thou, Vafthrudnir, knowest: whence Njord came forth to the sons of the gods—rich in temples and shrines he rules—though of gods he was never born.",
+      "thorpe": "Tell me tenthly, since thou knowest all the origin of the gods, whence Njord came among the Aesir’s sons—he rules over many fanes and idols—and was not among the Aesir born.",
+      "literal": "Say you that the tenth, as you gods all know, Vafthrudnir, know: whence Njord of came with Aesir's sons - wealth and shrines he rules many - and was-not he to-Aesir born."
+    },
+    "sot_links": { "deities": ["deity_njord"], "themes": ["Hostage Exchange"] }
+  },
+  {
+    "stanza_id": "vaf_39",
+    "original": "Í Vanaheimi sköpuðu hann vís regin ok seldu at gíslingu goðum; í aldar rök hann mun aftr koma heim með vísum Vönum.",
+    "translations": {
+      "bellows": "In Vanaheim wise powers fashioned him, and to the gods as a hostage gave; at the end of the world shall he come back home to the Vanir wise and well.",
+      "thorpe": "In Vanaheim the wise powers created him, and to the gods gave him as a hostage. At the doom of the world he will return to the wise Vanir.",
+      "literal": "In Vanaheimr shaped him wise powers and sold [gave] as hostage to-gods; in men's fate [Ragnarok] he will back come home with wise Vanir."
+    },
+    "sot_links": { "locations": ["Vanaheimr"], "deities": ["deity_njord"] }
+  },
+  {
+    "stanza_id": "vaf_40",
+    "original": "Seg þú þat it ellifta, hvar ýtar túnum í höggvask á hverjan dag; val þeir kjósa ok ríða vígi frá, sitja of sáttir saman.",
+    "translations": {
+      "bellows": "Eleventh answer me well, what men in the courtyard mightily battle each day? They fell each other, and fare from the fight all healed full soon to sit.",
+      "thorpe": "Tell me eleventhly, what men in the home daily contend? They choose the slain, and from the battle ride; then sit in peace together.",
+      "literal": "Say you that the eleventh, where men courts in hew-each-other on each day; slain they choose and ride battle from, sit of settled together."
+    },
+    "sot_links": { "figures": ["Einherjar"], "themes": ["Valhalla Protocols"] }
+  },
+  {
+    "stanza_id": "vaf_41",
+    "original": "Seg þú þat it tólfta, hví þú, Vafþrúðnir, vitir reginrök öll ok rúnar jötna? því at þú alsviðr kveðsk of rök goða, inn fróði jötunn.",
+    "translations": {
+      "bellows": "Twelfth answer me well, if all thou knowest that a giant may know of the gods; what runes of the gods and giants' race dost thou tell most truly, thou all-wise giant?",
+      "thorpe": "Tell me twelfthly, why thou, Vafthrudnir! knowest all the powers' fate, and the giants' runes; since thou all-knowing art called of the gods' doom, thou all-wise giant?",
+      "literal": "Say you that the twelfth, why you, Vafthrudnir, know powers'-fate [Ragnarok] all and runes of-giants? because that you all-wise say-of-yourself over fate of-gods, the wise giant."
+    },
+    "sot_links": { "themes": ["Ragnarok", "Hidden Knowledge"] }
+  },
+  {
+    "stanza_id": "vaf_42",
+    "original": "Frá jötna rúnum ok allra goða ek kann segja satt, því at hvern hefi ek heim of komit; níu kom ek heima fyr niflhel neðan, þannig deyja ór helju halir.",
+    "translations": {
+      "bellows": "Of the runes of the giants and of all the gods the truth can I truly tell, for to every world have I won my way; to nine worlds came I, to Niflhel beneath, whither die the dead from Hel.",
+      "thorpe": "Of the giants' runes and of all the gods', I can truly tell; for I have every world o'er-wandered. Nine worlds I have traveled through, to Niflhel below, where dead men from Hel descend.",
+      "literal": "From giants' runes and all gods' I can say true, because that each have I world of come; nine came I worlds to Niflhel beneath, thither die from Hel men."
+    },
+    "sot_links": { "locations": ["Niflhel", "Nine Worlds"], "themes": ["Death", "Cosmography"] }
+  },
+  {
+    "stanza_id": "vaf_43",
+    "original": "Fjölð ek fór, fjölð ek freistaða, fjölð ek of reunda regin; hvaðan sól kemr á þann inn slétta himin, er Fenrir hefir farið?",
+    "translations": {
+      "bellows": "Much have I fared, much have I found, much have I the gods tested; whence comes the sun to the smooth sky back, when Fenrir has swallowed this one?",
+      "thorpe": "Much have I wandered, much have I tried, much have I experienced the powers. Whence will come the sun in that smooth heaven, when Fenrir has this one devoured?",
+      "literal": "Much I went, much I tried, much I of tested powers; whence sun comes on that the smooth heaven, when Fenrir has [this one] consumed?"
+    },
+    "sot_links": { "beasts": ["beast_fenrir"], "themes": ["Solar Fate"] }
+  },
+  {
+    "stanza_id": "vaf_44",
+    "original": "Eina dóttur berr Alfröðull, áðr hana Fenrir fari; sú skal ríða, þá er regin deyja, móður brautir mær.",
+    "translations": {
+      "bellows": "A daughter bright shall Alfrothul bear ere the wolf has wrought her doom; the maid shall ride her mother's road when the gods to their death have gone.",
+      "thorpe": "A daughter shall Alfroðull bear, before Fenrir shall have devoured her; she shall ride, when the powers perish, on her mother’s course, the maid.",
+      "literal": "One daughter bears Alfröðull [the Sun], before her Fenrir consumes; she shall ride, when the powers die, mother's paths, the maid."
+    },
+    "sot_links": { "beasts": ["beast_fenrir"], "themes": ["Renewal"] }
+  },
+  {
+    "stanza_id": "vaf_45",
+    "original": "Fjölð ek fór, fjölð ek freistaða, fjölð ek of reunda regin; hverir lifa manna, þá er inn mæra líðr fimbulvetr með firum?",
+    "translations": {
+      "bellows": "Much have I fared, much have I found, much have I the gods tested; what mortals shall live when the long winter comes, and the mighty famine for men?",
+      "thorpe": "Much have I wandered, much have I tried, much have I experienced the powers. Which of mankind shall live, when the famous Fimbul-winter shall have passed away?",
+      "literal": "Much I went, much I tried, much I of tested powers; which live of-men, when the famous passes Fimbul-winter among men?"
+    },
+    "sot_links": { "themes": ["Fimbulwinter", "Survival"] }
+  },
+  {
+    "stanza_id": "vaf_46",
+    "original": "Líf ok Lífþrasir, en þau leynask munu í holti Hoddmímis; morgindöggvar þau sér at mat hafa, þaðan af aldir alask.",
+    "translations": {
+      "bellows": "Lif and Lifthrasir then shall hide in the heart of Hoddmimir's wood; the morning dews for their food they have, and thence are the promised races.",
+      "thorpe": "Lif and Lifthrasir; these shall hide themselves in Hoddmimir’s holt; for food they shall have the morning dews; from them shall mankind again spring.",
+      "literal": "Lif and Lifthrasir, but they hide shall in wood of-Hoddmimir; morning-dews they for-themselves to food have, thence from men [lineages] are-born."
+    },
+    "sot_links": { "figures": ["Lif", "Lifthrasir"], "locations": ["Hoddmimisholt"], "themes": ["Repopulation"] }
+  },
+  {
+    "stanza_id": "vaf_47",
+    "original": "Fjölð ek fór, fjölð ek freistaða, fjölð ek of reunda regin; hvaðan koma in svinnu fimm meyjar yfir mörkina?",
+    "translations": {
+      "bellows": "Much have I fared, much have I found, much have I the gods tested; whence come the maidens, wise of mind, who over the ocean fare?",
+      "thorpe": "Much have I wandered, much have I tried, much have I experienced the powers. Whence will come the wise maidens, who over the ocean move?",
+      "literal": "Much I went, much I tried, much I of tested powers; whence come the wise five maidens over the sea?"
+    }
+  },
+  {
+    "stanza_id": "vaf_48",
+    "original": "Víðarr ok Váli byggja vé goða, þá er sloknar Surfar logi; Móði ok Magni skulu Mjöllni hafa ok vinna at vígþroti.",
+    "translations": {
+      "bellows": "Vidar and Vali the gods' city shall hold when the fire of Surt is slack; Modi and Magni shall Mjollnir have when Thor at the battle has fallen.",
+      "thorpe": "Vidar and Vali shall inhabit the city of the gods, when Surt’s fire is quenched. Modi and Magni shall Mjöllnir possess, and strife put an end to.",
+      "literal": "Vidar and Vali inhabit dwellings of-gods, when slaked-is Surtr's flame; Modi and Magni shall Mjollnir have and work at battle-end."
+    },
+    "sot_links": { "deities": ["deity_vidar", "deity_vali", "deity_modi", "deity_magni", "deity_thor"], "artifacts": ["artifact_mjollnir"], "figures": ["Surtr"], "themes": ["New World Order"] }
+  },
+  {
+    "stanza_id": "vaf_49",
+    "original": "Fjölð ek fór, fjölð ek freistaða, fjölð ek of reunda regin; hvat verðr Óðni at aldrlagi, þá er rjúfask regin?",
+    "translations": {
+      "bellows": "Much have I fared, much have I found, much have I the gods tested; what becomes of Odin, the end of his life, when the gods to their death have gone?",
+      "thorpe": "Much have I wandered, much have I tried, much have I experienced the powers. What will be the end of Odin’s life, when the powers perish?",
+      "literal": "Much I went, much I tried, much I of tested powers; what becomes to-Odin at life-end, when break-apart powers?"
+    },
+    "sot_links": { "deities": ["deity_odin"] }
+  },
+  {
+    "stanza_id": "vaf_50",
+    "original": "Úlfr gleypa mun Alföðr, þess mun Víðarr vreka; kalda kjafta hann klyfja mun vitnis vígi at.",
+    "translations": {
+      "bellows": "The wolf shall swallow the Father of All, but Vidar shall avenge his sire; the terrible jaws of the beast shall he tear, in the day of the gods' doom.",
+      "thorpe": "The wolf will the All-father devour; him Vidar will avenge: he will split the cold jaws of the beast in the fight.",
+      "literal": "Wolf swallow will All-father, of-this will Vidar avenge; cold jaws he split will of-wolf in battle at."
+    },
+    "sot_links": { "beasts": ["beast_fenrir"], "deities": ["deity_odin", "deity_vidar"], "themes": ["Vengeance"] }
+  },
+  {
+    "stanza_id": "vaf_51",
+    "original": "Fjölð ek fór, fjölð ek freistaða, fjölð ek of reunda regin; hvat mælti Óðinn, áðr á bál stigi, sjálfr í eyra syni?",
+    "translations": {
+      "bellows": "Much have I fared, much have I found, much have I the gods tested; what spake Odin himself in the ear of his son, ere he was laid on the bale?",
+      "thorpe": "Much have I wandered, much have I tried, much have I experienced the powers. What said Odin in his son’s ear, before he on the pile was laid?",
+      "literal": "Much I went, much I tried, much I of tested powers; what spoke Odin, before on fire-pile [he] stepped, self in ear to-son?"
+    },
+    "sot_links": { "deities": ["deity_odin", "deity_baldr"], "themes": ["The Final Riddle"] }
+  },
+  {
+    "stanza_id": "vaf_52",
+    "original": "Ey manni þat veit, hvat þú í árdaga sagðir í eyra syni; feigum munni mælta ek mína forna stafi ok of ragnarök.",
+    "translations": {
+      "bellows": "No man can know what thou of old didst say in the ear of thy son; with a fey mouth my ancient lore have I told, and the fate of the gods.",
+      "thorpe": "No one knows what thou in days of old saidst in thy son’s ear. With a fey mouth I have my ancient lore uttered, and the gods' destruction.",
+      "literal": "No man that knows, what you in early-days said in ear to-son; with-fey mouth spoke I my ancient staves and of gods-fate [Ragnarok]."
+    }
+  },
+  {
+    "stanza_id": "vaf_53",
+    "original": "Nú ek við Óðin deilda ek mína orðspeki; þú ert æ vísastr vera.",
+    "translations": {
+      "bellows": "Now with Odin have I shared my wisdom; thou art ever the wisest of all.",
+      "thorpe": "I have now with Odin shared my wisdom: thou art ever the wisest of all.",
+      "literal": "Now I with Odin shared my word-wisdom; you are ever wisest of beings."
+    },
+    "sot_links": { "deities": ["deity_odin"], "themes": ["Submission", "Odin's Victory"] }
+  }
+]
