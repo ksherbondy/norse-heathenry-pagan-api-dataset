@@ -1,0 +1,387 @@
+[
+  {
+    "rune_id": "fe_younger",
+    "system": "Younger Futhark",
+    "era": "Viking Age (9th–11th C)",
+    "character": "ᚠ",
+    "name": "Fé",
+    "phonetic": "FAY",
+    "literal_translation": "Wealth",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Fé er frænda róg ok flæðar viti ok grafseiðs gata.",
+        "translation": "Wealth is source of discord among kin and fire of the sea and path of the serpent."
+      },
+      "old_norwegian": {
+        "original": "Fé vældr frænda róge; føðesk ulfr í skóge.",
+        "translation": "Wealth causes friction among kinsmen; the wolf thrives in the woods."
+      }
+    },
+    "practical_application": "Managing mobile capital, navigating social friction, and communal protection.",
+    "ceremony_roadmap": [
+      { "step": "Carving", "action": "Carve ᚠ into stone or wood while naming the debt or resource." },
+      { "step": "Naming", "action": "Speak the Norwegian stanza to recognize the 'wolf' (risk) in hoarding." }
+    ],
+    "source_reference": "Various Viking Age Runestones (e.g., Jelling Stones)"
+  },
+  {
+    "rune_id": "ur_younger",
+    "system": "Younger Futhark",
+    "era": "Viking Age (9th–11th C)",
+    "character": "ᚢ",
+    "name": "Úr",
+    "phonetic": "OOR",
+    "literal_translation": "Dross / Slag / Rain",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Úr er skýja grátr ok skára þverrir ok hirðis hatr.",
+        "translation": "Rain is lamentation of the clouds and destroyer of the hay-harvest."
+      },
+      "old_norwegian": {
+        "original": "Úr er af illu jarne; opt løypr ræinn á hjarne.",
+        "translation": "Dross comes from bad iron; the reindeer often races over the frozen snow."
+      }
+    },
+    "practical_application": "Endurance through purification and hard trials.",
+    "ceremony_roadmap": [
+      { "step": "Naming", "action": "Speak the Icelandic stanza when seeking to endure a difficult 'storm' or trial." }
+    ],
+    "source_reference": "Rök Runestone"
+  },
+  {
+    "rune_id": "thurs_younger",
+    "system": "Younger Futhark",
+    "era": "Viking Age (9th–11th C)",
+    "character": "ᚦ",
+    "name": "Þurs",
+    "phonetic": "THOORS",
+    "literal_translation": "Giant / Troll",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Þurs er kvenna kvöl ok kletta búi ok varðrúnar verr.",
+        "translation": "Giant is torture of women and cliff-dweller."
+      },
+      "old_norwegian": {
+        "original": "Þurs vældr kvinna kvillu; kátr værðr fár af illu.",
+        "translation": "Giant causes anguish to women; misfortune makes few men cheerful."
+      }
+    },
+    "practical_application": "Establishing a wall of protection against chaotic forces.",
+    "ceremony_roadmap": [
+      { "step": "Warding", "action": "Invoke the 'Thorn-Wall' to protect a space from external intrusion." }
+    ],
+    "source_reference": "Snoldelev Stone"
+  },
+  {
+    "rune_id": "oss_younger",
+    "system": "Younger Futhark",
+    "era": "Viking Age (9th–11th C)",
+    "character": "ᚬ",
+    "name": "Óss",
+    "phonetic": "OHSS",
+    "literal_translation": "God / Estuary",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Óss er aldingautr ok ásgarðs jöfurr, ok valhallar vísi.",
+        "translation": "God is the aged Gautr and prince of Asgard and lord of Valhalla."
+      },
+      "old_norwegian": {
+        "original": "Óss er flæstra færða fǫr; en skalpr er sværða.",
+        "translation": "Estuary is the way of most journeys; but a scabbard is of swords."
+      }
+    },
+    "practical_application": "Sacred gateway for commerce and journeys; inspiration and speech.",
+    "ceremony_roadmap": [
+      { "step": "Invocation", "action": "Speak the name to hallow the voice before a legal or sacred speech." }
+    ],
+    "source_reference": "Rök Runestone"
+  },
+  {
+    "rune_id": "reidh_younger",
+    "system": "Younger Futhark",
+    "era": "Viking Age (9th–11th C)",
+    "character": "ᚱ",
+    "name": "Reið",
+    "phonetic": "RAYTH",
+    "literal_translation": "Riding / Wagon",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Reið er sitjandi sæla ok snörp ferð ok jórs erfiði.",
+        "translation": "Riding is joy of the horsemen and speedy journey."
+      },
+      "old_norwegian": {
+        "original": "Ræið kveða rossom væsta; Reginn sló sværðet bæzta.",
+        "translation": "Riding is said to be the worst thing for horses."
+      }
+    },
+    "practical_application": "Maintaining physical order on the long road.",
+    "ceremony_roadmap": [
+      { "step": "Rhythm", "action": "Establishing a cadence for a journey or a multi-day project." }
+    ],
+    "source_reference": "Kirk Michael Rune Stone"
+  },
+  {
+    "rune_id": "kaun_younger",
+    "system": "Younger Futhark",
+    "era": "Viking Age (9th–11th C)",
+    "character": "ᚴ",
+    "name": "Kaun",
+    "phonetic": "KOWN",
+    "literal_translation": "Ulcer / Sickness",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Kaun er barna böl ok bardaga för ok holds fúa hús.",
+        "translation": "Ulcer is disease fatal to children and abode of mortification."
+      },
+      "old_norwegian": {
+        "original": "Kaun er barna bǫlvan; bǫl gørver nán fǫlvan.",
+        "translation": "Ulcer is fatal to children; death makes a corpse pale."
+      }
+    },
+    "practical_application": "Identifying and warding off internal rot and decay.",
+    "ceremony_roadmap": [
+      { "step": "Revealing", "action": "Naming a 'sickness' or systemic problem to expose it to the light." }
+    ],
+    "source_reference": "Görlev Runestone"
+  },
+  {
+    "rune_id": "hagall_younger",
+    "system": "Younger Futhark",
+    "era": "Viking Age (9th–11th C)",
+    "character": "ᚼ",
+    "name": "Hagall",
+    "phonetic": "HAH-gahll",
+    "literal_translation": "Hail",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Hagall er kaldakorn ok krapadrífa ok snáka sótt.",
+        "translation": "Hail is cold grain and shower of sleet."
+      },
+      "old_norwegian": {
+        "original": "Hagall er kaldastr korna; Kristr skóp hæimenn forna.",
+        "translation": "Hail is the coldest of grain; Christ created the world of old."
+      }
+    },
+    "practical_application": "Forces of nature that mandate taking shelter.",
+    "ceremony_roadmap": [
+      { "step": "Shelter", "action": "Establishing a sanctuary to endure an unavoidable external crisis." }
+    ],
+    "source_reference": "Kylver Stone"
+  },
+  {
+    "rune_id": "naudr_younger",
+    "system": "Younger Futhark",
+    "era": "Viking Age (9th–11th C)",
+    "character": "ᚿ",
+    "name": "Nauð",
+    "phonetic": "NOWTH",
+    "literal_translation": "Need / Constraint",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Nauð er þýjar þrá ok þungr kostr ok váshöm drjúg.",
+        "translation": "Need is grief of the bond-maid and state of oppression."
+      },
+      "old_norwegian": {
+        "original": "Nauðr gerer næppa koste; nøktan kælr í froste.",
+        "translation": "Constraint gives scant choice; a naked man is chilled."
+      }
+    },
+    "practical_application": "Fortifying resolve during trial and scarcity.",
+    "ceremony_roadmap": [
+      { "step": "Resolution", "action": "Naming the specific constraint to find the 'scant choice' required for survival." }
+    ],
+    "source_reference": "Odense Stone"
+  },
+  {
+    "rune_id": "iss_younger",
+    "system": "Younger Futhark",
+    "era": "Viking Age (9th–11th C)",
+    "character": "ᛁ",
+    "name": "Íss",
+    "phonetic": "EESS",
+    "literal_translation": "Ice",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Íss er árbörkr ok unnar þak ok feigra fár.",
+        "translation": "Ice is bark of rivers and roof of the wave."
+      },
+      "old_norwegian": {
+        "original": "Ís kǫllum brú bræiða; blindan þarf at læiða.",
+        "translation": "Ice we call the broad bridge; the blind man must be led."
+      }
+    },
+    "practical_application": "Stillness and preservation; the roof of the wave.",
+    "ceremony_roadmap": [
+      { "step": "Stillness", "action": "A period of complete silence to 'freeze' a situation or preserve an intent." }
+    ],
+    "source_reference": "Ladby Stone"
+  },
+  {
+    "rune_id": "ar_younger",
+    "system": "Younger Futhark",
+    "era": "Viking Age (9th–11th C)",
+    "character": "ᛅ",
+    "name": "Ár",
+    "phonetic": "OWR",
+    "literal_translation": "Plenty / Year",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Ár er gumna góði ok gott sumar ok algróinn akr.",
+        "translation": "Plenty is boon to men and a thriving field."
+      },
+      "old_norwegian": {
+        "original": "Ár er gumna góðe; get ek at ǫrr var Fróðe.",
+        "translation": "Plenty is a boon to men; I say that Frodi was generous."
+      }
+    },
+    "practical_application": "Peaceful abundance and reward of steady growth.",
+    "ceremony_roadmap": [
+      { "step": "Harvest", "action": "Acknowledging the completion of a growth cycle and the 'peace' of success." }
+    ],
+    "source_reference": "Rök Stone"
+  },
+  {
+    "rune_id": "sol_younger",
+    "system": "Younger Futhark",
+    "era": "Viking Age (9th–11th C)",
+    "character": "ᛋ",
+    "name": "Sól",
+    "phonetic": "SOHL",
+    "literal_translation": "Sun",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Sól er skýja skjöldr ok skínandi röðull ok ísa aldrtregi.",
+        "translation": "Sun is shield of the clouds and destroyer of ice."
+      },
+      "old_norwegian": {
+        "original": "Sól er landa ljóme; lúti ek helgum dóme.",
+        "translation": "Sun is the light of the world; I bow to the divine decree."
+      }
+    },
+    "practical_application": "Clarity for seafarers and the heat that breaks stasis.",
+    "ceremony_roadmap": [
+      { "step": "Clarity", "action": "Seeking the 'ray' of the sun to reveal the path forward." }
+    ],
+    "source_reference": "Noleby Stone"
+  },
+  {
+    "rune_id": "tyr_younger",
+    "system": "Younger Futhark",
+    "era": "Viking Age (9th–11th C)",
+    "character": "ᛏ",
+    "name": "Týr",
+    "phonetic": "TEER",
+    "literal_translation": "Tyr (The God)",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Týr er einhendr áss ok ulfs leifar ok hofa hilmir.",
+        "translation": "Tyr is one-handed god and prince of temples."
+      },
+      "old_norwegian": {
+        "original": "Týr er æinendr ása; opt værðr smiðr blása.",
+        "translation": "Tyr is a one-handed god; often has the smith to blow."
+      }
+    },
+    "practical_application": "Sacrifice for the community and unwavering duty.",
+    "ceremony_roadmap": [
+      { "step": "Sacrifice", "action": "Naming the specific cost or effort being offered for the success of the group." }
+    ],
+    "source_reference": "Kylver Stone"
+  },
+  {
+    "rune_id": "bjarkan_younger",
+    "system": "Younger Futhark",
+    "era": "Viking Age (9th–11th C)",
+    "character": "ᛒ",
+    "name": "Bjarkan",
+    "phonetic": "BYAR-kahn",
+    "literal_translation": "Birch",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Bjarkan er laufgat lim ok lítit tré ok ungsamligr viðr.",
+        "translation": "Birch is leafy twig and fresh young shrub."
+      },
+      "old_norwegian": {
+        "original": "Bjarkan er laufgrønstr líma; Loki bar flærða tíma.",
+        "translation": "Birch has the greenest leaves; Loki was fortunate in deceit."
+      }
+    },
+    "practical_application": "Renewal and the emergence of something new; concealment.",
+    "ceremony_roadmap": [
+      { "step": "Renewal", "action": "Planting an intent or naming a new project to 'emerge'." }
+    ],
+    "source_reference": "Jelling stones"
+  },
+  {
+    "rune_id": "madhr_younger",
+    "system": "Younger Futhark",
+    "era": "Viking Age (9th–11th C)",
+    "character": "ᛘ",
+    "name": "Maðr",
+    "phonetic": "MAH-ther",
+    "literal_translation": "Man / Person",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Maðr er manns gaman ok moldar auki ok skipa skreytir.",
+        "translation": "Man is delight of man and augmentation of the earth."
+      },
+      "old_norwegian": {
+        "original": "Maðr er moldar auki; mikil er græip á hauki.",
+        "translation": "Man is an augmentation of the dust; great is the claw of the hawk."
+      }
+    },
+    "practical_application": "The delight and mortality of the human condition.",
+    "ceremony_roadmap": [
+      { "step": "Delight", "action": "Naming a kinsman or partner as the 'delight' of the current endeavor." }
+    ],
+    "source_reference": "Hogganvik stone"
+  },
+  {
+    "rune_id": "logr_younger",
+    "system": "Younger Futhark",
+    "era": "Viking Age (9th–11th C)",
+    "character": "ᛚ",
+    "name": "Lögr",
+    "phonetic": "LOW-gur",
+    "literal_translation": "Water / Waterfall",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Lögr er vellanda vatn ok víðr ketill ok glömmungr grund.",
+        "translation": "Water is eddying stream and fishes' field."
+      },
+      "old_norwegian": {
+        "original": "Lǫgr er, fællr ór fjalle foss; en gull ero nosser.",
+        "translation": "A waterfall is a River which falls from a mountain-side."
+      }
+    },
+    "practical_application": "Intuition and the physical flow of commerce and life.",
+    "ceremony_roadmap": [
+      { "step": "Flow", "action": "Pouring a libation into a bowl to simulate the 'eddying stream'." }
+    ],
+    "source_reference": "Ölsta Runestone"
+  },
+  {
+    "rune_id": "yr_younger",
+    "system": "Younger Futhark",
+    "era": "Viking Age (9th–11th C)",
+    "character": "ᛦ",
+    "name": "Ýr",
+    "phonetic": "EER",
+    "literal_translation": "Yew / Bent Bow",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Ýr er bendr bogi ok brotgjarnt járn ok fífu fárbauti.",
+        "translation": "Yew is a bent bow and battle-help."
+      },
+      "old_norwegian": {
+        "original": "Ýr er vetrgrønstr viða; vænt er, er brennr, at sviða.",
+        "translation": "Yew is the greenest of trees in winter."
+      }
+    },
+    "practical_application": "The endurance of the bent bow and battle-readiness.",
+    "ceremony_roadmap": [
+      { "step": "Readiness", "action": "Establishing the 'bent bow' (tension and focus) before an ordeal." }
+    ],
+    "source_reference": "Sjörup Runestone"
+  }
+]

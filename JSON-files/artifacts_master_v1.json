@@ -1,0 +1,350 @@
+[
+  {
+    "artifact_id": "artifact_mjolnir",
+    "name": "Mj\u00f6lnir",
+    "phonetic": "MYOL-neer",
+    "owner_id": "deity_thor",
+    "sot_source": {
+      "manuscript": "Sk\u00e1ldskaparm\u00e1l, Ch. 35",
+      "original": "\u00de\u00e1 gaf hann \u00de\u00f3r hamarinn ok sag\u00f0i at hann m\u00e6tti sl\u00e1 sv\u00e1 st\u00f3rt sem hann vildi, hvat sem fyrir v\u00e6ri, at eigi mundi hamarrinn bila.",
+      "translation": "Then he gave Thor the hammer and said he would be able to strike as hard as he liked, whatever the object, and the hammer would not fail."
+    },
+    "historical_purpose": "A tool for hallowing (vigi), protection, and the destruction of chaotic forces.",
+    "archaeological_context": "Thor's Hammer pendants found across the Viking world, used as protective and hallowing amulets.",
+    "required_focus_items": [
+      {
+        "item": "Iron/Steel Object",
+        "alt": "A hammer pendant, a heavy tool, or an iron nail."
+      }
+    ],
+    "usage_roadmap": [
+      {
+        "step": "The Marking",
+        "action": "Make the 'Hammer Sign' (inverted T) over the space or object."
+      },
+      {
+        "step": "The Ward",
+        "action": "Speak: 'Thor hallow this place and ward this threshold.'"
+      },
+      {
+        "step": "The Strike",
+        "action": "Touch the iron piece to the center of the space to ground the intent."
+      }
+    ],
+    "honoring_standards": {
+      "historical": "Offerings of ale or dedication of physical labor.",
+      "modern_equivalent": "Completing a difficult manual task or securing your physical environment."
+    },
+    "adaptations": {
+      "solo_practitioner": "Use the hammer sign as a mental 'reset' when feeling overwhelmed by chaos.",
+      "apartment_safe": "A small cast-iron item or tool on a shelf acts as a permanent ward.",
+      "sober_friendly": "Hallow a cup of cold water to represent the 'spark' within the ice."
+    },
+    "practitioner_guidance": {
+      "common_bottleneck": "Feeling physically unprepared or lacking a traditional tool for hallowing.",
+      "actionable_insight": "In the Sagas, the hammer sign is made over a cup; you do not need a literal weapon to access the protective logic."
+    },
+    "aesthetic": {
+      "colors": [
+        "Iron Grey",
+        "Deep Red",
+        "Stone White"
+      ],
+      "symbols": [
+        "The Inverted T",
+        "The Goat",
+        "The Oak"
+      ]
+    }
+  },
+  {
+    "artifact_id": "artifact_gungnir",
+    "name": "Gungnir",
+    "phonetic": "GUNG-neer",
+    "owner_id": "deity_odin",
+    "sot_source": {
+      "manuscript": "Sigrdr\u00edfum\u00e1l, Stanza 17",
+      "original": "\u00c1 gler ok \u00e1 gulli... \u00e1 Gungnis oddi.",
+      "translation": "On glass and on gold... on Gungnir's point (runes are carved)."
+    },
+    "historical_purpose": "To focus the unwavering will, anchor sovereignty, and initiate the 'Great Work'.",
+    "archaeological_context": "Migration-era spearheads inscribed with runes like 'Ranja' (The Thruster) to ensure a true strike.",
+    "required_focus_items": [
+      {
+        "item": "Pointed Object",
+        "alt": "A stylus, a fountain pen, or a dedicated wooden spike."
+      }
+    ],
+    "usage_roadmap": [
+      {
+        "step": "The Carving",
+        "action": "Trace a specific rune onto your 'point' while naming your target."
+      },
+      {
+        "step": "The Focus",
+        "action": "Hold the point against a written oath or objective."
+      },
+      {
+        "step": "The Release",
+        "action": "Speak the intent clearly, then set the tool aside to 'let the spear fly'."
+      }
+    ],
+    "honoring_standards": {
+      "historical": "Votive deposits of spears in sacred bogs or dedication of poetry.",
+      "modern_equivalent": "Acts of deep study, strategic planning, or fulfilling a difficult promise."
+    },
+    "adaptations": {
+      "solo_practitioner": "Use a dedicated 'work pen' as your Gungnir-proxy for business or creative goals.",
+      "apartment_safe": "Focus intent on a single blue candle flame until it burns out.",
+      "sober_friendly": "A cup of strong black coffee to represent the 'bitter wisdom' of the spear."
+    },
+    "practitioner_guidance": {
+      "common_bottleneck": "Rituals feeling scattered or lacking a clear objective.",
+      "actionable_insight": "Apply 'Spear Logic': Focus your entire intent on one specific target rather than broad or vague desires."
+    },
+    "aesthetic": {
+      "colors": [
+        "Midnight Blue",
+        "Gold",
+        "Steel Blue"
+      ],
+      "symbols": [
+        "The Spearhead",
+        "The Raven",
+        "The Valknut"
+      ]
+    }
+  },
+  {
+    "artifact_id": "artifact_draupnir",
+    "name": "Draupnir",
+    "phonetic": "DROWP-neer",
+    "owner_id": "deity_odin",
+    "sot_source": {
+      "manuscript": "Sk\u00e1ldskaparm\u00e1l, Ch. 35",
+      "original": "En Draupni fylg\u00f0i s\u00fa n\u00e1tt\u00fara at hina n\u00edundu hverja n\u00f3tt drupu af honum \u00e1tta hringar jafnh\u00f6fgir.",
+      "translation": "But Draupnir had this property, that every ninth night there dripped from it eight rings of equal weight."
+    },
+    "historical_purpose": "To ensure the multiplication of wealth through consistency and the Gifting Cycle.",
+    "archaeological_context": "Massive gold arm-rings found in hoards like Tiss\u00f8, used as status and currency markers.",
+    "required_focus_items": [
+      {
+        "item": "The Ring/Circle",
+        "alt": "A ring, a bowl, or nine coins of equal value."
+      }
+    ],
+    "usage_roadmap": [
+      {
+        "step": "The Seeding",
+        "action": "Place one resource (coin/token) in your 'ring' or bowl."
+      },
+      {
+        "step": "The Ninth Night",
+        "action": "Maintain nine days of consistent effort toward your goal."
+      },
+      {
+        "step": "The Drip",
+        "action": "On the ninth night, take a portion of your success and share it (donate/help) back into the community."
+      }
+    ],
+    "honoring_standards": {
+      "historical": "Giving rings to followers to ensure loyalty (Ring-Giver).",
+      "modern_equivalent": "Setting up a recurring donation or an automated savings plan."
+    },
+    "adaptations": {
+      "solo_practitioner": "Focus on personal 'compounding interest' in skills or knowledge acquisition.",
+      "apartment_safe": "Keep a bowl of coins near the door to represent the dripping wealth of the home.",
+      "sober_friendly": "Honey-water, representing the sweetness of shared prosperity."
+    },
+    "practitioner_guidance": {
+      "common_bottleneck": "Anxiety regarding financial stability or feeling a lack of resource growth.",
+      "actionable_insight": "Apply the 'Ninth Night' rule: Focus on consistent progress and reciprocity rather than one-time windfalls."
+    },
+    "aesthetic": {
+      "colors": [
+        "Harvest Gold",
+        "Royal Purple",
+        "Deep Green"
+      ],
+      "symbols": [
+        "The Circle",
+        "The Drip",
+        "The Eight-Pointed Star"
+      ]
+    }
+  },
+  {
+    "artifact_id": "artifact_brisingamen",
+    "name": "Br\u00edsingamen",
+    "phonetic": "BREE-sing-ah-men",
+    "owner_id": "deity_freyja",
+    "sot_source": {
+      "manuscript": "\u00derymskvi\u00f0a, Stanza 13",
+      "original": "Vrei\u00f0 var\u00f0 \u00fe\u00e1 Freyja... Br\u00edsingamen brast \u00ed sundr.",
+      "translation": "Wrathful was Freyja... and the Brisingamen burst asunder."
+    },
+    "historical_purpose": "To represent individual worth, social status, and the binding of the will.",
+    "archaeological_context": "Elaborate silver filigree necklaces found in Viking Age Birka, representing high social status.",
+    "required_focus_items": [
+      {
+        "item": "Necklace/Circle",
+        "alt": "A favorite piece of jewelry or a copper ring."
+      }
+    ],
+    "usage_roadmap": [
+      {
+        "step": "The Binding",
+        "action": "Hold the artifact and speak: 'My will is bound to this goal.'"
+      },
+      {
+        "step": "The Radiance",
+        "action": "Visualize your intent as a golden light emanating from the piece."
+      },
+      {
+        "step": "The Anchor",
+        "action": "Wear the item during difficult social or professional tasks to anchor your authority."
+      }
+    ],
+    "honoring_standards": {
+      "historical": "Offerings of amber, jewelry, or flowers.",
+      "modern_equivalent": "Self-care rituals, boundary setting in relationships, or investing in your personal presentation."
+    },
+    "adaptations": {
+      "solo_practitioner": "Focus on self-worth and independent sovereignty.",
+      "apartment_safe": "Place a piece of amber on your nightstand to anchor personal authority.",
+      "sober_friendly": "Fresh apple juice to represent the 'bright' energy of the Vanir."
+    },
+    "practitioner_guidance": {
+      "common_bottleneck": "Difficulty setting boundaries or feeling a lack of personal authority.",
+      "actionable_insight": "Br\u00edsingamen represents the 'cost' of the will; anchor your authority in your own inherent value, not external approval."
+    },
+    "aesthetic": {
+      "colors": [
+        "Bright Gold",
+        "Amber",
+        "Falcon Grey"
+      ],
+      "symbols": [
+        "The Necklace",
+        "The Falcon",
+        "The Cat"
+      ]
+    }
+  },
+  {
+    "artifact_id": "artifact_skidbladnir",
+    "name": "Sk\u00ed\u00f0bla\u00f0nir",
+    "phonetic": "SKEETH-blath-neer",
+    "owner_id": "deity_freyr",
+    "sot_source": {
+      "manuscript": "Gylfaginning, Ch. 43",
+      "original": "Sk\u00ed\u00f0bla\u00f0nir er beztr skipanna... m\u00e1 vefja hann saman sem d\u00fak ok hafa \u00ed pungi s\u00ednum.",
+      "translation": "Skidbladnir is the best of ships... it can be folded together like a cloth and kept in one's pouch."
+    },
+    "historical_purpose": "To ensure optimized logistics, organic growth, and the ability to pivot when environment changes.",
+    "archaeological_context": "Portable vessel technology represented in Viking Age ship-setting burials and small 'amulet' boats.",
+    "required_focus_items": [
+      {
+        "item": "Folded Cloth/Paper",
+        "alt": "A square of linen, a silk scarf, or a folded map."
+      }
+    ],
+    "usage_roadmap": [
+      {
+        "step": "The Folding",
+        "action": "Fold your cloth/paper into a small square while naming a complex project."
+      },
+      {
+        "step": "The Favorable Wind",
+        "action": "Speak: 'May the wind be always in the sails of this work.'"
+      },
+      {
+        "step": "The Unfolding",
+        "action": "Unfold the item when you are ready to expand or launch the next phase."
+      }
+    ],
+    "honoring_standards": {
+      "historical": "Votive offerings of grain or nautical items.",
+      "modern_equivalent": "Improving project efficiency, cleaning your vehicle, or organizing your digital workspace."
+    },
+    "adaptations": {
+      "solo_practitioner": "Focus on personal flexibility and the ability to travel light.",
+      "apartment_safe": "Keep a folded white handkerchief in your pocket during high-stakes travel or logistics tasks.",
+      "sober_friendly": "Strong tea with honey to represent the 'sweat' of the earth and the sweetness of success."
+    },
+    "practitioner_guidance": {
+      "common_bottleneck": "Feeling overwhelmed by the scale of a project or 'stuck' in a rigid plan.",
+      "actionable_insight": "Apply 'Ship Logic': Remember that even the largest systems (the ship) must be capable of being 'folded' (pivoted) to fit the current environment."
+    },
+    "aesthetic": {
+      "colors": [
+        "Sky Blue",
+        "Sun Gold",
+        "Oak"
+      ],
+      "symbols": [
+        "The Ship",
+        "The Budding Branch",
+        "The Sail"
+      ]
+    }
+  },
+  {
+    "artifact_id": "artifact_gjallarhorn",
+    "name": "Gjallarhorn",
+    "phonetic": "YALL-ar-horn",
+    "owner_id": "deity_heimdallr",
+    "sot_source": {
+      "manuscript": "Gylfaginning, Ch. 27",
+      "original": "Hann hefir l\u00fa\u00f0r \u00feann er Gjallarhorn heitir, ok heyrist bl\u00e1str hans \u00ed alla heima.",
+      "translation": "He has a horn called Gjallarhorn, and its blast can be heard in all worlds."
+    },
+    "historical_purpose": "Establishment of boundaries, alerting to critical failure (Ragnar\u00f6k), and universal communication.",
+    "archaeological_context": "The Gallehus Horns (5th C), elaborate gold horns used for signaling and high-level ritual speech.",
+    "required_focus_items": [
+      {
+        "item": "Blowing Horn/Cup",
+        "alt": "A drinking horn, a bell, or a clear-sounding glass."
+      }
+    ],
+    "usage_roadmap": [
+      {
+        "step": "The Sounding",
+        "action": "Ring a bell or strike a glass to mark the start of your awareness."
+      },
+      {
+        "step": "The Perimeter",
+        "action": "Visualize the 'White God' standing at your threshold."
+      },
+      {
+        "step": "The Alert",
+        "action": "Speak clearly your need for vigilance or warning regarding a specific risk."
+      }
+    ],
+    "honoring_standards": {
+      "historical": "Votive deposits of horns or keys.",
+      "modern_equivalent": "Installing security updates, checking fire alarms, or verifying critical facts."
+    },
+    "adaptations": {
+      "solo_practitioner": "Practice deep-listening/meditation to sharpen your 'spiritual ears'.",
+      "apartment_safe": "Keep a set of silver-toned bells near the entry to represent the White God's watch.",
+      "sober_friendly": "Pure sparkling water to represent the 'clear sight' of Heimdall."
+    },
+    "practitioner_guidance": {
+      "common_bottleneck": "Feeling blind-sided by personal or professional crises.",
+      "actionable_insight": "Gjallarhorn represents the 'Final Warning'; establish consistent boundary monitoring to identify risks long before they reach your 'threshold'."
+    },
+    "aesthetic": {
+      "colors": [
+        "Pure White",
+        "Silver",
+        "Dawn Pink"
+      ],
+      "symbols": [
+        "The Horn",
+        "The Ram",
+        "The Bifr\u00f6st"
+      ]
+    }
+  }
+]

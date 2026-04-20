@@ -1,0 +1,207 @@
+[
+  {
+    "holiday_id": "holiday_sigrblot",
+    "name": "Sigrblót",
+    "phonetic": "SIG-ur-bloat",
+    "timing": {
+      "modern": "Mid-April",
+      "historical_anchor": "First day of Harpa (The first month of Summer)",
+      "lunar_logic": "New Moon marking the start of the summer half-year."
+    },
+    "sot_source": {
+      "manuscript": "Ynglinga Saga, Ch. 8",
+      "original": "...at móti sumri skyldi blóta í móti sigri.",
+      "translation": "...at the start of summer there should be a sacrifice for victory."
+    },
+    "historical_purpose": "Sacrifice for victory (sigr) as the raiding and sailing season begins.",
+    "archaeological_context": "Votive weapon deposits found in Danish bogs (e.g., Illerup Ådal) represent the practical application of Sigrblót.",
+    "associated_deities": ["deity_odin", "deity_tyr"],
+    "required_tools": [
+      { "item": "Iron/Steel Piece", "alt": "A small knife, coin, or iron nail." },
+      { "item": "The Hlaut-bolli", "alt": "Offering bowl." }
+    ],
+    "ceremony_roadmap": [
+      { "step": "The Awakening", "action": "Open a window or door to face the East. State: 'Summer wakes, and the spear is raised.'" },
+      { "step": "The Victory Boast", "action": "State one major goal for the summer. Pour the libation into the bowl as a 'deposit' on that victory." },
+      { "step": "The Mark", "action": "Touch the iron piece to the liquid, then touch the iron to your forehead or your workstation." }
+    ],
+    "sacrifice_standards": {
+      "historical": "Weapons or high-value livestock.",
+      "modern_equivalent": "Spicy spirits (Odin's preference), iron items, or a committed 'victory project' (giving time)."
+    },
+    "adaptations": {
+      "solo_practitioner": "Focus on personal ambition and mental strength.",
+      "apartment_safe": "Use blue or green candles to represent the sky and new growth.",
+      "sober_friendly": "Strong black coffee or ginger tea (representing heat and energy)."
+    },
+    "sample_invocation": "Hail to the Bringer of Victory! Summer is come. We seek the path, we seek the win. Odin, take this gift; Tyr, hold the law. Victory!",
+    "aesthetic": {
+      "colors": ["Sky Blue", "Bright Green", "Steel Grey"],
+      "symbols": ["The Spear", "The Budding Branch", "The Ship"]
+    }
+  },
+  {
+    "holiday_id": "holiday_vetrnaetr",
+    "name": "Vetrnætr (Winter Nights)",
+    "phonetic": "VET-ur-ny-tur",
+    "timing": {
+      "modern": "Mid-October",
+      "historical_anchor": "First day of Gormánuður (The first month of Winter)",
+      "lunar_logic": "Full Moon marking the end of harvest and onset of frost."
+    },
+    "sot_source": {
+      "manuscript": "Ynglinga Saga, Ch. 8",
+      "original": "...að miðjum vetri til gróðrar, en hið þriðja að veturnóttum, það var til árs.",
+      "translation": "...at mid-winter for growth, and the third at the winter nights for a good year."
+    },
+    "historical_purpose": "To welcome the winter and honor the Dísir (female guardians).",
+    "archaeological_context": "Votive offerings of feminine jewelry and harvest grains found in household contexts support the domestic nature of the Dísablót.",
+    "associated_deities": ["deity_freyja", "deity_skadi", "deity_frigg"],
+    "required_tools": [
+      { "item": "Linen/Fabric", "alt": "A cloth for the altar or a ribbon." },
+      { "item": "The Hlaut-bolli", "alt": "Offering bowl." }
+    ],
+    "ceremony_roadmap": [
+      { "step": "The Dísablót", "action": "Address the women of your line. 'To the mothers of the line, I welcome the cold with you.'" },
+      { "step": "The Threshold Seal", "action": "Pour a small amount of offering near the door or on a potted plant near the entry." },
+      { "step": "The Toast", "action": "Three rounds: To the Dísir, to the Matriarchs, and to Peace/Plentiful Winter." }
+    ],
+    "sacrifice_standards": {
+      "historical": "Autumn harvest products and female animals.",
+      "modern_equivalent": "Grains, dark beer, root vegetables, or hand-woven items."
+    },
+    "adaptations": {
+      "solo_practitioner": "A quiet, meditative ritual focusing on home security and mental endurance.",
+      "apartment_safe": "A bowl of salt or a silver coin on the windowsill to represent the barrier.",
+      "sober_friendly": "Dark grape juice or apple cider."
+    },
+    "sample_invocation": "The gates of summer close. The Dísir watch the threshold. We welcome the dark, for the mothers are with us. Hail the Dísir!",
+    "aesthetic": {
+      "colors": ["Midnight Blue", "Silver", "Deep Violet"],
+      "symbols": ["The Locked Door", "The Spindle", "The Fallen Leaf"]
+    }
+  },
+  {
+    "holiday_id": "holiday_jol",
+    "name": "Jól (Yule)",
+    "phonetic": "YOHL",
+    "timing": {
+      "modern": "Mid-Winter (January)",
+      "historical_anchor": "Hökunótt (The turning point of winter)",
+      "lunar_logic": "The first Full Moon following the first New Moon after the Winter Solstice."
+    },
+    "sot_source": {
+      "manuscript": "Saga of Haakon the Good, Ch. 13-15",
+      "original": "Hann setti það í lögum að jart skulu hefja að sama tveim sem kristnir menn...",
+      "translation": "He made it law that Yule should begin at the same time as Christian men... but before it began on Hökunótt."
+    },
+    "historical_purpose": "Sacrifice for the growth (gróðrar) of the coming year.",
+    "archaeological_context": "Evidence of mid-winter feasting in Chieftain halls (like Borg in Lofoten) shows the centralization of Jól as a political and spiritual bond.",
+    "associated_deities": ["deity_odin", "deity_freyr"],
+    "required_tools": [
+      { "item": "Evergreen Bough", "alt": "Pine, fir, or cedar branch." },
+      { "item": "The Hearth", "alt": "A candle or actual fireplace." }
+    ],
+    "ceremony_roadmap": [
+      { "step": "The Log Hallowing", "action": "Touch the evergreen to the candle/fire. 'Light returns, the wheel turns.'" },
+      { "step": "The Oath-Taking", "action": "Place your hand on the evergreen (representing the boar) and state one solemn oath for the year." },
+      { "step": "The Libation", "action": "Pour the drink into the bowl. 'A gift for growth, a gift for the gods.'" }
+    ],
+    "sacrifice_standards": {
+      "historical": "A sacrificial boar (Sonargöltr).",
+      "modern_equivalent": "Pork roast, 'Boar Bread' (loaf shaped like a pig), or high-quality mead."
+    },
+    "adaptations": {
+      "solo_practitioner": "Write your oaths in a journal and read them aloud to the fire/candle.",
+      "apartment_safe": "Use pine-scented incense if actual boughs are unavailable.",
+      "sober_friendly": "Honey-water (representing the sweetness of the return of the sun)."
+    },
+    "sample_invocation": "In the depth of the dark, the light is born. Freyr, give us growth. Odin, give us wisdom. The year turns! Hail Jól!",
+    "aesthetic": {
+      "colors": ["Evergreen Green", "Blood Red", "Gold"],
+      "symbols": ["The Sun-Wheel", "The Boar", "The Hearth"]
+    }
+  },
+  {
+    "holiday_id": "holiday_thorrablot",
+    "name": "Þorrablót",
+    "phonetic": "THOR-rah-bloat",
+    "timing": {
+      "modern": "Late January",
+      "historical_anchor": "The beginning of the month of Þorri",
+      "lunar_logic": "Full Moon of the fourth winter month."
+    },
+    "sot_source": {
+      "manuscript": "Orkneyinga Saga",
+      "original": "Þeir kölluðu það Þorrablót... hann var blótaður til þess að snjór væri mikill.",
+      "translation": "They called it Thorrablot... he was sacrificed to so that there should be much snow (for travel)."
+    },
+    "historical_purpose": "Sacrifice to personified Winter (Þorri) to ensure the frost remains manageable.",
+    "archaeological_context": "Historical accounts describe the 'inviting' of winter inside, mirroring the personification seen in Saga narratives.",
+    "associated_deities": ["deity_thor", "deity_skadi"],
+    "required_tools": [
+      { "item": "Hammer", "alt": "A pendant or a physical tool." },
+      { "item": "Hearty Meal", "alt": "Focus on endurance food/preserved meats." }
+    ],
+    "ceremony_roadmap": [
+      { "step": "The Greeting", "action": "Step outside (barefoot for a moment). 'Hail to the Frost-King, we are unbowed.'" },
+      { "step": "The Protection", "action": "Hold the hammer over the food. 'Thor, ward this house from the biting cold.'" },
+      { "step": "The Feast", "action": "Eat the heartiest part of the meal first to show strength." }
+    ],
+    "sacrifice_standards": {
+      "historical": "Smoked and preserved meats.",
+      "modern_equivalent": "Heavy ale, smoked meats/fish, or sturdy root vegetable stews."
+    },
+    "adaptations": {
+      "solo_practitioner": "A celebration of survival and individual resilience.",
+      "apartment_safe": "Focus on the 'internal fire'—exercise or a hot bath to contrast the cold.",
+      "sober_friendly": "Root beer or ginger beer (spicy and grounding)."
+    },
+    "sample_invocation": "Thor, Wielder of Mjölnir, stand at our door. The frost is deep, but our fire is hot. Ward the halls! Hail Thor!",
+    "aesthetic": {
+      "colors": ["Grey", "White", "Dark Oak"],
+      "symbols": ["The Hammer", "The Icicle", "The Shield"]
+    }
+  },
+  {
+    "holiday_id": "holiday_alfablot",
+    "name": "Álfablót",
+    "phonetic": "AL-fah-bloat",
+    "timing": {
+      "modern": "Late Autumn",
+      "historical_anchor": "Completion of the harvest month",
+      "lunar_logic": "Private moon cycle occurring after the public Dísablót."
+    },
+    "sot_source": {
+      "manuscript": "Austrfararvísur",
+      "original": "Úti er ekkert, inni er Álfablót.",
+      "translation": "There is nothing outside (for you); inside is the Elves' sacrifice."
+    },
+    "historical_purpose": "Private sacrifice to the Alfar (ancestors) for the luck of the home.",
+    "archaeological_context": "Sacred groves (Alfar-haugar) and private household mounds suggest a lineage-based, private cult practice.",
+    "associated_deities": ["deity_freyr"],
+    "required_tools": [
+      { "item": "Honey", "alt": "A jar of honey or honeycomb." },
+      { "item": "Closed Doors", "alt": "Total privacy is mandatory." }
+    ],
+    "ceremony_roadmap": [
+      { "step": "The Closing", "action": "Lock the doors. This is strictly for the family/inner-circle." },
+      { "step": "The Ancestor Call", "action": "Name your grandfathers and the men of the line. 'To the Alfar, we give the sweetness of the year.'" },
+      { "step": "The Sweetening", "action": "Place a bit of honey on bread. 'May the luck of the line stay within these walls.'" }
+    ],
+    "sacrifice_standards": {
+      "historical": "Livestock specifically for the family meal.",
+      "modern_equivalent": "Honey, fresh-baked bread, or high-quality butter."
+    },
+    "adaptations": {
+      "solo_practitioner": "Reinforce the 'luck' of the individual dwelling; name your specific line or influences.",
+      "apartment_safe": "Turn off all electronics for 30 minutes to ensure total focus.",
+      "sober_friendly": "Fresh milk with honey."
+    },
+    "sample_invocation": "The harvest is in, the doors are shut. To the Alfar who built the path: here is sweetness, here is thanks. Hail the Alfar!",
+    "aesthetic": {
+      "colors": ["Harvest Gold", "Earthy Brown", "Amber"],
+      "symbols": ["The Honeycomb", "The Scythe", "The Loaf"]
+    }
+  }
+]

@@ -1,0 +1,507 @@
+[
+  {
+    "rune_id": "fehu_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᚠ",
+    "name": "Fehu",
+    "phonetic": "FAY-hoo",
+    "literal_translation": "Cattle / Wealth",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Fé er frænda róg ok flæðar viti ok grafseiðs gata.",
+        "translation": "Wealth is source of discord among kin and fire of the sea and path of the serpent."
+      },
+      "old_norwegian": {
+        "original": "Fé vældr frænda róge; føðesk ulfr í skóge.",
+        "translation": "Wealth causes friction among kinsmen; the wolf thrives in the woods."
+      },
+      "anglo_saxon": {
+        "original": "Feoh byþ fruma fira gehwylcum; sceal ðeah manna gehwylc miclun hyt dælan...",
+        "translation": "Wealth is a comfort to all; yet must every man bestow it freely if he wish to gain honor."
+      }
+    },
+    "practical_application": "Managing mobile capital, establishing reciprocity (Gifting Cycle), and social status.",
+    "ceremony_roadmap": [
+      { "step": "Carving", "action": "Carve ᚠ into wood while naming the resource to be shared." },
+      { "step": "Naming", "action": "Recite the Anglo-Saxon stanza to affirm the intent of generosity." }
+    ],
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "uruz_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᚢ",
+    "name": "Uruz",
+    "phonetic": "OO-rooz",
+    "literal_translation": "Aurochs",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Úr er skýja grátr ok skára þverrir ok hirðis hatr.",
+        "translation": "Rain is lamentation of the clouds and destroyer of the hay-harvest."
+      },
+      "old_norwegian": {
+        "original": "Úr er af illu jarne; opt løypr ræinn á hjarne.",
+        "translation": "Dross comes from bad iron; the reindeer often races over the frozen snow."
+      },
+      "anglo_saxon": {
+        "original": "Ur byþ anmod ond oferhyrned, felafrecne deor, feohteþ mid hornum...",
+        "translation": "The aurochs is proud and has great horns; it is a very savage beast."
+      }
+    },
+    "practical_application": "Endurance, raw physical strength, and the transition from wild to worked.",
+    "ceremony_roadmap": [
+      { "step": "Visualizing", "action": "Focus on the Aurochs' horns during the carving process." }
+    ],
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "thurisaz_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᚦ",
+    "name": "Thurisaz",
+    "phonetic": "THOO-ree-sahz",
+    "literal_translation": "Giant / Thorn",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Þurs er kvenna kvöl ok kletta búi ok varðrúnar verr.",
+        "translation": "Giant is torture of women and cliff-dweller and husband of a giantess."
+      },
+      "old_norwegian": {
+        "original": "Þurs vældr kvinna kvillu; kátr værðr fár af illu.",
+        "translation": "Giant causes anguish to women; misfortune makes few men cheerful."
+      },
+      "anglo_saxon": {
+        "original": "Ðorn byþ ðearle scearp; ðegna gehwylcum anfeng ys yfyl...",
+        "translation": "The thorn is exceedingly sharp; an evil thing for any knight to touch."
+      }
+    },
+    "practical_application": "Active defense, breaking through chaotic barriers, and warding.",
+    "ceremony_roadmap": [
+      { "step": "Hallowing", "action": "Invoke the 'Thorn-Wall' to protect the perimeter of the ritual space." }
+    ],
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "ansuz_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᚨ",
+    "name": "Ansuz",
+    "phonetic": "AHN-sooz",
+    "literal_translation": "God / Mouth",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Óss er aldingautr ok ásgarðs jöfurr, ok valhallar vísi.",
+        "translation": "God is the aged Gautr and prince of Asgard and lord of Valhalla."
+      },
+      "anglo_saxon": {
+        "original": "Os byþ ordfruma ælere spræce, wisdomes wraþu ond witena frofur...",
+        "translation": "The mouth is the source of all language, the mainstay of wisdom and comfort of wise men."
+      }
+    },
+    "practical_application": "Wisdom, communication, and anchoring an oath.",
+    "ceremony_roadmap": [
+      { "step": "Naming", "action": "Speak the rune name aloud to 'wake' the breath of inspiration." }
+    ],
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "raidho_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᚱ",
+    "name": "Raidho",
+    "phonetic": "RYE-though",
+    "literal_translation": "Riding / Wagon",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Reið er sitjandi sæla ok snörp ferð ok jórs erfiði.",
+        "translation": "Riding is a joy for the sitter and a swift journey and labor for the horse."
+      },
+      "anglo_saxon": {
+        "original": "Rad byþ on recede rinca gehwylcum sefte ond swiðhwat...",
+        "translation": "Riding seems easy to every warrior while he is indoors and courageous on the road."
+      }
+    },
+    "practical_application": "Rhythmic action and proper timing on a journey.",
+    "ceremony_roadmap": [
+      { "step": "Cadence", "action": "Establish a rhythmic breath or drumbeat before carving." }
+    ],
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "kenaz_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᚲ",
+    "name": "Kenaz",
+    "phonetic": "KAY-nahz",
+    "literal_translation": "Torch / Ulcer",
+    "sot_poems": {
+      "old_norwegian": {
+        "original": "Kaun er barna böl; böl gørver mann fölan.",
+        "translation": "Ulcer is fatal to children; sickness makes a man pale."
+      },
+      "anglo_saxon": {
+        "original": "Cen byþ cwicera gehwam, cuþ on fyre blac ond beorhtlic...",
+        "translation": "The torch is known to every living man by its pale, bright flame."
+      }
+    },
+    "practical_application": "Controlled fire vs. the burning of decay; used for illumination.",
+    "ceremony_roadmap": [
+      { "step": "Lighting", "action": "Light a candle to represent the 'Torch' before carving." }
+    ],
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "gebo_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᚷ",
+    "name": "Gebo",
+    "phonetic": "GAY-bo",
+    "literal_translation": "Gift",
+    "sot_poems": {
+      "anglo_saxon": {
+        "original": "Gifu gumena byþ gleng ond herenys, wraþu ond wyrþscipe...",
+        "translation": "Generosity is a decoration and praise to all men."
+      }
+    },
+    "practical_application": "Reciprocity and social contracts.",
+    "ceremony_roadmap": [
+      { "step": "The Gift", "action": "Place an offering in the bowl to establish the reciprocal bond." }
+    ],
+    "source_reference": "Kylver Stone"
+  },
+  {
+    "rune_id": "wunjo_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᚹ",
+    "name": "Wunjo",
+    "phonetic": "WOON-yo",
+    "literal_translation": "Joy",
+    "sot_poems": {
+      "anglo_saxon": {
+        "original": "Wenne bruceþ, þe can weana lyt, sares ond sorge...",
+        "translation": "He enjoys joy who knows few troubles, pains, or sorrows."
+      }
+    },
+    "practical_application": "Harmonious group energy and internal stability.",
+    "ceremony_roadmap": [
+      { "step": "Affirmation", "action": "State a positive outcome or shared success." }
+    ],
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "hagalaz_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᚼ",
+    "name": "Hagalaz",
+    "phonetic": "HAH-gah-lahz",
+    "literal_translation": "Hail",
+    "sot_poems": {
+      "old_norwegian": {
+        "original": "Hagall er kaldastr korna; Kristr skóp hæiminn gamla.",
+        "translation": "Hail is the coldest of grain; Christ created the world of old."
+      },
+      "anglo_saxon": {
+        "original": "Hægl byþ hwitust korna; hwyrft hit of heofones lyfte...",
+        "translation": "Hail is the whitest of grain; it is whirled from heaven."
+      }
+    },
+    "practical_application": "Chaotic disruption from outside forces.",
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "nauthiz_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᚾ",
+    "name": "Nauthiz",
+    "phonetic": "NOW-theez",
+    "literal_translation": "Need",
+    "sot_poems": {
+      "old_norwegian": {
+        "original": "Nauð gørver hneppa koste; nøktan kælr í froste.",
+        "translation": "Need makes a hard choice; the naked man freezes."
+      },
+      "anglo_saxon": {
+        "original": "Nyd byþ nearu on breostan; weorþeþ hi þeah oft niþa bearnum...",
+        "translation": "Trouble is oppressive to the heart; yet it often becomes a help."
+      }
+    },
+    "practical_application": "Resistance and the hard choices born of scarcity.",
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "isa_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᛁ",
+    "name": "Isa",
+    "phonetic": "EE-sah",
+    "literal_translation": "Ice",
+    "sot_poems": {
+      "old_norwegian": {
+        "original": "Íss köllum brú breiða; blindan þarf at læiða.",
+        "translation": "Ice we call the broad bridge; the blind man must be led."
+      },
+      "anglo_saxon": {
+        "original": "Is byþ ofereald, ungemetum slidor, glisniaþ glæshluttur...",
+        "translation": "Ice is very cold and immeasurably slippery."
+      }
+    },
+    "practical_application": "Stasis, stillness, and careful navigation.",
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "jera_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᛃ",
+    "name": "Jera",
+    "phonetic": "YAY-rah",
+    "literal_translation": "Year / Harvest",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Ár er gumna góði ok gott sumar ok algróinn akr.",
+        "translation": "Plenty is a boon to men and a thriving field."
+      },
+      "anglo_saxon": {
+        "original": "Ger byþ gumena hiht, ðon God læteþ, halig heofones cyning...",
+        "translation": "Summer is a joy to men when the earth brings forth fruits."
+      }
+    },
+    "practical_application": "Right action in the right season; reward of labor.",
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "eihwaz_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᛇ",
+    "name": "Eihwaz",
+    "phonetic": "EYE-wahz",
+    "literal_translation": "Yew",
+    "sot_poems": {
+      "anglo_saxon": {
+        "original": "Eoh byþ utan unsmþe treow, heard hruþan fæst, hyrde fyres...",
+        "translation": "The yew is a tree with rough bark, a guardian of flame."
+      }
+    },
+    "practical_application": "Resilience and the bridge between worlds.",
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "perthro_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᛈ",
+    "name": "Perthro",
+    "phonetic": "PAIR-throw",
+    "literal_translation": "Lot-cup",
+    "sot_poems": {
+      "anglo_saxon": {
+        "original": "Peorþ byþ symble plega ond hleahtor wlancum...",
+        "translation": "Peorth is a source of recreation and amusement."
+      }
+    },
+    "practical_application": "Fate (Wyrd) and the unknown variables of chance.",
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "algiz_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᛉ",
+    "name": "Algiz",
+    "phonetic": "AHL-geez",
+    "literal_translation": "Protection",
+    "sot_poems": {
+      "anglo_saxon": {
+        "original": "Eolh-secg eard hæfþ oftust on fenne, weaxeþ on wætere...",
+        "translation": "The Elk-sedge makes a ghastly wound for those who touch it."
+      }
+    },
+    "practical_application": "Active deterrence and sanctuary protection.",
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "sowilo_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᛊ",
+    "name": "Sowilo",
+    "phonetic": "SO-wee-low",
+    "literal_translation": "Sun",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Sól er skýja skjöldr ok skínandi röðull ok ísa aldrtregi.",
+        "translation": "Sun is shield of the clouds and destroyer of ice."
+      },
+      "anglo_saxon": {
+        "original": "Sigel semeth symble denum on hihte, ðon hi hine feriaþ...",
+        "translation": "The sun is always a hope to seafarers."
+      }
+    },
+    "practical_application": "Victory, clarity, and breaking through stasis.",
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "tiwaz_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᛏ",
+    "name": "Tiwaz",
+    "phonetic": "TEE-wahz",
+    "literal_translation": "Tyr / Victory",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Týr er einhendr áss ok ulfs leifar ok hofa hilmir.",
+        "translation": "Tyr is a one-handed god and prince of temples."
+      },
+      "anglo_saxon": {
+        "original": "Tir byþ tacna sum, healdeþ trywa wel wiþ æþelingas...",
+        "translation": "Tiw is a guiding star; it keeps faith well with princes."
+      }
+    },
+    "practical_application": "Sacrifice for order and unwavering focus.",
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "berkano_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᛒ",
+    "name": "Berkano",
+    "phonetic": "BAIR-kah-no",
+    "literal_translation": "Birch",
+    "sot_poems": {
+      "old_norwegian": {
+        "original": "Bjarkan er laufgrønster líma; Loki bar flæðar tíma.",
+        "translation": "Birch has the greenest leaves; Loki was fortunate in his deceit."
+      },
+      "anglo_saxon": {
+        "original": "Beorc byþ bletsung-leas, þeah hit beorhte scine...",
+        "translation": "The birch bears no fruit; yet it has shining branches."
+      }
+    },
+    "practical_application": "Renewal, birth, and the emergence of potential.",
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "ehwaz_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᛖ",
+    "name": "Ehwaz",
+    "phonetic": "AY-wahz",
+    "literal_translation": "Horse",
+    "sot_poems": {
+      "anglo_saxon": {
+        "original": "Eoh byþ for eorlum æþelinga wyn, hors hofum wlanc...",
+        "translation": "The horse is a joy to princes in the presence of warriors."
+      }
+    },
+    "practical_application": "Partnership and the momentum of a shared bond.",
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "mannaz_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᛗ",
+    "name": "Mannaz",
+    "phonetic": "MAHN-nahz",
+    "literal_translation": "Man",
+    "sot_poems": {
+      "old_icelandic": {
+        "original": "Maðr er moldar auki ok skipa skreytir ok sjávar svelgr.",
+        "translation": "Man is augmentation of the dust and adorner of ships."
+      },
+      "anglo_saxon": {
+        "original": "Man byþ on myrgþe his magan leof: sceal ðeah anra gehwylc oðrum swican...",
+        "translation": "The joyous man is dear; yet every man is doomed to fail his fellow."
+      }
+    },
+    "practical_application": "The human condition and the necessity of social support.",
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "laguz_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᛚ",
+    "name": "Laguz",
+    "phonetic": "LAH-gooz",
+    "literal_translation": "Water",
+    "sot_poems": {
+      "old_norwegian": {
+        "original": "Lögr er, fællr ór fjalle foss; en gull ero hnoss.",
+        "translation": "A waterfall falls from a mountain-side; ornaments are made of gold."
+      },
+      "anglo_saxon": {
+        "original": "Lagu byþ leodum langsum geþuht, gif hi sculun neþan on nacan tealtum...",
+        "translation": "The ocean seems interminable to men on the unsteady bark."
+      }
+    },
+    "practical_application": "Intuition and the deep flow of the unready life.",
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "ingwaz_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᛜ",
+    "name": "Ingwaz",
+    "phonetic": "ING-wahz",
+    "literal_translation": "Ing",
+    "sot_poems": {
+      "anglo_saxon": {
+        "original": "Ing wæs ærest mid East-Denum gesewen secgun...",
+        "translation": "Ing was first seen by men among the East-Danes."
+      }
+    },
+    "practical_application": "Internalized growth and potential waiting to burst.",
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "dagaz_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᛞ",
+    "name": "Dagaz",
+    "phonetic": "DAH-gahz",
+    "literal_translation": "Day",
+    "sot_poems": {
+      "anglo_saxon": {
+        "original": "Dæg byþ Drihtnes sond, deore mannum, mære Metodes leoht...",
+        "translation": "Day, the glorious light of the Creator, is sent by the Lord."
+      }
+    },
+    "practical_application": "Transformation and the radical shift from dark to light.",
+    "source_reference": "Codex Sangallensis 878"
+  },
+  {
+    "rune_id": "othala_elder",
+    "system": "Elder Futhark",
+    "era": "Migration Period (2nd–8th C)",
+    "character": "ᛟ",
+    "name": "Othala",
+    "phonetic": "O-thah-lah",
+    "literal_translation": "Estate / Heritage",
+    "sot_poems": {
+      "anglo_saxon": {
+        "original": "Eþel byþ oferleof æghwylcum men, gif he mot ðær rihtes...",
+        "translation": "An estate is very dear to every man if he can enjoy whatever is right."
+      }
+    },
+    "practical_application": "Ancestral legacy and the heritage of one's home.",
+    "source_reference": "Codex Sangallensis 878"
+  }
+]

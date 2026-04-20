@@ -1,0 +1,752 @@
+[
+  {
+    "deity_id": "deity_odin",
+    "name": "Óðinn",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 20",
+    "spheres": ["Wisdom", "Runes", "War", "Poetry", "Sovereignty"],
+    "sot_text": {
+      "original": "Óðinn er æðstr ok ellztr Ásanna. Hann ræðr öllum hlutum, ok svá sem önnur goðin eru máttug, þá þjóna honum öll svá sem börn föður.",
+      "translations": {
+        "faulkes_1987": "Odin is the highest and oldest of the Aesir. He rules all things, and though the other gods are powerful, they all serve him as children do a father.",
+        "byock_2005": "Odin is the highest and oldest of the Aesir. He rules over all things, and though the other gods are powerful, they all serve him as children serve a father.",
+        "brodeur_1916": "Odin is highest and oldest of the Æsir: he rules all things, and mighty as are the other gods, they all serve him as children obey a father."
+      }
+    },
+    "runic_anchor": { "rune": "Ansuz (ᚨ)", "meaning": "Wisdom and Divine Breath" },
+    "visual_symbols": ["Gungnir", "Valknut", "Two Ravens", "The High Seat"],
+    "natural_correspondences": { "animals": ["Ravens", "Wolves"], "plants": ["Ash Tree"], "direction": "North" },
+    "ritual_practice": { "colors": ["Dark Blue", "Gold"], "crystals_modern": ["Lapis Lazuli", "Labradorite"] },
+    "historical_offerings": "Wine, meat, weapons (votive deposits), and poetry.",
+    "associated_holidays": ["holiday_jol", "holiday_sigrblot"],
+    "common_invocations": "All-Father, Lord of the Hanged, The Yule-God.",
+    "practical_application": "Anchoring an oath, seeking wisdom through trial, and high-level strategy.",
+    "modern_extrapolation": { "professions": ["Academia", "Intelligence"], "tech_sphere": "The Internet and Data Encryption" },
+    "academic_note": "Odin is the highest and oldest of the Aesir. His modern association with encryption stems from his 'winning' of the runes—the original code of the universe."
+  },
+  {
+    "deity_id": "deity_thor",
+    "name": "Þórr",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 21",
+    "spheres": ["Thunder", "Strength", "Protection", "Hallowing"],
+    "sot_text": {
+      "original": "Sá er kallaðr Þórr eða Ása-Þórr. Hann er fremstr þeira, sá er kallaðr er Áss ok hergi hvílir. Hann er sterkastr allra goðanna ok manna.",
+      "translations": {
+        "faulkes_1987": "He is called Thor or Asa-Thor. He is the foremost of them, the one who is called Aesir's Thor and the strongest of all gods and men.",
+        "byock_2005": "He is called Thor or Asa-Thor. He is the foremost of them, he who is called the Aesir's Thor. He is the strongest of all the gods and the men.",
+        "brodeur_1916": "The foremost of them is Thor, he who is called Thor of the Æsir, or Thunder-Thor; he is the strongest of all the gods and the men."
+      }
+    },
+    "runic_anchor": { "rune": "Thurisaz (ᚦ)", "meaning": "Protection and Force" },
+    "visual_symbols": ["Mjölnir", "Iron Gloves", "Belt of Strength", "The Oak Tree"],
+    "natural_correspondences": { "animals": ["Goats", "Bulls"], "plants": ["Oak", "Leeks"], "direction": "South" },
+    "ritual_practice": { "colors": ["Deep Red", "Iron Grey"], "crystals_modern": ["Red Jasper", "Hematite"] },
+    "historical_offerings": "Stout ale, iron amulets, and hearty grain.",
+    "associated_holidays": ["holiday_thorrablot", "Midsummer"],
+    "common_invocations": "Protector of Midgard, Thunder-Thor, Friend of Humans.",
+    "practical_application": "Active defense, boundary protection, and physical labor.",
+    "modern_extrapolation": { "professions": ["IT Support", "Manual Labor"], "tech_sphere": "Hardware, Electrical Systems, and Infrastructure" },
+    "academic_note": "Thor is defined as 'fremstr' (foremost) in strength. He is the primary protector of Midgard and the common man."
+  },
+  {
+    "deity_id": "deity_baldr",
+    "name": "Baldr",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 22",
+    "spheres": ["Light", "Wisdom", "Purity", "Reconciliation"],
+    "sot_text": {
+      "original": "Annarr sonr Óðins er Baldr, ok er frá honum gott at segja. Hann er beztr ok hann lofa allir.",
+      "translations": {
+        "faulkes_1987": "Odin's second son is Baldr, and there is good to be told of him. He is the best, and all praise him.",
+        "byock_2005": "Odin's second son is Baldr, and there are good things to be said about him. He is the best, and everyone praises him.",
+        "brodeur_1916": "The second son of Odin is Baldr, and good things are to be said of him. He is best, and all praise him."
+      }
+    },
+    "runic_anchor": { "rune": "Sowilo (ᛋ)", "meaning": "Vitality and Success" },
+    "visual_symbols": ["The Sun", "White Light", "Mistletoe"],
+    "natural_correspondences": { "animals": ["Swans", "White Horses"], "plants": ["Baldr's Brow"], "direction": "The Zenith" },
+    "ritual_practice": { "colors": ["Pure White", "Bright Yellow"], "crystals_modern": ["Sunstone", "Clear Quartz"] },
+    "historical_offerings": "White flowers, light-colored ale, and acts of mediation.",
+    "associated_holidays": ["Midsummer"],
+    "common_invocations": "The Shining One, Best of the Aesir.",
+    "practical_application": "Conflict resolution, seeking internal clarity, and acts of beauty.",
+    "modern_extrapolation": { "professions": ["Mediators", "Artists"], "tech_sphere": "UX Design and Solar Energy" },
+    "academic_note": "Baldr represents the ideal of beauty and wisdom. His death is the catalyst for the events leading to Ragnarök."
+  },
+  {
+    "deity_id": "deity_tyr",
+    "name": "Týr",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 25",
+    "spheres": ["Law", "Justice", "Heroic Victory", "Sacrifice"],
+    "sot_text": {
+      "original": "Enn er sá Áss er Týr heitir. Hann er djarfastr ok bezt hugaðr, ok hann ræðr mjök sigri í orrostum.",
+      "translations": {
+        "faulkes_1987": "There is also an Aesir called Tyr. He is the most daring and stout-hearted, and he has a large share in victory in battles.",
+        "byock_2005": "There is also an Aesir named Tyr. He is the most daring and the most courageous, and he has a great deal of power over victory in battle.",
+        "brodeur_1916": "There is yet an Æsir, styled Týr: he is most daring, and best in stoutness of heart, and he has much sway over victory in battle."
+      }
+    },
+    "runic_anchor": { "rune": "Tiwaz (ᛏ)", "meaning": "Justice and Sacrifice" },
+    "visual_symbols": ["The Spear", "The Severed Hand", "The Sword"],
+    "natural_correspondences": { "animals": ["Wolves", "Hounds"], "plants": ["Monkshood"], "direction": "North" },
+    "ritual_practice": { "colors": ["Crimson", "Steel Grey"], "crystals_modern": ["Hematite", "Bloodstone"] },
+    "historical_offerings": "Legal documents (symbolic), iron, and hard-won personal trophies.",
+    "associated_holidays": ["Thing", "holiday_sigrblot"],
+    "common_invocations": "The One-Handed, God of the Thing.",
+    "practical_application": "Professional ethics, making necessary sacrifices for community safety, and legal order.",
+    "modern_extrapolation": { "professions": ["Law", "Military Leadership"], "tech_sphere": "Secure Authentication and Proof of Work" },
+    "academic_note": "The most daring and stout-hearted. He has much sway over victory in battle and legal order."
+  },
+  {
+    "deity_id": "deity_heimdallr",
+    "name": "Heimdallr",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 27",
+    "spheres": ["Vigilance", "Protection", "Social Order", "Boundaries"],
+    "sot_text": {
+      "original": "Heimdallr heitir einn. Hann er kallaðr hvíti Áss. Hann er mikill ok heilagr.",
+      "translations": {
+        "faulkes_1987": "One is called Heimdall. He is called the white Aesir. He is great and holy.",
+        "byock_2005": "Heimdall is the name of one. He is called the white Aesir. He is great and holy.",
+        "brodeur_1916": "Heimdallr is the name of one: he is called the White God. He is great and holy."
+      }
+    },
+    "runic_anchor": { "rune": "Dagaz (ᛞ)", "meaning": "Awakening and Clarity" },
+    "visual_symbols": ["Gjallarhorn", "Bifröst", "The Ram"],
+    "natural_correspondences": { "animals": ["Rams", "White Horses"], "plants": ["Angelica"], "direction": "The Zenith" },
+    "ritual_practice": { "colors": ["White", "Silver"], "crystals_modern": ["Opal", "Moonstone"] },
+    "historical_offerings": "Keys, horns, and objects associated with thresholds/guarding.",
+    "associated_holidays": ["holiday_vetrnaetr"],
+    "common_invocations": "The White God, Watchman of Asgard.",
+    "practical_application": "System monitoring, establishing security perimeters, and maintaining communal boundaries.",
+    "modern_extrapolation": { "professions": ["Cybersecurity", "Emergency Dispatchers"], "tech_sphere": "Firewalls and Monitoring Systems" },
+    "academic_note": "The 'White God' and watchman of Asgard. He has extraordinary senses, hearing grass grow."
+  },
+  {
+    "deity_id": "deity_loki",
+    "name": "Loki",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 33",
+    "spheres": ["Change", "Wit", "Chaos", "Ingenuity"],
+    "sot_text": {
+      "original": "Sá er enn taldr með Ásum, er sumir kalla rógbera Ásanna ok frumkveða flærðanna ok vömm allra goða ok manna.",
+      "translations": {
+        "faulkes_1987": "There is also one counted among the Aesir whom some call the slanderer of the Aesir and the source of deceit and the disgrace of all gods and men.",
+        "byock_2005": "There is also one counted among the Aesir whom some call the slanderer of the Aesir and the originator of deceits and the shame of all gods and men.",
+        "brodeur_1916": "Also numbered among the Æsir is he whom some call the backbiter of the Æsir, and the first father of falsehoods, and the blemish of all gods and men."
+      }
+    },
+    "runic_anchor": { "rune": "Kenaz (ᚲ)", "meaning": "The Torch and Transformation" },
+    "visual_symbols": ["The Mask", "Fishing Net", "Snake"],
+    "natural_correspondences": { "animals": ["Salmon", "Fly", "Fox"], "plants": ["Nettles"], "direction": "Center" },
+    "ritual_practice": { "colors": ["Bright Orange", "Venom Green"], "crystals_modern": ["Obsidian", "Moldavite"] },
+    "historical_offerings": "Objects associated with fire or trickery.",
+    "associated_holidays": [],
+    "common_invocations": "The Slanderer, The Shape-shifter.",
+    "practical_application": "Bug hunting, disruptive innovation, and identified critical flaws in a system.",
+    "modern_extrapolation": { "professions": ["Software Debuggers", "Innovators"], "tech_sphere": "Disruptive Tech and Bug Hunting" },
+    "academic_note": "Counted among the Aesir but acts as their slanderer and source of deceit."
+  },
+  {
+    "deity_id": "deity_frigg",
+    "name": "Frigg",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 35",
+    "spheres": ["Marriage", "Motherhood", "Prophecy", "Household"],
+    "sot_text": {
+      "original": "Frigg er æðst. Hon á þann bœ er Fensalir heita ok er hann mjök prúðligr.",
+      "translations": {
+        "faulkes_1987": "Frigg is the highest. She has a dwelling called Fensalir and it is very magnificent.",
+        "byock_2005": "Frigg is the foremost. She owns the hall called Fensalir and it is very splendid.",
+        "brodeur_1916": "Frigg is the first: she possesses the lordly abode which is called Fensalir."
+      }
+    },
+    "runic_anchor": { "rune": "Perthro (ᛈ)", "meaning": "Fate and Mystery" },
+    "visual_symbols": ["The Spindle", "House Keys", "Mistletoe"],
+    "natural_correspondences": { "animals": ["Herons", "Sheep"], "plants": ["Linen"], "direction": "Center" },
+    "ritual_practice": { "colors": ["White", "Pale Blue"], "crystals_modern": ["Moonstone", "Selenite"] },
+    "historical_offerings": "Linen, spinning tools, and keys.",
+    "associated_holidays": ["Mothers' Night", "Spring festivals"],
+    "common_invocations": "Queen of Asgard, Foremost of Goddesses.",
+    "practical_application": "Domestic infrastructure management, high-level diplomacy, and private prophecy.",
+    "modern_extrapolation": { "professions": ["Diplomacy", "Midwifery"], "tech_sphere": "Cloud Computing and Domestic Infrastructure" },
+    "academic_note": "The highest goddess. She owns the magnificent hall Fensalir."
+  },
+  {
+    "deity_id": "deity_eir",
+    "name": "Eir",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 35",
+    "spheres": ["Healing", "Medicine", "Mercy", "Care-taking"],
+    "sot_text": {
+      "original": "Þriðja er Eir. Hon er læknir beztr.",
+      "translations": {
+        "faulkes_1987": "The third is Eir. She is the best physician.",
+        "byock_2005": "The third is Eir. She is the best of healers.",
+        "brodeur_1916": "The third is Eir: she is an extremely good physician."
+      }
+    },
+    "runic_anchor": { "rune": "Berkano (ᛒ)", "meaning": "Birth and Healing" },
+    "visual_symbols": ["Mortar and Pestle", "Healing Herbs", "Copper"],
+    "natural_correspondences": { "animals": ["Dogs"], "plants": ["Lavender", "Sage"], "direction": "West" },
+    "ritual_practice": { "colors": ["White", "Soft Green"], "crystals_modern": ["Amethyst", "Bloodstone"] },
+    "historical_offerings": "Healing herbs, water, and acts of nursing.",
+    "associated_holidays": [],
+    "common_invocations": "The Best Physician, Healer of Gods.",
+    "practical_application": "Crisis medical care, restoration of system health, and mercy-based intervention.",
+    "modern_extrapolation": { "professions": ["Nursing", "Surgery"], "tech_sphere": "HealthTech and Bioinformatics" },
+    "academic_note": "Specifically named as the best of healers among the deities."
+  },
+  {
+    "deity_id": "deity_gefjun",
+    "name": "Gefjun",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 35",
+    "spheres": ["Land", "Plowing", "Virginity", "Service"],
+    "sot_text": {
+      "original": "Fjórða er Gefjun. Hon er mær, ok henni þjóna þær er meyjar andast.",
+      "translations": {
+        "faulkes_1987": "The fourth is Gefjun. She is a virgin, and she is served by those who die as virgins.",
+        "byock_2005": "The fourth is Gefjun. She is a virgin, and those who die virgins serve her.",
+        "brodeur_1916": "The fourth is Gefjun: she is a virgin, and they that die maidens attend her."
+      }
+    },
+    "runic_anchor": { "rune": "Fehu (ᚠ)", "meaning": "Growth and Land Reclamation" },
+    "visual_symbols": ["The Plow", "Four Oxen", "The Field"],
+    "natural_correspondences": { "animals": ["Oxen", "Draft Horses"], "plants": ["Wild Grasses"], "direction": "East" },
+    "ritual_practice": { "colors": ["Earth Brown", "Deep Green"], "crystals_modern": ["Moss Agate", "Tree Agate"] },
+    "historical_offerings": "Agricultural symbols, plowshares, and dairy.",
+    "associated_holidays": ["Plowing festivals", "Land-taking days"],
+    "common_invocations": "The Plow-Goddess, Protector of Virgins.",
+    "practical_application": "Land surveyance, reclaiming lost resources, and foundational service.",
+    "modern_extrapolation": { "professions": ["Land Surveyors", "Charity founders"], "tech_sphere": "Geo-Spatial Data and Urban Planning" },
+    "academic_note": "A virgin goddess served by those who die as virgins. Associated with plowing land from the sea."
+  },
+  {
+    "deity_id": "deity_snotra",
+    "name": "Snotra",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 35",
+    "spheres": ["Courtesy", "Wisdom", "Etiquette", "Self-Control"],
+    "sot_text": {
+      "original": "Þrettánda Snotra. Hon er vitr ok fínlát.",
+      "translations": {
+        "faulkes_1987": "Thirteenth Snotra. She is wise and courtly.",
+        "byock_2005": "The thirteenth is Snotra. She is wise and courtly.",
+        "brodeur_1916": "The thirteenth is Snotra: she is prudent and courtly."
+      }
+    },
+    "runic_anchor": { "rune": "Ansuz (ᚨ)", "meaning": "Divine Breath and Conduct" },
+    "visual_symbols": ["A Folded Napkin", "Handheld Fan", "The Threshold"],
+    "natural_correspondences": { "animals": ["Swan", "Honeybee"], "plants": ["Lavender"], "direction": "The Reception" },
+    "ritual_practice": { "colors": ["Soft Violet", "Silver"], "crystals_modern": ["Amethyst", "Fluorite"] },
+    "historical_offerings": "Acts of hospitality and polite conduct.",
+    "associated_holidays": ["Feasts of welcome"],
+    "common_invocations": "The Courtly, The Wise Woman.",
+    "practical_application": "Navigating complex social interfaces, maintaining self-control in heated debate, and hospitality.",
+    "modern_extrapolation": { "professions": ["Diplomats", "Hospitality"], "tech_sphere": "Social Platforms and HCI" },
+    "academic_note": "Prudent and courtly. Her name is derived from 'snotr' (wise/clever)."
+  },
+  {
+    "deity_id": "deity_bragi",
+    "name": "Bragi",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 26",
+    "spheres": ["Poetry", "Eloquence", "Music", "Skaldship"],
+    "sot_text": {
+      "original": "Einn heitir Bragi. Hann er ágætr at speki ok mest at málsnilli ok orðfimi. Hann kann mest af skáldskap.",
+      "translations": {
+        "faulkes_1987": "One is called Bragi. He is famous for wisdom and especially for eloquence and command of language. He knows most about poetry.",
+        "byock_2005": "One is named Bragi. He is famous for his wisdom and even more for his eloquence and command of language. He is a great master of poetry.",
+        "brodeur_1916": "One is called Bragi: he is renowned for wisdom, and most of all for fluency of speech and skill with words. He knows most of skaldship."
+      }
+    },
+    "runic_anchor": { "rune": "Ansuz (ᚨ)", "meaning": "Poetry and Communication" },
+    "visual_symbols": ["The Harp", "The Long Beard", "Mead"],
+    "natural_correspondences": { "animals": ["Songbirds"], "plants": ["Beech Tree"], "direction": "The Throat" },
+    "ritual_practice": { "colors": ["Sky Blue", "Silver"], "crystals_modern": ["Blue Lace Agate", "Celestite"] },
+    "historical_offerings": "Mealy wine, spoken poetry, and crafted songs.",
+    "associated_holidays": ["Festivals of poetry"],
+    "common_invocations": "The Long-Bearded, Master of Poetry.",
+    "practical_application": "Public speaking, persuasive writing, and artistic skill.",
+    "modern_extrapolation": { "professions": ["Podcasters", "Songwriters"], "tech_sphere": "Speech AI and Audio Engineering" },
+    "academic_note": "Famous for wisdom and eloquence. He knows most about poetry."
+  },
+  {
+    "deity_id": "deity_hodr",
+    "name": "Höðr",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 28",
+    "spheres": ["Tragedy", "Blindness", "Fate", "Strength"],
+    "sot_text": {
+      "original": "Höðr heitir einn Ássinn, hann er blindr. Œrit er hann styrkr, en vilja mundu goðin at þenna Áss þyrfti eigi at nefna.",
+      "translations": {
+        "faulkes_1987": "There is an Aesir called Hod. He is blind. He has sufficient strength, but the gods would have wished that there should be no need to mention this Aesir.",
+        "byock_2005": "There is an Aesir named Hod. He is blind. He is very strong, but the gods would have preferred that they had no reason to name this Aesir.",
+        "brodeur_1916": "Höðr is the name of one of the Æsir: he is blind. He is of sufficient strength, but the gods would desire that no occasion should rise of naming this Æsir."
+      }
+    },
+    "runic_anchor": { "rune": "Hagalaz (ᚼ)", "meaning": "Hail and Fate" },
+    "visual_symbols": ["Mistletoe Arrow", "Closed Eyes", "Shroud"],
+    "natural_correspondences": { "animals": ["Night Owls"], "plants": ["Mistletoe"], "direction": "The Nadir" },
+    "ritual_practice": { "colors": ["Black", "Midnight Blue"], "crystals_modern": ["Obsidian", "Onyx"] },
+    "historical_offerings": "None recorded.",
+    "associated_holidays": ["Baldr's death commemoration"],
+    "common_invocations": "The Blind God, Slayer of Baldr.",
+    "practical_application": "Acceptance of tragic fate, navigating blindness (physical or metaphorical), and handling immense strength.",
+    "modern_extrapolation": { "professions": ["Grief Counselors", "Accessibility advocates"], "tech_sphere": "Accessibility Hardware" },
+    "academic_note": "The blind god. Sufficiently strong, but associated with the tragedy of Baldr."
+  },
+  {
+    "deity_id": "deity_vidar",
+    "name": "Víðarr",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 29",
+    "spheres": ["Vengeance", "Silence", "Survival", "Nature's Strength"],
+    "sot_text": {
+      "original": "Víðarr heitir einn, hinn þögli Áss. Hann á hvern skó þykkvan. Hann er djarfastr næst Þór.",
+      "translations": {
+        "faulkes_1987": "There is one called Vidar, the silent Aesir. He has a very thick shoe. He is the strongest next to Thor.",
+        "byock_2005": "One is named Vidar, the silent Aesir. He has a thick shoe. He is the strongest after Thor.",
+        "brodeur_1916": "Víðarr is the name of one, the silent Æsir. He has a thick shoe. He is nearly as strong as Thor."
+      }
+    },
+    "runic_anchor": { "rune": "Eihwaz (ᛇ)", "meaning": "Endurance and Longevity" },
+    "visual_symbols": ["The Thick Shoe", "Iron Sword", "Forest"],
+    "natural_correspondences": { "animals": ["Owls", "Lynx"], "plants": ["Yew Tree"], "direction": "Down" },
+    "ritual_practice": { "colors": ["Dark Green", "Leather Brown"], "crystals_modern": ["Green Jasper", "Petrified Wood"] },
+    "historical_offerings": "Leather scraps, meditative silence.",
+    "associated_holidays": ["Survival/Renewal festivals"],
+    "common_invocations": "The Silent God, Avenger of Odin.",
+    "practical_application": "Long-term endurance, avenging a systemic failure, and the strength of silence.",
+    "modern_extrapolation": { "professions": ["Park Rangers", "Survivalists"], "tech_sphere": "Long-term Data Storage" },
+    "academic_note": "The silent Aesir. Destined to avenge Odin at Ragnarök."
+  },
+  {
+    "deity_id": "deity_vali",
+    "name": "Váli",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 30",
+    "spheres": ["Justice", "Marksman-ship", "Survival", "Rapid Growth"],
+    "sot_text": {
+      "original": "Váli heitir einn, sonr Óðins ok Rindar. Hann er djarfr í orrostum ok mjök happskeytr.",
+      "translations": {
+        "faulkes_1987": "One is called Vali, son of Odin and Rind. He is daring in battle and a very good shot.",
+        "byock_2005": "One is named Vali, the son of Odin and Rind. He is daring in battle and an excellent marksman.",
+        "brodeur_1916": "Váli is the name of one, son of Odin and Rindr: he is daring in fights, and a most fortunate marksman."
+      }
+    },
+    "runic_anchor": { "rune": "Eihwaz (ᛇ)", "meaning": "Endurance and Survival" },
+    "visual_symbols": ["An Arrow", "Newborn Child", "The Bow"],
+    "natural_correspondences": { "animals": ["Wolf", "Hound"], "plants": ["Yew Tree"], "direction": "The Future" },
+    "ritual_practice": { "colors": ["Blood Red", "Winter Grey"], "crystals_modern": ["Iron Pyrite", "Garnet"] },
+    "historical_offerings": "Archery targets, clear water, acts of loyalty.",
+    "associated_holidays": [],
+    "common_invocations": "The Avenger, The Marksman.",
+    "practical_application": "Rapid response to injustice, focused survival, and rapid skill acquisition.",
+    "modern_extrapolation": { "professions": ["Rapid Response", "Personal Security"], "tech_sphere": "Self-Healing Code" },
+    "academic_note": "Son of Odin and Rind. Daring in battle and a most fortunate marksman."
+  },
+  {
+    "deity_id": "deity_ullr",
+    "name": "Ullr",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 31",
+    "spheres": ["Archery", "Skiing", "Hunting", "Vows"],
+    "sot_text": {
+      "original": "Ullr heitir einn, sonr Sifjar, stjúpsonr Þórs. Hann er bogmaðr svá góðr ok skíðfœrr svá at engi má við hann keppast.",
+      "translations": {
+        "faulkes_1987": "There is one called Ullr, son of Sif, stepson of Thor. He is such a good archer and skier that no one can compete with him.",
+        "byock_2005": "One is named Ullr, the son of Sif and the stepson of Thor. He is such a good archer and skier that no one can compete with him.",
+        "brodeur_1916": "Ullr is the name of one, son of Sif, stepson of Thor; he is so a good archer, and so able a skier that none may compete with him."
+      }
+    },
+    "runic_anchor": { "rune": "Eihwaz (ᛇ)", "meaning": "Archery and Endurance" },
+    "visual_symbols": ["Longbow", "Skis", "Arm-Ring"],
+    "natural_correspondences": { "animals": ["Elk", "Wolf"], "plants": ["Yew Tree"], "direction": "North" },
+    "ritual_practice": { "colors": ["Winter White", "Hunter Green"], "crystals_modern": ["Snowflake Obsidian", "Green Tourmaline"] },
+    "historical_offerings": "Hunt trophies, ski-gear, sacred rings.",
+    "associated_holidays": ["Winter festivals"],
+    "common_invocations": "The Ski-God, Bowman of the Aesir.",
+    "practical_application": "Navigating difficult terrain, hunting for resources, and fulfilling sacred oaths.",
+    "modern_extrapolation": { "professions": ["Search and Rescue", "Park Rangers"], "tech_sphere": "Navigation Systems" },
+    "academic_note": "Son of Sif. So good an archer and skier that none can compete with him."
+  },
+  {
+    "deity_id": "deity_forseti",
+    "name": "Forseti",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 32",
+    "spheres": ["Justice", "Mediation", "Reconciliation", "Law"],
+    "sot_text": {
+      "original": "Forseti heitir sonr Baldrs ok Nönnu Nepsdóttur. Hann á þann sal á himni er Glitnir heitir.",
+      "translations": {
+        "faulkes_1987": "Forseti is the name of the son of Baldr and Nanna Nepsdottir. He has a hall in heaven called Glitnir.",
+        "byock_2005": "Forseti is the name of the son of Baldr and Nanna, Nanna's daughter. He has a hall in heaven called Glitnir.",
+        "brodeur_1916": "Forseti is the name of the son of Baldr and Nanna, daughter of Nep: he has that hall in heaven which is called Glitnir."
+      }
+    },
+    "runic_anchor": { "rune": "Raidho (ᚱ)", "meaning": "The Law and Right Action" },
+    "visual_symbols": ["The Gavel", "Scales", "The Axe"],
+    "natural_correspondences": { "animals": ["Falcons", "Horses"], "plants": ["Silver Birch"], "direction": "Nadir" },
+    "ritual_practice": { "colors": ["Gold", "White"], "crystals_modern": ["Clear Quartz", "Citrine"] },
+    "historical_offerings": "Agreements, written contracts, and peaceful dialogue.",
+    "associated_holidays": ["Legal Thing days"],
+    "common_invocations": "The Arbitrator, Son of Baldr.",
+    "practical_application": "Resolving long-standing disputes, mediation, and establishing legal fairness.",
+    "modern_extrapolation": { "professions": ["Lawyers", "Mediators"], "tech_sphere": "Blockchain Ledgers" },
+    "academic_note": "Son of Baldr. He has the hall Glitnir and settles all disputes."
+  },
+  {
+    "deity_id": "deity_saga",
+    "name": "Sága",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 35",
+    "spheres": ["History", "Storytelling", "Memories", "Prophecy"],
+    "sot_text": {
+      "original": "Önnur er Sága. Hon býr á Sökkvabekk, ok er þat mikill bœr.",
+      "translations": {
+        "faulkes_1987": "The second is Saga. She lives at Sokkvabekk, and that is a large dwelling.",
+        "byock_2005": "The second is Saga. She lives at Sokkvabekk, and it is a large place.",
+        "brodeur_1916": "The second is Sága: she dwells at Sökkvabekkr, and very large is that abode."
+      }
+    },
+    "runic_anchor": { "rune": "Perthro (ᛈ)", "meaning": "Memory and the Story" },
+    "visual_symbols": ["Golden Cup", "The Scroll", "Water"],
+    "natural_correspondences": { "animals": ["Otters"], "plants": ["Water Lilies"], "direction": "West" },
+    "ritual_practice": { "colors": ["Deep Indigo", "Gold"], "crystals_modern": ["Sodalite", "Azurite"] },
+    "historical_offerings": "Golden cups, drink, and shared tales.",
+    "associated_holidays": ["Storytelling gatherings"],
+    "common_invocations": "The Chronicler, Drinker with Odin.",
+    "practical_application": "Archiving communal knowledge, preservation of heritage, and storytelling as a tool for prophecy.",
+    "modern_extrapolation": { "professions": ["Archivists", "Historians"], "tech_sphere": "Version Control (Git)" },
+    "academic_note": "She dwells at Sökkvabekkr, and very large is that abode."
+  },
+  {
+    "deity_id": "deity_fulla",
+    "name": "Fulla",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 35",
+    "spheres": ["Secrets", "Confidence", "Abundance", "Personal Care"],
+    "sot_text": {
+      "original": "Fimmta er Fulla. Hon er enn mær ok gengr laushár ok hefir gullband um höfuð. Hon berr eski Friggjar.",
+      "translations": {
+        "faulkes_1987": "The fifth is Fulla. She is also a virgin and goes with her hair loose and has a golden band round her head. She carries Frigg's casket.",
+        "byock_2005": "The fifth is Fulla. She is also a virgin and goes with her hair flowing and a gold band around her head. She carries Frigg's jewelry box.",
+        "brodeur_1916": "The fifth is Fulla: she also is a maid, and goes with hair flowing and a golden band about her head; she bears Frigg's coffer."
+      }
+    },
+    "runic_anchor": { "rune": "Wunjo (ᚹ)", "meaning": "Joy and Abundance" },
+    "visual_symbols": ["The Casket", "Golden Snood", "Keys"],
+    "natural_correspondences": { "animals": ["Fawn"], "plants": ["Goldenrod"], "direction": "Interior" },
+    "ritual_practice": { "colors": ["Gold", "Cream"], "crystals_modern": ["Citrine", "Topaz"] },
+    "historical_offerings": "Golden bands, jewelry boxes, and shared secrets.",
+    "associated_holidays": ["Handmaid festivals"],
+    "common_invocations": "The Maid of Frigg, The Secret-Keeper.",
+    "practical_application": "Maintaining security of internal communications, personal care, and protecting shared abundance.",
+    "modern_extrapolation": { "professions": ["Personal Assistants"], "tech_sphere": "Secure Messaging" },
+    "academic_note": "A maid who bears Frigg's coffer and goes with hair flowing."
+  },
+  {
+    "deity_id": "deity_sjofn",
+    "name": "Sjöfn",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 35",
+    "spheres": ["Affection", "Emotional Love", "Family Harmony", "Infatuation"],
+    "sot_text": {
+      "original": "Sjöunda er Sjöfn. Hon gætir mjök til at snúa hugum manna til ásta, kvenna ok karla.",
+      "translations": {
+        "faulkes_1987": "Seventh is Sjofn. She is much concerned to turn people's minds to love, both women and men.",
+        "byock_2005": "The seventh is Sjofn. She is much concerned with turning people's minds to love, both women and men.",
+        "brodeur_1916": "The seventh is Sjöfn: she is much concerned to turn men's minds to love, women and men alike."
+      }
+    },
+    "runic_anchor": { "rune": "Gebo (ᚷ)", "meaning": "Affection and Partnership" },
+    "visual_symbols": ["Intertwined Hearts", "Hearth", "Clasped Hands"],
+    "natural_correspondences": { "animals": ["Dove"], "plants": ["Strawberry"], "direction": "Center" },
+    "ritual_practice": { "colors": ["Rose Pink", "Deep Red"], "crystals_modern": ["Rose Quartz", "Rhodonite"] },
+    "historical_offerings": "Social gifts, letters, and hospitality.",
+    "associated_holidays": [],
+    "common_invocations": "The Mind-Turner, Lady of Affection.",
+    "practical_application": "Mending broken relationships, fostering communal affection, and emotional intelligence.",
+    "modern_extrapolation": { "professions": ["Counselors", "Organizers"], "tech_sphere": "Social Platforms" },
+    "academic_note": "Concerned to turn men's minds to love, women and men alike."
+  },
+  {
+    "deity_id": "deity_lofn",
+    "name": "Lofn",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 35",
+    "spheres": ["Forbidden Love", "Marital Permission", "Kindness", "Praise"],
+    "sot_text": {
+      "original": "Átta er Lofn. Hon er svá mild ok góð til áheita at hon fær lof af Alföðr eða Frigg til samgangs manna.",
+      "translations": {
+        "faulkes_1987": "Eighth is Lofn. She is so kind and good to pray to that she gets permission from All-father or Frigg for people to come together in marriage.",
+        "byock_2005": "The eighth is Lofn. She is so kind and good to pray to that she gets permission from All-father or Frigg for people to come together.",
+        "brodeur_1916": "The eighth is Lofn: she is so gracious and kindly to pray to, that she wins leave from the All-father or Frigg for the coming together of mankind."
+      }
+    },
+    "runic_anchor": { "rune": "Laguz (ᛚ)", "meaning": "Flow and Overcoming Barriers" },
+    "visual_symbols": ["Keys", "Permission Scroll", "The Gate"],
+    "natural_correspondences": { "animals": ["Swan"], "plants": ["Primrose"], "direction": "Threshold" },
+    "ritual_practice": { "colors": ["Silver", "Lavender"], "crystals_modern": ["Amethyst", "Moonstone"] },
+    "historical_offerings": "Vows of loyalty and permission-seeking prayers.",
+    "associated_holidays": ["Wedding anniversaries"],
+    "common_invocations": "The Gracious, Permitter of Marriage.",
+    "practical_application": "Gaining permission for a difficult union, mediating between authority and individual desire.",
+    "modern_extrapolation": { "professions": ["Civil Rights Lawyers", "Mediators"], "tech_sphere": "Access Systems" },
+    "academic_note": "So gracious that she wins leave from Frigg for the coming together of mankind."
+  },
+  {
+    "deity_id": "deity_var",
+    "name": "Vár",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 35",
+    "spheres": ["Oaths", "Private Compacts", "Contracts", "Truth"],
+    "sot_text": {
+      "original": "Níunda er Vár. Hon hlýðir á eiða manna ok einkamál er konur ok karlar gera sín á milli.",
+      "translations": {
+        "faulkes_1987": "Ninth is Var. She listens to people's oaths and private agreements that women and men make between each other.",
+        "byock_2005": "The ninth is Var. She listens to people's oaths and the private agreements that women and men make between themselves.",
+        "brodeur_1916": "The ninth is Vár: she hearkens to the oaths of men and the private compacts which women and men make between each other."
+      }
+    },
+    "runic_anchor": { "rune": "Gebo (ᚷ)", "meaning": "The Gift and the Oath" },
+    "visual_symbols": ["Wedding Ring", "Contract", "Hands"],
+    "natural_correspondences": { "animals": ["Doves"], "plants": ["Rosemary"], "direction": "Meeting Place" },
+    "ritual_practice": { "colors": ["Pure White", "Silver"], "crystals_modern": ["Diamond", "Clear Quartz"] },
+    "historical_offerings": "Solemn oaths, written contracts, and shared drinking.",
+    "associated_holidays": ["Oath-taking days"],
+    "common_invocations": "The Listener of Oaths, Goddess of Vows.",
+    "practical_application": "Verifying the truth of a contract, establishing an unbreakable vow, and notarizing agreements.",
+    "modern_extrapolation": { "professions": ["Notaries", "Contract Lawyers"], "tech_sphere": "Smart Contracts" },
+    "academic_note": "She hearkens to the oaths of men and private compacts."
+  },
+  {
+    "deity_id": "deity_vor",
+    "name": "Vör",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 35",
+    "spheres": ["Awareness", "Intuition", "Investigation", "Wisdom"],
+    "sot_text": {
+      "original": "Tíunda er Vör. Hon er ok vitr ok spurul svá at ekki má hana leyna.",
+      "translations": {
+        "faulkes_1987": "Tenth is Vor. She is also wise and searching so that nothing can be concealed from her.",
+        "byock_2005": "The tenth is Vor. She is also wise and inquiring, so that nothing can be hidden from her.",
+        "brodeur_1916": "The tenth is Vör: she is wise and of searching spirit, so that nothing can be hidden from her."
+      }
+    },
+    "runic_anchor": { "rune": "Ansuz (ᚨ)", "meaning": "Awareness and Truth" },
+    "visual_symbols": ["Magnifying Glass", "Open Eye", "Lamp"],
+    "natural_correspondences": { "animals": ["Fox", "Lynx"], "plants": ["Eyebright"], "direction": "The Horizon" },
+    "ritual_practice": { "colors": ["White", "Electric Blue"], "crystals_modern": ["Clear Quartz", "Lapis"] },
+    "historical_offerings": "Meditative focus and investigative work.",
+    "associated_holidays": ["Days of deep study"],
+    "common_invocations": "The Wise, The Searching One.",
+    "practical_application": "Uncovering hidden data, intuition-led investigation, and deep-dive research.",
+    "modern_extrapolation": { "professions": ["Data Scientists", "Investigators"], "tech_sphere": "Threat Detection" },
+    "academic_note": "Wise and searching; nothing can be hidden from her."
+  },
+  {
+    "deity_id": "deity_syn",
+    "name": "Syn",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 35",
+    "spheres": ["Defense", "Refusal", "Boundary Protection", "Legal Denial"],
+    "sot_text": {
+      "original": "Ellifta er Syn. Hon gætir dura í höllinni ok lýkr fyrir þeim er eigi skulu inn ganga.",
+      "translations": {
+        "faulkes_1987": "Eleventh is Syn. She guards the doors in the hall and shuts them against those who are not to enter.",
+        "byock_2005": "The eleventh is Syn. She guards the doors of the hall and shuts them against those who are not supposed to enter.",
+        "brodeur_1916": "The eleventh is Syn: she keeps the door in the hall, and locks it before those who should not go in."
+      }
+    },
+    "runic_anchor": { "rune": "Algiz (ᛉ)", "meaning": "The Shield and Protection" },
+    "visual_symbols": ["Locked Door", "The Shield", "Barred Gate"],
+    "natural_correspondences": { "animals": ["Guard Dogs"], "plants": ["Thorns"], "direction": "Perimeter" },
+    "ritual_practice": { "colors": ["Iron Grey", "Black"], "crystals_modern": ["Black Tourmaline", "Obsidian"] },
+    "historical_offerings": "Locked doors, boundary markers, legal arguments.",
+    "associated_holidays": [],
+    "common_invocations": "Guard of the Doors, The Refuser.",
+    "practical_application": "Establishing secure firewalls, saying 'No' to encroachment, and boundary defense.",
+    "modern_extrapolation": { "professions": ["Bouncers", "Cybersecurity"], "tech_sphere": "Firewalls and VPNs" },
+    "academic_note": "She keeps the door in the hall and locks it before those who should not go in."
+  },
+  {
+    "deity_id": "deity_hlin",
+    "name": "Hlín",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 35",
+    "spheres": ["Protection", "Rescue", "Consolation", "Safety"],
+    "sot_text": {
+      "original": "Tólfta er Hlín. Hon er sett til gæzlu yfir þeim mönnum er Frigg vill forða við háska nökkurum.",
+      "translations": {
+        "faulkes_1987": "Twelfth is Hlin. She is set to guard those people whom Frigg wishes to save from some danger.",
+        "byock_2005": "The twelfth is Hlin. She is appointed to guard those people whom Frigg wants to protect from some danger.",
+        "brodeur_1916": "The twelfth is Hlín: she is established as keeper over those men whom Frigg desires to preserve from any danger."
+      }
+    },
+    "runic_anchor": { "rune": "Algiz (ᛉ)", "meaning": "Protection and Divine Shield" },
+    "visual_symbols": ["The Shield", "Open Hand", "Cloak"],
+    "natural_correspondences": { "animals": ["Deer", "Dogs"], "plants": ["Hawthorn"], "direction": "Interior" },
+    "ritual_practice": { "colors": ["Grey", "Muted Blue"], "crystals_modern": ["Hematite", "Black Tourmaline"] },
+    "historical_offerings": "Acts of rescue, safety measures, quiet care.",
+    "associated_holidays": [],
+    "common_invocations": "The Protector, Guard of the Endangered.",
+    "practical_application": "Disaster recovery, providing refuge for those in danger, and consolation.",
+    "modern_extrapolation": { "professions": ["Crisis Counselors", "Protective Detail"], "tech_sphere": "Disaster Recovery" },
+    "academic_note": "Established as keeper over those men whom Frigg desires to preserve from danger."
+  },
+  {
+    "deity_id": "deity_gna",
+    "name": "Gná",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 35",
+    "spheres": ["Communication", "Travel", "Agility", "Swiftness"],
+    "sot_text": {
+      "original": "Fjórtánda er Gná. Hana sendir Frigg í ýmsa heima at sínum erindum.",
+      "translations": {
+        "faulkes_1987": "Fourteenth is Gna. Frigg sends her into various worlds on her business.",
+        "byock_2005": "The fourteenth is Gna. Frigg sends her into various worlds on her business.",
+        "brodeur_1916": "The fourteenth is Gná: her Frigg sends into many lands on her errands."
+      }
+    },
+    "runic_anchor": { "rune": "Ehwaz (ᛗ)", "meaning": "Partnership and Speed" },
+    "visual_symbols": ["Hófvarpnir", "Message Scroll", "Horizon"],
+    "natural_correspondences": { "animals": ["Pigeons", "Swallows"], "plants": ["Birch"], "direction": "Sky" },
+    "ritual_practice": { "colors": ["Sky Blue", "Windy Grey"], "crystals_modern": ["Blue Goldstone", "Celestite"] },
+    "historical_offerings": "Hoof-prints, courier items, swift action.",
+    "associated_holidays": ["Travel blessings"],
+    "common_invocations": "The Messenger, Rider of Hofvarpnir.",
+    "practical_application": "Rapid delivery of information, physical speed, and cross-boundary communication.",
+    "modern_extrapolation": { "professions": ["Aviation", "Couriers"], "tech_sphere": "GPS and Sat-Comms" },
+    "academic_note": "Frigg sends her into many lands on her errands."
+  },
+  {
+    "deity_id": "deity_sif",
+    "name": "Sif",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 21",
+    "spheres": ["Harvest", "Earth", "Fidelity", "Wealth"],
+    "sot_text": {
+      "original": "Sif er kona Þórs. Hon er fögr ok hefir gullit hár.",
+      "translations": {
+        "faulkes_1987": "Sif is Thor's wife. She is beautiful and has golden hair.",
+        "byock_2005": "Sif is Thor's wife. She is fair and has golden hair.",
+        "brodeur_1916": "Sif is Thor's wife: she is fair and has golden hair."
+      }
+    },
+    "runic_anchor": { "rune": "Jera (ᛂ)", "meaning": "Harvest and Fidelity" },
+    "visual_symbols": ["Golden Wheat", "The Sickle", "Golden Hair"],
+    "natural_correspondences": { "animals": ["Horses", "Bulls"], "plants": ["Wheat", "Barley"], "direction": "The Earth" },
+    "ritual_practice": { "colors": ["Gold", "Earth Brown"], "crystals_modern": ["Pyrite", "Tiger's Eye"] },
+    "historical_offerings": "Golden grain, corn-dollies, metalwork.",
+    "associated_holidays": ["Harvest festivals", "Marriage feasts"],
+    "common_invocations": "The Golden-Haired, Wife of Thor.",
+    "practical_application": "Ensuring the success of a long-term harvest, marital fidelity, and material wealth from the earth.",
+    "modern_extrapolation": { "professions": ["Farmers", "Hairstylists"], "tech_sphere": "Ag-Monitoring" },
+    "academic_note": "Thor's wife. Fair and has golden hair, representing the grain of the earth."
+  },
+  {
+    "deity_id": "deity_idunn",
+    "name": "Iðunn",
+    "pantheon": "Æsir",
+    "primary_source": "Skáldskaparmál, Ch. 1",
+    "spheres": ["Youth", "Vitality", "Immortality", "Renovation"],
+    "sot_text": {
+      "original": "Iðunn geymir í eski sínu epli þau er goðin skulu á bíta er þau eldast, ok verða þá allir ungir.",
+      "translations": {
+        "faulkes_1987": "Idunn keeps in her casket those apples which the gods must taste when they grow old, and then they all become young again.",
+        "byock_2005": "Idunn keeps in her box the apples which the gods must eat when they grow old, and they all then become young again.",
+        "brodeur_1916": "Idunn keeps in her chest those apples which the gods must taste when they grow old; and then they all become young again."
+      }
+    },
+    "runic_anchor": { "rune": "Jera (ᛂ)", "meaning": "Cycle of Renewal" },
+    "visual_symbols": ["The Apple", "The Casket", "Greenery"],
+    "natural_correspondences": { "animals": ["Bees"], "plants": ["Apple Tree"], "direction": "East" },
+    "ritual_practice": { "colors": ["Bright Green", "Apple Red"], "crystals_modern": ["Peridot", "Jade"] },
+    "historical_offerings": "Apples, nuts, mead.",
+    "associated_holidays": ["Spring renewal feasts"],
+    "common_invocations": "The Renewer, Keeper of the Apples.",
+    "practical_application": "Health maintenance, youthfulness of spirit, and the renovation of a system.",
+    "modern_extrapolation": { "professions": ["Nutritionists", "Longevity research"], "tech_sphere": "Biotech" },
+    "academic_note": "Idunn keeps in her casket those apples which the gods must taste to stay young."
+  },
+  {
+    "deity_id": "deity_nanna",
+    "name": "Nanna",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 49",
+    "spheres": ["Devotion", "Grief", "Peace", "Family Unity"],
+    "sot_text": {
+      "original": "Nanna Nepsdóttur var kona Baldrs. Hon sprac af harmi ok dó.",
+      "translations": {
+        "faulkes_1987": "Nanna Nepsdottir was Baldr's wife. She died of a broken heart.",
+        "byock_2005": "Nanna Nepsdottir was Baldr's wife. She burst from grief and died.",
+        "brodeur_1916": "Nanna Nepsdóttir was Baldr's wife. She died of a broken heart."
+      }
+    },
+    "runic_anchor": { "rune": "Wunjo (ᚹ)", "meaning": "Joy and Devotion" },
+    "visual_symbols": ["Funeral Pyre", "Moon", "Ring"],
+    "natural_correspondences": { "animals": ["Swan", "Dove"], "plants": ["White Lily"], "direction": "Interior" },
+    "ritual_practice": { "colors": ["Silver", "White"], "crystals_modern": ["Moonstone", "Selenite"] },
+    "historical_offerings": "Memorial gifts, tokens of love.",
+    "associated_holidays": ["Memorial days"],
+    "common_invocations": "The Devoted, Wife of Baldr.",
+    "practical_application": "Devotion to a partner, processing grief, and finding peace through tragedy.",
+    "modern_extrapolation": { "professions": ["Grief Counselors", "Memorial Artists"], "tech_sphere": "Digital Memorials" },
+    "academic_note": "Baldr's wife. She died of a broken heart and was burned on his funeral pyre."
+  },
+  {
+    "deity_id": "deity_hermodr",
+    "name": "Hermóðr",
+    "pantheon": "Æsir",
+    "primary_source": "Gylfaginning, Ch. 49",
+    "spheres": ["Daring", "Communication", "Diplomacy", "Swift Action"],
+    "sot_text": {
+      "original": "Hermóðr er kallaðr inn hvati, sonr Óðins.",
+      "translations": {
+        "faulkes_1987": "Hermod is called the nimble, son of Odin.",
+        "byock_2005": "Hermod is named the bold, the son of Odin.",
+        "brodeur_1916": "Hermóðr the Bold is he called, Odin's son."
+      }
+    },
+    "runic_anchor": { "rune": "Ehwaz (ᛗ)", "meaning": "Speed and Soul-Traveler" },
+    "visual_symbols": ["Messenger's Staff", "Sleipnir", "Helmet"],
+    "natural_correspondences": { "animals": ["Horses", "Swallows"], "plants": ["Birch"], "direction": "The Road" },
+    "ritual_practice": { "colors": ["Silver", "Breeze Blue"], "crystals_modern": ["Blue Goldstone", "Moonstone"] },
+    "historical_offerings": "Message tokens, items of travel.",
+    "associated_holidays": [],
+    "common_invocations": "The Bold, The Nimble Messenger.",
+    "practical_application": "High-stakes communication, daring physical action, and swift diplomatic intervention.",
+    "modern_extrapolation": { "professions": ["First Responders", "Couriers"], "tech_sphere": "Messaging Protocols" },
+    "academic_note": "Odin's son, called the nimble. He rode Sleipnir into Hel to treat for Baldr."
+  },
+  {
+    "deity_id": "deity_hoenir",
+    "name": "Hœnir",
+    "pantheon": "Æsir",
+    "primary_source": "Skáldskaparmál, Ch. 12",
+    "spheres": ["Spirit", "Creation", "Silence", "Indecision"],
+    "sot_text": {
+      "original": "Hœnir, er kallaðr var hinn skjálgi eða inn þögli Áss.",
+      "translations": {
+        "faulkes_1987": "Hoenir, who was called the long-legged or the silent Aesir.",
+        "byock_2005": "Hoenir, who is called the long-legged or the silent Aesir.",
+        "brodeur_1916": "Hœnir, who is called the long-legged or the silent Æsir."
+      }
+    },
+    "runic_anchor": { "rune": "Mannaz (ᛗ)", "meaning": "Humanity and Spark of Life" },
+    "visual_symbols": ["Long Legs", "Silent Mouth", "Light Spark"],
+    "natural_correspondences": { "animals": ["Stork", "Heron"], "plants": ["Reeds"], "direction": "Nadir" },
+    "ritual_practice": { "colors": ["Slate Grey", "Faint Gold"], "crystals_modern": ["Smoky Quartz", "River Stones"] },
+    "historical_offerings": "Symbolic representations of the spark of life.",
+    "associated_holidays": ["Creation feasts"],
+    "common_invocations": "The Silent God, The Long-Legged.",
+    "practical_application": "Finding the 'spirit' of a project, silent creation, and overcoming indecision through distance.",
+    "modern_extrapolation": { "professions": ["Philosophers", "Consultants"], "tech_sphere": "Artificial Intelligence" },
+    "academic_note": "One of the three primordial gods involved in the creation of mankind."
+  }
+]

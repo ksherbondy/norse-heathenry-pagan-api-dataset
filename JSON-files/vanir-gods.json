@@ -1,0 +1,101 @@
+[
+  {
+    "deity_id": "deity_njordr",
+    "name": "Njörðr",
+    "pantheon": "Vanir",
+    "primary_source": "Gylfaginning, Ch. 23",
+    "spheres": ["Sea", "Wind", "Wealth", "Navigation"],
+    "sot_text": {
+      "original": "Hinn þriðji Áss er sá er kallaðr er Njörðr. Hann býr á himni þar sem heitir Nóatún. Hann ræðr fyrir göngu vinds ok stillir sjá ok eld.",
+      "translations": {
+        "faulkes_1987": "The third Aesir is the one called Njord. He lives in heaven in a place called Noatun. He rules the movement of the wind and calms sea and fire.",
+        "byock_2005": "The third of the Aesir is the one called Njord. He lives in heaven at the place called Noatun. He rules the path of the wind and stills the sea and fire.",
+        "brodeur_1916": "The third Æsir is he that is called Njördr: he dwells in heaven, in the abode called Nóatún; he rules the course of the wind, and stills sea and fire."
+      }
+    },
+    "runic_anchor": { "rune": "Laguz (ᛚ)", "meaning": "Water and Life-Energy" },
+    "visual_symbols": ["The Ship", "Fishing Net", "Sea-Gulls"],
+    "natural_correspondences": { "animals": ["Seals", "Swans"], "plants": ["Seaweed"], "direction": "West" },
+    "ritual_practice": { "colors": ["Sea-Foam Green", "Slate Blue"], "crystals_modern": ["Aquamarine", "Coral"] },
+    "historical_offerings": "Fish, maritime items, and sea-salt.",
+    "associated_holidays": ["Nautical festivals", "Harbor-blessings"],
+    "common_invocations": "Lord of Noatun, Ruler of the Sea.",
+    "practical_application": "Supply chain management, calming conflict, and navigating emotional or physical storms.",
+    "modern_extrapolation": { "professions": ["Logistics", "Marine Biology"], "tech_sphere": "Supply Chain and Shipping Networks" },
+    "academic_note": "A Vanir god sent as a hostage to the Aesir. He rules the course of the wind and stills sea and fire."
+  },
+  {
+    "deity_id": "deity_freyr",
+    "name": "Freyr",
+    "pantheon": "Vanir",
+    "primary_source": "Gylfaginning, Ch. 24",
+    "spheres": ["Fertility", "Prosperity", "Peace", "Sunshine"],
+    "sot_text": {
+      "original": "Freyr er inn ágætasti af Ásum. Hann ræðr fyrir regni ok skini sólar, ok þar með ávexti jarðar.",
+      "translations": {
+        "faulkes_1987": "Freyr is the most glorious of the Aesir. He rules over rain and the shining of the sun, and with them the fruitfulness of the earth.",
+        "byock_2005": "Freyr is the most glorious of the Aesir. He rules over rain and the sun's shining, and also the fruitfulness of the earth.",
+        "brodeur_1916": "Freyr is the most renowned of the Æsir; he rules over the rain and the shining of the sun."
+      }
+    },
+    "runic_anchor": { "rune": "Ingwaz (ᛝ)", "meaning": "Growth and Sacred Peace" },
+    "visual_symbols": ["The Golden Boar", "Skíðblaðnir", "Antlers"],
+    "natural_correspondences": { "animals": ["Stags", "Horses"], "plants": ["Wheat", "Barley"], "direction": "East" },
+    "ritual_practice": { "colors": ["Harvest Gold", "Deep Brown"], "crystals_modern": ["Citrine", "Sunstone"] },
+    "historical_offerings": "Grain, honey, fruit, and agricultural tools.",
+    "associated_holidays": ["holiday_alfablot", "holiday_jol"],
+    "common_invocations": "Lord of the Earth, The Most Glorious.",
+    "practical_application": "Organic growth, establishing peace (frith), and project sustainability.",
+    "modern_extrapolation": { "professions": ["Sustainable Farming", "Engineering"], "tech_sphere": "AgriTech and Green Energy" },
+    "academic_note": "Freyr rules over rain, sunshine, and the fruitfulness of the earth. He is the progenitor of the Swedish royalty (Ynglings)."
+  },
+  {
+    "deity_id": "deity_freyja",
+    "name": "Freyja",
+    "pantheon": "Vanir",
+    "primary_source": "Gylfaginning, Ch. 24",
+    "spheres": ["Love", "Seiðr", "War", "Fertility"],
+    "sot_text": {
+      "original": "Freyja er ágætust af Ásynjum. Hon á þann bœ á himni er Fólkvangr heitir, ok hvar sem hon ríðr til vígs, þá á hon hálfan val, en hálfan Óðinn.",
+      "translations": {
+        "faulkes_1987": "Freyja is the most glorious of the goddesses. She has a dwelling in heaven called Folkvang... wherever she rides to battle she gets half the slain.",
+        "byock_2005": "Freyja is the most glorious of the goddesses. She owns a place in heaven called Folkvang... she gets half the slain, and Odin half.",
+        "brodeur_1916": "Freyja is the most renowned... she has in heaven the dwelling which is called Fólkvangr."
+      }
+    },
+    "runic_anchor": { "rune": "Fehu (ᚠ)", "meaning": "Mobile Wealth and Vital Power" },
+    "visual_symbols": ["Brísingamen", "Falcon Cloak", "The Chariot"],
+    "natural_correspondences": { "animals": ["Cats", "Falcons"], "plants": ["Roses", "Amber"], "direction": "East" },
+    "ritual_practice": { "colors": ["Gold", "Deep Green"], "crystals_modern": ["Amber", "Rose Quartz"] },
+    "historical_offerings": "Jewelry, flowers, amber, and honey.",
+    "associated_holidays": ["holiday_vetrnaetr", "Wife's Day"],
+    "common_invocations": "Lady of the Vanir, The Weeping Goddess.",
+    "practical_application": "Strategic boundary-crossing, asset management, and directing individual will.",
+    "modern_extrapolation": { "professions": ["Social Work", "Jewelry Design"], "tech_sphere": "FinTech and Virtual Reality" },
+    "academic_note": "Governs Seiðr magic and shares the slain with Odin. She is the most renowned of the goddesses."
+  },
+  {
+    "deity_id": "deity_kvasir",
+    "name": "Kvasir",
+    "pantheon": "Vanir",
+    "primary_source": "Ynglinga Saga, Ch. 4",
+    "spheres": ["Wisdom", "Peace", "Inspiration", "Mediation"],
+    "sot_text": {
+      "original": "Vönunum... kallaður Kvasir. Hann var svo vitur að engi maður spurði hann þeirra hluta er eigi kunni hann úrlausn.",
+      "translations": {
+        "hollander_1964": "Among the Vanir... one named Kvasir. He was so wise that no one asked him a question to which he did not know the answer.",
+        "literal": "Among the Vanir was one called Kvasir. He was so wise that no man asked him of things that he knew not the solution."
+      }
+    },
+    "runic_anchor": { "rune": "Ansuz (ᚨ)", "meaning": "Divine Inspiration" },
+    "visual_symbols": ["The Cauldron", "Saliva/Peace Bowl", "Honey"],
+    "natural_correspondences": { "animals": ["Bees"], "plants": ["Meadowsweet"], "direction": "Center" },
+    "ritual_practice": { "colors": ["Amber Gold", "Honey White"], "crystals_modern": ["Citrine", "Honey Calcite"] },
+    "historical_offerings": "Mead, fermented drinks, and shared knowledge.",
+    "associated_holidays": ["Peace feasts"],
+    "common_invocations": "The Wisest Vanir, Seed of Peace.",
+    "practical_application": "Creative problem-solving, mediation between conflicting systems, and the distillation of wisdom.",
+    "modern_extrapolation": { "professions": ["Consultants", "Creative Directors"], "tech_sphere": "Collaborative Software and Wikis" },
+    "academic_note": "Born from the commingled saliva of the Aesir and Vanir to seal their peace treaty. His blood was later mixed with honey to create the Mead of Poetry."
+  }
+]
