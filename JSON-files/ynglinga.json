@@ -1,0 +1,452 @@
+[
+  {
+    "chapter_id": "yng_01",
+    "original": "Kringla heimsins, sú er mannfólkið byggir, er mjög vogskorin. Ganga höf stór úr úthafinu inn í jörðina. Er kunnigt, að haf gengur úr Nörvasundum allt út til Jórsalaland. Úr því hafi gengur langur hafsbotn til norðurs, er heitir Svartahaf. Sá skilur heimsins þriðjungana. Heitir hinn eystri Asía, en hinn vestri kalla sumir Evrópa, en sumir Enea.",
+    "translations": {
+      "finlay_faulkes": "The round of the world which mankind inhabits is much indented by bays. Great seas run from the ocean into the land. It is known that a sea runs from the Straits of Gibraltar all the way to the land of Jerusalem. From that sea a long gulf runs towards the north which is called the Black Sea. That separates the three parts of the world. The one to the east is called Asia, but the one to the west some call Europe and some Enea.",
+      "literal": "The-circle of-the-world, that which mankind builds [inhabits], is much bay-cut. Go seas great out-of the-out-sea [ocean] in in the-earth. Is known, that sea goes out-of Narva-straits [Gibraltar] all out to Jerusalem-land. Out-of that sea goes long sea-bottom [gulf] to north, which is-named Black-sea. That separates the-world's thirds. Is-named the eastern Asia, but the western call some Europe, but some Enea."
+    },
+    "sot_links": { "locations": ["Asia", "Europe", "Svartahaf", "Norvasund"], "themes": ["Geography", "The Circle of the World"] }
+  },
+  {
+    "chapter_id": "yng_02",
+    "original": "Fyrir norðan Svartahaf liggur Svíþjóð hin mikla eða hin kalda. Svíþjóð hina miklu kalla sumir menn eigi minni en Serkland hið mikla; sumir jafna henni við Bláland hið mikla. Hinn nyrðri hlutur Svíþjóðar liggur óbyggður af frosti og kulda, svo sem hinn syðri hlutur Blálands er auður af sólbruna.",
+    "translations": {
+      "finlay_faulkes": "North of the Black Sea lies Greater or Cold Sweden. Some people consider Greater Sweden to be no less than Greater Serkland [Africa/Asia]; some compare it with Greater Blaland [Africa]. The northern part of Sweden lies uninhabited because of frost and cold, just as the southern part of Blaland is a desert because of the sun’s heat.",
+      "literal": "Before north [of] Black-sea lies Sweden the great or the cold. Sweden the great call some men not smaller than Serkland the great; some even her with Blaland [Land of Blacks] the great. The northern part of-Sweden lies unbuilt [uninhabited] from frost and cold, so as the southern part [of] Blaland is desert from sun-burn."
+    },
+    "sot_links": { "locations": ["Svithjod hin mikla", "Serkland", "Blaland"], "themes": ["Geography"] }
+  },
+  {
+    "chapter_id": "yng_03",
+    "original": "Úr norðri frá fjöllum þeim, er fyrir utan eru byggð alla, fellur á um Svíþjóð, sú er að réttu heitir Tanaísl; hún var fyrrum kölluð Tanakvísl eða Vanakvísl. Hún kemur til sjávar í Svartahaf. Í Vanakvíslum var þá kallað Vanaheimur eða Vanaland. Sú á skilur heimsins þriðjungana. Heitir fyrir austan Asía, en fyrir vestan Evrópa.",
+    "translations": {
+      "finlay_faulkes": "From the north, from the mountains which lie outside all inhabited areas, a river flows across Sweden, which is correctly called the Tanais [Don]; it used to be called Tanakvisl or Vanakvisl. It comes to the sea in the Black Sea. The area around the Vanakvisl was then called Vanaheim or Vanaland. This river separates the world's thirds. It is called Asia to the east and Europe to the west.",
+      "literal": "Out-of north from mountains those, which before out are built all, falls river around Sweden, that which at right is-named Tanais; she was formerly called Tanakvisl or Vanakvisl. She comes to sea in Black-sea. In Vanakvisls was then called Vanaheimr or Vanaland. That river separates the-world's thirds. Is-named before east Asia, but before west Europe."
+    },
+    "sot_links": { "locations": ["Vanaheimr", "Tanais", "Vanakvisl"], "themes": ["The Great River", "Borderlands"] }
+  },
+  {
+    "chapter_id": "yng_04",
+    "original": "Fyrir austan Tanakvísl í Asíu var kallað Ásaland eða Ásaheimur, en höfuðborgin, er í landinu var, kölluðu þeir Ásgarð. Í borginni var höfðingi sá, er Óðinn var kallaður. Þar var blótstaður mikill. Þar var það siður, að tólf dómendur voru æðstir; skyldu þeir gæta blóta og dæma með mönnum. Það eru kallaðir díar eða drottnar. Þeim skyldi þjónusta og lotning veita öll þjóðin.",
+    "translations": {
+      "finlay_faulkes": "East of the Tanakvisl in Asia was the land called Asaland or Asaheim, and the chief city that was in the land they called Asgard. In the city was a ruler who was called Odin. There was a great place of sacrifice. It was the custom there that twelve head priests were supreme; they were to look after the sacrifices and judge between men. These are called 'diar' or 'drottnar'. To them all the people were to offer service and reverence.",
+      "literal": "Before east [of] Tanakvisl in Asia was called Asaland or Asaheimr, but the-chief-city, which in the-land was, called they Asgard. In the-city was chieftain that, who Odin was called. There was sacrifice-place great. There was that custom, that twelve judges were highest; should they guard sacrifices and judge among men. Those are called diar [gods] or drottnar [lords]. Them should service and reverence give all the-people."
+    },
+    "sot_links": { "locations": ["Asaland", "Asgard"], "deities": ["deity_odin"], "figures": ["The Twelve Diar"], "themes": ["Governance", "The Migration Origin"] }
+  },
+  {
+    "chapter_id": "yng_05",
+    "original": "Óðinn var hermaður mikill og mjög víðförull og eignaðist mörg ríki. Hann var svo sigursæll, að í hverri orustu fékk hann gagn. Og svo kom, að hans menn trúðu því, að hann ætti heimila sigurfasta í hverri orustu. Það var hans siður, ef hann sendi menn sína til ófriðar eða aðrar erindisferðir, að hann lagði hendur í höfuð þeim og gaf þeim bjanak. Trúðu þeir, að þá mundi þeim vel farast.",
+    "translations": {
+      "finlay_faulkes": "Odin was a great warrior and very widely traveled and became master of many kingdoms. He was so successful in victory that he won the advantage in every battle. And so it came about that his men believed that victory was his by right in every battle. It was his custom, if he sent his men to war or on other missions, that he laid his hands on their heads and gave them 'bjanak' [a blessing]. They believed that then they would have good luck.",
+      "literal": "Odin was warrior great and much wide-traveled and owned many kingdoms. He was so victory-happy [blessed], that in each battle got he gain. And so came [to pass], that his men believed that, that he owned certain victory-fastness in each battle. That was his custom, if he sent men his to war or other errand-journeys, that he laid hands on head them and gave them blessing. Believed they, that then would they well fare."
+    },
+    "sot_links": { "deities": ["deity_odin"], "themes": ["Military Success", "The Blessing Protocol"] }
+  },
+  {
+    "chapter_id": "yng_06",
+    "original": "Óðinn átti tvo bræður. Hét annar Vé, en annar Vilji. Þessir bræður hans stýrðu ríkinu, þá er hann var í brautu. Það var eitt sinn, er Óðinn var farinn langt í braut og hafði dvalið lengi, að Ásum þótti eigi ván, að hann mundi aftur koma. Þá tóku bræður hans að skipta arfi hans, en konu hans, Frigg, gáfu þeir báðir sér. En litlu síðar kom Óðinn heim og tók þá við konu sinni.",
+    "translations": {
+      "finlay_faulkes": "Odin had two brothers. One was called Ve and the other Vili. These brothers of his governed the kingdom when he was away. Once when Odin had traveled a long way off and had been gone a long time, the Aesir thought it unlikely that he would return. Then his brothers began to divide his inheritance, and they both took his wife Frigg for themselves. But a little later Odin came home and then took back his wife.",
+      "literal": "Odin had two brothers. Was-named one Ve, but other Vili. These brothers his steered the-kingdom, when that he was in away [gone]. That was one time, when Odin was gone far in away and had stayed long, that Aesir thought not hope, that he would back come. Then took brothers his to shift [divide] inheritance his, but wife his, Frigg, gave they both to-themselves. But little later came Odin home and took then with wife his."
+    },
+    "sot_links": { "deities": ["deity_odin", "deity_frigg"], "figures": ["Vili", "Ve"], "themes": ["Governance", "Inheritance"] }
+  },
+  {
+    "chapter_id": "yng_07",
+    "original": "Óðinn fór með her á hendur Vönum, en þeir urðu vel við og vörðu land sitt og fengu ýmsir sigur. Herjuðu hvorir land annarra og gerðu skaða. En er það leiðist hvorumtveggjum, lögðu þeir milli sín sættarstefnu og gerðu frið og seldu gísla. Gáfu Vanir sína hina bestu menn: Njörð hinn auðga og son hans, Frey. En Ásar gáfu þar á mót þann mann, er Hænir hét, og sögðu hann vel til höfðingja fallinn. Hann var mikill maður og hinn fríðasti. Með honum gáfu Ásar þann mann, er Mímir hét, hinn vitrasti maður, en Vanir gáfu þar á mót þann, er vitrastur var í þeirra liði. Sá hét Kvasir.",
+    "translations": {
+      "finlay_faulkes": "Odin went with an army against the Vanir, but they were well prepared and defended their land, and each side was victorious in turn. Both sides harried the others' land and did damage. But when both grew tired of this, they appointed a meeting for reconciliation between them and made peace and exchanged hostages. The Vanir gave their best men: Njord the wealthy and his son, Freyr. But the Aesir gave in return the man who was called Hoenir, and said he was well suited to be a ruler. He was a tall man and very handsome. With him the Aesir gave the man who was called Mimir, a very wise man, and the Vanir gave in return him who was wisest in their company. He was called Kvasir.",
+      "literal": "Odin went with army on hands [against] Vanir, but they became well with [prepared] and defended land theirs and got each victory. Harried each land of-others and made damage. But when that tires each-two, laid they between themselves reconciliation-meeting and made peace and sold [exchanged] hostages. Gave Vanir their the best men: Njord the wealthy and son his, Freyr. But Aesir gave there in-return that man, who Hoenir was-named, and said him well to chieftain fallen [suited]. He was great man and the handsomest. With him gave Aesir that man, who Mimir was-named, the wisest man, but Vanir gave there in-return that, who wisest was in their troop. That-one was-named Kvasir."
+    },
+    "sot_links": { "deities": ["deity_odin", "deity_njord", "deity_freyr", "deity_hoenir", "deity_mimir"], "figures": ["Kvasir"], "themes": ["Aesir-Vanir War", "Hostage Exchange"] }
+  },
+  {
+    "chapter_id": "yng_08",
+    "original": "En er Hænir kom í Vanaheim, þá var hann þegar gerður höfðingi. Mímir kenndi honum ráð öll. En er Hænir var á þingum eða stefnum, svo að Mímir var eigi nær, og kæmi nokkur vandamál fyrir hann, þá svaraði hann jafnan hinu sama: 'Ráði aðrir,' sagði hann. Þá grunaði Vani, að Ásar mundu hafa vikið þeim í mannaskiptum. Þá tóku þeir Mími og hálshjuggu og sendu höfuðið Ásum. Óðinn tók höfuðið og smurði kryddum þeim, er eigi mátti fúna, ogkvað þar yfir galdra og magnaði svo, að það mælti við hann og sagði honum marga leynda hluti.",
+    "translations": {
+      "finlay_faulkes": "When Hoenir came to Vanaheim, he was immediately made a ruler. Mimir gave him all his counsel. But when Hoenir was at assemblies or meetings where Mimir was not present, and any difficult problem came before him, he always gave the same answer: 'Let others decide,' he said. Then the Vanir suspected that the Aesir must have cheated them in the exchange of men. Then they took Mimir and beheaded him and sent the head to the Aesir. Odin took the head and smeared it with herbs so that it could not decay, and chanted spells over it and gave it such power that it spoke to him and told him many secret things.",
+      "literal": "But when Hoenir came in Vanaheimr, then was he at-once made chieftain. Mimir taught him counsel all. But when Hoenir was at assemblies or meetings, so that Mimir was not near, and came some difficult-case before him, then answered he always the same: 'Decide others,' said he. Then suspected Vanir, that Aesir would have cheated them in men-exchange. Then took they Mimir and neck-hewed [beheaded] and sent the-head to-Aesir. Odin took the-head and smeared spices those, which not might rot, and-spoke there over spells and empowered so, that it spoke with him and said him many hidden things."
+    },
+    "sot_links": { "deities": ["deity_hoenir", "deity_mimir", "deity_odin"], "themes": ["Betrayal", "Necromancy", "Hidden Knowledge"] }
+  },
+  {
+    "chapter_id": "yng_09",
+    "original": "Njörð og Frey setti Óðinn blótgoða, og voru þeir díar með Ásum. Dóttir Njarðar var Freyja. Hún var blótgyðja. Hún kenndi fyrst með Ásum seið, sem Vönum var títt. Þá er Njörður var með Vönum, þá hafði hann átta konu sína systur sína, því að það voru þar lög. Voru þeirra börn Freyr og Freyja. En með Ásum var bannað að byggja í svo nánu sambandi.",
+    "translations": {
+      "finlay_faulkes": "Njord and Freyr Odin appointed as priests of the sacrifices, and they were 'diar' among the Aesir. Njord's daughter was Freyja. She was a priestess of the sacrifices. She was the first to teach the Aesir 'seid' [sorcery], as was the custom among the Vanir. While Njord was among the Vanir, he had been married to his sister, for that was the law there. Their children were Freyr and Freyja. But among the Aesir it was forbidden to marry in such close kinship.",
+      "literal": "Njord and Freyr set Odin sacrifice-gods [priests], and were they diar [gods/lords] with Aesir. Daughter [of] Njord was Freyja. She was sacrifice-goddess. She taught first with Aesir seid [magic], which with-Vanir was common. Then when Njord was with Vanir, then had he had [as] wife his sister his, because that there were laws. Were their children Freyr and Freyja. But with Aesir was forbidden to build [dwell/marry] in so near connection."
+    },
+    "sot_links": { "deities": ["deity_njord", "deity_freyr", "deity_freyja", "deity_odin"], "themes": ["Social Taboos", "Seid magic", "Priesthood"] }
+  },
+  {
+    "chapter_id": "yng_10",
+    "original": "Skaði hét dóttir Þjassa jötuns. Hún vildi hefna föður síns og fór til Ásgarðs. Hún átti Njörð síðan, en síðar átti hún Óðin. Þau áttu marga sonu. Hét einn Sæmingur. Um hann orti Eyvindur skáldaspillir í Háleygjartali. Sæmingi gaf Óðinn ríki það, er nú heitir Noregur.",
+    "translations": {
+      "finlay_faulkes": "Skadi was the name of a daughter of the giant Thjazi. She wished to avenge her father and went to Asgard. She was afterwards married to Njord, but later she was married to Odin. They had many sons. One was called Saeming. About him Eyvind Skaldaspillir composed 'Haleygjatal'. To Saeming Odin gave the kingdom which is now called Norway.",
+      "literal": "Skadi was-named daughter [of] Thjazi giant. She would avenge father hers and went to Asgard. She had Njord since, but later had she Odin. They had many sons. Was-named one Saemingr. About him composed Eyvindr Skald-despoiler in Haleygjatal. To-Saeming gave Odin kingdom that, which now is-named Norway."
+    },
+    "sot_links": { "deities": ["deity_skadi", "deity_njord", "deity_odin"], "figures": ["Thjazi", "Saemingr", "Eyvindr Skaldaspillir"], "locations": ["Norway", "Asgard"] }
+  },
+  {
+    "chapter_id": "yng_11",
+    "original": "Óðinn spáði því, að hans nafn mundi uppi vera í norðurhálfu veraldar. Hann byrjaði ferð sína af Asíu og fór vestur um Garðaríki og svo suður til Saxlands. Hann átti marga sonu. Hann eignaðist ríki víða um Saxland og setti þar sonu sína til landsvarna. Síðan fór hann norður til sjávar og tók sér bústað í eyju einni. Þar heitir nú Óðinsey í Fjóni.",
+    "translations": {
+      "finlay_faulkes": "Odin prophesied that his name would be held in honor in the northern part of the world. He began his journey out of Asia and traveled west through Gardariki [Russia] and then south to Saxland [Germany]. He had many sons. He acquired kingdoms widely throughout Saxland and established his sons there to defend the land. Then he traveled north to the sea and took up his residence on an island. There is now called Odin's Island [Odense] in Fyn.",
+      "literal": "Odin prophesied that, that his name would up be in north-half [of] world. He began journey his from Asia and went west around Gardariki and so south to Saxland. He had many sons. He owned kingdoms widely around Saxland and set there sons his to land-defenses. Since went he north to sea and took for-himself dwelling-place in island one. There is-named now Odin's-island in Fyn."
+    },
+    "sot_links": { "deities": ["deity_odin"], "locations": ["Gardariki", "Saxland", "Odense", "Fyn"], "themes": ["Migration", "Prophecy"] }
+  },
+  {
+    "chapter_id": "yng_12",
+    "original": "Gylfi konungur réð fyrir Svíþjóð. Hann var vitur maður og fjölkunnugur. Hann furðaði á því, hve mikið fylgdi Ásum, því að allt gekk eftir vilja þeirra. Hann ætlaði, að það mundi vera af blótum þeirra. Hann fór til móts við Óðin og fagnaði honum vel. Óðinn sá, að þar voru landkostir góðir, og valdi sér þar bústað, er nú heita Fornu-Sigtúnir. Þar gerði hann hof mikið og blót eftir sið Ása.",
+    "translations": {
+      "finlay_faulkes": "King Gylfi ruled over Sweden. He was a wise man and skilled in magic. He wondered how much success accompanied the Aesir, for everything went according to their will. He thought it must be because of their sacrifices. He went to meet Odin and welcomed him well. Odin saw that there were good natural resources there and chose himself a residence where it is now called Old Sigtuna. There he built a great temple and sacrifices according to the custom of the Aesir.",
+      "literal": "Gylfi king ruled for Sweden. He was wise man and magic-skilled. He wondered on that, how much followed Aesir, because that all went after will theirs. He intended [thought], that that would be from sacrifices theirs. He went to meeting with Odin and welcomed him well. Odin saw, that there were land-qualities good, and chose for-himself there dwelling-place, which now are-called Old-Sigtuna. There made he temple great and sacrifices after custom [of] Aesir."
+    },
+    "sot_links": { "figures": ["Gylfi"], "deities": ["deity_odin"], "locations": ["Sweden", "Sigtuna"], "themes": ["Diplomacy", "Temple Building"] }
+  },
+  {
+    "chapter_id": "yng_13",
+    "original": "Óðinn gaf bústaði blótgoðum sínum. Njörður bjó í Nóatúnum, Freyr að Uppfölum, Heimdallur að Himinbjörgum, Þór í Þrúðvangi, Baldur á Breiðabliki. Öllum þeim gaf hann góða bólstaði.",
+    "translations": {
+      "finlay_faulkes": "Odin gave residences to his priests. Njord lived in Noatun, Freyr at Uppsala, Heimdall at Himinbjorg, Thor in Thrudvang, Baldr in Breidablik. To all of them he gave good estates.",
+      "literal": "Odin gave dwelling-places sacrifice-gods [priests] his. Njord lived in Noatun, Freyr at Uppsala, Heimdallr at Himinbjorg, Thor in Thrudvangr, Baldr on Breidablik. All them gave he good homesteads."
+    },
+    "sot_links": { "deities": ["deity_odin", "deity_njord", "deity_freyr", "deity_heimdallr", "deity_thor", "deity_baldr"], "locations": ["Noatun", "Uppsala", "Himinbjorg", "Thrudvangr", "Breidablik"] }
+  },
+  {
+    "chapter_id": "yng_14",
+    "original": "Svo er sagt, að Óðinn væri hinn fegursti maður ásýndar, þá er hann sat með vinum sínum, en grimmur og hræðilegur óvinum sínum. Hann var svo snjall í máli, að allt virtist satt, er hann mælti. Hann talaði allt í ljóðum, svo sem nú er kallað skáldskapur. Hann og blótgoðar hans eru kallaðir ljóðasmiðir, því að sú íþrótt hófst af þeim í norðurlöndum.",
+    "translations": {
+      "finlay_faulkes": "It is said that Odin was most handsome in appearance when he sat with his friends, but grim and terrible to his enemies. He was so clever in speech that everything he said seemed true. He spoke everything in verse, in the way that is now called poetry. He and his priests are called 'song-smiths', for that art began with them in the northern lands.",
+      "literal": "So is said, that Odin was the fairest man of-appearance, then when he sat with friends his, but grim and terrible [to] enemies his. He was so clever in speech, that all seemed true, which he spoke. He spoke all in poems, so as now is called skaldship [poetry]. He and sacrifice-gods his are called poem-smiths, because that that art began from them in north-lands."
+    },
+    "sot_links": { "deities": ["deity_odin"], "themes": ["Poetry", "Eloquence", "Appearance"] }
+  },
+  {
+    "chapter_id": "yng_15",
+    "original": "Óðinn gat skipt litum og líkjum á hverja lund, er hann vildi. Hann gat og gert sig svo mælskan, að hann mælti við dauða menn og spurði þá eptir hlutum. Hann hafði þá íþrótt, er mestur kraftur fylgdi, og hét hún seiður. Af henni mátti hann vita örlög manna og óorðna hluti, svo og að gera mönnum bana eða óhamingju eða taka vit frá mönnum og gefa öðrum.",
+    "translations": {
+      "finlay_faulkes": "Odin could change his color and form in any way he wished. He could also make himself so eloquent that he spoke with dead men and asked them about things. He possessed the art which was accompanied by the greatest power, and it was called 'seid'. By means of it he could know people’s fates and things not yet happened, and also bring about people's death or misfortune or take away people's wits and give them to others.",
+      "literal": "Odin could change colors and forms on each way, which he would. He could also make himself so eloquent, that he spoke with dead men and asked them after things. He had that art, which greatest power followed, and was-named she seidr. From her might he know fates [of] men and un-happened things, so also to make to-men death or un-happiness or take wits from men and give others."
+    },
+    "sot_links": { "deities": ["deity_odin"], "themes": ["Shapeshifting", "Seidr", "Necromancy", "Fate"] }
+  },
+  {
+    "chapter_id": "yng_16",
+    "original": "Óðinn vissi um alla fólgið fé í jörðu og kunni þau ljóð, er upp luku fyrir honum jörðina og björgin. Hann sat undir vönum mönnum og mælti við þá. Hann átti skip það, er Skíðblaðnir hét, er hann fór á um stór höf, en það mátti vefja saman sem dúk. Óðinn hafði með sér höfuð Mímis, og sagði það honum mörg tíðindi úr öðrum heimum, en stundum vakti hann upp dauða menn ór jörðu eða settist undir hanga.",
+    "translations": {
+      "finlay_faulkes": "Odin knew about all treasure hidden in the earth and knew the songs which opened up the earth and the rocks for him. He sat under [corpses of] hanged men and spoke with them. He possessed the ship called Skidbladnir on which he traveled over great seas, but it could be folded together like a cloth. Odin had with him Mimir’s head, and it told him much news from other worlds, and sometimes he woke up dead men out of the earth or sat under hanged men.",
+      "literal": "Odin knew about all hidden wealth in earth and knew those poems, which up opened for him the-earth and the-rocks. He sat under hanged men and spoke with them. He had ship that, which Skidbladnir was-named, which he went on around great seas, but it might weave [fold] together as cloth. Odin had with him head [of] Mimir, and said it him many tidings out-of other worlds, but sometimes woke he up dead men out-of earth or sat under hanged-ones."
+    },
+    "sot_links": { "deities": ["deity_odin", "deity_mimir"], "artifacts": ["artifact_skidbladnir"], "themes": ["Hidden Wealth", "Necromancy"] }
+  },
+  {
+    "chapter_id": "yng_17",
+    "original": "Óðinn hafði tvo hrafna, er hann hafði tamda. Þeir flugu um mörg lönd og sögðu honum mörg tíðindi. Af þessu öllu varð hann mjög vís. Allar þessar íþróttir kenndi hann með rúnum og ljóðum þeim, er galdrar heita. Fyrir því eru Ásar kallaðir galdrasmiðir. Óðinn kunni þá íþrótt, er mest fylgdi, og hét hún seiður. Var hún og mjög fjölkynngi mörkuð.",
+    "translations": {
+      "finlay_faulkes": "Odin had two ravens which he had tamed. They flew over many lands and told him much news. From all this he became very wise. All these arts he taught by means of runes and the songs which are called spells. Because of this the Aesir are called 'spell-smiths'. Odin knew the art which was accompanied by the greatest power, and it was called 'seid'. It was also characterized by much magic skill.",
+      "literal": "Odin had two ravens, which he had tamed. They flew around many lands and said him many tidings. From this all became he much wise. All these arts taught he with runes and poems those, which spells are-called. For that are Aesir called spell-smiths. Odin knew that art, which most followed, and was-named she seidr. Was she also much magic-skill marked."
+    },
+    "sot_links": { "deities": ["deity_odin"], "beasts": ["beast_huginn", "beast_muninn"], "themes": ["Runes", "Seidr", "Wisdom"] }
+  },
+  {
+    "chapter_id": "yng_18",
+    "original": "Óðinn setti lög í landi sínu, þau er fyrrum höfðu verið með Ásum. Svo skipaði hann, að alla dauða menn skyldi brenna og bera á bál með þeim eign þeirra. Sagði hann, að með þvílíkum auðæfum skyldi hver koma til Valhallar, sem hann hafði á báli. Það skyldi og njóta, er hann sjálfur hafði í jörð grafið. Öskuna skyldi bera út á sjó eða grafa í jörð niður.",
+    "translations": {
+      "finlay_faulkes": "Odin established laws in his land, those which had previously been among the Aesir. He ordained that all dead men should be burned and their possessions carried onto the pyre with them. He said that everyone should arrive in Valhall with such riches as he had on his pyre. He should also have the use of what he himself had buried in the earth. The ashes were to be carried out to sea or buried in the earth.",
+      "literal": "Odin set laws in land his, those which formerly had been with Aesir. So ordered he, that all dead men should burn and bear on pyre with them ownership [possessions] theirs. Said he, that with such riches should each come to Valhall, as he had on pyre. That should also enjoy, which he self had in earth buried. The-ashes should bear out on sea or bury in earth down."
+    },
+    "sot_links": { "deities": ["deity_odin"], "locations": ["Valhall"], "themes": ["Funerary Customs", "Law"] }
+  },
+  {
+    "chapter_id": "yng_19",
+    "original": "Um alla Svíþjóð guldu menn Óðni skatt, pening fyrir nef hvert, en hann skyldi verja land þeirra fyrir ófriði og blóta þeim til árs. Njörður fékk konu þeirrar, er Skaði hét. Hún vildi eigi við hann vera og giftist síðar Óðni. Þau áttu marga sonu. Sæmingur var einn.",
+    "translations": {
+      "finlay_faulkes": "Throughout the whole of Sweden people paid Odin a tax, a penny for every nose, and he was to defend their land against war and sacrifice for them for a good season. Njord married the woman who was called Skadi. She did not want to stay with him and later married Odin. They had many sons. Saeming was one.",
+      "literal": "Around all Sweden paid men to-Odin tax, penny for nose each, but he should defend land theirs from war and sacrifice for-them to year [for harvest]. Njord got wife that, who Skadi was-named. She would not with him be and married later Odin. They had many sons. Saemingr was one."
+    },
+    "sot_links": { "deities": ["deity_odin", "deity_njord", "deity_skadi"], "figures": ["Saemingr"], "locations": ["Sweden"], "themes": ["Taxation", "Protection"] }
+  },
+  {
+    "chapter_id": "yng_20",
+    "original": "Óðinn varð sóttdauður í Svíþjóð. En er hann var að kominn bana, lét hann marka sig geirsodd og eignaði sér alla vopndauða menn. Sagði hann, að hann mundi fara til Goðheims og fagna þar vinum sínum. Nú hugðu Svíar, að hann væri kominn í hinn forna Ásgarð og mundi þar lifa að eilífu. Hófst þá að nýju trú við Óðin og áheit. Svíum þótti hann oft vitrast þeim, áður stórar orustur væru. Gaf hann sumum sigur, en sumum bauð hann til sín. Þótti hvorutveggja gott.",
+    "translations": {
+      "finlay_faulkes": "Odin died of sickness in Sweden. And when he was near death, he had himself marked with a spear-point and claimed for himself all men who died by weapons. He said he would go to Godheim and welcome his friends there. Now the Swedes believed that he had arrived in the ancient Asgard and would live there forever. Then there began anew belief in Odin and calling on him. It seemed to the Swedes that he often appeared to them before great battles took place. To some he gave victory, and some he invited to join him. Both were considered good.",
+      "literal": "Odin became sickness-dead in Sweden. But when he was at come [to] death, let he mark himself spear-point and owned to-himself all weapon-dead men. Said he, that he would go to Godheimr and welcome there friends his. Now thought Swedes, that he were come in the ancient Asgard and would there live to eternity. Began then at new belief with Odin and calling-on. [To] Swedes seemed he often show-himself to-them, before great battles were. Gave he some victory, but some invited he to himself. Seemed each-two good."
+    },
+    "sot_links": { "deities": ["deity_odin"], "locations": ["Sweden", "Godheimr", "Asgard"], "themes": ["Death", "Deification", "Battle-Worship"] }
+  },
+  {
+    "chapter_id": "yng_21",
+    "original": "Njörður úr Nóatúnum var þá höfðingi yfir Svíum og hélt upp blótum. Hann kölluðu Svíar þá drottin sinn. Hann tók þá skattgjafir af þeim. Á hans dögum var friður mjög góður og allskonar ársvöxtur svo mikill, að Svíar trúðu því, að Njörður réði fyrir ári og farsælu manna. Njörður varð sóttdauður. Lét hann og marka sig Óðni, áður hann dó. Svíar brenndu hann og grétu mjög að haugi hans.",
+    "translations": {
+      "finlay_faulkes": "Njord of Noatun was then the ruler over the Swedes and maintained the sacrifices. The Swedes then called him their lord. He then received tax-tribute from them. In his days peace was very good and all kinds of harvest so great that the Swedes believed that Njord had power over the harvest and people’s prosperity. Njord died of sickness. He also had himself marked for Odin before he died. The Swedes burned him and wept much at his burial mound.",
+      "literal": "Njord out-of Noatun was then chieftain over Swedes and held up sacrifices. Him called Swedes then lord theirs. He took then tax-gifts from them. In his days was peace much good and all-kinds year-growth so great, that Swedes believed that, that Njord ruled for year [harvest] and prosperity [of] men. Njord became sickness-dead. Let he also mark himself [to] Odin, before he died. Swedes burned him and wept much at mound his."
+    },
+    "sot_links": { "deities": ["deity_njord", "deity_odin"], "locations": ["Sweden", "Noatun"], "themes": ["Prosperity", "Death", "Succession"] }
+  },
+  {
+    "chapter_id": "yng_22",
+    "original": "Freyr tók þá ríki eftir Njörð. Var hann kallaður drottinn yfir Svíum og tók skattgjafir af þeim. Hann var vinsæll og ársæll sem faðir hans. Freyr reisti hof mikið að Uppfölum og setti þar höfuðstað sinn, lagði þar til allar skyldir sínar, lönd og lausa aura. Þá hófst Uppsala-auður og hefir haldist síðan. Á hans dögum hófst Fróðafriður. Þá var og ár um öll lönd. Kenndu Svíar það Frey. Var hann því meir dýrkaður en aðrir guðir, sem landsfólkið varð auðgara af friðinum og árinu.",
+    "translations": {
+      "finlay_faulkes": "Freyr then took over the kingdom after Njord. He was called lord over the Swedes and received tax-tribute from them. He was popular and blessed with good harvests like his father. Freyr built a great temple at Uppsala and established his capital there, contributed to it all his dues, lands and movable property. Then began the Uppsala wealth and it has continued ever since. In his days the Peace of Frodi began. Then there were also good harvests in all lands. The Swedes attributed that to Freyr. He was therefore worshipped more than other gods, as the people of the land became wealthier from the peace and good harvests.",
+      "literal": "Freyr took then kingdom after Njord. Was he called lord over Swedes and took tax-gifts from them. He was friend-blessed and year-blessed as father his. Freyr raised temple great at Uppsala and set there head-place [capital] his, laid there to all dues his, lands and loose wealth. Then began Uppsala-wealth and has held since. In his days began Frodi's-peace. Then was also year [harvest] around all lands. Attributed Swedes that [to] Freyr. Was he therefore more worshipped than other gods, as the-land's-people became wealthier from the-peace and the-year."
+    },
+    "sot_links": { "deities": ["deity_freyr", "deity_njord"], "locations": ["Uppsala", "Sweden"], "figures": ["Frodi"], "themes": ["Prosperity", "Temple Building", "The Peace of Frodi"] }
+  },
+  {
+    "chapter_id": "yng_23",
+    "original": "Gerður Gymisdóttir hét kona hans. Þeirra sonur hét Fjölnir. Freyr var kallaður Yngvi. Það nafn var síðan haft í hans ætt fyrir tignarnafn, og voru hans ættmenn síðan kallaðir Ynglingar. Freyr varð sjúkur, og er að honum leið baninn, létu menn hann í haug og lokuðu. Sögðu þeir Svíum, að hann lifði, og varðveittu hann þar þrjá vetur. En allan skatt báru þeir í hauginn, í einni glufu gullið, en í annarri silfrið, en í hinni þriðju eirpninga. Friður og ár hélst.",
+    "translations": {
+      "finlay_faulkes": "Gerd daughter of Gymir was the name of his wife. Their son was called Fjolnir. Freyr was called Yngvi. That name was afterwards used in his family as a title of honor, and his kinsmen were afterwards called Ynglings. Freyr became ill, and when death approached him, they put him in a mound and closed it. They told the Swedes that he was alive and kept him there for three years. But all the tax they carried into the mound, in one opening the gold, and in another the silver, and in the third copper coins. Peace and good harvests continued.",
+      "literal": "Gerd Gymir's-daughter was-named wife his. Their son was-named Fjolnir. Freyr was called Yngvi. That name was since had in his kin for honor-name, and were his kin-men since called Ynglingar. Freyr became sick, and as to him drew death, let men him in mound and locked. Said they [to] Swedes, that he lived, and guarded him there three winters. But all tax bore they in the-mound, in one hole the-gold, but in another the-silver, but in the third copper-pennies. Peace and year [harvest] held."
+    },
+    "sot_links": { "deities": ["deity_freyr", "deity_gerdr"], "figures": ["Fjolnir", "Gymir"], "themes": ["The Yngling Dynasty", "Deception", "Mound Burial"] }
+  },
+  {
+    "chapter_id": "yng_24",
+    "original": "Freyja hélt þá upp blótum, því að hún var þá ein eftir guðanna. Hún var þá svo fræg, að með hennar nafni skyldi kalla allar tignarkonur, svo sem nú eru kallaðar frúr. Svo hét og hver húsfreyja yfir sinni eign, en sú húsfreyja, er bú á. Freyja var dálítið margsnúin. Óðri hét maður hennar. Dætur hennar hétu Hnoss og Gersemi. Þær voru mjög fagrar. Af þeirra nafni eru kallaðir hinir dýrustu hlutir.",
+    "translations": {
+      "finlay_faulkes": "Freyja then maintained the sacrifices, for she was then the only one of the gods left. She was then so famous that after her name all ladies of rank were to be called, just as they are now called 'frur' [ladies]. So also every mistress of a house was called after her possessions, and she who owns a farm was called 'husfreyja'. Freyja was a bit fickle. Odr was her husband's name. Her daughters were called Hnoss and Gersemi. They were very beautiful. After their names the most precious things are called.",
+      "literal": "Freyja held then up sacrifices, because that she was then alone after [remaining of] the-gods. She was then so famous, that with her name should call all honor-women, so as now are called frur [ladies]. So was-named also each house-lady over her ownership, but that house-lady, who farm has. Freyja was a-little many-turned [fickle]. Odr was-named man [husband] hers. Daughters hers were-named Hnoss and Gersemi. They were much fair. From their name are called the most-precious things."
+    },
+    "sot_links": { "deities": ["deity_freyja", "deity_odr"], "figures": ["Hnoss", "Gersemi"], "themes": ["Etymology", "Status", "Precious Things"] }
+  },
+  {
+    "chapter_id": "yng_25",
+    "original": "Fjölnir tók þá ríki eftir Frey og réð fyrir Svíum og Uppsala-auði. Hann var voldugur og ársæll og friðsamur. Þá var Frið-Fróði í Hleiðru. Með þeim var boð og vinfengi. Þá er Fjölnir fór til Fróða á Sjáland, þá var þar búin veisla mikil og boðið víða um lönd. Fróði átti hús mikið. Þar var gert kerald mikið, margar alin á hæð, og fest með stórum timburstokkum. Það stóð í undirskemmu, en loft var yfir og opið gólf, svo að þar var hellt niður leginum.",
+    "translations": {
+      "finlay_faulkes": "Fjolnir then took over the kingdom after Freyr and ruled over the Swedes and the Uppsala wealth. He was powerful and blessed with good harvests and peaceable. At that time Frid-Frodi was at Lejre. There was visiting and friendship between them. When Fjolnir went to Frodi in Sjælland, a great feast was prepared there and people invited from far and wide. Frodi had a large house. In it was made a great vat, many cubits high, and secured with large timber beams. It stood in a lower room, but there was a loft above and an opening in the floor, so that the liquid was poured down there.",
+      "literal": "Fjolnir took then kingdom after Freyr and ruled for Swedes and Uppsala-wealth. He was powerful and year-blessed and peace-loving. Then was Peace-Frodi in Lejre. With them was invitation and friendship. Then when Fjolnir went to Frodi on Sjælland, then was there built feast great and invited widely around lands. Frodi had house great. There was made vat great, many cubits on height, and fixed with great timber-logs. It stood in under-room, but loft was over and open floor, so that there was poured down the-liquid [mead].'"
+    },
+    "sot_links": { "figures": ["Fjolnir", "Frodi"], "locations": ["Lejre", "Sjælland", "Uppsala"], "themes": ["Hospitality", "The Mead-Vat"] }
+  },
+  {
+    "chapter_id": "yng_26",
+    "original": "Fjölnir gekk um nótt út í svöl að leita sér náðahúss. Hann var svefndrukkinn og mjaðar. En er hann gekk aftur til herbergis, þá gekk hann með fram svölunum og til annarra svaladyra og þar inn, mismælti fótum og féll í mjaðarkeraldið og týndist þar.",
+    "translations": {
+      "finlay_faulkes": "During the night Fjolnir went out onto the gallery to find a privy. He was drowsy with sleep and drunk with mead. But as he was going back to his room, he went along the gallery and to another door and in there, lost his footing and fell into the mead-vat and perished there.",
+      "literal": "Fjolnir went around night out in gallery to seek for-himself mercy-house [privy]. He was sleep-drunk and [of] mead. But when he went back to room, then went he along gallery and to other gallery-door and there in, mis-stepped feet and fell in mead-vat and lost-himself [perished] there."
+    },
+    "sot_links": { "figures": ["Fjolnir"], "themes": ["Accidental Death", "The Mead-Vat"] }
+  },
+  {
+    "chapter_id": "yng_27",
+    "original": "Sveigðir tók ríki eftir föður sinn. Hann strengdi þess heit að leita Goðheims og Óðins hins gamla. Hann fór með tólf menn víða um veröldina. Hann kom út í Tyrkland og í Svíþjóð hina miklu og hitti þar marga frændur sína og var í þeirri ferð fimm vetur. Þá kom hann aftur til Svíþjóðar. Hann dvaldist þá heima um hríð.",
+    "translations": {
+      "finlay_faulkes": "Sveigdir took over the kingdom after his father. He made a vow to search for Godheim and Old Odin. He traveled with twelve men far through the world. He came to Turkland and Greater Sweden and met many of his kinsmen there and was on that journey for five years. Then he came back to Sweden. He stayed then at home for a while.",
+      "literal": "Sveigdir took kingdom after father his. He fastened that vow to seek Godheimr and Odin the old. He went with twelve men widely around world. He came out in Turkland and in Sweden the great and met there many kinsmen his and was in that journey five winters. Then came he back to Sweden. He stayed then home around [for] a-while."
+    },
+    "sot_links": { "figures": ["Sveigdir"], "locations": ["Turkland", "Svithjod hin mikla"], "themes": ["The Quest for Origins"] }
+  },
+  {
+    "chapter_id": "yng_28",
+    "original": "Sveigðir fór enn að leita Goðheims. Og í austurhluta Svíþjóðar er bær mikill, er heitir að Steinum. Þar er steinn svo mikill sem stórt hús. Eftir sólsetur, er Sveigðir gekk frá drykkju til svefnbúrs, sá hann til steinsins, að dvergur sat undir steininum. Sveigðir og hans menn voru mjög drukknir og rannu til steinsins. Dvergurinn stóð í dyrunum og kallaði á Sveigði, bað hann þar inn ganga, ef hann vildi Óðin hitta. Sveigðir hljóp í steininn, en steinninn laukst þegar aftur, og kom Sveigðir aldrei fram.",
+    "translations": {
+      "finlay_faulkes": "Sveigdir went again to search for Godheim. And in the eastern part of Sweden there is a large estate called At the Stones. There is a stone there as big as a large house. After sunset, when Sveigdir was going from his drinking to his sleeping quarters, he looked towards the stone and saw a dwarf sitting under the stone. Sveigdir and his men were very drunk and ran to the stone. The dwarf stood in the doorway and called to Sveigdir, told him to go in there if he wanted to meet Odin. Sveigdir leaped into the stone, and the stone immediately closed behind him, and Sveigdir never came out again.",
+      "literal": "Sveigdir went still to seek Godheimr. And in east-part [of] Sweden is farm great, which is-named at Stones. There is stone so great as large house. After sunset, when Sveigdir went from drinking to sleep-chamber, saw he to the-stone, that dwarf sat under the-stone. Sveigdir and his men were much drunk and ran to the-stone. Dwarf stood in the-doorway and called on Sveigdir, bade him there in go, if he would Odin meet. Sveigdir leaped in the-stone, but the-stone closed at-once back, and came Sveigdir never forward."
+    },
+    "sot_links": { "figures": ["Sveigdir"], "beasts": ["beast_dwarf"], "themes": ["Supernatural Disappearance", "The Stone Portal"] }
+  },
+  {
+    "chapter_id": "yng_29",
+    "original": "Vanlandi hét sonur Sveigðis, er ríki tók eftir hann og réð fyrir Uppsala-auði. Hann var hermaður mikill og fór víða um lönd. Hann þá veturvist á Finnlandi með Snjá hinum gamla og fékk þar dóttur hans, Drífu. En að vori fór hann á braut, en Drífa var eftir, og hét hann að koma aftur á þriggja vetra fresti. En hann kom eigi á tíu vetrum.",
+    "translations": {
+      "finlay_faulkes": "Vanlandi was the name of Sveigdir’s son, who took over the kingdom after him and ruled over the Uppsala wealth. He was a great warrior and traveled far through many lands. He spent a winter in Finland with Snjar the Old and married his daughter Drifa. But in the spring he went away, and Drifa remained behind, and he promised to return after a space of three years. But he did not come for ten years.",
+      "literal": "Vanlandi was-named son [of] Sveigdir, who kingdom took after him and ruled for Uppsala-wealth. He was warrior great and went widely around lands. He [spent] winter-stay on Finland with Snjar the old and got there daughter his, Drifa. But at spring went he away, but Drifa was after [left behind], and vowed he to come back at three winters' interval. But he came not in ten winters."
+    },
+    "sot_links": { "figures": ["Vanlandi", "Snjar", "Drifa"], "locations": ["Finland"], "themes": ["Broken Vows"] }
+  },
+  {
+    "chapter_id": "yng_30",
+    "original": "Þá sendi Drífa eftir Huldi völvu, en sendi Vísbur, son þeirra Vanlanda, til Svíþjóðar. Drífa keypti að völvunni, að hún skyldi síða Vanlanda til Finnlands eða deyða hann að öðrum kosti. En er seiðurinn var framinn, var Vanlandi að Uppfölum. Þá gerðist hann fús að fara til Finnlands, en vinir hans og ráðgjafar bönnuðu honum og sögðu, að fjölkynngi Finna mundi vera í ferð hans. Þá lagðist hann til svefns, en er hann hafði sofnað, kallaði hann og sagði, að mara trað hann. Menn hans fóru til og vildu hjálpa honum. En er þeir tóku upp til höfuðsins, þá trað hún fótleggi hans, svo að nálega brotnuðu; þá leituðu þeir til fótanna, þá kafði hún höfuðið, svo að þar dó hann. Svíar tóku lík hans og var hann brenndur við á þá, er Skúta heitir. Þar voru settir steinar hans.",
+    "translations": {
+      "finlay_faulkes": "Then Drifa sent for the witch Huld, and sent Visbur, her and Vanlandi’s son, to Sweden. Drifa paid the witch to entice Vanlandi to Finland by magic or else kill him. When the magic was performed, Vanlandi was at Uppsala. He then felt a desire to go to Finland, but his friends and advisors forbade him and said it must be the magic of the Finns that was causing his journey. Then he lay down to sleep, but when he had fallen asleep, he cried out and said that a nightmare was treading on him. His men went to him and wanted to help him. But when they took hold of his head, she trod on his legs so that they almost broke; then they went to his feet, and then she smothered his head so that he died there. The Swedes took his body and he was burned by the river called Skuta. There his memorial stones were set up.",
+      "literal": "Then sent Drifa after Huld seeress, but sent Visbur, son their Vanlandi, to Sweden. Drifa bought from the-seeress, that she should enchant Vanlandi to Finland or death him at other choice. But when the-magic was performed, was Vanlandi at Uppsala. Then became he eager to go to Finland, but friends his and council-givers forbade him and said, that magic [of] Finns would be in journey his. Then laid he to sleep, but when he had slept, called he and said, that nightmare [mara] trod him. Men his went to and would help him. But when they took up to the-head, then trod she foot-legs his, so that nearly broke; then sought they to the-feet, then smothered she the-head, so that there died he. Swedes took body his and was he burned with river that, which Skuta is-named. There were set stones his."
+    },
+    "sot_links": { "figures": ["Drifa", "Huld", "Visbur", "Vanlandi"], "themes": ["Seidr", "Nightmare/Mara", "Assassination"] }
+  },
+  {
+    "chapter_id": "yng_31",
+    "original": "Vísbur tók arf eftir Vanlanda föður sinn. Hann átti dóttur Auða hins ríka og gaf henni að mundi þrjá stóra bæi og gullmen mikið. Þau áttu tvo sonu, Gísl og Öndur. En Vísbur lét hana eina og fékk annarrar konu. Þá fór hún til föður síns með sonu sína. Vísbur átti son, er Dómaldur hét. Stjúpmóðir Dómaldar lét síða óhamingju að Vísbur. En er synir Vísburs voru tólf vetra og þrettán, fóru þeir til föður síns og kröfðu mundar móður sinnar, en hann vildi eigi gjalda. Þá spáðu þeir, að gullmenið skyldi verða að bana hinum besta manni í hans ætt. Fóru þeir heim. En þá var enn vakin fjölkynngi og síð að þeir skyldu mega drepa föður sinn. Huld völva sagði, að hún mundi svo síða, og það með, að ættvíg mundu jafnan síðan vera í ætt Ynglinga. Þeir Gísl og Öndur söfnuðu liði og komu að Vísbur á óvart og brenndu hann inni.",
+    "translations": {
+      "finlay_faulkes": "Visbur took the inheritance after his father Vanlandi. He married the daughter of Audi the Wealthy and gave her as a bride-gift three large estates and a large gold necklace. They had two sons, Gisl and Ondur. But Visbur left her and married another woman. Then she went to her father with her sons. Visbur had a son called Domald. Domald’s stepmother had magic worked to bring misfortune on Visbur. When Visbur’s sons were twelve and thirteen years old, they went to their father and demanded their mother’s bride-gift, but he would not pay. Then they prophesied that the gold necklace would be the death of the best man in his family. They went home. But then magic was again invoked and worked so that they should be able to kill their father. The witch Huld said she would work the magic so, and also that there would always after that be killings of kinsmen in the Yngling family. Gisl and Ondur gathered a troop and came upon Visbur by surprise and burned him in his house.",
+      "literal": "Visbur took inheritance after Vanlandi father his. He had daughter [of] Audi the wealthy and gave her at bride-gift three great farms and gold-necklace great. They had two sons, Gisl and Ondur. But Visbur left her alone and got another wife. Then went she to father hers with sons hers. Visbur had son, who Domaldr was-named. Stepmother [of] Domaldr let enchant un-happiness to Visbur. But when sons [of] Visbur were twelve winters and thirteen, went they to father hers and demanded bride-gift [of] mother theirs, but he would not pay. Then prophesied they, that gold-necklace would become at death [to] the best man in his kin. Went they home. But then was still waked magic and enchanted that they should might kill father theirs. Huld seeress said, that she would so enchant, and that with [also], that kin-slayings would always since be in kin [of] Ynglingar. They Gisl and Ondur gathered troop and came on Visbur at unawares and burned him inside."
+    },
+    "sot_links": { "figures": ["Visbur", "Gisl", "Ondur", "Domaldr", "Huld"], "themes": ["Curse", "Arson", "Kin-slaying"] }
+  },
+  {
+    "chapter_id": "yng_32",
+    "original": "Dómaldur tók arf eftir föður sinn Vísbur og réð löndum. Á hans dögum gerðist sultur og seyðir í Svíþjóð. Þá efldu Svíar blót mikil að Uppfölum. Hið fyrsta haust blótuðu þeir nauti, og batnaði ekki ársvöxturinn að heldur. En annað haust blótuðu þeir mönnum, en ársvöxturinn var samur eða verri. En hið þriðja haust komu Svíar fjölmennir til Uppfala, þá er blót skyldu vera. Áttu höfðingjar ráðagerð sína, og kom það ásamt með þeim, að Dómaldur konungur mundi vera valdur að árfelli og þeir skyldu honum blóta til árs og veita honum atgöngu og drepa hann og rjóða stalla með blóði hans. Og svo var gert.",
+    "translations": {
+      "finlay_faulkes": "Domald took the inheritance after his father Visbur and ruled over the lands. In his days there were famine and starvation in Sweden. Then the Swedes held great sacrifices at Uppsala. The first autumn they sacrificed oxen, and the harvest did not improve for all that. The second autumn they sacrificed men, but the harvest remained the same or worse. The third autumn the Swedes came in great numbers to Uppsala, when the sacrifices were to take place. The leaders held a council, and they were agreed that King Domald must be the cause of the crop failure and they should sacrifice him for a good harvest and attack and kill him and redden the altars with his blood. And so it was done.",
+      "literal": "Domaldr took inheritance after father his Visbur and ruled lands. In his days became famine and starvation in Sweden. Then strengthened Swedes sacrifices great at Uppsala. The first autumn sacrificed they ox, and improved not year-growth at rather [at all]. But second autumn sacrificed they men, but year-growth was same or worse. But the third autumn came Swedes many-peopled to Uppsala, then when sacrifices should be. Had chieftains council theirs, and came that together with them, that Domaldr king would be cause at year-fall [famine] and they should him sacrifice for year [harvest] and give him attack and kill him and redden altars with blood his. And so was made."
+    },
+    "sot_links": { "figures": ["Domaldr"], "locations": ["Uppsala"], "themes": ["Sacrificial Kingship", "Famine"] }
+  },
+  {
+    "chapter_id": "yng_33",
+    "original": "Dómarr hét sonur Dómaldar, er ríki réð eftir hann. Hann réð lengi löndum og var ár gott og friður á hans dögum. Frá honum er ekkert sagt annað en hann varð sóttdauður að Uppfölum og var færður á Fýrisvöllu og brenndur þar á árbakkanum. Þar eru steinar hans.",
+    "translations": {
+      "finlay_faulkes": "Domar was the name of Domald’s son, who ruled the kingdom after him. He ruled the lands for a long time and there were good harvests and peace in his days. Nothing is told of him except that he died of sickness at Uppsala and was taken to Fyrisvellir and burned there on the riverbank. There his memorial stones are.",
+      "literal": "Domar was-named son [of] Domaldr, who kingdom ruled after him. He ruled long lands and was year [harvest] good and peace in his days. From him is nothing said other than he became sickness-dead at Uppsala and was fared [taken] to Fyrisvellir and burned there on the-riverbank. There are stones his."
+    },
+    "sot_links": { "figures": ["Domar"], "locations": ["Fyrisvellir", "Uppsala"] }
+  },
+  {
+    "chapter_id": "yng_34",
+    "original": "Dyggvi hét sonur hans, er þá réð löndum, og er frá honum ekkert sagt annað en hann varð sóttdauður. Hann var fyrst konungur kallaður í sinni ætt, en áður voru þeir kallaðir drottnar, en konur þeirra drottningar, en hirðsveitin drótt. En Yngvi eða Ynguni var hver kallaður í þeirri ætt, en allir saman Ynglingar. Móðir Dyggva var Drótt, dóttir Danps konungs, sonar Rígs, er fyrstur var konungur kallaður á danskri tungu.",
+    "translations": {
+      "finlay_faulkes": "Dyggvi was the name of his son, who then ruled the lands, and nothing is told of him except that he died of sickness. He was the first in his family to be called king; previously they were called 'drottnar', and their wives 'drottningar', and the court company 'drott'. But everyone in that family was called Yngvi or Ynguni, and all of them together Ynglings. Dyggvi’s mother was Drott, daughter of King Danp, son of Rig, who was the first to be called king in the Danish language.",
+      "literal": "Dyggvi was-named son his, who then ruled lands, and is from him nothing said other than he became sickness-dead. He was first king called in his kin, but before were they called drottnar, but wives theirs drottningar, but court-troop drott. But Yngvi or Ynguni was each called in that kin, but all together Ynglingar. Mother [of] Dyggvi was Drott, daughter [of] Danp king, son [of] Rigr, who first was king called in Danish tongue."
+    },
+    "sot_links": { "figures": ["Dyggvi", "Drott", "Danp", "Rigr"], "themes": ["Etymology", "Social Hierarchy"] }
+  },
+  {
+    "chapter_id": "yng_35",
+    "original": "Dagur hét sonur Dyggva konungs, er ríki tók eftir hann. Hann var svo spakur maður, að hann skildu fuglamál. Hann átti spör einn, er honum sagði mörg tíðindi. Hann flaug um mörg lönd. Það var eitt sinn, er spörinn flaug á Reiðgotaland til bús þess, er á Vörva heitir. Hann flaug á akur bónda og fékk sér matar. Bóndi kom að og tók upp stein og drap spörinn.",
+    "translations": {
+      "finlay_faulkes": "Dag was the name of King Dyggvi’s son, who took over the kingdom after him. He was such a wise man that he understood the language of birds. He had a sparrow which told him much news. It flew through many lands. Once the sparrow flew to Reidgotaland to the farm called Vorva. It flew onto a farmer’s field and got some food. The farmer came up and picked up a stone and killed the sparrow.",
+      "literal": "Dag was-named son [of] Dyggvi king, who kingdom took after him. He was so wise man, that he understood bird-speech. He had sparrow one, which him said many tidings. He flew around many lands. That was one time, when the-sparrow flew to Reidgotaland to farm that, which at Vorva is-named. He flew on field [of] farmer and got for-himself food. Farmer came at and took up stone and killed the-sparrow."
+    },
+    "sot_links": { "figures": ["Dag"], "locations": ["Reidgotaland"], "themes": ["Hidden Knowledge", "Animal Familiars"] }
+  },
+  {
+    "chapter_id": "yng_36",
+    "original": "Dagur konungur varð óður, er spörinn kom eigi heim. Hann fór með her mikinn til Reiðgotalands og gerði þar mannskaða mikinn. Hann herjaði víða. En er hann skyldi fara til skipa, þá hljóp þræll einn út úr skógi og kastaði heykvísl í herinn og kom í höfuð konungi. Hann féll þegar af hestinum og fékk bana. Í þann tíma var sá höfðingi, er herjaði, kallaður gramur, en hermennirnir gumar.",
+    "translations": {
+      "finlay_faulkes": "King Dag became frantic when the sparrow did not come home. He went with a great army to Reidgotaland and did much slaughter there. He harried widely. But when he was going to his ships, a slave ran out of a wood and threw a pitchfork into the army and it struck the king’s head. He fell immediately from his horse and was killed. At that time a leader who harried was called 'gramr', and the soldiers 'gumar'.",
+      "literal": "Dag king became mad, when the-sparrow came not home. He went with army great to Reidgotaland and made slaughter great. He harried widely. But when he should go to ships, then leaped slave one out out-of wood and cast hay-fork in the-army and came in head [to] king. He fell at-once off the-horse and got death. In that time was that chieftain, who harried, called gramr, but the-warriors gumar."
+    },
+    "sot_links": { "figures": ["Dag"], "locations": ["Reidgotaland"], "themes": ["Revenge", "Accidental Death"] }
+  },
+  {
+    "chapter_id": "yng_37",
+    "original": "Agni hét sonur Dags, er konungur var eftir hann. Hann var voldugur maður og mikill hermaður. Hann fór með her sinn til Finnlands og herjaði og fékk sigur. Þar tók hann herfang mikið og dóttur Frosti konungs, er Lögur hét, og bróður hennar, Loga. Hann fór heim og kom í Stokkssund og setti þar tjöld sín. Hann átti gullmen mikið, það er Vísbur hafði átt.",
+    "translations": {
+      "finlay_faulkes": "Agni was the name of Dag’s son, who was king after him. He was a powerful man and a great warrior. He went with his army to Finland and harried and was victorious. There he took much booty and the daughter of King Frosti, who was called Logur [Skjalf], and her brother Logi. He went home and came to Stocksund and set up his tents there. He had a large gold necklace, the one Visbur had owned.",
+      "literal": "Agni was-named son [of] Dag, who king was after him. He was powerful man and great warrior. He went with army his to Finland and harried and got victory. There took he booty great and daughter [of] Frosti king, who Logur [Skjalf] was-named, and brother hers, Logi. He went home and came in Stocksund and set there tents his. He had gold-necklace great, that which Visbur had owned."
+    },
+    "sot_links": { "figures": ["Agni", "Frosti", "Skjalf", "Logi"], "locations": ["Finland", "Stocksund"], "artifacts": ["artifact_visbur_necklace"] }
+  },
+  {
+    "chapter_id": "yng_38",
+    "original": "Agni konungur gekk að eiga Skjálf. Hún bað konung gera erfi eftir föður sinn. Hann bauð þá mörgum stórmennum og gerði veislu mikla. Agni konungur var mjög drukkinn. Hann hafði gullmenið um háls sér. Hann gekk til svefns í tjaldinu, en Skjálf og herlið hennar tóku festi eina og bundu við menið, en festina köstuðu þau yfir trjágrein eina og drógu svo upp konunginn, að hann fékk þar bana. Skjálf fór á braut með liði sínu, en Agni var þar brenndur.",
+    "translations": {
+      "finlay_faulkes": "King Agni married Skjalf. She asked the king to hold a funeral feast for her father. He then invited many great men and held a large feast. King Agni was very drunk. He had the gold necklace round his neck. He went to sleep in the tent, and Skjalf and her followers took a rope and tied it to the necklace, and they threw the rope over a branch of a tree and drew the king up so that he was killed there. Skjalf went away with her followers, and Agni was burned there.",
+      "literal": "Agni king went to have [marry] Skjalf. She bade king make inheritance-feast [funeral] after father hers. He invited then many great-men and made feast great. Agni king was much drunk. He had the-gold-necklace around neck for-himself. He went to sleep in the-tent, but Skjalf and troop hers took rope one and bound with the-necklace, but the-rope cast they over tree-branch one and drew so up the-king, that he got there death. Skjalf went away with troop hers, but Agni was there burned."
+    },
+    "sot_links": { "figures": ["Agni", "Skjalf"], "themes": ["Betrayal", "Assassination", "The Curse of the Necklace"] }
+  },
+  {
+    "chapter_id": "yng_39",
+    "original": "Alrekur og Eiríkur hétu synir Agna, er konungar voru eftir hann. Þeir voru ríkir menn og miklir hermenn og íþróttamenn. Það var siður þeirra að ríða hestana og temja þá. Þeir kepptust mjög um hestana og reiðina. Það var eitt sinn, er þeir riðu tveir saman og dveldust lengi. En er menn leituðu þeirra, þá fundust þeir báðir dauðir og var höfuðið brotið á báðum, en engi vopn höfðu þeir nema beislin af hestunum, og ætluðu menn, að þeir mundu hafa drepið hvor annan með beislunum.",
+    "translations": {
+      "finlay_faulkes": "Alrek and Eirik were the names of Agni’s sons, who were kings after him. They were powerful men and great warriors and athletes. It was their custom to ride horses and train them. They competed much in their horses and their riding. Once they were riding out together and were away a long time. When people searched for them, they were both found dead and their heads were both smashed, and they had no weapons except the horses' bridles, and people thought they must have killed each other with the bridles.",
+      "literal": "Alrekr and Eirikr was-named sons [of] Agni, who kings were after him. They were powerful men and great warriors and athletes. That was custom theirs to ride the-horses and tame them. They competed much about the-horses and the-riding. That was one time, when they rode two together and stayed long. But when men sought them, then found-they both dead and was the-head broken on both, but no weapons had they except the-bridles from the-horses, and intended [thought] men, that they would have killed each other with the-bridles."
+    },
+    "sot_links": { "figures": ["Alrekr", "Eirikr"], "themes": ["Fratricide", "Accidental/Strange Death"] }
+  },
+  {
+    "chapter_id": "yng_40",
+    "original": "Yngvi og Álfur hétu synir Alreks, er ríki tóku í Svíþjóð. Yngvi var hermaður mikill og sigursæll, fríður maður og íþróttamaður mikill. Álfur sat heima og var eigi hermaður. Hann var fálátur og ríklátur. Móðir hans hét Dageið, dóttir Dags konungs hins spaka. Álfur átti konu þá, er Bera hét, dóttur Egils. Hún var kvenna fegurst og skemmtileg og gleðimaður mikill.",
+    "translations": {
+      "finlay_faulkes": "Yngvi and Alf were the names of Alrek’s sons, who took over the kingdom in Sweden. Yngvi was a great warrior and victorious, a handsome man and a great athlete. Alf stayed at home and was not a warrior. He was unsociable and proud. His mother was called Dageid, daughter of King Dag the Wise. Alf had a wife called Bera, daughter of Egil. She was the most beautiful of women and entertaining and a very cheerful person.",
+      "literal": "Yngvi and Alfr was-named sons [of] Alrekr, who kingdom took in Sweden. Yngvi was warrior great and victory-happy, handsome man and athlete great. Alfr sat home and was not warrior. He was silent [unsociable] and proud. Mother his was-named Dageid, daughter [of] Dag king the wise. Alfr had wife that, who Bera was-named, daughter [of] Egill. She was [of] women fairest and entertaining and cheer-person great."
+    },
+    "sot_links": { "figures": ["Yngvi", "Alfr", "Dageid", "Bera", "Egill"] }
+  },
+  {
+    "chapter_id": "yng_41",
+    "original": "Yngvi konungur kom eitt haust úr hernaði til Uppsala og var þá mjög frægur. Hann sat oft lengi við drykkju um kveldið. Álfur konungur gekk snemma að sofa. Bera drottning sat oft og talaði við Yngva. Álfur ræddi um það oft, bað hana fara snemma að sofa, sögðust eigi vilja vaka eftir henni. En hún mælti, að sá væri sæll, er Yngva átti að manni en eigi Álf. Álfur varð mjög reiður. Eitt kveld gekk Álfur í höllina, þá er Yngvi og Bera sátu á palli og töluðust við. Yngvi hafði saxið um kné sér. Álfur dró sverð undan skikkju sinni og lagði gegnum Yngva. Yngvi hljóp upp og brá saxinu og hjó Álf til bana. Féllu þeir báðir dauðir á gólfið. Þeir voru heygðir á Fýrisvöllum.",
+    "translations": {
+      "finlay_faulkes": "One autumn King Yngvi came to Uppsala from a harrying expedition and was then very famous. He often sat a long time at his drinking in the evening. King Alf went to bed early. Queen Bera often sat and talked with Yngvi. Alf often spoke about this, told her to go to bed early, said he did not want to stay awake for her. But she said that woman was happy who had Yngvi as a husband and not Alf. Alf became very angry. One evening Alf went into the hall when Yngvi and Bera were sitting on the dais and talking together. Yngvi had his short-sword on his knee. Alf drew a sword from under his cloak and ran it through Yngvi. Yngvi jumped up and drew the short-sword and struck Alf a death-blow. They both fell dead on the floor. They were buried in mounds on Fyrisvellir.",
+      "literal": "Yngvi king came one autumn out-of harrying to Uppsala and was then much famous. He sat often long with drinking around evening. Alfr king went early to sleep. Bera queen sat often and spoke with Yngvi. Alfr spoke about that often, bade her go early to sleep, said-not [he] would wake after her. But she spoke, that that-one were happy, who Yngvi had to man but not Alfr. Alfr became much angry. One evening went Alfr in the-hall, then when Yngvi and Bera sat on dais and spoke-together. Yngvi had the-short-sword around knee for-himself. Alfr drew sword from-under cloak his and laid [thrust] through Yngvi. Yngvi leaped up and drew the-short-sword and hewed Alfr to death. Fell they both dead on the-floor. They were mounded on Fyrisvellir."
+    },
+    "sot_links": { "figures": ["Yngvi", "Alfr", "Bera"], "locations": ["Uppsala", "Fyrisvellir"], "themes": ["Jealousy", "Double Murder", "Fratricide"] }
+  },
+  {
+    "chapter_id": "yng_42",
+    "original": "Hugleikur hét sonur Álfs, er konungur var yfir Svíum eftir þá bræður, því að synir Yngva voru þá börn. Hugleikur konungur var eigi hermaður. Hann sat að landi kyrr. Hann átti í hirð sinni allskonar leikara, hörpusláttarmenn og gígjarara. Hann átti og með sér fjölkunnuga menn. Haki og Hagbarður hétu tveir bræður, er voru sækonungar miklir. Þeir herjuðu á Svíþjóð og áttu orustu við Hugleik. Þar féll Hugleikur konungur og tveir synir hans. Haki varð þá konungur yfir Svíum.",
+    "translations": {
+      "finlay_faulkes": "Hugleik was the name of Alf’s son, who was king over the Swedes after those brothers, for Yngvi’s sons were then children. King Hugleik was not a warrior. He stayed at home in his land in peace. He had in his court all kinds of entertainers, harpers and fiddlers. He also had with him people skilled in magic. Haki and Hagbard were the names of two brothers who were great sea-kings. They harried in Sweden and had a battle with Hugleik. King Hugleik and two of his sons fell there. Haki then became king over the Swedes.",
+      "literal": "Hugleikr was-named son [of] Alfr, who king was over Swedes after those brothers, because that sons [of] Yngvi were then children. Hugleikr king was not warrior. He sat at land quiet. He had in court his all-kinds players, harp-players and fiddlers. He had also with him magic-skilled men. Haki and Hagbardr was-named two brothers, who were sea-kings great. They harried on Sweden and had battle with Hugleikr. There fell Hugleikr king and two sons his. Haki became then king over Swedes."
+    },
+    "sot_links": { "figures": ["Hugleikr", "Haki", "Hagbardr"], "locations": ["Sweden"], "themes": ["Invasion", "Succession"] }
+  },
+  {
+    "chapter_id": "yng_43",
+    "original": "Haki konungur réð Svíþjóð þrjá vetur. Hann sat að landi, en hermenn hans fóru í hernað og fengu herfang mikið. En er synir Yngva, Jörundur og Eiríkur, spurðu það, þá söfnuðu þeir liði og fóru til Svíþjóðar. Þeir áttu orustu við Haki konung á Fýrisvöllum. Þar féll Eiríkur, en Jörundur flýði til skipa. Haki konungur fékk sár svo stór, að hann sá sér eigi lífsván. Hann lét hlaða skip sitt dauðum mönnum og vopnum og láta leggja eld í og láta gæfa út á hafið. Svo dó hann.",
+    "translations": {
+      "finlay_faulkes": "King Haki ruled Sweden for three years. He stayed at home in the land, but his warriors went on harrying expeditions and got much booty. But when Yngvi’s sons, Jorund and Eirik, heard this, they gathered a troop and went to Sweden. They had a battle with King Haki on Fyrisvellir. Eirik fell there, but Jorund fled to his ships. King Haki received wounds so great that he saw no hope of life. He had his ship loaded with dead men and weapons and had it set on fire and sent out to sea. So he died.",
+      "literal": "Haki king ruled Sweden three winters. He sat at land, but warriors his went in harrying and got booty great. But when sons [of] Yngvi, Jorundr and Eirikr, asked [heard] that, then gathered they troop and went to Sweden. They had battle with Haki king on Fyrisvellir. There fell Eirikr, but Jorundr fled to ships. Haki king got wounds so great, that he saw to-himself no life-hope. He let load ship his [with] dead men and weapons and let lay fire in and let give out on the-sea. So died he."
+    },
+    "sot_links": { "figures": ["Haki", "Jorundr", "Eirikr"], "locations": ["Fyrisvellir", "Sweden"], "themes": ["Naval Burial", "Warfare"] }
+  },
+  {
+    "chapter_id": "yng_44",
+    "original": "Jörundur varð konungur að Uppfölum eftir Haka. Hann var hermaður mikill. Hann fór eitt sumar með her sinn til Danmerkur og herjaði á Jótland. Hann fór í Limafjörð og setti þar tjöld sín. Gylaugur hét konungur á Hálogalandi, sonur Guðlaugs, er Jörundur hafði drepið. Gylaugur kom þar með her sinn og átti orustu við Jörund. Þar var Jörundur handtekinn. Gylaugur lét reisa gálga og lét hengja Jörund þar. Svo dó hann.",
+    "translations": {
+      "finlay_faulkes": "Jorund became king at Uppsala after Haki. He was a great warrior. One summer he went with his army to Denmark and harried in Jutland. He went into Limfjord and set up his tents there. Gylaug was the name of a king in Halogaland, son of Gudlaug, whom Jorund had killed. Gylaug came there with his army and had a battle with Jorund. There Jorund was captured. Gylaug had a gallows set up and had Jorund hanged there. So he died.",
+      "literal": "Jorundr was-named king at Uppsala after Haki. He was warrior great. He went one summer with army his to Denmark and harried on Jutland. He went in Limfjord and set there tents his. Gylaug was-named king on Halogaland, son [of] Gudlaug, whom Jorundr had killed. Gylaug came there with army his and had battle with Jorundr. There was Jorundr hand-taken [captured]. Gylaug let raise gallows and let hang Jorundr there. So died he."
+    },
+    "sot_links": { "figures": ["Jorundr", "Gylaug", "Gudlaug"], "locations": ["Uppsala", "Jutland", "Limfjord", "Halogaland"], "themes": ["Execution", "Vengeance"] }
+  },
+  {
+    "chapter_id": "yng_45",
+    "original": "Ane hét sonur Jörundar, er konungur var yfir Svíum eftir föður sinn. Hann var vitur maður og blótmaður mikill. Hann var eigi hermaður. Hann sat að landi kyrr. Danur hinn mikilláti herjaði á Svíþjóð og átti orustu við Ane og fékk sigur. Ane flýði til Vestur-Gautlands. Hann var þar tuttugu vetur, meðan Danur var konungur í Svíþjóð. En er Danur dó, þá fór Ane aftur til Uppsala.",
+    "translations": {
+      "finlay_faulkes": "Ane was the name of Jorund’s son, who was king over the Swedes after his father. He was a wise man and a great man for sacrifices. He was not a warrior. He stayed at home in his land in peace. Dan the Proud harried in Sweden and had a battle with Ane and was victorious. Ane fled to West Gautland. He was there for twenty years while Dan was king in Sweden. But when Dan died, then Ane went back to Uppsala.",
+      "literal": "Ane was-named son [of] Jorundr, who king was over Swedes after father his. He was wise man and sacrifice-man great. He was not warrior. He sat at land quiet. Dan the proud harried on Sweden and had battle with Ane and got victory. Ane fled to West-Gautland. He was there twenty winters, while Dan was king in Sweden. But when Dan died, then Ane went back to Uppsala."
+    },
+    "sot_links": { "figures": ["Ane", "Dan"], "locations": ["Sweden", "West-Gautland", "Uppsala"], "themes": ["Exile", "Succession"] }
+  },
+  {
+    "chapter_id": "yng_46",
+    "original": "Ane konungur fór til Uppsala, er hann var sextugur að aldri. Þá gerði hann blót mikið og blótaði syni sínum Óðni. Ane konungur fékk svar af Óðni, að hann skyldi lifa enn sextíu vetur. Ane var þá konungur í Svíþjóð aðra tuttugu vetur. Þá kom Alrekur konungur, sonur Danps, og rak Ane á braut til Vestur-Gautlands. Hann var þar aðra tuttugu vetur. En er Alrekur dó, þá fór Ane aftur til Uppsala og var þar enn tuttugu vetur. Þá blótaði hann öðrum syni sínum. Þá mælti Óðinn, að hann skyldi lifa svo lengi sem hann gæfi honum son á tíu vetra fresti.",
+    "translations": {
+      "finlay_faulkes": "King Ane went to Uppsala when he was sixty years old. Then he performed a great sacrifice and sacrificed his son to Odin. King Ane received an answer from Odin that he should live another sixty years. Ane was then king in Sweden for another twenty years. Then King Alrek, son of Danp, came and drove Ane away to West Gautland. He was there another twenty years. When Alrek died, Ane went back to Uppsala and was there another twenty years. Then he sacrificed another son. Then Odin said he should live as long as he gave him a son every ten years.",
+      "literal": "Ane king went to Uppsala, when he was sixty at age. Then made he sacrifice great and sacrificed son his [to] Odin. Ane king got answer from Odin, that he should live still sixty winters. Ane was then king in Sweden another twenty winters. Then came Alrekr king, son [of] Danp, and drove Ane away to West-Gautland. He was there another twenty winters. But when Alrekr died, then went Ane back to Uppsala and was there still twenty winters. Then sacrificed he another son his. Then spoke Odin, that he should live so long as he gave him son on ten winters' interval."
+    },
+    "sot_links": { "figures": ["Ane", "Alrekr"], "deities": ["deity_odin"], "themes": ["Longevity", "Filicide", "Sacrifice"] }
+  },
+  {
+    "chapter_id": "yng_47",
+    "original": "En er Ane konungur hafði blótað sjö sonum sínum, þá lifði hann svo lengi, að hann mátti eigi ganga, en hann var borinn á stóli. Hann blótaði hinum áttunda syni sínum og lifði þá enn tíu vetur og lá í kör. Þá blótaði hann hinum níunda syni sínum og lifði þá enn tíu vetur. Þá drakk hann horn sem barn. Þá vildi hann blóta hinum tíunda syni sínum og gefa Óðni Uppsala og þau heruð, er þar liggja til. En Svíar bönnuðu honum það, og varð ekkert af blótinu. Þá dó Ane konungur og var heygður að Uppfölum.",
+    "translations": {
+      "finlay_faulkes": "When King Ane had sacrificed seven of his sons, he lived so long that he could not walk, but was carried in a chair. He sacrificed his eighth son and lived then another ten years and was bedridden. Then he sacrificed his ninth son and lived another ten years. Then he drank from a horn like a child. Then he wanted to sacrifice his tenth son and give Uppsala to Odin with the territories belonging to it. But the Swedes forbade him that, and nothing came of the sacrifice. Then King Ane died and was buried in a mound at Uppsala.",
+      "literal": "But when Ane king had sacrificed seven sons his, then lived he so long, that he might not walk, but he was borne on chair. He sacrificed the eighth son his and lived then still ten winters and lay in bed [infirm]. Then sacrificed he the ninth son his and lived then still ten winters. Then drank he [from] horn as child. Then would he sacrifice the tenth son his and give Odin Uppsala and those districts, which there lie to. But Swedes forbade him that, and became nothing out-of the-sacrifice. Then died Ane king and was mounded at Uppsala."
+    },
+    "sot_links": { "figures": ["Ane"], "locations": ["Uppsala"], "themes": ["Physical Decay", "System Resistance"] }
+  },
+  {
+    "chapter_id": "yng_48",
+    "original": "Egill hét sonur Ane konungs, er konungur var í Svíþjóð eftir föður sinn. Hann var eigi hermaður og sat að landi kyrr. Þræll einn, er Tunni hét, hljóp í braut með marga aðra þræla. Þeir söfnuðu her og herjuðu á Egil konung. Þeir áttu átta orustur, og hafði Tunni jafnan sigur. Egill flýði til Danmerkur til Fróða hins frækna. Hann fékk her af Fróða og fór til Svíþjóðar og átti orustu við Tunna og drap hann. Egill var síðan konungur lengi. Hann varð fyrir nauti og fékk bana.",
+    "translations": {
+      "finlay_faulkes": "Egil was the name of King Ane’s son, who was king in Sweden after his father. He was not a warrior and stayed at home in peace. A slave called Tunni ran away with many other slaves. They gathered an army and harried King Egil. They had eight battles, and Tunni was always victorious. Egil fled to Denmark to Frodi the Bold. He got an army from Frodi and went to Sweden and had a battle with Tunni and killed him. Egil was king for a long time after that. He was gored by a bull and killed.",
+      "literal": "Egill was-named son [of] Ane king, who king was in Sweden after father his. He was not warrior and sat at land quiet. Slave one, who Tunni was-named, leaped away with many other slaves. They gathered army and harried on Egill king. They had eight battles, and had Tunni always victory. Egill fled to Denmark to Frodi the bold. He got army from Frodi and went to Sweden and had battle with Tunni and killed him. Egill was since king long. He became [fell] before bull and got death."
+    },
+    "sot_links": { "figures": ["Egill", "Tunni", "Frodi"], "locations": ["Sweden", "Denmark"], "themes": ["Slave Rebellion", "Animal-induced Death"] }
+  },
+  {
+    "chapter_id": "yng_49",
+    "original": "Óttar hét sonur Egils, er ríki tók eftir hann. Hann vildi eigi gjalda skatt þann, er Egill hafði heitið Fróða. Þá fór Fróði með her til Svíþjóðar og herjaði. En að sumri fór Óttar til Danmerkur og herjaði. Hann kom í Limafjörð. Þar komu í móti honum tveir jarlar Fróða. Þeir áttu orustu, og fékk Óttar bana. Danir tóku lík hans og lögðu á haug einn og létu þar rífa varga og fugla. Þeir gerðu kráku af tré og sendu til Svíþjóðar og sögðu, að Óttar konungur væri eigi meira virður. Eftir því var hann kallaður Óttar vendilkráka.",
+    "translations": {
+      "finlay_faulkes": "Ottar was the name of Egil’s son, who took over the kingdom after him. He would not pay the tax that Egil had promised Frodi. Then Frodi went with an army to Sweden and harried. But in the summer Ottar went to Denmark and harried. He came into Limfjord. There two of Frodi’s earls came against him. They had a battle, and Ottar was killed. The Danes took his body and laid it on a mound and let wolves and birds tear it there. They made a crow out of wood and sent it to Sweden and said that King Ottar was worth no more than that. Because of this he was called Ottar Vendel-crow.",
+      "literal": "Ottar was-named son [of] Egill, who kingdom took after him. He would not pay tax that, which Egill had promised Frodi. Then went Frodi with army to Sweden and harried. But at summer went Ottar to Denmark and harried. He came in Limfjord. There came in meeting him two earls [of] Frodi. They had battle, and got Ottar death. Danes took body his and laid on mound one and let there tear wolves and birds. They made crow from wood and sent to Sweden and said, that Ottar king were not more worth. After that was he called Ottar Vendel-crow."
+    },
+    "sot_links": { "figures": ["Ottar", "Frodi"], "locations": ["Denmark", "Limfjord", "Sweden"], "themes": ["Tax Disputes", "Desecration", "Sobriquet Origin"] }
+  },
+  {
+    "chapter_id": "yng_50",
+    "original": "Aðils hét sonur Óttars, er konungur var eftir hann. Hann var lengi konungur og var mjög auðugur. Hann fór til Saxlands og herjaði þar. Hann tók þar herfang mikið og konu þá, er Ýrsa hét. Hún var kvenna fegurst. Aðils átti hana. Síðan kom Helgi konungur af Hleiðru til Svíþjóðar og nam Ýrsu á braut. Hann átti hana síðan. Þeirra sonur var Hrólfur kraki. En er Ýrsa vissi, að Helgi var faðir hennar, þá fór hún aftur til Aðils konungs og var þar síðan. Aðils konungur varð sóttdauður að Uppfölum.",
+    "translations": {
+      "finlay_faulkes": "Adils was the name of Ottar’s son, who was king after him. He was king for a long time and was very wealthy. He went to Saxland and harried there. He took much booty there and the woman called Yrsa. She was the most beautiful of women. Adils married her. Then King Helgi of Lejre came to Sweden and carried Yrsa away. He married her afterwards. Their son was Hrolf Kraki. But when Yrsa found out that Helgi was her father, she went back to King Adils and stayed there afterwards. King Adils died of sickness at Uppsala.",
+      "literal": "Adils was-named son [of] Ottar, who king was after him. He was long king and was much wealthy. He went to Saxland and harried there. He took there booty great and wife that, who Yrsa was-named. She was [of] women fairest. Adils had [married] her. Since came Helgi king from Lejre to Sweden and took Yrsa away. He had her since. Their son was Hrolfr Kraki. But when Yrsa knew, that Helgi was father hers, then went she back to Adils king and was there since. Adils king became sickness-dead at Uppsala."
+    },
+    "sot_links": { "figures": ["Adils", "Yrsa", "Helgi", "Hrolfr Kraki"], "locations": ["Saxland", "Lejre", "Uppsala"], "themes": ["Incest", "Abduction", "Dynastic Overlap"] }
+  }
+]
