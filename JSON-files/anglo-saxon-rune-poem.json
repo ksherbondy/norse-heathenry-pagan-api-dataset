@@ -1,0 +1,272 @@
+[
+  {
+    "rune": "ᚠ (Feoh)",
+    "original": "Feoh byþ frofur fira gehwylcum; / sceal þeah manna gehwylc miclun hit dælan / gif he wile for drihtne domes hleotan.",
+    "translations": {
+      "standard": "Wealth is a comfort to all men; / yet must every man bestow it freely, / if he wish to gain glory in the sight of the Lord.",
+      "literal": "Wealth is comfort [to] men each; / shall though men each greatly it deal [share] / if he will before Lord glory obtain."
+    },
+    "sot_links": { "themes": ["Wealth", "Generosity", "Christian Stewardship"] }
+  },
+  {
+    "rune": "U+16A2 (Ur)",
+    "original": "Ur byþ anmod ond oferhyrned, / felafrecne deor, feohteþ mid hornum / mære morstapa; þæt is modig wuht.",
+    "translations": {
+      "standard": "The aurochs is proud and has great horns; / it is a very savage beast and fights with its horns; / a great ranger of the moors, it is a creature of mettle.",
+      "literal": "Aurochs is single-minded and over-horned, / very-daring beast, fights with horns / famous moor-stepper; that is brave creature."
+    },
+    "sot_links": { "beasts": ["beast_aurochs"], "themes": ["Strength", "Wilderness"] }
+  },
+  {
+    "rune": "ᚦ (Ðorn)",
+    "original": "Ðorn byþ ðearle scearp; ðegna gehwylcum / anfeng ys yfyl, ungemetum reþe / manna gehwylcum, ðe him mid resteð.",
+    "translations": {
+      "standard": "The thorn is exceedingly sharp; an evil thing to grip / for any knight, uncommonly severe / to all who rest among them.",
+      "literal": "Thorn is severely sharp; thanes each / grasping is evil, immeasurably fierce / men each, who him with rests."
+    },
+    "sot_links": { "themes": ["Danger", "Hardship", "Protection"] }
+  },
+  {
+    "rune": "ᚩ (Os)",
+    "original": "Os byþ ordfruma ælere spræce, / wisdomes wraþu ond witena frofur, / ond eorla gehwam eadnys ond tohiht.",
+    "translations": {
+      "standard": "The mouth is the source of all language, / a pillar of wisdom and a comfort to wise men, / a blessing and a joy to every knight.",
+      "literal": "Mouth is source [of] every speech, / wisdom's support and wise-men's comfort, / and earls each prosperity and hope."
+    },
+    "sot_links": { "themes": ["Wisdom", "Eloquence", "Social Order"] }
+  },
+  {
+    "rune": "ᚱ (Rad)",
+    "original": "Rad byþ on recede rinca gehwylcum / sefte, ond swiþhwæt, ðam ðe sitteþ on ufan / meare mægenheardum ofer milpaþas.",
+    "translations": {
+      "standard": "Riding seems soft to every warrior while he is indoors / and very courageous to him who bestrides / a stout steed over the mile-paths.",
+      "literal": "Riding is in hall warriors each / easy, and very-vigorous, [to] that who sits on above / horse power-hard over mile-paths."
+    },
+    "sot_links": { "themes": ["Travel", "Warfare", "Contrast"] }
+  },
+  {
+    "rune": "ᚳ (Cen)",
+    "original": "Cen byþ cwicera gehwam, cuþ on fyre / blac ond beorhtlic, byrneþ oftust / ðær hi æþelingas inne restaþ.",
+    "translations": {
+      "standard": "The torch is known to every living man by its pale, bright flame; it always burns where princes rest within.",
+      "literal": "Torch is [to] living each, known by fire / pale and bright-like, burns oftenest / where they princes inside rest."
+    },
+    "sot_links": { "themes": ["Light", "Domestic Safety", "Nobility"] }
+  },
+  {
+    "rune": "ᚷ (Gyfu)",
+    "original": "Gyfu gumena byþ gleng ond herenys, / wraþu ond wyrþscype ond wræcna gehwam / ar ond ætist, ðe byþ oþra leas.",
+    "translations": {
+      "standard": "Generosity is a credit and honor to men, and support and dignity to every homeless man who is otherwise destitute.",
+      "literal": "Gift [of] men is grace and praise, / support and worship and exiles each / help and subsistence, who is others-less."
+    },
+    "sot_links": { "themes": ["Generosity", "Social Safety Net", "Honor"] }
+  },
+  {
+    "rune": "ᚹ (Wenne)",
+    "original": "Wenne bruceþ, ðe can weana lyt / sares ond sorge ond him sylfa hæfþ / blæd ond blysse ond eac byrga geniht.",
+    "translations": {
+      "standard": "Bliss is enjoyed by him who knows little of woe, pain or sorrow, and has prosperity and happiness and a good enough town.",
+      "literal": "Joy enjoys, who knows woes little / sore and sorrow and him self has / prosperity and bliss and also cities [strongholds] sufficiency."
+    },
+    "sot_links": { "themes": ["Happiness", "Prosperity", "Security"] }
+  },
+  {
+    "rune": "ᚻ (Hægl)",
+    "original": "Hægl byþ hwitust corna; hwyrft þæt of heofones lyfte, / wealcaþ hit windes scura; weorþeþ hit to wætere syððan.",
+    "translations": {
+      "standard": "Hail is the whitest of grains; it is whirled from the vault of heaven and is tossed about by gusts of wind and then it becomes water.",
+      "literal": "Hail is whitest [of] grains; turns that from heaven's air, / tosses it wind's showers; becomes it to water afterwards."
+    },
+    "sot_links": { "themes": ["Environmental Physics", "Phase Change"] }
+  },
+  {
+    "rune": "ᚾ (Nyd)",
+    "original": "Nyd byþ nearu on breostan; weorþeþ hi þeah oft niþa bearnum / to helpe ond to hæle gehwæþre, gif hi his hlystaþ æror.",
+    "translations": {
+      "standard": "Trouble is oppressive to the heart; yet often it proves a source of help and salvation to the children of men, if they heed it in time.",
+      "literal": "Need is narrow [oppressive] on breast; becomes it though often men's children / to help and to health each, if they it listen-to before."
+    },
+    "sot_links": { "themes": ["Adversity", "Self-Correction", "Salvation"] }
+  },
+  {
+    "rune": "ᛁ (Is)",
+    "original": "Is byþ ofereald, ungemetum slidor, / glisniaþ glæshluttur gimmum gelicust, / flor forste geworuht, fæger ansyne.",
+    "translations": {
+      "standard": "Ice is very cold and immeasurably slippery; it glistens as clear as glass and most like to gems; it is a floor wrought by the frost, fair to look upon.",
+      "literal": "Ice is over-old, immeasurably slippery, / glistens glass-clear gems likest, / floor by-frost wrought, fair [in] appearance."
+    },
+    "sot_links": { "themes": ["Environmental Aesthetics", "Hazard"] }
+  },
+  {
+    "rune": "ᛄ (Ger)",
+    "original": "Ger byþ gumena hiht, ðon God læteþ, / halig heofones cyning, hrusan syllan / beorhte bleda beornum ond ðearfum.",
+    "translations": {
+      "standard": "Summer is a joy to men, when God, the holy King of Heaven, suffers the earth to bring forth shining fruits for rich and poor alike.",
+      "literal": "Year [Harvest] is men's hope, when God lets, / holy heaven's king, earth give / bright fruits [to] rich and needy."
+    },
+    "sot_links": { "themes": ["Prosperity", "Divine Providence", "Agriculture"] }
+  },
+  {
+    "rune": "ᛇ (Eoh)",
+    "original": "Eoh byþ utan unsmþe treow, / heard hrusan fæst, hyrde fyres, / wyrtrumun underwreþyd, wyn on eþle.",
+    "translations": {
+      "standard": "The yew is a tree with rough bark, hard and fast in the earth, supported by its roots, a guardian of flame and a joy upon the estate.",
+      "literal": "Yew is outside rough tree, / hard earth-fast, shepherd [of] fire, / by-roots under-propped, joy on homeland."
+    },
+    "sot_links": { "themes": ["Endurance", "Weaponry", "Stability"] }
+  },
+  {
+    "rune": "ᛈ (Peorð)",
+    "original": "Peorð byþ symble plega ond hleahtor / wlancum [ðær] wigan sittaþ on beorsele / bliþe ætsomne.",
+    "translations": {
+      "standard": "Peorth is a source of recreation and amusement to the great, where warriors sit blissfully together in the banqueting hall.",
+      "literal": "Peorth [Game-piece?] is always play and laughter / to-proud-ones [where] warriors sit in beer-hall / blithe together."
+    },
+    "sot_links": { "themes": ["Social Interaction", "Gaming", "Hall Culture"] }
+  },
+  {
+    "rune": "ᛉ (Eolh)",
+    "original": "Eolh-secg eard hæfþ oftust on fenne / wexeþ on wæture, wundaþ grimme, / blode breneþ beorna gehwylcne / ðe him ænige onfeng gedeþ.",
+    "translations": {
+      "standard": "The elk-sedge is usually found in a marsh; it grows in the water and burns the blood, wounding any man who tries to grasp it.",
+      "literal": "Elk-sedge home has oftenest in fen / grows in water, wounds grimly, / [with] blood stains men each / who him any grasp makes."
+    },
+    "sot_links": { "themes": ["Natural Defenses", "Blood", "Wilderness"] }
+  },
+  {
+    "rune": "ᛋ (Sigel)",
+    "original": "Sigel semannum symble biþ on hihte, / ðonne hi hine feriaþ ofer fisces eþel, / oþ hi brimhengest bryngan to lande.",
+    "translations": {
+      "standard": "The sun is always a hope to seamen when they steer their ship over the fishes' bath, until the brine-steed brings them to land.",
+      "literal": "Sun [to] seamen always is in hope, / when they him [it] lead over fish's homeland, / until sea-stallion brings [them] to land."
+    },
+    "sot_links": { "themes": ["Navigation", "Hope", "Maritime Logic"], "beasts": ["beast_fish"] }
+  },
+  {
+    "rune": "ᛏ (Tir)",
+    "original": "Tir biþ tacna gehwylc, healdeþ trywa wel / wiþ æþelingas; a biþ on færylde / ofer nihta genipu, næfre swiceþ.",
+    "translations": {
+      "standard": "Tir is a star; it keeps faith well with princes; it is always on its course over the mists of night and never fails.",
+      "literal": "Tir is signs each, holds faith well / with princes; always is on journey / over night's mists, never deceives."
+    },
+    "sot_links": { "themes": ["Constancy", "Astronomy", "Guidance"], "deities": ["deity_tyr"] }
+  },
+  {
+    "rune": "ᛒ (Beorc)",
+    "original": "Beorc byþ bleda leas, bereþ efne swa ðeah / tanas butan tudder, biþ on telgum wliteg, / heah on helme hrysted fægere.",
+    "translations": {
+      "standard": "The birch bears no fruit, yet it has suckers without seed; it is beautiful in its branches, laden with leaves and touching the sky.",
+      "literal": "Birch is fruit-less, bears even so though / twigs without seed, is on branches beautiful, / high on crown adorned fairly."
+    },
+    "sot_links": { "themes": ["Aesthetics", "Growth", "Nature"] }
+  },
+  {
+    "rune": "ᛖ (Eh)",
+    "original": "Eh byþ æþelinga wyn, ðer hi æþelingas / ofer mearummodigum meðelstede fandaþ; / biþ on wicgum welegum wraþu gehwylcum.",
+    "translations": {
+      "standard": "The horse is a joy to princes in the presence of warriors, a steed in the pride of its hoofs, when rich men on horseback bandy words about it.",
+      "literal": "Horse is princes' joy, where they noble-ones / over steeds-spirited meeting-place test; / is on horses wealthy [to] support each."
+    },
+    "sot_links": { "themes": ["Nobility", "Social Status", "Horsemanship"] }
+  },
+  {
+    "rune": "ᛗ (Mann)",
+    "original": "Mann byþ on myrgþe his magan leof: / sceal þeah anra gehwylc oðrum swican, / forðum drihten wile dome sine / þæt earme flæsc eorþan betæcan.",
+    "translations": {
+      "standard": "The joyous man is dear to his kinsmen; yet every man is doomed to fail his fellow, for the Lord by His decree will commit the vile carrion to the earth.",
+      "literal": "Man is in mirth his kinsman dear: / shall though each-one [from] other depart, / because lord will [by] decree his / that wretched flesh [to] earth commit."
+    },
+    "sot_links": { "themes": ["Mortality", "Kinship", "Fate"] }
+  },
+  {
+    "rune": "ᛚ (Lagu)",
+    "original": "Lagu byþ leodum langsum þuhte, / gif hi sculun neþan on nacan tealtum / ond hi lages wealca þearle bregaþ / ond se brimhengest bridles ne gime.",
+    "translations": {
+      "standard": "The ocean seems interminable to men, if they must venture on the unsteady bark and the waves of the sea terrify them and the brine-steed heeds not its bridle.",
+      "literal": "Sea is [to] people long-seeming thought, / if they shall venture on boat unsteady / and them sea's waves greatly terrify / and the sea-stallion [of] bridle not heeds."
+    },
+    "sot_links": { "themes": ["Maritime Logic", "Fear", "Navigation"], "artifacts": ["artifact_boat"] }
+  },
+  {
+    "rune": "ᛝ (Ing)",
+    "original": "Ing wæs ærest mid East-Denum / gesewen secgun, oþ he siððan east / ofer wæg gewat; wæn æfter ran; / þus Heardingas þone hæle nemdun.",
+    "translations": {
+      "standard": "Ing was first seen by men among the East-Danes, till, followed by his chariot, he departed eastwards over the waves. So the Heardingas named the hero.",
+      "literal": "Ing was first with East-Danes / seen [by] men, until he afterwards east / over wave departed; wagon after ran; / thus Heardingas that hero named."
+    },
+    "sot_links": { "figures": ["Ing", "Freyr"], "themes": ["Deity Migration", "Chariots"], "locations": ["Denmark"] }
+  },
+  {
+    "rune": "ᛟ (Eþel)",
+    "original": "Eþel byþ oferleof æghwylcum men, / gif he mot ðær rihtes ond gerysena on / brucan on bolde bleadum oftast.",
+    "translations": {
+      "standard": "An estate is very dear to every man, if he can enjoy there in his house whatever is right and proper in constant prosperity.",
+      "literal": "Homeland [Estate] is over-dear [to] each man, / if he may there right and decencies on / enjoy in dwelling prosperity oftenest."
+    },
+    "sot_links": { "themes": ["Land Ownership", "Legal Rights", "Prosperity"] }
+  },
+  {
+    "rune": "ᛞ (Dæg)",
+    "original": "Dæg byþ drihtnes sond, deore metodes lyeht, / wyn ond wears dome eadgum ond earmum, / eallum to lyehte.",
+    "translations": {
+      "standard": "Day, the glorious light of the Creator, is sent by the Lord; it is a satisfaction and hope to rich and poor alike, and is of use to all.",
+      "literal": "Day is Lord's messenger, dear Creator's light, / joy and hope [by] decree [to] blessed and poor, / all to light."
+    },
+    "sot_links": { "themes": ["Light", "Equality", "Divine Order"] }
+  },
+  {
+    "rune": "ᚫ (Æsc)",
+    "original": "Æsc byþ oferheah, eldum dyre / stiþ on staþule, stede rihte hylt, / ðeah him feohtan on firas monige.",
+    "translations": {
+      "standard": "The ash is exceedingly tall and precious to men. With its sturdy trunk it offers a stubborn resistance, though many men attack it.",
+      "literal": "Ash is over-high, [to] men dear / stiff on foundation, place rightly holds, / though him fight on men many."
+    },
+    "sot_links": { "themes": ["Endurance", "Weaponry", "Stability"] }
+  },
+  {
+    "rune": "ᚪ (Ac)",
+    "original": "Ac byþ on eorþan elda barnum / flæsces fodor, fereþ gelome / ofer ganotes bæþ; garsecg fandaþ / hwæþer ac hæbbe æþele treowe.",
+    "translations": {
+      "standard": "The oak fattens the flesh for the children of men; it often traverses the gannet's bath, and the ocean proves whether the oak keeps noble faith.",
+      "literal": "Oak is on earth [for] men's children / flesh's fodder, fares [travels] frequently / over gannet's bath [sea]; ocean tests / whether oak has noble faith."
+    },
+    "sot_links": { "themes": ["Shipbuilding", "Agriculture", "Maritime Logic"] }
+  },
+  {
+    "rune": "ᚷ (Æsc)",
+    "original": "Æsc byþ oferheah, eldum dyre / stiþ on staþule, stede rihte hylt, / ðeah him feohtan on firas monige.",
+    "translations": {
+      "standard": "The ash is exceedingly tall and precious to men. With its sturdy trunk it offers a stubborn resistance, though many men attack it.",
+      "literal": "Ash is over-high, [to] men dear / stiff on foundation, place rightly holds, / though him fight on men many."
+    },
+    "sot_links": { "themes": ["Endurance", "Weaponry", "Stability"] }
+  },
+  {
+    "rune": "ᚣ (Yr)",
+    "original": "Yr byþ æþelinga ond eorla gehwæs / wyn ond wyrþmynd, byþ on wicge fæger, / fæstlic on færelde, fyrdgeatewa sum.",
+    "translations": {
+      "standard": "The bow is a source of joy and honor to every prince and knight; it looks well on a horse and is a reliable piece of military equipment.",
+      "literal": "Bow [or Axe?] is princes' and earls' each / joy and honor, is on horse fair, / steadfast on journey, war-gear one."
+    },
+    "sot_links": { "themes": ["Weaponry", "Warfare", "Nobility"] }
+  },
+  {
+    "rune": "ᛡ (Ior)",
+    "original": "Ior byþ ea-fisc ond þeah a bruceþ / fodres on foldan, hafaþ fægerne eard / wætre beworpen, ðær he wynnum leofaþ.",
+    "translations": {
+      "standard": "The eel is a river-fish and yet it always feeds on land; it has a fair home surrounded by water, where it lives in joy.",
+      "literal": "Eel [or Beaver?] is river-fish and though always enjoys / fodder on land, has fair home / [by] water surrounded, where he joyfully lives."
+    },
+    "sot_links": { "themes": ["Liminality", "Nature", "Adaptation"] }
+  },
+  {
+    "rune": "ᛄ (Ear)",
+    "original": "Ear byþ egle eorla gehwylcun, / ðonn[e] fæstlice flæsc onginneþ, / hraw colian, hrusan ceosan / blac to gebeddan; bleda gedreosaþ, / wynna gewitaþ, wera geswicaþ.",
+    "translations": {
+      "standard": "The grave is horrible to every knight, when the corpse begins to grow cold and is laid in the bosom of the dark earth; prosperity declines, happiness passes away and covenants are broken.",
+      "literal": "Grave [Dust/Earth] is hateful [to] earls each, / when fastly flesh begins, / corpse to cool, earth to-choose / pale as bedfellow; fruits fall-away, / joys depart, men's-covenants fail."
+    },
+    "sot_links": { "themes": ["Mortality", "System Termination", "Fate"] }
+  }
+]
