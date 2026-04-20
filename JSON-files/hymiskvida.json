@@ -1,0 +1,391 @@
+[
+  {
+    "stanza_id": "hym_01",
+    "original": "Ár valtívar veiðar námu ok sumblsamir, áðr seðir yrði; hristu teina, á sögðu blóð: fundu at Ægis örkost vera.",
+    "translations": {
+      "bellows": "Of old the gods together fished, and to the feast they were full eager; the twigs they shook, and the blood they looked at: found they that Aegir had abundance of wealth.",
+      "thorpe": "Of yore, the gods of slaughter had been fishing, and were at a feast, before they were sated. They shook the twigs, and looked at the blood: they found that at Ægir’s there was a lack of kettles.",
+      "literal": "Of-old slaughter-gods [gods] catches took and feast-eager, before sated became; shook twigs [divining], on looked blood: found at Aegir's abundance [or choice] to-be."
+    },
+    "sot_links": { "deities": ["deity_odin", "deity_thor"], "figures": ["Aegir"], "themes": ["Divination", "The Banquet"] }
+  },
+  {
+    "stanza_id": "hym_02",
+    "original": "Sat bergbúi barnteitr fyrir, mjök líkr megi Misblinda; leit í augu Yggjar barn, snotr, á herjum: 'Þú skalt ásum oft sumbl gera.'",
+    "translations": {
+      "bellows": "The mountain-dweller sat child-happy before them, much like the son of Misblindi; the son of Ygg looked into his eyes, wise, at the hosts: 'Thou shalt oft for the Aesir a feast provide.'",
+      "thorpe": "Sat the rock-dweller [Aegir] child-happy before them, like the son of Misblindi. The son of Ygg [Thor] looked in his eyes: 'Thou shalt for the Aesir a feast provide.'",
+      "literal": "Sat mountain-dweller [giant/Aegir] child-glad before, much like son of-Misblindi; looked in eyes Ygg's child [Thor], wise, at hosts: 'You shall for-Aesir often feast make.'"
+    },
+    "sot_links": { "deities": ["deity_thor"], "figures": ["Aegir", "Misblindi"] }
+  },
+  {
+    "stanza_id": "hym_03",
+    "original": "Önn fékk jötni orðbaugari, hann hugði at hefndum við goð þegar; bað hann Sifjar ver seila hver, 'þann er ek öllum yðr öl of verka.'",
+    "translations": {
+      "bellows": "Vexation gave the word-wielder to the giant, he thought of vengeance against the gods at once; he bade the husband of Sif a kettle bring, 'one in which for you all I may brew the ale.'",
+      "thorpe": "Trouble gave the word-wielder to the giant; he meditated vengeance against the gods. He bade Sif’s husband [Thor] a kettle bring: 'in which for you all I may brew ale.'",
+      "literal": "Vexation got giant word-bender [Thor], he thought at vengeance against gods at-once; bade he Sif's man [Thor] reach-for kettle, 'that which I for-all you ale of work [brew].'"
+    },
+    "sot_links": { "deities": ["deity_thor", "deity_sif"], "figures": ["Aegir"], "themes": ["The Challenge"] }
+  },
+  {
+    "stanza_id": "hym_04",
+    "original": "Né þat máttu mærir tívar ok ginnregin gera hvergi, unz af tryggðum Týr Hlórriða einn í einmæli auk-ráð fann:",
+    "translations": {
+      "bellows": "That could the famous gods and the high powers by no means do, until in his trust Tyr to Hlorrithi alone in private a helpful counsel found:",
+      "thorpe": "That the glorious gods could not, nor the powerful deities, anywhere find, until in his fidelity, Tyr to Hlorrithi a helpful counsel gave:",
+      "literal": "Nor that might famous gods and high-powers do anywhere, until from trust Tyr to Hlorrithi [Thor] alone in one-speech [private] extra-counsel found:"
+    },
+    "sot_links": { "deities": ["deity_tyr", "deity_thor"], "themes": ["Hidden Knowledge"] }
+  },
+  {
+    "stanza_id": "hym_05",
+    "original": "Býr fyrir austan Élivága hundvíss Hymir at himins enda; á minn faðir móðugr hver, rastar djúpan, rúm-mikið ker.",
+    "translations": {
+      "bellows": "There dwells to the eastward of Elivagar all-wise Hymir at heaven's end; my father owns a mighty kettle, a mile deep, a spacious vat.",
+      "thorpe": "There dwells eastward of Elivagar the all-wise Hymir, at heaven’s end. My father owns a mighty kettle, a mile deep, a spacious vessel.",
+      "literal": "Dwells before east of-Elivagar hundred-wise [very wise] Hymir at heaven's end; has my father mood-great [mighty] kettle, mile deep, room-great vat."
+    },
+    "sot_links": { "figures": ["Hymir"], "locations": ["Elivagar"], "themes": ["The Artifact"] }
+  },
+  {
+    "stanza_id": "hym_06",
+    "original": "Veiztu, ef vit fáum þann vats-tili?",
+    "translations": {
+      "bellows": "Knowest thou if we can get that water-boiler?",
+      "thorpe": "Knowest thou if we can get that water-boiler?",
+      "literal": "Know-you, if we-two get that water-bringer?"
+    }
+  },
+  {
+    "stanza_id": "hym_07",
+    "original": "Fóru þann dag fram mjök hvatliga frá Ásgarði, unz til Egils kvámu; hirti hann hafra hornum prúða; gengu í höll, er Hymir átti.",
+    "translations": {
+      "bellows": "They fared that day right speedily from Asgard, until they came to Egil's home; he harbored the goats with the noble horns; they went into the hall which Hymir owned.",
+      "thorpe": "They fared that day right speedily from Asgard, until they to Egil’s came. He the goats harbored, with horns adorned. They went into the hall which Hymir owned.",
+      "literal": "Went that day forward much quickly from Asgard, until to Egil's [they] came; harbored he goats with-horns proud; went in hall, which Hymir owned."
+    },
+    "sot_links": { "locations": ["Asgard"], "figures": ["Egil", "Hymir"], "themes": ["The Journey"] }
+  },
+  {
+    "stanza_id": "hym_08",
+    "original": "Mög fann Tyr mætra níu, en amma var auk-leið sönn; en önnur gekk, algullin, fram, brúnhvít, bera bjórveig syni:",
+    "translations": {
+      "bellows": "Tyr found his grandmother, loathsome to see, and she had nine hundred heads; but another came forth, all-golden, bright-browed, to bear the ale-cup to her son:",
+      "thorpe": "A youth [Tyr] found his grandmother, loathsome to see, and she had nine hundred heads; but another came forth, all-golden, bright-browed, to bear the ale-cup to her son:",
+      "literal": "Youth [Tyr] found mothers [heads] nine [hundred], but grandmother was extra-loathed truly; but another went, all-golden, forward, brow-white, bear beer-drink to-son:"
+    },
+    "sot_links": { "deities": ["deity_tyr"], "themes": ["Giant Kinship"] }
+  },
+  {
+    "stanza_id": "hym_09",
+    "original": "Áttniðr jötna, ek viljak ykkr, hvatir tveir, undir hvera setja; er minn vaskr oft við gesti mörgum þrágjarnari ok þunggeðr.",
+    "translations": {
+      "bellows": "Kinsmen of giants, I will you two, brave ones, under the kettles set; for my husband is oft toward guests many a time ill-disposed and heavy-minded.",
+      "thorpe": "Kinsmen of giants! I will you two, brave ones! under the kettles set; for my husband is oft towards guests ill-disposed and heavy-minded.",
+      "literal": "Kin-descendants of-giants, I will you-two, brave two, under kettles set; is my man [husband] often with guests many more-stubborn and heavy-spirited."
+    }
+  },
+  {
+    "stanza_id": "hym_10",
+    "original": "En varð síðbúinn sá inn svinni jötunn, harðsnúinn, heim af veiðum; gekk inn í sal, riðu ís-jakar, var kalsi á kinn-skógi, er sá kom inn.",
+    "translations": {
+      "bellows": "But late-come was that wise giant, hard-natured, home from the hunt; he went into the hall, the ice-floes clattered, there was a chill on the cheek-forest [beard] as he came in.",
+      "thorpe": "But late-come was that wise giant, hard-natured, home from the hunt. He entered the hall, the icebergs clattered, there was a frost on the cheek-forest as he entered.",
+      "literal": "But became late-ready that the wise giant, hard-turned, home from hunts; went in in hall, clattered ice-floes, was chill on cheek-forest [beard], when he came in."
+    },
+    "sot_links": { "figures": ["Hymir"], "themes": ["The Giant's Return"] }
+  },
+  {
+    "stanza_id": "hym_11",
+    "original": "Ver þú heill, Hymir, í hugar góðum! nú er sonr kominn til sala þinna, sá er vit væntum af vegi löngum; fylgir honum Hróðrs andstoti, vinr verliða; Véurr heitir sá.",
+    "translations": {
+      "bellows": "Hail to thee, Hymir, in good heart! now is thy son come to thy halls, whom we have looked for from his long journey; with him follows the foe of Hrothr, the friend of men; Veurr is he named.",
+      "thorpe": "Hail to thee, Hymir! in good heart. Now is thy son come to thy halls, whom we expected from his long journey. With him follows the foe of Hród [Thor], the friend of men. Veurr is he named.",
+      "literal": "Be you hale, Hymir, in spirit good! now is son come to halls yours, he whom we expected from way long; follows him Hrodrs' adversary [Thor], friend of-men; Veurr named-is he."
+    },
+    "sot_links": { "deities": ["deity_thor", "deity_tyr"], "figures": ["Hymir"] }
+  },
+  {
+    "stanza_id": "hym_12",
+    "original": "Séðu, hvar sitja undir sal-þaki, svá forðask þeir, fyrir súlu standa.",
+    "translations": {
+      "bellows": "See where they sit under the hall-roof, so they hide themselves, standing behind the pillar.",
+      "thorpe": "See where they sit under the hall-roof; so they hide themselves, behind the pillar they stand.",
+      "literal": "See, where sit under hall-roof, so hide they [themselves], before pillar stand."
+    }
+  },
+  {
+    "stanza_id": "hym_13",
+    "original": "Sundr stökk súla fyrir sjónum jötuns, en áðr í tvö ás-böl brotnaði; stukku hvear átta, en einn af þeim, harð-sleginn, heill af stökk.",
+    "translations": {
+      "bellows": "Asunder burst the pillar before the giant's eyes, and the main beam in two was broken; eight kettles fell, and one of them, hard-beaten, whole alone came down.",
+      "thorpe": "Asunder burst the pillar at the giant’s look, and the beam in two was broken. Eight kettles fell, and one of them, hard-beaten, whole alone came down.",
+      "literal": "Asunder sprang pillar before eyes of-giant, and before in two beam-bale [main beam] broke; sprang [fell] kettles eight, but one of them, hard-beaten, hale from sprang."
+    },
+    "sot_links": { "themes": ["The Piercing Gaze"] }
+  },
+  {
+    "stanza_id": "hym_14",
+    "original": "Fram gengu þeir, en forn jötunn sjónum leiðar sinni andstoti; sagði-at hann gott, er hann sá gýgjar ver á gólfi standa.",
+    "translations": {
+      "bellows": "Forward they went, and the old giant with his eyes followed his foe; little good he thought when he saw the husband of the giantess on the floor standing.",
+      "thorpe": "Forward they went, and the old giant with his eyes followed his foe. Little good he thought when he saw the giantess’s husband [Thor] on the floor standing.",
+      "literal": "Forward went they, but old giant with-eyes followed his adversary; said-not he good, when he saw giantess's man on floor stand."
+    }
+  },
+  {
+    "stanza_id": "hym_15",
+    "original": "Váru þar þegar þrír öxn teknir; bað jötunn þá alla sjóða; hvern var lægri höfði skemmdr ok á seyði síðan borinn.",
+    "translations": {
+      "bellows": "Three oxen then were taken straightway; the giant bade them all be boiled; each of them was by a head made shorter, and to the fire then were borne.",
+      "thorpe": "Three oxen then were taken straightway; the giant bade them all be boiled. Each of them was by a head made shorter, and to the fire then were borne.",
+      "literal": "Were there at-once three oxen taken; bade giant them all boil; each was lower by-head shortened and to fire-pit since borne."
+    },
+    "sot_links": { "themes": ["The Feast"] }
+  },
+  {
+    "stanza_id": "hym_16",
+    "original": "Át Sifjar ver, áðr sofa gengi, einn uxa tvá Hymis; þótti hinum Hrungnis spjalla, sá inn kallaði, verðr ofmikill.",
+    "translations": {
+      "bellows": "The husband of Sif ate, ere to sleep he went, alone two oxen of Hymir's; the companion of Hrungnir thought, the one who called him so, that the meal was over-great.",
+      "thorpe": "Sif’s husband ate, before to sleep he went, alone two of Hymir’s oxen. The companion of Hrungnir [Hymir] thought, that the meal was over-great.",
+      "literal": "Ate Sif's man, before sleep went, alone oxen two of-Hymir; seemed to-the-other Hrungnir's companion [Hymir], he the-one called, meal over-much."
+    },
+    "sot_links": { "deities": ["deity_thor"], "figures": ["Hymir"] }
+  },
+  {
+    "stanza_id": "hym_17",
+    "original": "Mælum á morgun, er vit á mar komum, vega vára ok veiðar lifa.",
+    "translations": {
+      "bellows": "Let us on the morning, when to the sea we go, our meat and our fishing find.",
+      "thorpe": "Let us on the morrow, when to the sea we go, our meat and our fishing find.",
+      "literal": "Speak-we on morning, when we-two on sea come, food our and catches live [find].'"
+    },
+    "sot_links": { "themes": ["The Fishing Trip"] }
+  },
+  {
+    "stanza_id": "hym_18",
+    "original": "Veiða kvaðst vildat, ef sá inn vaskr jötunn agn gæfi, 'því er vit á mar komum.'",
+    "translations": {
+      "bellows": "He would fish, he said, if that brave giant bait would give, 'when we to the sea go.'",
+      "thorpe": "He would fish, he said, if that brave giant bait would give, 'when we to the sea go.'",
+      "literal": "Fish said-he would-wish, if that the brave giant bait gave, 'because when we-two on sea come.'"
+    }
+  },
+  {
+    "stanza_id": "hym_19",
+    "original": "Gakk til hjarðar, ef þú hug trúir, brjótr bergbúa, beitu at leita; þess vænti ek, at þér munda-at agn ór uxa auð-fengið vera.",
+    "translations": {
+      "bellows": "Go to the herd, if thy heart is bold, breaker of mountain-dwellers, for bait to seek; I ween that for thee from an ox to find bait will not be hard.",
+      "thorpe": "Go to the herd, if thy heart is bold, breaker of rock-dwellers! for bait to seek. I ween that for thee from an ox to find bait will not be hard.",
+      "literal": "Go to herd, if you heart trust, breaker of-mountain-dwellers [Thor], bait to seek; of-that expect I, that to-you would-not bait from ox easily-got be."
+    }
+  },
+  {
+    "stanza_id": "hym_20",
+    "original": "Sveinn gekk at skógi, þar er uxi stóð, alsvartr, fyrir; braut af þursi þjóð-skammr jötunn hágöngum tveim höfuð-vigi.",
+    "translations": {
+      "bellows": "The youth went to the wood where an ox was standing, all-black, before him; the giant-killer broke from the bull the high-standing fortress of the head.",
+      "thorpe": "The youth went to the wood, where an ox was standing, all-black, before him. The giant-slayer broke from the bull the high-standing fortress of its head.",
+      "literal": "Boy [Thor] went to wood, there where ox stood, all-black, before; broke off giant people-short [Thor] high-standing two head-fortress [horns/head].'"
+    },
+    "sot_links": { "deities": ["deity_thor"] }
+  },
+  {
+    "stanza_id": "hym_21",
+    "original": "Þótti hinum Hrungnis spjalla, sá inn kallaði, verðr ofmikill; bað jötunn þann, er hornum ræðr, út á djúp dreginn; sagði-at hann gott, er hann sá gýgjar ver á gólfi standa.",
+    "translations": {
+      "bellows": "The companion of Hrungnir [Hymir] thought the meal of the husband of Sif [Thor] was all too great; he bade him to the sea to go and fish for their food.",
+      "thorpe": "To the companion of Hrungnir it seemed that the meal was over-great; he bade the husband of Sif to the sea to go.",
+      "literal": "Seemed to-him Hrungnir's companion, he the-one called, meal over-much; bade giant that, who horns rules [Thor], out on deep drag [to go out]; said-not he good, when he saw giantess's man on floor stand."
+    },
+    "sot_links": { "deities": ["deity_thor"], "figures": ["Hymir"] }
+  },
+  {
+    "stanza_id": "hym_22",
+    "original": "Dró inn mikli Hymir hvali tvá senn á öngli upp; en aftr í skut Óðins maki, Véurr, við vélar vör munaði.",
+    "translations": {
+      "bellows": "Mighty Hymir drew two whales up at once on a single hook; but in the stern the husband of Odin [Thor], Veurr, with his skill a line prepared.",
+      "thorpe": "Mighty Hymir drew two whales at once up on his hook; but in the stern Odin’s kin [Thor], Veurr, with his skill a line prepared.",
+      "literal": "Dragged the mighty Hymir whales two at-once on hook up; but back in stern Odin's mate [Thor], Veurr, with skills [a line] carefully prepared."
+    },
+    "sot_links": { "deities": ["deity_thor"], "figures": ["Hymir"] }
+  },
+  {
+    "stanza_id": "hym_23",
+    "original": "Egndi á öngul, sá er öldum bergr, orms einbani uxa höfði; gein við agni, þann er goð fía, umgjörð neðan allra landa.",
+    "translations": {
+      "bellows": "On the hook the protector of men, the slayer of the serpent, the ox-head set; then gaped at the bait the foe of the gods, the fastener beneath of every land.",
+      "thorpe": "He baited his hook, he the protector of men, the serpent’s slayer, with the ox’s head. Then gaped at the bait the gods’ foeman, the encircler of all lands below.",
+      "literal": "Baited on hook, he who to-men saves [Thor], serpent's sole-slayer with-ox head; gaped at bait, that which gods hate, earth-girdle [Jormungandr] beneath all lands."
+    },
+    "sot_links": { "deities": ["deity_thor"], "beasts": ["beast_jormungandr"], "themes": ["The Great Catch"] }
+  },
+  {
+    "stanza_id": "hym_24",
+    "original": "Dró djarfliga dád-rakr Þórr orm eitrfáan upp at borði; hamri kníði há-fjall skarar ofljótt ofan úlfs hnit-bróður.",
+    "translations": {
+      "bellows": "Boldly Thor, the mighty, drew the venomous serpent up to the side; with his hammer he smote the high hair-mountain [head] of the brother of the wolf, loathly to see.",
+      "thorpe": "Boldly Thor drew the venomous serpent up to the side. With his hammer he smote the high hair-mountain of the wolf’s brother from above.",
+      "literal": "Dragged boldly deed-mighty Thor serpent poison-colored up to side [of boat]; with-hammer struck high-mountain of-hair [head] very-ugly from-above wolf's knit-brother [Jormungandr].'"
+    },
+    "sot_links": { "deities": ["deity_thor"], "beasts": ["beast_jormungandr"], "artifacts": ["artifact_mjollnir"] }
+  },
+  {
+    "stanza_id": "hym_25",
+    "original": "Hreytðusk höll, en hvein vats-tili, varð in forna fold öll saman; sökk þá í mar sá inn mæti fiskr.",
+    "translations": {
+      "bellows": "The rocks resounded, the caves shrieked, the ancient earth all sank together; then into the sea the monster sank.",
+      "thorpe": "The rocks resounded, the monsters howled, the ancient earth all shrank together. Then into the sea sank that wondrous fish.",
+      "literal": "Resounded rocks, and shrieked monsters, became the ancient earth all [shaken] together; sank then in sea that the famous fish."
+    },
+    "sot_links": { "beasts": ["beast_jormungandr"], "themes": ["Seismic Disturbance"] }
+  },
+  {
+    "stanza_id": "hym_26",
+    "original": "Óteitr jötunn, er vit aftr rörum, svá at ekki kvað Hymir orð; sneri hann austr-stafn, annars vegar.",
+    "translations": {
+      "bellows": "Unhappy was the giant as back they rowed, so that Hymir spoke no single word; he turned the rudder to the other side.",
+      "thorpe": "Joyless was the giant, as they rowed back; so that Hymir no word uttered; he turned the rudder to the other side.",
+      "literal": "Un-glad giant, as we-two back rowed, so that not spoke Hymir word; turned he east-stern, other way."
+    },
+    "sot_links": { "figures": ["Hymir"] }
+  },
+  {
+    "stanza_id": "hym_27",
+    "original": "Muntu of deila deila verkum við mik? eða muntu hvala heim at húsum flytja, eða muntu bundinn brim-svín hylja?",
+    "translations": {
+      "bellows": "Wilt thou do half the work with me? Wilt thou the whales to the house bring home, or wilt thou the boat for me fast bind?",
+      "thorpe": "Wilt thou do half the work with me? Wilt thou the whales to the hall bring home, or wilt thou our sea-steed [boat] fast bind?",
+      "literal": "Will-you of deal [share] work with me? or will-you whales home to houses carry, or will-you bound sea-swine [boat] hide [cover]?"
+    }
+  },
+  {
+    "stanza_id": "hym_28",
+    "original": "Gekk Hlórriði, greip í stafn, einn með austri upp lyfti mar; einn bar hann hvala ok ár-skelmar heim at húsum, Hymis til görða.",
+    "translations": {
+      "bellows": "Hlorrithi went and seized the bow, alone with the water he lifted the boat; alone he bore the whales and the oars home to the giant's hall.",
+      "thorpe": "Hlorrithi went and seized the prow, alone with the water he lifted the boat; alone he bore the whales and the oars home to the giant’s hall.",
+      "literal": "Went Hlorrithi [Thor], gripped in prow, alone with bilge-water up lifted sea-steed; alone bore he whales and oar-frames home to houses, Hymir's to courts."
+    },
+    "sot_links": { "deities": ["deity_thor"], "figures": ["Hymir"] }
+  },
+  {
+    "stanza_id": "hym_29",
+    "original": "Ok þó enn jötunn ofreynis-trú, þrágjarn, við Þór þrá mælti; kvað-at hann sterkan, þótt stýra kynni, nema hann kálk Hymis knosa knætti.",
+    "translations": {
+      "bellows": "Yet the giant, stubborn in his trust, again with Thor his strength would try; no man he was, though well he rowed, unless he could shiver the cup of Hymir.",
+      "thorpe": "Yet the giant, stubborn in his pride, again with Thor his strength would try; no man he was, though well he rowed, unless he could shiver Hymir’s cup.",
+      "literal": "And though still giant in-over-testing-trust, stubborn, with Thor strife spoke; said-not he [Thor] strong, though steer could, unless he cup of-Hymir shatter could."
+    },
+    "sot_links": { "deities": ["deity_thor"], "figures": ["Hymir"], "themes": ["The Strength Test"] }
+  },
+  {
+    "stanza_id": "hym_30",
+    "original": "En er þat í hendr kom Hlórriða, brá hann bráðliga björtum steini; rann í gegnum, er hann riðu, súlur sundr, sitjandi jötunn, kálkr var heill, er hann kom fyrra.",
+    "translations": {
+      "bellows": "When the cup was in Hlorrithi's hands, he smote it straightway against a stone; through the pillar it went and the stone was broken, but whole was the cup when he brought it back.",
+      "thorpe": "When the cup was in Hlorrithi’s hands, he smote it straightway against a stone; through the pillar it went and the stone was broken, but whole was the cup when he brought it back.",
+      "literal": "And when that in hands came to-Hlorrithi, struck he quickly bright stone; ran in through, when he [it] threw, pillars asunder, sitting giant, cup was hale, when it came before."
+    }
+  },
+  {
+    "stanza_id": "hym_31",
+    "original": "Ung var mær, er þat mælti, auk-ráð fann, er hón eina vissi: 'Drep þú við hausi Hymis sjalfum, hann er harðari en kálkr hvegi.'",
+    "translations": {
+      "bellows": "The maid so young gave helpful counsel, for she alone the secret knew: 'Strike at the head of Hymir himself, for it is harder than any cup.'",
+      "thorpe": "The young maiden gave helpful counsel, for she alone the secret knew: 'Strike at the head of Hymir himself, for it is harder than any cup.'",
+      "literal": "Young was maid, who that spoke, extra-counsel found, which she alone knew: 'Strike you at head of-Hymir self, he is harder than cup anyway.'"
+    }
+  },
+  {
+    "stanza_id": "hym_32",
+    "original": "Heill stökk hveðna herð-megin Áss, lét hann kálk Hymis knosa í gegnum; varð inn forni jötunn tóm-mæltr, er hann sá kálk sundr brotinn.",
+    "translations": {
+      "bellows": "The god of the host rose up on his knees, and Hymir's cup was shivered in twain; the old giant stood and spoke no word, when he saw that his cup was broken in two.",
+      "thorpe": "The god of the host rose up on his knees, and Hymir’s cup was shivered in twain; the old giant stood and spoke no word, when he saw that his cup was broken in two.",
+      "literal": "Hale sprang [from] everyone shoulder-mighty God [Thor], let he cup of-Hymir shatter in through; became the ancient giant empty-spoken [speechless], when he saw cup asunder broken."
+    },
+    "sot_links": { "deities": ["deity_thor"], "figures": ["Hymir"] }
+  },
+  {
+    "stanza_id": "hym_33",
+    "original": "Mörg mælti ek, en nú mun ek segja: hve ek veit, at muntu hafa ölkjól; muntu hafa þann, er þú fátt kveðr, þann er ek öllum yðr öl of verka.",
+    "translations": {
+      "bellows": "Much have I spoken, but now I shall tell: I know that thou shalt have the ale-vessel; thou shalt have it, though thou sayest little, in which for you all I brew the ale.",
+      "thorpe": "Much have I spoken, but now I shall tell: I know that thou shalt have the ale-vessel; thou shalt have it, though thou sayest little, in which for you all I brew the ale.",
+      "literal": "Many [words] spoke I, but now will I say: how I know, that will-you have ale-vessel; will-you have that, which you little say, that which I for-all you ale of work."
+    },
+    "sot_links": { "themes": ["Submission", "Artifact Handover"] }
+  },
+  {
+    "stanza_id": "hym_34",
+    "original": "Týr leitaði tvísvar hvera at hræra, en í hvert sinn hverr kyrr stóð; en faðir Móða fekk í stafn, gekk í gegnum hall-gólf niðr.",
+    "translations": {
+      "bellows": "Tyr twice tried the kettle to lift, but at every time the kettle stood fast; but the father of Mothi [Thor] seized the rim, and through the hall-floor beneath he went.",
+      "thorpe": "Tyr twice tried the kettle to lift, but at every time the kettle stood fast; but the father of Móði seized the rim, and through the hall-floor beneath he went.",
+      "literal": "Tyr tried twice kettle to move, but in each time kettle still stood; but father of-Modi [Thor] got in rim, went in through hall-floor down."
+    },
+    "sot_links": { "deities": ["deity_tyr", "deity_thor"] }
+  },
+  {
+    "stanza_id": "hym_35",
+    "original": "Hóf sér á höfuð upp hver Hymir, en á hæla honum hring-skelmar smullu; fóru þá tveir á veg árdaga, unz þeir til goða kómum.",
+    "translations": {
+      "bellows": "Hymir's kettle he took on his head, and about his heels the rings of it clattered; so they fared on their way in the days of old, till the gods together they found again.",
+      "thorpe": "Hymir’s kettle he took on his head, and about his heels the rings of it clattered; so they fared on their way in the days of old, till the gods together they found again.",
+      "literal": "Heaved for-himself on head up kettle of-Hymir, but on heels to-him ring-frames clattered; went then two on way of-early-days, until they to gods came."
+    }
+  },
+  {
+    "stanza_id": "hym_36",
+    "original": "Leit aftr Þórr eitt sinn ofan; sá hann ór hreysum með Hymis austan fjölhöfðaða flesta ganga.",
+    "translations": {
+      "bellows": "Once Thor looked back behind him; he saw from their caves with Hymir from the east a host of many-headed ones coming.",
+      "thorpe": "Once Thor looked back behind him; he saw from their caves with Hymir from the east a host of many-headed ones coming.",
+      "literal": "Looked back Thor one time from-above; saw he from caves with Hymir from-east many-headed-ones most [very many] go."
+    }
+  },
+  {
+    "stanza_id": "hym_37",
+    "original": "Hóf hann sér af herðum hver Hymis, sneri hann Mjöllni, móðgjarn, fram; ok drap hann alla átt-niðr jötna, þá er með Hymis eftir fóru.",
+    "translations": {
+      "bellows": "The kettle of Hymir from his shoulders he took, and Mjollnir, the mighty, he swung aloft; and he slew all the giants of the race, who after him followed with Hymir there.",
+      "thorpe": "The kettle of Hymir from his shoulders he took, and Mjollnir, the mighty, he swung aloft; and he slew all the giants of the race, who after him followed with Hymir there.",
+      "literal": "Heaved he for-himself off shoulders kettle of-Hymir, turned [swung] he Mjollnir, mood-eager [mightily], forward; and struck he all kin-descendants giants, those who with Hymir after went."
+    },
+    "sot_links": { "deities": ["deity_thor"], "artifacts": ["artifact_mjollnir"], "figures": ["Hymir"] }
+  },
+  {
+    "stanza_id": "hym_38",
+    "original": "Fór-at lengi, áðr liggja nam hafri Hlórriða hálfdauðr fyrir; var skerkr skæils skíði brotinn, en því vél-ráðr Loki um olli.",
+    "translations": {
+      "bellows": "Not long had they fared when the goat of Thor half-dead on the way fell down; the leg of the horse of the pole was broken, and Loki, the crafty, was cause of the deed.",
+      "thorpe": "Not long had they fared when the goat of Thor half-dead on the way fell down; the leg of the horse of the pole was broken, and Loki, the crafty, was cause of the deed.",
+      "literal": "Went-not long, before lie took [fell] goat of-Hlorrithi half-dead before; was leg of-pole-steed [goat] broken, but that trick-wise Loki about caused [caused it].'"
+    },
+    "sot_links": { "deities": ["deity_thor", "deity_loki"], "themes": ["The Lame Goat"] }
+  },
+  {
+    "stanza_id": "hym_39",
+    "original": "En þér heyrt hafið, hverr er hugaðr mær, hverr er bót-gjarnari at goðum; hann gat tvau börn at Egils börum, þau eru nú kallaðir Þjálfi ok Röskva.",
+    "translations": {
+      "bellows": "But ye have heard, for who knows better the lore of the gods, what help he found? He took two children from Egil then, and Thjalfi and Roskva for them he had.",
+      "thorpe": "But ye have heard, for who knows better the lore of the gods, what help he found? He took two children from Egil then, and Thjalfi and Roskva for them he had.",
+      "literal": "But you heard have, who is in-mind famous, who is more-compensation-eager of gods; he got two children from Egil's children, they are now called Thjalfi and Roskva."
+    },
+    "sot_links": { "deities": ["deity_thor"], "figures": ["Egil", "Thjalfi", "Roskva"] }
+  },
+  {
+    "stanza_id": "hym_40",
+    "original": "Móðugr kom hann á þing goða ok hafði hver, þann er Hymir átti; en goð skulu öl drekka at Ægis alla daga til ragnarök.",
+    "translations": {
+      "bellows": "The mighty one came to the gods' assembly, and he had the kettle that Hymir owned; and the gods shall ever their ale drink there at Aegir's hall till the day of their doom.",
+      "thorpe": "The mighty one came to the gods’ assembly, and he had the kettle that Hymir owned; and the gods shall ever their ale drink there at Aegir’s hall till the day of their doom.",
+      "literal": "Mighty came he to assembly of-gods and had kettle, that which Hymir owned; but gods shall ale drink at Aegir's all days until Ragnarok."
+    },
+    "sot_links": { "deities": ["deity_thor"], "figures": ["Hymir", "Aegir"], "themes": ["Ragnarok"] }
+  }
+]
