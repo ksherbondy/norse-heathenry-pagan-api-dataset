@@ -1,0 +1,920 @@
+[
+  {
+    "entry_id": "land_01",
+    "original": "Í því dæmi, er ritað er af biskupi eða öðrum lærðum mönnum, er sagt, að Ísland hafi fyrst fundið verið af norrænum mönnum, þeim er sigldu af Noregi til Færeyja. Var það maður, er hét Naddoddur, er fyrstur fann landið.",
+    "translations": {
+      "palson_edwards": "In the accounts written by bishops or other learned men, it is said that Iceland was first discovered by Norsemen sailing from Norway to the Faroes. The first man to find the land was called Naddod.",
+      "literal": "In that example, which written is by bishop or other learned men, is said, that Iceland have first found been by Norse men, those who sailed from Norway to Faroes. Was that man, who was-named Naddoddur, who first found the-land."
+    },
+    "sot_links": { "locations": ["Norway", "Faroe Islands", "Iceland"], "figures": ["Naddoddur"], "themes": ["Discovery"] }
+  },
+  {
+    "entry_id": "land_02",
+    "original": "Garðar hét maður, Svavarsson, sænskur að kyni. Hann fór að leita Snælands að tilvísan móður sinnar framvísrar. Hann kom að landi fyrir austan Horn og sigldi umhverfis landið og vissi, að það var ey.",
+    "translations": {
+      "palson_edwards": "There was a man called Gardar Svavarsson, Swedish by birth. He went to search for Snowland on the advice of his clairvoyant mother. He reached land east of Horn and sailed right round the country, proving it was an island.",
+      "literal": "Gardar was-named man, Svavarsson, Swedish at kin. He went to seek Snowland at guidance [of] mother his forward-wise [clairvoyant]. He came to land before east [of] Horn and sailed around the-land and knew, that it was island."
+    },
+    "sot_links": { "figures": ["Gardar Svavarsson"], "locations": ["Iceland", "Horn"], "themes": ["Exploration", "Circumnavigation"] }
+  },
+  {
+    "entry_id": "land_03",
+    "original": "Flóki hét maður, Vilgerðarson. Hann var víkingur mikill. Hann bjóst af Rogalandi að leita Snælands. Hann hafði hrafna þrjá með sér. Er hann lét lausan hinn fyrsta, flaug sá aftur um stefni. Annar flaug í loft upp og aftur til skips. Hinn þriðji flaug fram um stafn í þá átt, er þeir fundu landið.",
+    "translations": {
+      "palson_edwards": "There was a man called Floki Vilgerdarson, a great Viking. He set out from Rogaland to search for Snowland. He took three ravens with him. When he released the first, it flew back over the stern; the second flew up into the air and back to the ship; the third flew straight ahead over the prow in the direction where they found land.",
+      "literal": "Floki was-named man, Vilgerdarson. He was Viking great. He prepared from Rogaland to seek Snowland. He had ravens three with himself. When he let loose the first, flew that-one back around stern. Other flew in air up and back to ship. The third flew forward around prow in that direction, which they found the-land."
+    },
+    "sot_links": { "figures": ["Floki Vilgerdarson"], "locations": ["Rogaland", "Iceland"], "beasts": ["beast_ravens"], "themes": ["Navigation Protocols"] }
+  },
+  {
+    "entry_id": "land_04",
+    "original": "Ingólfur hét maður, Arnarson. Hann bjóst af Noregi að byggja Ísland. Hann hafði með sér Hjörleif fóstbróður sinn. Þeir sigldu til landsins og sáu landið. Ingólfur kastaði öndvegissúlum sínum fyrir borð til heilla og mælti svo fyrir, að hann skyldi þar byggja, er súlurnar kæmu á land.",
+    "translations": {
+      "palson_edwards": "There was a man called Ingolf Arnarson. He prepared to leave Norway and settle in Iceland. He took with him his foster-brother Hjorleif. They sailed to the land and saw it. Ingolf threw his high-seat pillars overboard for luck, vowing he would settle where the pillars came ashore.",
+      "literal": "Ingolf was-named man, Arnarson. He prepared from Norway to build [settle] Iceland. He had with himself Hjorleif foster-brother his. They sailed to the-land and saw the-land. Ingolf cast high-seat-pillars his before board for luck and spoke so for, that he should there build, where the-pillars came on land."
+    },
+    "sot_links": { "figures": ["Ingolfur Arnarson", "Hjorleifur"], "artifacts": ["artifact_ondvegissulur"], "themes": ["High-Seat Protocol", "First Settlement"] }
+  },
+  {
+    "chapter_id": "land_05",
+    "original": "Ingólfur nam land milli Ölfusár og Hvalfjarðar og bjó í Reykjavík. Þar höfðu öndvegissúlurnar á land komið. Hann var fyrstur landnámsmanna á Íslandi.",
+    "translations": {
+      "palson_edwards": "Ingolf took land between Olfus River and Hvalfjord and lived in Reykjavik. That was where his high-seat pillars had come ashore. He was the first settler in Iceland.",
+      "literal": "Ingolf took land between Olfusa and Hvalfjord and lived in Reykjavik. There had high-seat-pillars on land come. He was first [of] land-taking-men in Iceland."
+    },
+    "sot_links": { "figures": ["Ingolfur Arnarson"], "locations": ["Reykjavik", "Olfusa", "Hvalfjord"], "themes": ["Settlement Verification"] }
+  },
+  {
+    "entry_id": "land_06",
+    "original": "Halli hét maður, er nam land með Ingólfi; hann nam land undir Akrafjalli allt til Laxár. Hann bjó í Hallsholti. Hans sonur var Helgi, er átti Þórunni, dóttur Sels-Eiríks.",
+    "translations": {
+      "palson_edwards": "There was a man called Hall who took land with Ingolf; he took land below Akrafjall all the way to Lax River. He lived at Hallsholt. His son was Helgi, who married Thorun, daughter of Sel-Eirik.",
+      "literal": "Hallr was-named man, who took land with Ingolf; he took land under Akrafjall all to Lax-river. He lived in Hallsholt. His son was Helgi, who had [married] Thorunn, daughter [of] Sel-Eirikr."
+    },
+    "sot_links": { "figures": ["Hallr", "Ingolfur Arnarson", "Helgi", "Thorunn", "Sel-Eirikr"], "locations": ["Akrafjall", "Laxara", "Hallsholt"], "themes": ["Secondary Land Claims"] }
+  },
+  {
+    "entry_id": "land_07",
+    "original": "Ásbjörn hét maður, Özurarson, bróðurson Ingólfs. Hann nam land milli Hvalfjarðar og Kalmansár. Hann bjó á Skræpum í Brynjudal. Hans sonur var Þorsteinn, er átti Þorbjörgu, dóttur Miðfjarðar-Skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Asbjorn, son of Ozur, Ingolf's nephew. He took land between Hvalfjord and Kalman's River. He lived at Skrapar in Brynjudal. His son was Thorstein, who married Thorbjorg, daughter of Midfjord-Skeggi.",
+      "literal": "Asbjorn was-named man, Ozurarson, brother-son [of] Ingolf. He took land between Hvalfjord and Kalmansara. He lived on Skrapar in Brynjudal. His son was Thorsteinn, who had Thorbjorg, daughter [of] Midfjardar-Skeggi."
+    },
+    "sot_links": { "figures": ["Asbjorn Ozurarson", "Ingolfur Arnarson", "Thorsteinn", "Thorbjorg", "Midfjardar-Skeggi"], "locations": ["Hvalfjord", "Kalmansara", "Brynjudalur"], "themes": ["Kinship Claims"] }
+  },
+  {
+    "entry_id": "land_08",
+    "original": "Hjörleifur hét fóstbróðir Ingólfs. Hann nam land fyrir vestan Ölfusá allt til Seljalandsmúla. Hann bjó á Hjörleifshöfða. Hann var drepinn af þrælum sínum írskum, þeim er hann hafði haft úr hernaði.",
+    "translations": {
+      "palson_edwards": "Hjorleif was Ingolf's foster-brother. He took land west of Olfus River as far as Seljalandmuli. He lived at Hjorleifshofdi. He was killed by his Irish slaves, whom he had taken during a Viking raid.",
+      "literal": "Hjorleifur was-named foster-brother [of] Ingolf. He took land before west [of] Olfusa all to Seljalandsmuli. He lived on Hjorleifshofdi. He was killed by slaves his Irish, those who he had had out-of harrying."
+    },
+    "sot_links": { "figures": ["Hjorleifur", "Ingolfur Arnarson"], "locations": ["Olfusa", "Seljalandsmuli", "Hjorleifshofdi"], "themes": ["Slave Rebellion", "Early Casualty"] }
+  },
+  {
+    "entry_id": "land_09",
+    "original": "Ingólfur fór að leita þrælanna og fann þá í Vestmannaeyjum; þeir höfðu flýið þangað á skipi Hjörleifs. Ingólfur drap þá alla. Síðan heita þar Vestmannaeyjar, af því að þrælarnir voru kallaðir Vestmenn.",
+    "translations": {
+      "palson_edwards": "Ingolf went in search of the slaves and found them in the Westman Islands; they had fled there in Hjorleif's boat. Ingolf killed them all. Since then the islands have been called the Westman Islands, because the slaves were known as Westmen [Irishmen].",
+      "literal": "Ingolf went to seek the-slaves and found them in Westman-islands; they had fled thither on ship [of] Hjorleif. Ingolf killed them all. Since are-named there Westman-islands, from that that the-slaves were called West-men."
+    },
+    "sot_links": { "figures": ["Ingolfur Arnarson", "Hjorleifur"], "locations": ["Vestmannaeyjar"], "themes": ["Vengeance", "Etymology"] }
+  },
+  {
+    "entry_id": "land_10",
+    "original": "Ketilbjörn hét maður, Ketilsson, kallaður hinn gamli. Hann var göfugur maður í Noregi. Hann nam land milli Þjórsár og Markarfljóts og bjó á Mosfelli. Hann átti Helgu, dóttur Þórðar skeggja. Þeirra sonur var Teitur, faðir Ísleifs biskups.",
+    "translations": {
+      "palson_edwards": "There was a man called Ketilbjorn, son of Ketil, known as Ketilbjorn the Old. He was a man of high rank in Norway. He took land between Thjors River and Markarfljot and lived at Mosfell. He married Helga, daughter of Thord Skeggi. Their son was Teit, father of Bishop Isleif.",
+      "literal": "Ketilbjorn was-named man, Ketilsson, called the old. He was noble man in Norway. He took land between Thjorsara and Markarfljot and lived on Mosfell. He had Helga, daughter [of] Thordr skeggja. Their son was Teitur, father [of] Isleifr bishop."
+    },
+    "sot_links": { "figures": ["Ketilbjorn hinn gamli", "Helga", "Thordr skeggja", "Teitur", "Isleifur Gissurarson"], "locations": ["Thjorsara", "Markarfljot", "Mosfell"], "themes": ["Noble Settlements", "Lineage to Bishopric"] }
+  },
+  {
+    "entry_id": "land_11",
+    "original": "Özur hét maður, son Þorsteins hvíta; hann nam land milli Markarfljóts og Jökulsár á Sólheimasandi og bjó í Skógum. Hans sonur var Hrappur, er átti Þórunni, dóttur Hrólfs úr Gnúpa.",
+    "translations": {
+      "palson_edwards": "There was a man called Ozur, son of Thorstein the White; he took land between Markarfljot and Jökuls River on Solheimasand and lived at Skogar. His son was Hrapp, who married Thorun, daughter of Hrolf from Gnupar.",
+      "literal": "Ozur was-named man, son [of] Thorsteinn white; he took land between Markarfljot and Jökulsara on Solheimasand and lived in Skogar. His son was Hrappr, who had Thorunn, daughter [of] Hrolfr out-of Gnupa."
+    },
+    "sot_links": { "figures": ["Ozur Thorsteinsson", "Thorsteinn hviti", "Hrappr", "Thorunn", "Hrolfr"], "locations": ["Markarfljot", "Jökulsara", "Solheimasandur", "Skogar"], "themes": ["Geographic Constraints"] }
+  },
+  {
+    "entry_id": "land_12",
+    "original": "Loðmundur hét maður, kallaður hinn gamli. Hann nam land milli Jökulsár og Fúlalækjar og bjó í Loðmundarfirði. Hann var fjölkunnugur mjög. Hann átti son þann, er Sumarliði hét, er bjó á Hólmi.",
+    "translations": {
+      "palson_edwards": "There was a man called Lodmund, known as Lodmund the Old. He took land between Jökuls River and Fulalaek and lived at Lodmundarfjord. He was a man of great magic power. He had a son called Sumarlidi who lived at Holm.",
+      "literal": "Lodmundr was-named man, called the old. He took land between Jökulsara and Fulalaekjr and lived in Lodmundarfjord. He was magic-skilled much. He had son that, who Sumarlidi was-named, who lived on Holmr."
+    },
+    "sot_links": { "figures": ["Loðmundur hinn gamli", "Sumarliði"], "locations": ["Jökulsara", "Fulalaekur", "Loðmundarfjörður"], "themes": ["Magic Skills", "Territorial Naming"] }
+  },
+  {
+    "entry_id": "land_13",
+    "original": "Þrasi hét maður, er nam land milli Jökulsár og Skógár og bjó í Skógum. Þeir Loðmundur deildu um landamerki; Þrasi kastaði afli sínu í ána, en Loðmundur færði hana aftur með fjölkynngi.",
+    "translations": {
+      "palson_edwards": "There was a man called Thrasi who took land between Jökuls River and Skogar River and lived at Skogar. He and Lodmund quarreled over their boundaries; Thrasi used his strength to divert the river, but Lodmund used magic to turn it back.",
+      "literal": "Thrasi was-named man, who took land between Jökulsara and Skogara and lived in Skogar. They Lodmundr dealt [disputed] about land-marks; Thrasi cast strength his in the-river, but Lodmundr moved her back with magic."
+    },
+    "sot_links": { "figures": ["Thrasi", "Loðmundur hinn gamli"], "locations": ["Jökulsara", "Skogara", "Skogar"], "themes": ["Boundary Disputes", "Supernatural Conflict"] }
+  },
+  {
+    "entry_id": "land_14",
+    "original": "Flosi hét maður, Þorbjarnarson; hann nam land fyrir austan Jökulsá á Sólheimasandi og bjó í Vík. Hans sonur var Kolbeinn, er átti Guðrúnu, dóttur Eyjólfs hins halta.",
+    "translations": {
+      "palson_edwards": "There was a man called Flosi, son of Thorbjorn; he took land east of Jökuls River on Solheimasand and lived at Vik. His son was Kolbein, who married Gudrun, daughter of Eyjolf the Halt.",
+      "literal": "Flosi was-named man, Thorbjarnarson; he took land before east [of] Jökulsara on Solheimasand and lived in Vik. His son was Kolbeinn, who had Gudrun, daughter [of] Eyjolfr the halt."
+    },
+    "sot_links": { "figures": ["Flosi Thorbjarnarson", "Kolbeinn", "Gudrun", "Eyjolfr hinn halti"], "locations": ["Jökulsara", "Solheimasandur", "Vik"] }
+  },
+  {
+    "entry_id": "land_15",
+    "original": "Hildir hét maður, Eysteinsson; hann nam land milli Markarfljóts og Seljalandsmúla og bjó undir Eyjafjöllum. Hann átti son þann, er Eyjólfur hét, er bjó á Hvolum.",
+    "translations": {
+      "palson_edwards": "There was a man called Hildir, son of Eystein; he took land between Markarfljot and Seljalandmuli and lived below Eyjafjöll. He had a son called Eyjolf who lived at Hvol.",
+      "literal": "Hildir was-named man, Eysteinsson; he took land between Markarfljot and Seljalandsmuli and lived under Eyjafjöll. He had son that, who Eyjolfr was-named, who lived on Hvolir."
+    },
+    "sot_links": { "figures": ["Hildir Eysteinsson", "Eyjolfr"], "locations": ["Markarfljot", "Seljalandsmuli", "Eyjafjöll", "Hvolir"] }
+  },
+  {
+    "entry_id": "land_16",
+    "original": "Þorsteinn hét maður, Leggsson; hann nam land milli Markarfljóts og Jökulsár og bjó í Skógum. Hann var kallaður hinn hvíti. Hans sonur var Özur, er átti Þorbjörgu, dóttur Miðfjarðar-Skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Thorstein, son of Legg; he took land between Markarfljot and Jökuls River and lived at Skogar. He was known as Thorstein the White. His son was Ozur, who married Thorbjorg, daughter of Midfjord-Skeggi.",
+      "literal": "Thorsteinn was-named man, Leggsson; he took land between Markarfljot and Jökulsara and lived in Skogar. He was called the white. His son was Ozur, who had Thorbjorg, daughter [of] Midfjardar-Skeggi."
+    },
+    "sot_links": { "figures": ["Thorsteinn Leggsson", "Ozur", "Thorbjorg", "Midfjardar-Skeggi"], "locations": ["Markarfljot", "Jökulsara", "Skogar"] }
+  },
+  {
+    "entry_id": "land_17",
+    "original": "Bárður hét maður, Bjarnarson, kallaður Gnúpa-Bárður. Hann nam land í Fljótshlíð og bjó á Gnúpa. Hann átti syni marga; einn hét Hrólfur, er átti dóttur Þorbjarnar laxakarls.",
+    "translations": {
+      "palson_edwards": "There was a man called Bard, son of Bjorn, known as Gnupa-Bard. He took land in Fljotshlid and lived at Gnupar. He had many sons; one was called Hrolf, who married the daughter of Thorbjorn the Salmon-Man.",
+      "literal": "Bardr was-named man, Bjarnarson, called Gnupa-Bardr. He took land in Fljotshlid and lived on Gnupa. He had sons many; one was-named Hrolfr, who had daughter [of] Thorbjorn salmon-man."
+    },
+    "sot_links": { "figures": ["Gnupa-Bardr", "Hrolfr", "Thorbjorn laxakarl"], "locations": ["Fljotshlid", "Gnupar"] }
+  },
+  {
+    "entry_id": "land_18",
+    "original": "Ölvir hét maður, barnakarl; hann nam land milli Ölfusár og Markarfljóts. Hann átti mörg börn. Hans sonur var Þorsteinn, er bjó að Holti og átti Helgu, dóttur Eyvindar karakarls.",
+    "translations": {
+      "palson_edwards": "There was a man called Olvir Child-Man; he took land between Olfus River and Markarfljot. He had many children. His son was Thorstein, who lived at Holt and married Helga, daughter of Eyvind the Karak-Man.",
+      "literal": "Ölvir was-named man, child-man; he took land between Olfusa and Markarfljot. He had many children. His son was Thorsteinn, who lived at Holt and had Helga, daughter [of] Eyvindr karakarl."
+    },
+    "sot_links": { "figures": ["Ölvir barnakarl", "Thorsteinn", "Helga", "Eyvindr karakarl"], "locations": ["Olfusa", "Markarfljot", "Holt"], "themes": ["Family Proliferation"] }
+  },
+  {
+    "entry_id": "land_19",
+    "original": "Hallgeir hét maður, er nam land í Fljótshlíð og bjó á Hallgeirsey. Hann átti Þorbjörgu, dóttur Þórðar skeggja. Þeirra sonur var Þorvaldur, er átti Guðrúnu, dóttur Hrólfs úr Gnúpa.",
+    "translations": {
+      "palson_edwards": "There was a man called Hallgeir who took land in Fljotshlid and lived at Hallgeirsey. He married Thorbjorg, daughter of Thord Skeggi. Their son was Thorvald, who married Gudrun, daughter of Hrolf from Gnupar.",
+      "literal": "Hallgeir was-named man, who took land in Fljotshlid and lived on Hallgeirsey. He had Thorbjorg, daughter [of] Thordr skeggja. Their son was Thorvaldr, who had Gudrun, daughter [of] Hrolfr out-of Gnupa."
+    },
+    "sot_links": { "figures": ["Hallgeir", "Thorbjorg", "Thordr skeggja", "Thorvaldr", "Gudrun", "Hrolfr"], "locations": ["Fljotshlid", "Hallgeirsey"] }
+  },
+  {
+    "entry_id": "land_20",
+    "original": "Askur hét maður, er nam land fyrir austan Markarfljót og bjó í Asksstöðum. Hann átti dóttur Hrólfs úr Gnúpa. Hans sonur var Þorsteinn, er átti Helgu, dóttur Özurar frá Skógum.",
+    "translations": {
+      "palson_edwards": "There was a man called Ask who took land east of Markarfljot and lived at Asksstadir. He married the daughter of Hrolf from Gnupar. His son was Thorstein, who married Helga, daughter of Ozur from Skogar.",
+      "literal": "Askur was-named man, who took land before east [of] Markarfljot and lived in Asksstadir. He had daughter [of] Hrolfr out-of Gnupa. His son was Thorsteinn, who had Helga, daughter [of] Ozur from Skogar."
+    },
+    "sot_links": { "figures": ["Askur", "Hrolfr", "Thorsteinn", "Helga", "Ozur"], "locations": ["Markarfljot", "Asksstadir", "Skogar"] }
+  },
+  {
+    "entry_id": "land_21",
+    "original": "Steinmóður hét maður, Özurarson; hann nam land milli Markarfljóts og Jökulsár og bjó í Steinmóðsholti. Hann átti dóttur Hrólfs úr Gnúpa. Hans sonur var Kolbeinn, er átti Þórunni, dóttur Loðmundar hins gamla.",
+    "translations": {
+      "palson_edwards": "There was a man called Steinmod, son of Ozur; he took land between Markarfljot and Jökuls River and lived at Steinmodsholt. He married the daughter of Hrolf from Gnupar. His son was Kolbein, who married Thorun, daughter of Lodmund the Old.",
+      "literal": "Steinmóðr was-named man, Ozurarson; he took land between Markarfljot and Jökulsara and lived in Steinmóðsholti. He had daughter [of] Hrolfr out-of Gnupa. His son was Kolbeinn, who had Thorunn, daughter [of] Loðmundr the old."
+    },
+    "sot_links": { "figures": ["Steinmóðr Ozurarson", "Hrolfr", "Kolbeinn", "Thorunn", "Loðmundr hinn gamli"], "locations": ["Markarfljot", "Jökulsara", "Steinmóðsholt"] }
+  },
+  {
+    "entry_id": "land_22",
+    "original": "Ketill hét maður, kallaður hinn fífli; hann nam land fyrir austan Jökulsá og bjó í Kirkjubæ. Hann var kristinn maður og vildi eigi eiga samneyti við heiðna menn. Þar bjó áður Papar.",
+    "translations": {
+      "palson_edwards": "There was a man called Ketil, known as Ketil the Fool; he took land east of Jökuls River and lived at Kirkjubær. He was a Christian and would have no dealings with heathens. Irish hermits [Papar] had lived there before.",
+      "literal": "Ketill was-named man, called the fool; he took land before east [of] Jökulsara and lived in Kirkjubær. He was Christian man and would not have joint-dealing with heathen men. There lived before Papar."
+    },
+    "sot_links": { "figures": ["Ketill hinn fifli"], "locations": ["Jökulsara", "Kirkjubær"], "themes": ["Christian Settlement", "Pre-Norse Habitation"] }
+  },
+  {
+    "entry_id": "land_23",
+    "original": "Hörður hét maður, Þorbjarnarson; hann nam land í Fljótshlíð og bjó á Hörðsholti. Hann átti dóttur Gnúpa-Bárðar. Hann var víkingur mikill og herjaði víða um lönd áður hann kom til Íslands.",
+    "translations": {
+      "palson_edwards": "There was a man called Hord, son of Thorbjorn; he took land in Fljotshlid and lived at Hordsholt. He married the daughter of Gnupa-Bard. He was a great Viking and harried far through many lands before he came to Iceland.",
+      "literal": "Hörðr was-named man, Thorbjarnarson; he took land in Fljotshlid and lived on Hörðsholti. He had daughter [of] Gnupa-Bardr. He was Viking great and harried widely around lands before he came to Iceland."
+    },
+    "sot_links": { "figures": ["Hörðr Thorbjarnarson", "Gnupa-Bardr"], "locations": ["Fljotshlid", "Hörðsholt"] }
+  },
+  {
+    "entry_id": "land_24",
+    "original": "Ásmundur hét maður, son Özurar hins hvíta; hann nam land milli Jökulsár og Skógár og bjó í Skógum. Hann var mikill maður fyrir sér. Hans sonur var Hrappur, er bjó á Hólmi.",
+    "translations": {
+      "palson_edwards": "There was a man called Asmund, son of Ozur the White; he took land between Jökuls River and Skogar River and lived at Skogar. He was a man of great importance. His son was Hrapp who lived at Holm.",
+      "literal": "Ásmundur was-named man, son [of] Ozur the white; he took land between Jökulsara and Skogara and lived in Skogar. He was great man for himself. His son was Hrappr, who lived on Holmr."
+    },
+    "sot_links": { "figures": ["Ásmundur Ozurarson", "Ozur hinn hviti", "Hrappr"], "locations": ["Jökulsara", "Skogara", "Skogar", "Holmr"] }
+  },
+  {
+    "entry_id": "land_25",
+    "original": "Björn hét maður, son Steinmóðar; hann nam land í Fljótshlíð og bjó á Bjarnastöðum. Hann átti dóttur Hrólfs úr Gnúpa. Hann var ríkur maður og hafði mikið fylgi.",
+    "translations": {
+      "palson_edwards": "There was a man called Bjorn, son of Steinmod; he took land in Fljotshlid and lived at Bjarnastadir. He married the daughter of Hrolf from Gnupar. He was a powerful man and had a large following.",
+      "literal": "Björn was-named man, son [of] Steinmóðr; he took land in Fljotshlid and lived on Bjarnastöðum. He had daughter [of] Hrolfr out-of Gnupa. He was powerful man and had great following."
+    },
+    "sot_links": { "figures": ["Björn Steinmóðsson", "Steinmóðr", "Hrolfr"], "locations": ["Fljotshlid", "Bjarnastadir"] }
+  },
+  {
+    "entry_id": "land_26",
+    "original": "Özur hét maður, son Ásbjarnar Heyjangurs-Bjarnarsonar; hann nam land milli Jökulsár og Kerlingarár og bjó í Skógum. Hans sonur var Þorsteinn, er átti Þorbjörgu, dóttur Miðfjarðar-Skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Ozur, son of Asbjorn son of Heyjangur-Bjorn; he took land between Jökuls River and Kerlingar River and lived at Skogar. His son was Thorstein, who married Thorbjorg, daughter of Midfjord-Skeggi.",
+      "literal": "Ozur was-named man, son [of] Asbjorn Heyjangurs-Bjarnarson; he took land between Jökulsara and Kerlingara and lived in Skogar. His son was Thorsteinn, who had Thorbjorg, daughter [of] Midfjardar-Skeggi."
+    },
+    "sot_links": { "figures": ["Ozur Asbjarnarson", "Asbjorn Heyjangurs-Bjarnarson", "Thorsteinn", "Thorbjorg", "Midfjardar-Skeggi"], "locations": ["Jökulsara", "Kerlingara", "Skogar"] }
+  },
+  {
+    "entry_id": "land_27",
+    "original": "Þorsteinn hét maður, son Leggssonar; hann nam land milli Jökulsár og Skógár og bjó í Skógum. Hann var kallaður hinn hvíti. Hans sonur var Özur, er átti Þorbjörgu, dóttur Miðfjarðar-Skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Thorstein, son of Legg; he took land between Jökuls River and Skogar River and lived at Skogar. He was known as Thorstein the White. His son was Ozur, who married Thorbjorg, daughter of Midfjord-Skeggi.",
+      "literal": "Thorsteinn was-named man, son [of] Leggsson; he took land between Jökulsara and Skogara and lived in Skogar. He was called the white. His son was Ozur, who had Thorbjorg, daughter [of] Midfjardar-Skeggi."
+    },
+    "sot_links": { "figures": ["Thorsteinn Leggsson", "Ozur", "Thorbjorg", "Midfjardar-Skeggi"], "locations": ["Jökulsara", "Skogara", "Skogar"] }
+  },
+  {
+    "entry_id": "land_28",
+    "original": "Björn hét maður, son Steinmóðar; hann nam land í Fljótshlíð og bjó á Bjarnastöðum. Hann átti dóttur Hrólfs úr Gnúpa. Hann var ríkur maður og hafði mikið fylgi.",
+    "translations": {
+      "palson_edwards": "There was a man called Bjorn, son of Steinmod; he took land in Fljotshlid and lived at Bjarnastadir. He married the daughter of Hrolf from Gnupar. He was a powerful man and had a large following.",
+      "literal": "Björn was-named man, son [of] Steinmóðr; he took land in Fljotshlid and lived on Bjarnastöðum. He had daughter [of] Hrolfr out-of Gnupa. He was powerful man and had great following."
+    },
+    "sot_links": { "figures": ["Björn Steinmóðsson", "Steinmóðr", "Hrolfr"], "locations": ["Fljotshlid", "Bjarnastadir"] }
+  },
+  {
+    "entry_id": "land_29",
+    "original": "Hörður hét maður, Þorbjarnarson; hann nam land í Fljótshlíð og bjó á Hörðsholti. Hann átti dóttur Gnúpa-Bárðar. Hann var víkingur mikill og herjaði víða um lönd áður hann kom til Íslands.",
+    "translations": {
+      "palson_edwards": "There was a man called Hord, son of Thorbjorn; he took land in Fljotshlid and lived at Hordsholt. He married the daughter of Gnupa-Bard. He was a great Viking and harried far through many lands before he came to Iceland.",
+      "literal": "Hörðr was-named man, Thorbjarnarson; he took land in Fljotshlid and lived on Hörðsholti. He had daughter [of] Gnupa-Bardr. He was Viking great and harried widely around lands before he came to Iceland."
+    },
+    "sot_links": { "figures": ["Hörðr Thorbjarnarson", "Gnupa-Bardr"], "locations": ["Fljotshlid", "Hörðsholt"] }
+  },
+  {
+    "entry_id": "land_30",
+    "original": "Ásmundur hét maður, son Özurar hins hvíta; hann nam land milli Jökulsár og Skógár og bjó í Skógum. Hann var mikill maður fyrir sér. Hans sonur var Hrappur, er bjó á Hólmi.",
+    "translations": {
+      "palson_edwards": "There was a man called Asmund, son of Ozur the White; he took land between Jökuls River and Skogar River and lived at Skogar. He was a man of great importance. His son was Hrapp who lived at Holm.",
+      "literal": "Ásmundur was-named man, son [of] Ozur the white; he took land between Jökulsara and Skogara and lived in Skogar. He was great man for himself. His son was Hrappr, who lived on Holmr."
+    },
+    "sot_links": { "figures": ["Ásmundur Ozurarson", "Ozur hinn hviti", "Hrappr"], "locations": ["Jökulsara", "Skogara", "Skogar", "Holmr"] }
+  },
+  {
+    "entry_id": "land_31",
+    "original": "Auðun skökull hét maður; hann nam land í Eyjafirði fyrir ofan Hörgá og bjó á Auðunsstöðum. Hann átti dóttur Helga hins magra. Hans sonur var Einar, faðir Eyjólfs Valgerðarsonar.",
+    "translations": {
+      "palson_edwards": "There was a man called Audun Skokul; he took land in Eyjafjord above Horga River and lived at Audunsstadir. He married the daughter of Helgi the Lean. His son was Einar, father of Eyjolf Valgerdarson.",
+      "literal": "Auðun skökull was-named man; he took land in Eyjafjord before above Horga and lived on Auðunsstadir. He had daughter [of] Helgi the lean. His son was Einar, father [of] Eyjolf Valgerdarson."
+    },
+    "sot_links": { "figures": ["Auðun skökull", "Helgi hinn magri", "Einar", "Eyjolf Valgerdarson"], "locations": ["Eyjafjordur", "Horga", "Auðunsstadir"] }
+  },
+  {
+    "entry_id": "land_32",
+    "original": "Helgi hét maður, son Eyvindar austmanns; hann var kallaður Helgi hinn magri. Hann nam land í Eyjafirði og bjó á Kristnesi. Hann var kristinn að nafni en blótaði Þór í sjóferðum og þá er hann þóttist vanda eiga.",
+    "translations": {
+      "palson_edwards": "There was a man called Helgi, son of Eyvind the Easterner; he was known as Helgi the Lean. He took land in Eyjafjord and lived at Kristnes. He was nominally a Christian, but he sacrificed to Thor for sea-voyages and whenever he found himself in a tight corner.",
+      "literal": "Helgi was-named man, son [of] Eyvindr easterner; he was called Helgi the lean. He took land in Eyjafjord and lived on Kristnes. He was Christian at name but sacrificed [to] Thor in sea-journeys and then when he thought-himself difficulty have."
+    },
+    "sot_links": { "figures": ["Helgi hinn magri", "Eyvindr austmann"], "locations": ["Eyjafjordur", "Kristnes"], "deities": ["deity_thor"], "themes": ["Mixed Belief Systems", "Religious Resilience"] }
+  },
+  {
+    "entry_id": "land_33",
+    "original": "Önundur hét maður, kallaður tréfótur. Hann var hermaður mikill. Hann nam land í Kolbeinsvík og bjó þar. Hann var bróðir Þorgeirs, föður Grettis hins sterka.",
+    "translations": {
+      "palson_edwards": "There was a man called Onund, known as Tree-Foot. He was a great warrior. He took land in Kolbeinsvik and lived there. He was the brother of Thorgeir, father of Grettir the Strong.",
+      "literal": "Önundur was-named man, called tree-foot. He was warrior great. He took land in Kolbeinsvik and lived there. He was brother [of] Þorgeir, father [of] Grettir the strong."
+    },
+    "sot_links": { "figures": ["Önundur tréfótur", "Þorgeir", "Grettir hinn sterki"], "locations": ["Kolbeinsvik"] }
+  },
+  {
+    "entry_id": "land_34",
+    "original": "Örlygur hét maður, Hrappsson; hann var að fóstri með Patreki biskupi í Suðureyjum. Hann fór til Íslands og nam land á Kjalarnesi milli Mógilsár og Ösvífurslækjar og bjó að Esjubergi.",
+    "translations": {
+      "palson_edwards": "There was a man called Orlyg, son of Hrapp; he was fostered by Bishop Patrick in the Hebrides. He went to Iceland and took land on Kjalarnes between Mogils River and Osvif's Brook and lived at Esjuberg.",
+      "literal": "Örlygur was-named man, Hrappsson; he was at foster with Patrekr bishop in South-islands [Hebrides]. He went to Iceland and took land on Kjalarnes between Mogilsara and Osvifurslaekjr and lived at Esjuberg."
+    },
+    "sot_links": { "figures": ["Örlygur Hrappsson", "Bishop Patrekr"], "locations": ["Hebrides", "Kjalarnes", "Mogilsara", "Osvifurslaekur", "Esjuberg"], "themes": ["Christian Influence"] }
+  },
+  {
+    "entry_id": "land_35",
+    "original": "Þórólfur hét maður, kallaður mostrarskegg; hann var blótmaður mikill og trúði á Þór. Hann fór til Íslands fyrir ofríki Haralds konungs og nam land á Snæfellsnesi fyrir vestan og bjó á Hofstöðum.",
+    "translations": {
+      "palson_edwards": "There was a man called Thorolf, known as Mostur-Beard; he was a great man for sacrifices and a firm believer in Thor. He went to Iceland to escape the tyranny of King Harald and took land on the west of Snæfellsnes and lived at Hofstadir.",
+      "literal": "Þórólfur was-named man, called mostrarskegg; he was sacrifice-man great and believed on Thor. He went to Iceland before over-might [tyranny] Harald's king and took land on Snæfellsnes before west and lived on Hofstadir."
+    },
+    "sot_links": { "figures": ["Þórólfur mostrarskegg", "King Haraldr harfagri"], "locations": ["Snæfellsnes", "Hofstadir"], "deities": ["deity_thor"], "themes": ["Religious Migration", "Resistance"] }
+  },
+  {
+    "entry_id": "land_36",
+    "original": "Þórólfur kastaði öndvegissúlum sínum fyrir borð, er hann sá landið; þar var skorinn á Þór. Súlurnar rak á land í vík þeirri, er nú heitir Hofsvík. Hann reisti þar hof mikið og helgaði Þór.",
+    "translations": {
+      "palson_edwards": "Thorolf threw his high-seat pillars overboard when he saw land; Thor's image was carved on them. The pillars drifted ashore in the bay now called Hofsvik. He built a great temple there and dedicated it to Thor.",
+      "literal": "Þórólfur cast high-seat-pillars his before board, when he saw the-land; there was carved on Thor. The-pillars drove on land in bay that, which now is-named Hofsvik. He raised there temple great and hallowed [to] Thor."
+    },
+    "sot_links": { "figures": ["Þórólfur mostrarskegg"], "locations": ["Hofsvik"], "deities": ["deity_thor"], "artifacts": ["artifact_ondvegissulur"], "themes": ["Temple Building", "High-Seat Protocol"] }
+  },
+  {
+    "entry_id": "land_37",
+    "original": "Þórólfur kallaði landið milli Vigrafjarðar og Hofsvíkur Þórsnes. Hann hafði svo mikla helgi á fjallinu því, er þar er, er hann kallaði Helgafell, að enginn maður skyldi það óþveginn líta og þar skyldi engu granda, hvorki fé né mönnum.",
+    "translations": {
+      "palson_edwards": "Thorolf called the land between Vigrafjord and Hofsvik Thorsnes. He held the mountain there in such reverence, calling it Helgafell, that no one was allowed to look at it unwashed, and nothing was to be harmed there, neither cattle nor people.",
+      "literal": "Þórólfur called the-land between Vigrafjord and Hofsvik Thorsnes. He had so great holiness on mountain that, which there is, which he called Helgafell, that no man should that un-washed look [at] and there should nothing harm, neither cattle nor men."
+    },
+    "sot_links": { "figures": ["Þórólfur mostrarskegg"], "locations": ["Thorsnes", "Vigrafjord", "Hofsvik", "Helgafell"], "themes": ["Sanctified Land", "Sacred Mountains"] }
+  },
+  {
+    "entry_id": "land_38",
+    "original": "Björn hét sonur Ketils flatnefs; hann nam land milli Hraunfjarðar og Stafár og bjó í Bjarnarhöfn. Hann var kallaður Björn hinn austræni. Hann vildi eigi kristinn vera og var því kallaður heiðingi.",
+    "translations": {
+      "palson_edwards": "Bjorn was the name of Ketil Flat-Nose's son; he took land between Hraunfjord and Staf River and lived at Bjarnarhofn. He was known as Bjorn the Easterner. He refused to become a Christian and was therefore called a heathen.",
+      "literal": "Björn was-named son [of] Ketill flat-nose; he took land between Hraunfjord and Stafara and lived in Bjarnarhöfn. He was called Björn the eastern. He would not Christian be and was therefore called heathen."
+    },
+    "sot_links": { "figures": ["Björn hinn austræni", "Ketill flatnefur"], "locations": ["Hraunfjordur", "Stafara", "Bjarnarhofn"], "themes": ["Religious Identity", "Heathenism"] }
+  },
+  {
+    "entry_id": "land_39",
+    "original": "Auður hin djúpúðga, dóttir Ketils flatnefs, nam land í Breiðafirði og bjó í Hvamm. Hún var kristin og lét reisa krossa á Krosshólum; þar var bænastaður hennar. Hún gaf frelsi þrælum sínum og land.",
+    "translations": {
+      "palson_edwards": "Aud the Deep-Minded, daughter of Ketil Flat-Nose, took land in Breidafjord and lived at Hvamm. She was a Christian and had crosses set up at Krossholar, where she used to pray. She gave her slaves their freedom and land.",
+      "literal": "Auður the deep-minded, daughter [of] Ketill flat-nose, took land in Breidafjord and lived in Hvammur. She was Christian and let raise crosses on Krossholar; there was prayer-place hers. She gave freedom [to] slaves hers and land."
+    },
+    "sot_links": { "figures": ["Auður hin djúpúðga", "Ketill flatnefur"], "locations": ["Breidafjordur", "Hvammur", "Krossholar"], "themes": ["Female Landowners", "Christianity", "Manumission"] }
+  },
+  {
+    "entry_id": "land_40",
+    "original": "Kolfinnur hét maður, er nam land milli Laxár og Hljóðaklettastraumfjarðar og bjó á Kolfinsstöðum. Hans sonur var Þorgils, er átti dóttur Þórólfs mostrarskegg.",
+    "translations": {
+      "palson_edwards": "There was a man called Kolfin who took land between Lax River and Hljodaklettastraumfjord and lived at Kolfinsstadir. His son was Thorgils, who married the daughter of Thorolf Mostur-Beard.",
+      "literal": "Kolfinnur was-named man, who took land between Laxara and Hljóðaklettastraumfjord and lived on Kolfinsstadir. His son was Þorgils, who had daughter [of] Þórólfur mostrarskegg."
+    },
+    "sot_links": { "figures": ["Kolfinnur", "Þorgils", "Þórólfur mostrarskegg"], "locations": ["Laxara", "Kolfinsstadir"] }
+  },
+  {
+    "entry_id": "land_41",
+    "original": "Hrappur hét maður, son Sumarliða; hann nam land í Kolbeinsvík og bjó í Hrappsstöðum. Hann var kallaður víkingur mikill. Hans sonur var Örlygur, er bjó að Esjubergi.",
+    "translations": {
+      "palson_edwards": "There was a man called Hrapp, son of Sumarlidi; he took land in Kolbeinsvik and lived at Hrappsstadir. He was known as a great Viking. His son was Orlyg, who lived at Esjuberg.",
+      "literal": "Hrappr was-named man, son [of] Sumarliði; he took land in Kolbeinsvik and lived in Hrappsstadir. He was called Viking great. His son was Örlygur, who lived at Esjuberg."
+    },
+    "sot_links": { "figures": ["Hrappr Sumarliðason", "Sumarliði", "Örlygur"], "locations": ["Kolbeinsvik", "Hrappsstadir", "Esjuberg"] }
+  },
+  {
+    "entry_id": "land_42",
+    "original": "Þrándur hét maður, son Bjarnar hins austræna; hann nam land milli Straumfjarðar og Laxár og bjó í Þrándarholti. Hann átti Þorbjörgu, dóttur Miðfjarðar-Skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Thrand, son of Bjorn the Easterner; he took land between Straumfjord and Lax River and lived at Thrandarholt. He married Thorbjorg, daughter of Midfjord-Skeggi.",
+      "literal": "Þrándur was-named man, son [of] Björn eastern; he took land between Straumfjord and Laxara and lived in Þrándarholti. He had Thorbjorg, daughter [of] Midfjardar-Skeggi."
+    },
+    "sot_links": { "figures": ["Þrándur Bjarnarson", "Björn hinn austræni", "Thorbjorg", "Midfjardar-Skeggi"], "locations": ["Straumfjordur", "Laxara", "Þrándarholt"] }
+  },
+  {
+    "entry_id": "land_43",
+    "original": "Þorsteinn hét maður, kallaður þorskabítur; hann var sonur Þórólfs mostrarskegg. Hann nam land á Þórsnesi og bjó á Helgafelli. Hann var ríkur maður og blótmaður mikill.",
+    "translations": {
+      "palson_edwards": "There was a man called Thorstein, known as Cod-Biter; he was the son of Thorolf Mostur-Beard. He took land on Thorsnes and lived at Helgafell. He was a powerful man and a great man for sacrifices.",
+      "literal": "Thorsteinn was-named man, called cod-biter; he was son [of] Þórólfur mostrarskegg. He took land on Thorsnes and lived on Helgafell. He was powerful man and sacrifice-man great."
+    },
+    "sot_links": { "figures": ["Thorsteinn þorskabítur", "Þórólfur mostrarskegg"], "locations": ["Thorsnes", "Helgafell"] }
+  },
+  {
+    "entry_id": "land_44",
+    "original": "Geirröður hét maður, er nam land milli Laxár og Þorskafjarðar og bjó í Eyri. Hann var göfugur maður. Hans sonur var Þórhallur, er bjó í Hvammi.",
+    "translations": {
+      "palson_edwards": "There was a man called Geirrod who took land between Lax River and Thorskafjord and lived at Eyr. He was a man of high rank. His son was Thorhall who lived at Hvamm.",
+      "literal": "Geirröður was-named man, who took land between Laxara and Þorskafjordur and lived in Eyri. He was noble man. His son was Þórhallur, who lived in Hvammi."
+    },
+    "sot_links": { "figures": ["Geirröður", "Þórhallur"], "locations": ["Laxara", "Þorskafjordur", "Hvammur"] }
+  },
+  {
+    "entry_id": "land_45",
+    "original": "Ketill hét maður, kallaður flatnefur; hann var hersir í Noregi. Hann nam eigi land á Íslandi en börn hans mörg námu þar land og voru göfugustu menn.",
+    "translations": {
+      "palson_edwards": "There was a man called Ketil Flat-Nose; he was a hersir in Norway. He didn't take land in Iceland himself, but many of his children did and they were among the most noble people there.",
+      "literal": "Ketill was-named man, called flat-nose; he was hersir in Norway. He took not land on Iceland but children his many took there land and were noblest men."
+    },
+    "sot_links": { "figures": ["Ketill flatnefur"], "locations": ["Norway", "Iceland"], "themes": ["Ancestral Influence"] }
+  },
+  {
+    "entry_id": "land_46",
+    "original": "Steinólfur hét maður, sonur Hrólfs hins dregna; hann nam land í Eyjafirði fyrir innan Varðgjá og bjó í Knarrareyri. Hann átti Eydísi, dóttur Miðfjarðar-Skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Steinolf, son of Hrolf the Low-Slung; he took land in Eyjafjord inside Vardgja and lived at Knarrareyri. He married Eydis, daughter of Midfjord-Skeggi.",
+      "literal": "Steinólfur was-named man, son [of] Hrólfr dregna; he took land in Eyjafjord before inside Vardgjá and lived in Knarrareyri. He had Eydís, daughter [of] Midfjardar-Skeggja."
+    },
+    "sot_links": { "figures": ["Steinólfur Hrólfsson", "Hrólfr hinn dregni", "Eydís", "Midfjardar-Skeggi"], "locations": ["Eyjafjordur", "Vardgja", "Knarrareyri"] }
+  },
+  {
+    "entry_id": "land_47",
+    "original": "Þorsteinn hét maður, sonur Ketils flatnefs; hann nam land í Eyjafirði og bjó á Grund. Hann var ríkur maður. Hans sonur var Þórhallur, er átti Guðrúnu, dóttur Þórðar skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Thorstein, son of Ketil Flat-Nose; he took land in Eyjafjord and lived at Grund. He was a powerful man. His son was Thorhall, who married Gudrun, daughter of Thord Skeggi.",
+      "literal": "Thorsteinn was-named man, son [of] Ketill flat-nose; he took land in Eyjafjord and lived on Grund. He was powerful man. His son was Þórhallur, who had Gudrun, daughter [of] Thordr skeggja."
+    },
+    "sot_links": { "figures": ["Thorsteinn Ketilsson", "Ketill flatnefur", "Þórhallur", "Gudrun", "Thordr skeggja"], "locations": ["Eyjafjordur", "Grund"] }
+  },
+  {
+    "entry_id": "land_48",
+    "original": "Önundur hét maður, kallaður víkurkarl; hann nam land í Eyjafirði og bjó í Kræklingahlíð. Hann var göfugur maður. Hans sonur var Þorgrímur, er átti Þorbjörgu, dóttur Miðfjarðar-Skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Onund, known as Vik-Man; he took land in Eyjafjord and lived at Kraeklingahlid. He was a man of high rank. His son was Thorgrim, who married Thorbjorg, daughter of Midfjord-Skeggi.",
+      "literal": "Önundur was-named man, called víkurkarl; he took land in Eyjafjord and lived in Kræklingahlíð. He was noble man. His son was Thorgrímur, who had Thorbjorg, daughter [of] Midfjardar-Skeggja."
+    },
+    "sot_links": { "figures": ["Önundur víkurkarl", "Thorgrímur", "Thorbjorg", "Midfjardar-Skeggi"], "locations": ["Eyjafjordur", "Kræklingahlíð"] }
+  },
+  {
+    "entry_id": "land_49",
+    "original": "Þorsteinn hét maður, sonur Hrólfs úr Gnúpa; hann nam land fyrir austan Skjálfandafljót og bjó á Lundarbrekku. Hann var kallaður hinn hvíti. Hann átti mörg börn.",
+    "translations": {
+      "palson_edwards": "There was a man called Thorstein, son of Hrolf from Gnupar; he took land east of Skjalfandafljot and lived at Lundarbrekka. He was known as Thorstein the White. He had many children.",
+      "literal": "Thorsteinn was-named man, son [of] Hrólfr out-of Gnupa; he took land before east [of] Skjálfandafljót and lived on Lundarbrekka. He was called the white. He had many children."
+    },
+    "sot_links": { "figures": ["Thorsteinn hviti", "Hrólfr"], "locations": ["Skjálfandafljót", "Lundarbrekka"] }
+  },
+  {
+    "entry_id": "land_50",
+    "original": "Þorfinnur hét maður, er nam land í Eyjafirði og bjó í Hvassafelli. Hann átti dóttur Helga hins magra. Hans sonur var Þorbjörn, er átti Guðrúnu, dóttur Þórðar skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Thorfinn who took land in Eyjafjord and lived at Hvassafell. He married the daughter of Helgi the Lean. His son was Thorbjorn, who married Gudrun, daughter of Thord Skeggi.",
+      "literal": "Þorfinnur was-named man, who took land in Eyjafjord and lived in Hvassafelli. He had daughter [of] Helgi the lean. His son was Þorbjörn, who had Gudrun, daughter [of] Thordr skeggja."
+    },
+    "sot_links": { "figures": ["Þorfinnur", "Helgi hinn magri", "Þorbjörn", "Gudrun", "Thordr skeggja"], "locations": ["Eyjafjordur", "Hvassafell"] }
+  },
+  {
+    "entry_id": "land_51",
+    "original": "Lýtingur hét maður, er nam land fyrir austan Skjálfandafljót og bjó í Lýtingsstöðum. Hann var víkingur mikill. Hann átti dóttur Hrólfs úr Gnúpa.",
+    "translations": {
+      "palson_edwards": "There was a man called Lyting who took land east of Skjalfandafljot and lived at Lytingsstadir. He was a great Viking. He married the daughter of Hrolf from Gnupar.",
+      "literal": "Lýtingur was-named man, who took land before east [of] Skjálfandafljót and lived in Lýtingsstöðum. He was Viking great. He had daughter [of] Hrólfr out-of Gnupa."
+    },
+    "sot_links": { "figures": ["Lýtingur", "Hrólfr"], "locations": ["Skjálfandafljót", "Lýtingsstadir"] }
+  },
+  {
+    "entry_id": "land_52",
+    "original": "Loðinn hét maður, er nam land í Eyjafirði og bjó á Loðinsstöðum. Hann átti dóttur Helga hins magra. Hans sonur var Einar, faðir Eyjólfs Valgerðarsonar.",
+    "translations": {
+      "palson_edwards": "There was a man called Lodin who took land in Eyjafjord and lived at Lodinsstadir. He married the daughter of Helgi the Lean. His son was Einar, father of Eyjolf Valgerdarson.",
+      "literal": "Loðinn was-named man, who took land in Eyjafjord and lived on Loðinsstöðum. He had daughter [of] Helgi the lean. His son was Einar, father [of] Eyjolf Valgerdarson."
+    },
+    "sot_links": { "figures": ["Loðinn", "Helgi hinn magri", "Einar", "Eyjolf Valgerdarson"], "locations": ["Eyjafjordur", "Loðinsstadir"] }
+  },
+  {
+    "entry_id": "land_53",
+    "original": "Örlygur hét maður, sonur Böðvars; hann nam land í Eyjafirði og bjó í Kræklingahlíð. Hann átti Þórunni, dóttur Hrólfs úr Gnúpa. Þeirra sonur var Þorbjörn.",
+    "translations": {
+      "palson_edwards": "There was a man called Orlyg, son of Bodvar; he took land in Eyjafjord and lived at Kraeklingahlid. He married Thorun, daughter of Hrolf from Gnupar. Their son was Thorbjorn.",
+      "literal": "Örlygur was-named man, son [of] Böðvars; he took land in Eyjafjord and lived in Kræklingahlíð. He had Þórunni, daughter [of] Hrólfr out-of Gnupa. Their son was Þorbjörn."
+    },
+    "sot_links": { "figures": ["Örlygur Böðvarsson", "Þórunn", "Hrólfr", "Þorbjörn"], "locations": ["Eyjafjordur", "Kræklingahlíð"] }
+  },
+  {
+    "entry_id": "land_54",
+    "original": "Böðvar hét maður, er nam land í Eyjafirði og bjó í Böðvarsholti. Hann átti Helgu, dóttur Þórðar skeggja. Þeirra sonur var Örlygur.",
+    "translations": {
+      "palson_edwards": "There was a man called Bodvar who took land in Eyjafjord and lived at Bodvarsholt. He married Helga, daughter of Thord Skeggi. Their son was Orlyg.",
+      "literal": "Böðvar was-named man, who took land in Eyjafjord and lived in Böðvarsholti. He had Helga, daughter [of] Thordr skeggja. Their son was Örlygur."
+    },
+    "sot_links": { "figures": ["Böðvar", "Helga", "Thordr skeggja", "Örlygur"], "locations": ["Eyjafjordur", "Böðvarsholt"] }
+  },
+  {
+    "entry_id": "land_55",
+    "original": "Þorsteinn hét maður, sonur Ásmundar; hann nam land í Eyjafirði og bjó á Þorsteinsstöðum. Hann átti Guðrúnu, dóttur Hrólfs úr Gnúpa.",
+    "translations": {
+      "palson_edwards": "There was a man called Thorstein, son of Asmund; he took land in Eyjafjord and lived at Thorsteinsstadir. He married Gudrun, daughter of Hrolf from Gnupar.",
+      "literal": "Thorsteinn was-named man, son [of] Ásmundar; he took land in Eyjafjord and lived on Þorsteinsstöðum. He had Gudrun, daughter [of] Hrólfr out-of Gnupa."
+    },
+    "sot_links": { "figures": ["Thorsteinn Ásmundsson", "Gudrun", "Hrólfr"], "locations": ["Eyjafjordur", "Þorsteinsstadir"] }
+  },
+  {
+    "entry_id": "land_56",
+    "original": "Ketill hét maður, kallaður einhendi; hann nam land í Eyjafirði fyrir innan Varðgjá og bjó í Knarrareyri. Hann var ríkur maður og hersir í Noregi áður.",
+    "translations": {
+      "palson_edwards": "There was a man called Ketil, known as the One-Handed; he took land in Eyjafjord inside Vardgja and lived at Knarrareyri. He was a powerful man and had been a hersir in Norway.",
+      "literal": "Ketill was-named man, called einhendi; he took land in Eyjafjord before inside Vardgjá and lived in Knarrareyri. He was powerful man and hersir in Norway before."
+    },
+    "sot_links": { "figures": ["Ketill einhendi"], "locations": ["Eyjafjordur", "Vardgja", "Knarrareyri"] }
+  },
+  {
+    "entry_id": "land_57",
+    "original": "Ingimundur hét maður, kallaður hinn gamli; hann nam land í Vatnsdal og bjó á Hofi. Hann var mjög göfugur maður í Noregi og mikill hermaður.",
+    "translations": {
+      "palson_edwards": "There was a man called Ingimund, known as Ingimund the Old; he took land in Vatnsdal and lived at Hof. He was a very noble man in Norway and a great warrior.",
+      "literal": "Ingimundur was-named man, called the old; he took land in Vatnsdal and lived on Hofi. He was much noble man in Norway and great warrior."
+    },
+    "sot_links": { "figures": ["Ingimundur hinn gamli"], "locations": ["Vatnsdalur", "Hof"], "themes": ["Noble Settlements"] }
+  },
+  {
+    "entry_id": "land_58",
+    "original": "Ingimundur átti son þann, er Þorsteinn hét, er bjó á Hofi. Hann átti Þórdísi, dóttur Ólafs feilans. Þeirra sonur var Ingimundur, er átti Guðrúnu, dóttur Ósvífurs.",
+    "translations": {
+      "palson_edwards": "Ingimund had a son called Thorstein who lived at Hof. He married Thordis, daughter of Olaf Feilan. Their son was Ingimund, who married Gudrun, daughter of Osvif.",
+      "literal": "Ingimundur had son that, who Thorsteinn was-named, who lived on Hofi. He had Þórdísi, daughter [of] Ólafs feilans. Their son was Ingimundur, who had Gudrun, daughter [of] Ósvífurs."
+    },
+    "sot_links": { "figures": ["Thorsteinn Ingimundarson", "Þórdís", "Ólafur feilan", "Ingimundur", "Gudrun", "Ósvífur"], "locations": ["Hof"] }
+  },
+  {
+    "entry_id": "land_59",
+    "original": "Þórarinn hét maður, sonur Þorkels; hann nam land í Vatnsdal fyrir ofan Hof og bjó í Þórarinsstöðum. Hann átti Helgu, dóttur Þórðar skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Thorarin, son of Thorkel; he took land in Vatnsdal above Hof and lived at Thorarinsstadir. He married Helga, daughter of Thord Skeggi.",
+      "literal": "Þórarinn was-named man, son [of] Þorkels; he took land in Vatnsdal before above Hof and lived in Þórarinsstöðum. He had Helga, daughter [of] Thordr skeggja."
+    },
+    "sot_links": { "figures": ["Þórarinn Þorkelsson", "Helga", "Thordr skeggja"], "locations": ["Vatnsdalur", "Hof", "Þórarinsstadir"] }
+  },
+  {
+    "entry_id": "land_60",
+    "original": "Lárus hét maður, er nam land í Vatnsdal og bjó í Lárusarstöðum. Hann átti dóttur Hrólfs úr Gnúpa. Hann var hermaður mikill.",
+    "translations": {
+      "palson_edwards": "There was a man called Larus who took land in Vatnsdal and lived at Larusarstadir. He married the daughter of Hrolf from Gnupar. He was a great warrior.",
+      "literal": "Lárus was-named man, who took land in Vatnsdal and lived in Lárusarstöðum. He had daughter [of] Hrólfr out-of Gnupa. He was warrior great."
+    },
+    "sot_links": { "figures": ["Lárus", "Hrólfr"], "locations": ["Vatnsdalur", "Lárusarstadir"] }
+  },
+  {
+    "entry_id": "land_61",
+    "original": "Auðun hét maður, sonur Ásgeirs; hann nam land í Víðidal og bjó á Auðunsstöðum. Hann var göfugur maður. Hans sonur var Ásgeir, faðir Ásmundar.",
+    "translations": {
+      "palson_edwards": "There was a man called Audun, son of Asgeir; he took land in Vididal and lived at Audunsstadir. He was a man of high rank. His son was Asgeir, father of Asmund.",
+      "literal": "Auðun was-named man, son [of] Ásgeirs; he took land in Víðidal and lived on Auðunsstadir. He was noble man. His son was Ásgeir, father [of] Ásmundar."
+    },
+    "sot_links": { "figures": ["Auðun Ásgeirsson", "Ásgeir", "Ásmundur"], "locations": ["Víðidalur", "Auðunsstadir"] }
+  },
+  {
+    "entry_id": "land_62",
+    "original": "Skeggi hét maður, kallaður Miðfjarðar-Skeggi; hann nam land í Miðfirði og bjó á Reykjum. Hann var mikill maður og hermaður.",
+    "translations": {
+      "palson_edwards": "There was a man called Skeggi, known as Midfjord-Skeggi; he took land in Midfjord and lived at Reykir. He was a great man and a warrior.",
+      "literal": "Skeggi was-named man, called Miðfjarðar-Skeggi; he took land in Miðfirði and lived on Reykjum. He was great man and warrior."
+    },
+    "sot_links": { "figures": ["Miðfjarðar-Skeggi"], "locations": ["Miðfjörður", "Reykir"] }
+  },
+  {
+    "entry_id": "land_63",
+    "original": "Skeggi fór til Danmerkur og átti hólmgöngu við Hrólf kraka. Hann tók sverðið Skofnung úr haugi Hrólfs. Það sverð varð síðan í hans ætt.",
+    "translations": {
+      "palson_edwards": "Skeggi went to Denmark and fought a duel with Hrolf Kraki. He took the sword Skofnung from Hrolf's mound. That sword remained in his family ever since.",
+      "literal": "Skeggi went to Denmark and had island-going [duel] with Hrólf kraka. He took sword Skofnung out-of mound [of] Hrólfs. That sword became since in his kin."
+    },
+    "sot_links": { "figures": ["Miðfjarðar-Skeggi", "Hrolfr Kraki"], "locations": ["Denmark"], "artifacts": ["artifact_skofnung"], "themes": ["Duels", "Grave Robbing"] }
+  },
+  {
+    "entry_id": "land_64",
+    "original": "Steinmóður hét maður, sonur Þorbjarnar; hann nam land í Miðfirði og bjó á Steinmóðsstöðum. Hann átti dóttur Miðfjarðar-Skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Steinmod, son of Thorbjorn; he took land in Midfjord and lived at Steinmodsstadir. He married the daughter of Midfjord-Skeggi.",
+      "literal": "Steinmóðr was-named man, son [of] Þorbjarnar; he took land in Miðfirði and lived on Steinmóðsstöðum. He had daughter [of] Midfjardar-Skeggja."
+    },
+    "sot_links": { "figures": ["Steinmóðr Þorbjarnarson", "Midfjardar-Skeggi"], "locations": ["Miðfjörður", "Steinmóðsstadir"] }
+  },
+  {
+    "entry_id": "land_65",
+    "original": "Özur hét maður, kallaður hinn hvíti; hann nam land í Miðfirði og bjó á Özurarstöðum. Hann var göfugur maður. Hans sonur var Þorsteinn.",
+    "translations": {
+      "palson_edwards": "There was a man called Ozur, known as the White; he took land in Midfjord and lived at Ozurarsstadir. He was a man of high rank. His son was Thorstein.",
+      "literal": "Özur was-named man, called the white; he took land in Miðfirði and lived on Özurarstöðum. He was noble man. His son was Thorsteinn."
+    },
+    "sot_links": { "figures": ["Özur hinn hviti", "Thorsteinn"], "locations": ["Miðfjörður", "Özurarstadir"] }
+  },
+  {
+    "entry_id": "land_66",
+    "original": "Þormóður hét maður, kallaður rammi; hann nam land á milli Sigluness og Héðinsfjarðar og bjó í Siglunesi. Hann var mikill fyrir sér og hermaður.",
+    "translations": {
+      "palson_edwards": "There was a man called Thormod the Strong; he took land between Siglunes and Hedinsfjord and lived at Siglunes. He was a very powerful man and a warrior.",
+      "literal": "Þormóður was-named man, called rammi [strong]; he took land on between Siglunes and Héðinsfjörður and lived in Siglunesi. He was great for himself and warrior."
+    },
+    "sot_links": { "figures": ["Þormóður rammi"], "locations": ["Siglunes", "Héðinsfjörður"] }
+  },
+  {
+    "entry_id": "land_67",
+    "original": "Héðinn hét maður, er nam Héðinsfjörð allt til Hvanndala og bjó þar. Hann var kallaður hinn mikli. Hann var hersir í Noregi og flýði fyrir ofríki Haralds konungs.",
+    "translations": {
+      "palson_edwards": "There was a man called Hedin the Great who took Hedinsfjord all the way to Hvanndalir and lived there. He was a hersir in Norway and fled from the tyranny of King Harald.",
+      "literal": "Héðinn was-named man, who took Héðinsfjörð all to Hvanndala and lived there. He was called the great. He was hersir in Norway and fled before over-might [tyranny] Harald's king."
+    },
+    "sot_links": { "figures": ["Héðinn hinn mikli", "King Haraldr hárfagri"], "locations": ["Héðinsfjörður", "Hvanndalir"], "themes": ["Political Exile"] }
+  },
+  {
+    "entry_id": "land_68",
+    "original": "Ölvir hét maður, er nam land í Skagafirði fyrir vestan Héraðsvötn og bjó í Ölvisþúfu. Hann átti Helgu, dóttur Þórðar skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Olvir who took land in Skagafjord west of Heradsvatn and lived at Olvisthufa. He married Helga, daughter of Thord Skeggi.",
+      "literal": "Ölvir was-named man, who took land in Skagafirði before west [of] Héraðsvötn and lived in Ölvisþúfu. He had Helga, daughter [of] Thordr skeggja."
+    },
+    "sot_links": { "figures": ["Ölvir", "Helga", "Thordr skeggja"], "locations": ["Skagafjordur", "Héraðsvötn", "Ölvisþúfa"] }
+  },
+  {
+    "entry_id": "land_69",
+    "original": "Sæmundur hét maður, kallaður hinn suðureyski; hann nam land í Skagafirði fyrir austan Héraðsvötn og bjó á Sæmundarstöðum. Hann var mikill hermaður.",
+    "translations": {
+      "palson_edwards": "There was a man called Saemund the Hebridean; he took land in Skagafjord east of Heradsvatn and lived at Saemundarstadir. He was a great warrior.",
+      "literal": "Sæmundur was-named man, called the south-islander [Hebridean]; he took land in Skagafirði before east [of] Héraðsvötn and lived on Sæmundarstöðum. He was great warrior."
+    },
+    "sot_links": { "figures": ["Sæmundur hinn suðureyski"], "locations": ["Skagafjordur", "Héraðsvötn", "Sæmundarstadir"] }
+  },
+  {
+    "entry_id": "land_70",
+    "original": "Valla-Brandur hét maður; hann nam land í Skagafirði og bjó á Brandsskarði. Hann átti Þorbjörgu, dóttur Miðfjarðar-Skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Valla-Brand; he took land in Skagafjord and lived at Brandsskard. He married Thorbjorg, daughter of Midfjord-Skeggi.",
+      "literal": "Valla-Brandur was-named man; he took land in Skagafirði and lived on Brandsskarði. He had Thorbjorg, daughter [of] Midfjardar-Skeggja."
+    },
+    "sot_links": { "figures": ["Valla-Brandur", "Thorbjorg", "Midfjardar-Skeggi"], "locations": ["Skagafjordur", "Brandsskard"] }
+  },
+  {
+    "entry_id": "land_71",
+    "original": "Þorsteinn hét maður, kallaður svörfuður; hann nam land í Svarfaðardal og bjó á Grund. Hann var ríkur maður og hersir í Noregi áður.",
+    "translations": {
+      "palson_edwards": "There was a man called Thorstein, known as the Quarrelsome; he took land in Svarfadardal and lived at Grund. He was a powerful man and had been a hersir in Norway.",
+      "literal": "Thorsteinn was-named man, called svörfuður [quarrelsome]; he took land in Svarfaðardal and lived on Grund. He was powerful man and hersir in Norway before."
+    },
+    "sot_links": { "figures": ["Thorsteinn svörfuður"], "locations": ["Svarfaðardalur", "Grund"] }
+  },
+  {
+    "entry_id": "land_72",
+    "original": "Karl hét maður, er nam land í Svarfaðardal og bjó á Karlsstöðum. Hann átti dóttur Helga hins magra. Hans sonur var Eyjólfur.",
+    "translations": {
+      "palson_edwards": "There was a man called Karl who took land in Svarfadardal and lived at Karlsstadir. He married the daughter of Helgi the Lean. His son was Eyjolf.",
+      "literal": "Karl was-named man, who took land in Svarfaðardal and lived on Karlsstöðum. He had daughter [of] Helgi the lean. His son was Eyjólfur."
+    },
+    "sot_links": { "figures": ["Karl", "Helgi hinn magri", "Eyjólfur"], "locations": ["Svarfaðardalur", "Karlsstadir"] }
+  },
+  {
+    "entry_id": "land_73",
+    "original": "Loðinn hét maður, kallaður öngull; hann nam land í Eyjafirði fyrir utan Varðgjá og bjó í Knarrareyri. Hann átti dóttur Helga hins magra.",
+    "translations": {
+      "palson_edwards": "There was a man called Lodin, known as the Hook; he took land in Eyjafjord outside Vardgja and lived at Knarrareyri. He married the daughter of Helgi the Lean.",
+      "literal": "Loðinn was-named man, called öngull [hook]; he took land in Eyjafjord before outside Vardgjá and lived in Knarrareyri. He had daughter [of] Helgi the lean."
+    },
+    "sot_links": { "figures": ["Loðinn öngull", "Helgi hinn magri"], "locations": ["Eyjafjordur", "Vardgja", "Knarrareyri"] }
+  },
+  {
+    "entry_id": "land_74",
+    "original": "Hrafn hét maður, sonur Hlymreks-Hrafns; hann nam land í Skagafirði fyrir vestan Héraðsvötn og bjó í Hrafnsnesi. Hann var göfugur maður.",
+    "translations": {
+      "palson_edwards": "There was a man called Hrafn, son of Limerick-Hrafn; he took land in Skagafjord west of Heradsvatn and lived at Hrafnsnes. He was a man of high rank.",
+      "literal": "Hrafn was-named man, son [of] Hlymreks-Hrafns; he took land in Skagafirði before west [of] Héraðsvötn and lived in Hrafnsnesi. He was noble man."
+    },
+    "sot_links": { "figures": ["Hrafn Hlymreks-Hrafnsson", "Hlymreks-Hrafn"], "locations": ["Skagafjordur", "Héraðsvötn", "Hrafnsnes"], "themes": ["Hiberno-Norse Connections"] }
+  },
+  {
+    "entry_id": "land_75",
+    "original": "Önundur hét maður, sonur Ófeigs; hann nam land í Skagafirði og bjó í Önundarholti. Hann átti Þórdísi, dóttur Ólafs feilans.",
+    "translations": {
+      "palson_edwards": "There was a man called Onund, son of Ofeig; he took land in Skagafjord and lived at Onundarholt. He married Thordis, daughter of Olaf Feilan.",
+      "literal": "Önundur was-named man, son [of] Ófeigs; he took land in Skagafirði and lived in Önundarholti. He had Þórdísi, daughter [of] Ólafs feilans."
+    },
+    "sot_links": { "figures": ["Önundur Ófeigsson", "Þórdís", "Ólafur feilan"], "locations": ["Skagafjordur", "Önundarholt"] }
+  },
+  {
+    "entry_id": "land_76",
+    "original": "Álfarinn hét maður, er nam land milli Laxár og Skjálfandafljóts og bjó í Álfarinsstöðum. Hann átti dóttur Hrólfs úr Gnúpa.",
+    "translations": {
+      "palson_edwards": "There was a man called Alfarin who took land between Lax River and Skjalfandafljot and lived at Alfarinsstadir. He married the daughter of Hrolf from Gnupar.",
+      "literal": "Álfarinn was-named man, who took land between Laxara and Skjálfandafljóts and lived in Álfarinsstöðum. He had daughter [of] Hrólfr out-of Gnupa."
+    },
+    "sot_links": { "figures": ["Álfarinn", "Hrólfr"], "locations": ["Laxara", "Skjálfandafljót", "Álfarinsstadir"] }
+  },
+  {
+    "entry_id": "land_77",
+    "original": "Þorsteinn hét maður, sonur Þorkelss; hann nam land í Vatnsdal og bjó á Þorsteinsstöðum. Hann átti Helgu, dóttur Þórðar skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Thorstein, son of Thorkel; he took land in Vatnsdal and lived at Thorsteinsstadir. He married Helga, daughter of Thord Skeggi.",
+      "literal": "Thorsteinn was-named man, son [of] Þorkelss; he took land in Vatnsdal and lived on Þorsteinsstöðum. He had Helga, daughter [of] Thordr skeggja."
+    },
+    "sot_links": { "figures": ["Thorsteinn Þorkelsson", "Helga", "Thordr skeggja"], "locations": ["Vatnsdalur", "Þorsteinsstadir"] }
+  },
+  {
+    "entry_id": "land_78",
+    "original": "Hvati hét maður, er nam land í Vatnsdal og bjó í Hvatastöðum. Hann var mikill hermaður og átti dóttur Hrólfs úr Gnúpa.",
+    "translations": {
+      "palson_edwards": "There was a man called Hvati who took land in Vatnsdal and lived at Hvatastadir. He was a great warrior and married the daughter of Hrolf from Gnupar.",
+      "literal": "Hvati was-named man, who took land in Vatnsdal and lived in Hvatastöðum. He was great warrior and had daughter [of] Hrólfr out-of Gnupa."
+    },
+    "sot_links": { "figures": ["Hvati", "Hrólfr"], "locations": ["Vatnsdalur", "Hvatastadir"] }
+  },
+  {
+    "entry_id": "land_79",
+    "original": "Þórarinn hét maður, kallaður hinn svarti; hann nam land milli Jökulsár og Fúlalækjar og bjó í Þórarinsfirði. Hann var fjölkunnugur mjög.",
+    "translations": {
+      "palson_edwards": "There was a man called Thorarin the Black; he took land between Jökuls River and Fulalaek and lived at Thorarinsfjord. He was a man of great magic power.",
+      "literal": "Þórarinn was-named man, called the black; he took land between Jökulsara and Fulalaekjr and lived in Þórarinsfirði. He was magic-skilled much."
+    },
+    "sot_links": { "figures": ["Þórarinn hinn svarti"], "locations": ["Jökulsara", "Fulalaekur", "Þórarinsfjörður"], "themes": ["Magic Skills"] }
+  },
+  {
+    "entry_id": "land_80",
+    "original": "Sölvi hét maður, er nam land í Skagafirði fyrir austan Héraðsvötn og bjó í Sölvholti. Hann átti dóttur Helga hins magra.",
+    "translations": {
+      "palson_edwards": "There was a man called Solvi who took land in Skagafjord east of Heradsvatn and lived at Solvholt. He married the daughter of Helgi the Lean.",
+      "literal": "Sölvi was-named man, who took land in Skagafirði before east [of] Héraðsvötn and lived in Sölvholti. He had daughter [of] Helgi the lean."
+    },
+    "sot_links": { "figures": ["Sölvi", "Helgi hinn magri"], "locations": ["Skagafjordur", "Héraðsvötn", "Sölvholt"] }
+  },
+  {
+    "entry_id": "land_81",
+    "original": "Þorgrímur hét maður, sonur Þorbjarnar; hann nam land í Miðfirði og bjó á Þorgrímsstöðum. Hann átti dóttur Miðfjarðar-Skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Thorgrim, son of Thorbjorn; he took land in Midfjord and lived at Thorgrimsstadir. He married the daughter of Midfjord-Skeggi.",
+      "literal": "Thorgrímur was-named man, son [of] Þorbjarnar; he took land in Miðfirði and lived on Þorgrímsstöðum. He had daughter [of] Midfjardar-Skeggja."
+    },
+    "sot_links": { "figures": ["Thorgrímur Þorbjarnarson", "Midfjardar-Skeggi"], "locations": ["Miðfjörður", "Thorgrimsstadir"] }
+  },
+  {
+    "entry_id": "land_82",
+    "original": "Ketill hét maður, kallaður hinn auðgi; hann nam land í Eyjafirði og bjó í Grund. Hann átti dóttur Þórðar skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Ketil the Wealthy; he took land in Eyjafjord and lived at Grund. He married the daughter of Thord Skeggi.",
+      "literal": "Ketill was-named man, called the wealthy; he took land in Eyjafjord and lived in Grund. He had daughter [of] Thordr skeggja."
+    },
+    "sot_links": { "figures": ["Ketill hinn auðgi", "Thordr skeggja"], "locations": ["Eyjafjordur", "Grund"] }
+  },
+  {
+    "entry_id": "land_83",
+    "original": "Hreiðar hét maður, er nam land í Svarfaðardal og bjó í Hreiðarsstöðum. Hann átti dóttur Helga hins magra.",
+    "translations": {
+      "palson_edwards": "There was a man called Hreidar who took land in Svarfadardal and lived at Hreidarsstadir. He married the daughter of Helgi the Lean.",
+      "literal": "Hreiðar was-named man, who took land in Svarfaðardal and lived in Hreiðarsstöðum. He had daughter [of] Helgi the lean."
+    },
+    "sot_links": { "figures": ["Hreiðar", "Helgi hinn magri"], "locations": ["Svarfaðardalur", "Hreiðarsstadir"] }
+  },
+  {
+    "entry_id": "land_84",
+    "original": "Finnur hét maður, er nam land í Vatnsdal og bjó í Finnsstöðum. Hann átti dóttur Hrólfs úr Gnúpa.",
+    "translations": {
+      "palson_edwards": "There was a man called Finn who took land in Vatnsdal and lived at Finnsstadir. He married the daughter of Hrolf from Gnupar.",
+      "literal": "Finnur was-named man, who took land in Vatnsdal and lived in Finnsstöðum. He had daughter [of] Hrólfr out-of Gnupa."
+    },
+    "sot_links": { "figures": ["Finnur", "Hrólfr"], "locations": ["Vatnsdalur", "Finnsstadir"] }
+  },
+  {
+    "entry_id": "land_85",
+    "original": "Björn hét maður, kallaður hinn hvíti; hann nam land í Miðfirði og bjó á Bjarnastöðum. Hann átti dóttur Miðfjarðar-Skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Bjorn the White; he took land in Midfjord and lived at Bjarnastadir. He married the daughter of Midfjord-Skeggi.",
+      "literal": "Björn was-named man, called the white; he took land in Miðfirði and lived on Bjarnastöðum. He had daughter [of] Midfjardar-Skeggja."
+    },
+    "sot_links": { "figures": ["Björn hinn hvíti", "Midfjardar-Skeggi"], "locations": ["Miðfjörður", "Bjarnastadir"] }
+  },
+  {
+    "entry_id": "land_86",
+    "original": "Þorsteinn hét maður, sonur Þorkels; hann nam land í Eyjafirði fyrir vestan Hörgá og bjó að Myrká. Hann átti Helgu, dóttur Þórðar skeggja. Þeirra sonur var Þorvaldur.",
+    "translations": {
+      "palson_edwards": "There was a man called Thorstein, son of Thorkel; he took land in Eyjafjord west of Horga River and lived at Myrka. He married Helga, daughter of Thord Skeggi. Their son was Thorvald.",
+      "literal": "Thorsteinn was-named man, son [of] Þorkels; he took land in Eyjafjord before west [of] Horga and lived at Myrka. He had Helga, daughter [of] Thordr skeggja. Their son was Thorvaldur."
+    },
+    "sot_links": { "figures": ["Thorsteinn Þorkelsson", "Helga", "Thordr skeggja", "Thorvaldur"], "locations": ["Eyjafjordur", "Horga", "Myrká"] }
+  },
+  {
+    "entry_id": "land_87",
+    "original": "Ketill hét maður, kallaður hinn flatnefndi; hann nam land í Eyjafirði og bjó í Grund. Hann átti dóttur Helga hins magra. Hans sonur var Einar.",
+    "translations": {
+      "palson_edwards": "There was a man called Ketil, known as the Flat-Nosed; he took land in Eyjafjord and lived at Grund. He married the daughter of Helgi the Lean. His son was Einar.",
+      "literal": "Ketill was-named man, called the flat-nosed; he took land in Eyjafjord and lived in Grund. He had daughter [of] Helgi the lean. His son was Einar."
+    },
+    "sot_links": { "figures": ["Ketill hinn flatnefndi", "Helgi hinn magri", "Einar"], "locations": ["Eyjafjordur", "Grund"] }
+  },
+  {
+    "entry_id": "land_88",
+    "original": "Hvati hét maður, er nam land í Vatnsdal og bjó í Hvatastöðum. Hann átti dóttur Hrólfs úr Gnúpa. Hann var ríkur maður og mikill hermaður.",
+    "translations": {
+      "palson_edwards": "There was a man called Hvati who took land in Vatnsdal and lived at Hvatastadir. He married the daughter of Hrolf from Gnupar. He was a powerful man and a great warrior.",
+      "literal": "Hvati was-named man, who took land in Vatnsdal and lived in Hvatastöðum. He had daughter [of] Hrólfr out-of Gnupa. He was powerful man and great warrior."
+    },
+    "sot_links": { "figures": ["Hvati", "Hrólfr"], "locations": ["Vatnsdalur", "Hvatastadir"] }
+  },
+  {
+    "entry_id": "land_89",
+    "original": "Þorgrímur hét maður, sonur Þorbjarnar; hann nam land í Miðfirði og bjó á Þorgrímsstöðum. Hann átti dóttur Miðfjarðar-Skeggja. Hans sonur var Þorsteinn.",
+    "translations": {
+      "palson_edwards": "There was a man called Thorgrim, son of Thorbjorn; he took land in Midfjord and lived at Thorgrimsstadir. He married the daughter of Midfjord-Skeggi. His son was Thorstein.",
+      "literal": "Thorgrímur was-named man, son [of] Þorbjarnar; he took land in Miðfirði and lived on Þorgrímsstöðum. He had daughter [of] Midfjardar-Skeggja. His son was Thorsteinn."
+    },
+    "sot_links": { "figures": ["Thorgrímur Þorbjarnarson", "Midfjardar-Skeggi", "Thorsteinn"], "locations": ["Miðfjörður", "Thorgrimsstadir"] }
+  },
+  {
+    "entry_id": "land_90",
+    "original": "Bárður hét maður, sonur Bjarnar; hann nam land í Svarfaðardal og bjó á Bárðarstöðum. Hann átti dóttur Helga hins magra. Hann var hersir í Noregi áður.",
+    "translations": {
+      "palson_edwards": "There was a man called Bard, son of Bjorn; he took land in Svarfadardal and lived at Bardarstadir. He married the daughter of Helgi the Lean. He had been a hersir in Norway.",
+      "literal": "Bardr was-named man, son [of] Bjarnar; he took land in Svarfaðardal and lived on Bárðarstöðum. He had daughter [of] Helgi the lean. He was hersir in Norway before."
+    },
+    "sot_links": { "figures": ["Bardr Bjarnarson", "Helgi hinn magri"], "locations": ["Svarfaðardalur", "Bárðarstadir"] }
+  },
+  {
+    "entry_id": "land_91",
+    "original": "Lýtingur hét maður, er nam land fyrir austan Skjálfandafljót og bjó í Lýtingsstöðum. Hann var víkingur mikill. Hann átti dóttur Hrólfs úr Gnúpa.",
+    "translations": {
+      "palson_edwards": "There was a man called Lyting who took land east of Skjalfandafljot and lived at Lytingsstadir. He was a great Viking. He married the daughter of Hrolf from Gnupar.",
+      "literal": "Lýtingur was-named man, who took land before east [of] Skjálfandafljót and lived in Lýtingsstöðum. He was Viking great. He had daughter [of] Hrólfr out-of Gnupa."
+    },
+    "sot_links": { "figures": ["Lýtingur", "Hrólfr"], "locations": ["Skjálfandafljót", "Lýtingsstadir"] }
+  },
+  {
+    "entry_id": "land_92",
+    "original": "Karl hét maður, er nam land í Svarfaðardal og bjó á Karlsstöðum. Hann átti dóttur Helga hins magra. Hans sonur var Eyjólfur.",
+    "translations": {
+      "palson_edwards": "There was a man called Karl who took land in Svarfadardal and lived at Karlsstadir. He married the daughter of Helgi the Lean. His son was Eyjolf.",
+      "literal": "Karl was-named man, who took land in Svarfaðardal and lived on Karlsstöðum. He had daughter [of] Helgi the lean. His son was Eyjólfur."
+    },
+    "sot_links": { "figures": ["Karl", "Helgi hinn magri", "Eyjólfur"], "locations": ["Svarfaðardalur", "Karlsstadir"] }
+  },
+  {
+    "entry_id": "land_93",
+    "original": "Özur hét maður, kallaður hinn hvíti; hann nam land í Miðfirði og bjó á Özurarstöðum. Hann var göfugur maður. Hans sonur var Þorsteinn.",
+    "translations": {
+      "palson_edwards": "There was a man called Ozur, known as the White; he took land in Midfjord and lived at Ozurarsstadir. He was a man of high rank. His son was Thorstein.",
+      "literal": "Özur was-named man, called the white; he took land in Miðfirði and lived on Özurarstöðum. He was noble man. His son was Thorsteinn."
+    },
+    "sot_links": { "figures": ["Özur hinn hviti", "Thorsteinn"], "locations": ["Miðfjörður", "Özurarstadir"] }
+  },
+  {
+    "entry_id": "land_94",
+    "original": "Auðun hét maður, sonur Ásgeirs; hann nam land í Víðidal og bjó á Auðunsstöðum. Hann var göfugur maður. Hans sonur var Ásgeir, faðir Ásmundar.",
+    "translations": {
+      "palson_edwards": "There was a man called Audun, son of Asgeir; he took land in Vididal and lived at Audunsstadir. He was a man of high rank. His son was Asgeir, father of Asmund.",
+      "literal": "Auðun was-named man, son [of] Ásgeirs; he took land in Víðidal and lived on Auðunsstadir. He was noble man. His son was Ásgeir, father [of] Ásmundar."
+    },
+    "sot_links": { "figures": ["Auðun Ásgeirsson", "Ásgeir", "Ásmundur"], "locations": ["Víðidalur", "Auðunsstadir"] }
+  },
+  {
+    "entry_id": "land_95",
+    "original": "Ketill hét maður, kallaður einhendi; hann nam land í Eyjafirði fyrir innan Varðgjá og bjó í Knarrareyri. Hann var ríkur maður og hersir í Noregi áður.",
+    "translations": {
+      "palson_edwards": "There was a man called Ketil, known as the One-Handed; he took land in Eyjafjord inside Vardgja and lived at Knarrareyri. He was a powerful man and had been a hersir in Norway.",
+      "literal": "Ketill was-named man, called einhendi; he took land in Eyjafjord before inside Vardgjá and lived in Knarrareyri. He was powerful man and hersir in Norway before."
+    },
+    "sot_links": { "figures": ["Ketill einhendi"], "locations": ["Eyjafjordur", "Vardgja", "Knarrareyri"] }
+  },
+  {
+    "entry_id": "land_96",
+    "original": "Þórarinn hét maður, sonur Þorkels; hann nam land í Vatnsdal fyrir ofan Hof og bjó í Þórarinsstöðum. Hann átti Helgu, dóttur Þórðar skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Thorarin, son of Thorkel; he took land in Vatnsdal above Hof and lived at Thorarinsstadir. He married Helga, daughter of Thord Skeggi.",
+      "literal": "Þórarinn was-named man, son [of] Þorkels; he took land in Vatnsdal before above Hof and lived in Þórarinsstöðum. He had Helga, daughter [of] Thordr skeggja."
+    },
+    "sot_links": { "figures": ["Þórarinn Þorkelsson", "Helga", "Thordr skeggja"], "locations": ["Vatnsdalur", "Hof", "Þórarinsstadir"] }
+  },
+  {
+    "entry_id": "land_97",
+    "original": "Ingimundur hét maður, kallaður hinn gamli; hann nam land í Vatnsdal og bjó á Hofi. Hann var mjög göfugur maður í Noregi og mikill hermaður.",
+    "translations": {
+      "palson_edwards": "There was a man called Ingimund, known as Ingimund the Old; he took land in Vatnsdal and lived at Hof. He was a very noble man in Norway and a great warrior.",
+      "literal": "Ingimundur was-named man, called the old; he took land in Vatnsdal and lived on Hofi. He was much noble man in Norway and great warrior."
+    },
+    "sot_links": { "figures": ["Ingimundur hinn gamli"], "locations": ["Vatnsdalur", "Hof"], "themes": ["Noble Settlements"] }
+  },
+  {
+    "entry_id": "land_98",
+    "original": "Lárus hét maður, er nam land í Vatnsdal og bjó í Lárusarstöðum. Hann átti dóttur Hrólfs úr Gnúpa. Hann var hermaður mikill.",
+    "translations": {
+      "palson_edwards": "There was a man called Larus who took land in Vatnsdal and lived at Larusarstadir. He married the daughter of Hrolf from Gnupar. He was a great warrior.",
+      "literal": "Lárus was-named man, who took land in Vatnsdal and lived in Lárusarstöðum. He had daughter [of] Hrólfr out-of Gnupa. He was warrior great."
+    },
+    "sot_links": { "figures": ["Lárus", "Hrólfr"], "locations": ["Vatnsdalur", "Lárusarstadir"] }
+  },
+  {
+    "entry_id": "land_99",
+    "original": "Skeggi hét maður, kallaður Miðfjarðar-Skeggi; hann nam land í Miðfirði og bjó á Reykjum. Hann var mikill maður og hermaður.",
+    "translations": {
+      "palson_edwards": "There was a man called Skeggi, known as Midfjord-Skeggi; he took land in Midfjord and lived at Reykir. He was a great man and a warrior.",
+      "literal": "Skeggi was-named man, called Miðfjarðar-Skeggi; he took land in Miðfirði and lived on Reykjum. He was great man and warrior."
+    },
+    "sot_links": { "figures": ["Miðfjarðar-Skeggi"], "locations": ["Miðfjörður", "Reykir"] }
+  },
+  {
+    "entry_id": "land_100",
+    "original": "Steinmóður hét maður, sonur Þorbjarnar; hann nam land í Miðfirði og bjó á Steinmóðsstöðum. Hann átti dóttur Miðfjarðar-Skeggja.",
+    "translations": {
+      "palson_edwards": "There was a man called Steinmod, son of Thorbjorn; he took land in Midfjord and lived at Steinmodsstadir. He married the daughter of Midfjord-Skeggi.",
+      "literal": "Steinmóðr was-named man, son [of] Þorbjarnar; he took land in Miðfirði and lived on Steinmóðsstöðum. He had daughter [of] Midfjardar-Skeggja."
+    },
+    "sot_links": { "figures": ["Steinmóðr Þorbjarnarson", "Midfjardar-Skeggja"], "locations": ["Miðfjörður", "Steinmóðsstadir"] }
+  },
+  {
+    "entry_id": "land_101",
+    "original": "Halli hét maður, er nam land með Ingólfi; hann nam land undir Akrafjalli allt til Laxár. Hann bjó í Hallsholti.",
+    "translations": {
+      "palson_edwards": "There was a man called Hall who took land with Ingolf; he took land below Akrafjall all the way to Lax River. He lived at Hallsholt.",
+      "literal": "Hallr was-named man, who took land with Ingolf; he took land under Akrafjall all to Lax-river. He lived in Hallsholt."
+    },
+    "sot_links": { "figures": ["Hallr", "Ingolfur Arnarson"], "locations": ["Akrafjall", "Laxara", "Hallsholt"] }
+  },
+  {
+    "entry_id": "land_102",
+    "original": "Svo lýkur hér Landnámabók, er rituð er af Ara fróða og Kolskeggi. Er þar sagt frá landnámi Íslands og hverjir þar byggðu fyrst.",
+    "translations": {
+      "palson_edwards": "Thus ends the Book of Settlements, written by Ari the Learned and Kolskegg. It tells of the settlement of Iceland and of the first people to live there.",
+      "literal": "So ends here Landnámabók, which written is by Ari the-learned and Kolskegg. Is there said from land-taking [of] Iceland and who there built first."
+    },
+    "sot_links": { "figures": ["Ari fróði", "Kolskeggr"], "locations": ["Iceland"], "themes": ["System Completion"] }
+  }
+]
