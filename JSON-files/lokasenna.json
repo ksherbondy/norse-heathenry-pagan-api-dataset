@@ -1,0 +1,687 @@
+[
+  {
+    "stanza_id": "loka_01",
+    "original": "Segðu þat, Eldir, áðr þú einn fet fetir framar: hvat hér inni at öl-málum dæma dýr regin?",
+    "translations": {
+      "bellows": "Speak now, Eldir, ere one step further thou farest: what speak the sons of the glorious gods at their ale within the hall?",
+      "thorpe": "Say, Eldir! ere thou footest one step forward, what the gods are talking of within, at their ale-drinking?",
+      "literal": "Say that, Eldir, before you one foot foot [step] further: what here in-side at ale-talks judge [discuss] precious powers?"
+    },
+    "sot_links": { "figures": ["Eldir"], "deities": ["deity_loki"], "themes": ["Inquiry", "The Banquet"] }
+  },
+  {
+    "stanza_id": "loka_02",
+    "original": "Of vápn sín dæma ok of vígrisni sína dýr regin; Ása ok Alfa, er hér inni eru, manngi er þér í orði vinr.",
+    "translations": {
+      "bellows": "Of their weapons they speak and their prowess in war, the sons of the glorious gods; of the Aesir and Elves who are here within, none has a friendly word for thee.",
+      "thorpe": "Of their weapons they talk, and of their war-deeds, the glorious gods. Of the Aesir and the Alfs, who are here within, no one has a friendly word for thee.",
+      "literal": "Of weapons theirs judge and of battle-fame theirs precious powers; Aesir and Elves, who here in are, no-one is to-you in word friend."
+    },
+    "sot_links": { "figures": ["Eldir"], "themes": ["Hostility"] }
+  },
+  {
+    "stanza_id": "loka_03",
+    "original": "Inn skal ek ganga Ægis hallir í, á þat sumbl at sjá; jöll ok áfu fæ ek Ása sonum, ok blanda ek þeim meini mjöð.",
+    "translations": {
+      "bellows": "In shall I go into Aegir's hall, for the feast I fain would see; bale and hatred I bring to the gods, and their mead with vice I mix.",
+      "thorpe": "In I will go into Ægir’s hall, to see the feast. Strife and hatred I will bring to the Aesir’s sons, and with their mead will mix malice.",
+      "literal": "In shall I go Aegir's halls in, on that feast to see; noise and insult get I to-Aesir's sons, and blend I to-them harm-mead."
+    },
+    "sot_links": { "figures": ["Aegir"], "deities": ["deity_loki"], "themes": ["The Intrusion"] }
+  },
+  {
+    "stanza_id": "loka_04",
+    "original": "Veiztu, ef þú inn gengr Ægis hallir í, á þat sumbl at sjá, hrópi ok rógi ef þú eys á ginnregin, á þér munu þau þerra þat.",
+    "translations": {
+      "bellows": "Know, if thou goest to Aegir's hall, the feast for to fain see, if with slander and spite thou sprayest the gods, on thee shall they wipe it off.",
+      "thorpe": "Knowest thou, if thou goest into Ægir’s hall, to see the feast, if with insults and ribaldry thou sprinklest the gods, they will wipe it off on thee.",
+      "literal": "Know-you, if you in go Aegir's halls in, on that feast to see, shout and slander if you pour on high-powers, on you will they dry that [wipe it off]."
+    }
+  },
+  {
+    "stanza_id": "loka_05",
+    "original": "Veiztu þat, Óðinn, ef vit tveir deilum hrópi ok rógi hér, at ek mun þér verða mál-snjallari, ef þú vilt við mik mæla?",
+    "translations": {
+      "bellows": "Knowest thou, Odin, if we two contend with spiteful words here, that I shall be found more fluent of speech, if thou wilt strive with me?",
+      "thorpe": "Knowest thou, Odin! if we two contend with ribald words, that I shall be more ready with my answers, if thou wilt speak with me?",
+      "literal": "Know-you that, Odin, if we two deal shout and slander here, that I will to-you become word-cleverer, if you will with me speak?"
+    },
+    "sot_links": { "deities": ["deity_odin", "deity_loki"], "themes": ["The Challenge"] }
+  },
+  {
+    "stanza_id": "loka_06",
+    "original": "Muntu þat muna, Óðinn, er vit í árdaga blöndum blóði saman? Ölvi deila léztu þér eigi mundu, nema vit værim báðir borit.",
+    "translations": {
+      "bellows": "Rememberest thou, Odin, in olden days that we both our blood have blended? Then didst thou swear no ale to quaff unless for us both it were brought.",
+      "thorpe": "Rememberest thou, Odin! when we in early days blended our blood together? Drink thou saidst thou wouldst not taste, unless it were for both of us presented.",
+      "literal": "Will-you that remember, Odin, when we in early-days blended blood together? Ale to-deal [share] said-you to-yourself not would, unless we were both [it] borne."
+    },
+    "sot_links": { "themes": ["Blood-Brotherhood"], "deities": ["deity_odin", "deity_loki"] }
+  },
+  {
+    "stanza_id": "loka_07",
+    "original": "Rístu þá, Víðarr, ok lát ulfs föður sitja sumbli at, sízt oss Loki hrópi í Ægis höll.",
+    "translations": {
+      "bellows": "Rise up then, Vidar, and let the wolf's father sit at the feast; lest Loki speak words of shame to us here in Aegir's hall.",
+      "thorpe": "Rise then, Vidar! and let the wolf’s father sit at the feast, that Loki may not utter words of insult to us in Ægir’s hall.",
+      "literal": "Rise then, Vidar, and let wolf's father [Loki] sit feast at, since us Loki shouts in Aegir's hall."
+    },
+    "sot_links": { "deities": ["deity_vidar", "deity_odin", "deity_loki"], "figures": ["Aegir"] }
+  },
+  {
+    "stanza_id": "loka_08",
+    "original": "Heilir Æsir, heilar Ásynjur ok öll ginn-heilög regin, nema sá einn Áss, er innar sitr, Bragi, bekkjum á.",
+    "translations": {
+      "bellows": "Hail to the Aesir! Hail to the Asynjur! Hail to all the holy gods! save only the god who sits within, Bragi, there on the bench.",
+      "thorpe": "Hail to the Aesir! Hail to the Asynjur! and all the holy gods! save that one Ás, who sits within, Bragi, on the bench.",
+      "literal": "Hail Aesir, hail Asynjur and all high-holy powers, except that one God, who inner sits, Bragi, benches on."
+    },
+    "sot_links": { "deities": ["deity_bragi", "deity_loki"], "themes": ["The Insult"] }
+  },
+  {
+    "stanza_id": "loka_09",
+    "original": "Hest ok hring gef ek þér af hoddum mínum, ok bót muntu Braga mæla, sízt þú vilt við regin reiðask; gerska-at þú, Loki, goðum.",
+    "translations": {
+      "bellows": "A horse and a ring from my hoard I give thee, and a better reward shalt thou find from Bragi, if thou wilt not be wroth with the gods; make not the gods angry, Loki.",
+      "thorpe": "A horse and a ring I will give thee from my hoard, and with a gift Bragi will atone, if thou wilt not be hostile to the gods. Anger not the gods against thee, Loki!",
+      "literal": "Horse and ring give I you from hoards mine, and compensation will-you Bragi speak, since you will against powers be-angry; make-not-angry you, Loki, gods."
+    },
+    "sot_links": { "deities": ["deity_bragi", "deity_loki"], "themes": ["Attempted Bribery"] }
+  },
+  {
+    "stanza_id": "loka_10",
+    "original": "Hests ok hrings muntu æ vana vera, Bragi, beggja þinna; Ása ok Alfa, er hér inni eru, þú ert við víg varastr ok skjarrastr við skot.",
+    "translations": {
+      "bellows": "Horse and ring shalt thou never have, Bragi, though both are thine; of the Aesir and Elves who are here within, thou art most fearful of fight, and shiest of shot.",
+      "thorpe": "Of horse and rings thou wilt ever be destitute, Bragi! Of the Aesir and the Alfs, who are here within, thou art the most afraid of war, and shiest of shot.",
+      "literal": "Horse and ring will-you ever lacking be, Bragi, both yours; Aesir and Elves, who here in are, you are with battle most-wary and most-shy with shot."
+    },
+    "sot_links": { "deities": ["deity_bragi"], "themes": ["Accusation of Cowardice"] }
+  },
+  {
+    "stanza_id": "loka_11",
+    "original": "Veit ek, ef ek úti væra, svá sem ek inni em, í Ægis höll, höfuð þitt bæra ek í hendi mér; þat ek þér firi lúgi legg.",
+    "translations": {
+      "bellows": "I know if I were without as I am within, here in Aegir's hall, thy head in my hand I would bear, and for thy lie would pay thee.",
+      "thorpe": "I know, if I were without, as I am within Ægir’s hall, thy head I would bear in my hand; that should be thy reward for thy lying.",
+      "literal": "Know I, if I out were, so as I in am, in Aegir's hall, head your bore I in hand mine; that I to-you for lie lay."
+    }
+  },
+  {
+    "stanza_id": "loka_12",
+    "original": "Snjallr ertu í sessi, skreyta muntu-at, Bragi, bekkskraut; út þú gakk, ef þú reiðr sér, vaskr maðr vegr-at sér.",
+    "translations": {
+      "bellows": "Brave art thou in thy seat, but little thou'lt do, Bragi, the bench's pride; go forth and fight if angry thou art, for the brave man thinks not of fear.",
+      "thorpe": "Sitting thou art brave, Bragi! but thou shalt not do so, thou bench-ornament! Go out and fight, if thou art angry; a brave man sits not considering.",
+      "literal": "Brave are-you in seat, adorn will-you-not, Bragi, bench-ornament; out you go, if you angry are, brave man fights-not [for] himself [meaning: brave men don't just sit there].'"
+    }
+  },
+  {
+    "stanza_id": "loka_13",
+    "original": "Bið ek þik, Bragi, barna-sifjum ok öllum ósk-mögum, at þú Loka kveðir-at löst-stafi í Ægis höll.",
+    "translations": {
+      "bellows": "I pray thee, Bragi, for our children's sake, and the sake of all our sons, that thou Loki speak not words of shame here in Aegir's hall.",
+      "thorpe": "I pray thee, Bragi! by our children, and all our adopted sons, that thou to Loki utter not words of insult in Ægir’s hall.",
+      "literal": "Ask I you, Bragi, by-children-kin and all wish-sons, that you Loki speak-not fault-staves in Aegir's hall."
+    },
+    "sot_links": { "deities": ["deity_idunn", "deity_bragi", "deity_loki"] }
+  },
+  {
+    "stanza_id": "loka_14",
+    "original": "Þegi þú, Iðunn, þik kveð ek allra kvenna ver-gjarnasta vera, sízt þú arma þína lagðir ítr-þvegna um þinn bróður-bana.",
+    "translations": {
+      "bellows": "Be silent, Idunn! of all women I say thou art most lustful; since thy arms so bright were wound about thy brother's slayer.",
+      "thorpe": "Be silent, Idunn! of all women I say thou art the most wanton; since thou thy arms, carefully washed, didst throw around thy brother’s slayer.",
+      "literal": "Silent you, Idunn, you say I of-all women man-eagerest [most wanton] to-be, since you arms yours laid bright-washed around your brother's-slayer."
+    },
+    "sot_links": { "deities": ["deity_idunn"], "themes": ["Accusation of Wantonness"] }
+  },
+  {
+    "stanza_id": "loka_15",
+    "original": "Loka ek kveð-at löst-stafi mæla í Ægis höll; Braga ek kyrri öl-reifan, vil-at ek, at it vreiðir vegizt.",
+    "translations": {
+      "bellows": "I speak not words of shame to Loki in Aegir's hall; Bragi I quiet, who is merry with ale; I would not that you two should fight.",
+      "thorpe": "To Loki I will not utter words of insult in Ægir’s hall. Bragi I will quiet, who is over-excited with ale. I would not that ye two should fight.",
+      "literal": "Loki I speak-not fault-staves in Aegir's hall; Bragi I quiet ale-cheerful, will-not I, that you-two angry fight."
+    }
+  },
+  {
+    "stanza_id": "loka_16",
+    "original": "Þegi þú, Gefjun, því at ek mun þat nefna, er þik glapði at geði: sveinn inn hvíti, er þér sigli gaf, ok þú lagðir lær yfir.",
+    "translations": {
+      "bellows": "Be silent, Gefjun! for now I shall tell who led thee to evil; the youth so bright gave thee a gift, and about him thy legs were wound.",
+      "thorpe": "Be silent, Gefjun! for I will now mention how that fair youth lured thee to his mind. He gave thee a necklace, and thou didst throw thy legs around him.",
+      "literal": "Silent you, Gefjun, because that I will that name, what you lured at spirit: boy the white, who to-you jewel gave, and you laid thigh over."
+    },
+    "sot_links": { "deities": ["deity_gefjun"], "themes": ["Accusation of Wantonness"] }
+  },
+  {
+    "stanza_id": "loka_17",
+    "original": "Villr ertu, Loki, ok viti skertr, er þú Gefjun gørir þér vreiða; því at jarðar örlög hygg ek, at hón öll viti jafngörla sem ek.",
+    "translations": {
+      "bellows": "Mad art thou, Loki, and little of wit, to make Gefjun angry; for the fate of all she knows, I ween, even as well as I.",
+      "thorpe": "Mad thou art, Loki! and of wit bereft, when thou makest Gefjun angry; for the destiny of all the world I think she knows as well as I.",
+      "literal": "Wild [mad] are-you, Loki, and wit sheared [bereft], when you Gefjun make for-yourself angry; because that earth's fate think I, that she all knows equally-clearly as I."
+    },
+    "sot_links": { "deities": ["deity_odin", "deity_gefjun"] }
+  },
+  {
+    "stanza_id": "loka_18",
+    "original": "Þegi þú, Óðinn, þú kunnir aldregi deila víg með verum; oft þú gaft, þeim er þú gefa skyldir-at, inum slævurum sigr.",
+    "translations": {
+      "bellows": "Be silent, Odin! thou never couldst guide the fate of men in the fight; oft hast thou given to him who deserved it not, to the less brave, victory in battle.",
+      "thorpe": "Be silent, Odin! thou couldst never distribute victory among men. Oft hast thou given to those to whom thou oughtest not, to the more cowardly, victory.",
+      "literal": "Silent you, Odin, you could never deal battle among men; often you gave, to-those who you give should-not, the sluggish victory."
+    },
+    "sot_links": { "deities": ["deity_odin"], "themes": ["Unjust Victory"] }
+  },
+  {
+    "stanza_id": "loka_19",
+    "original": "Veiztu, ef ek gaf, þeim er ek gefa skylda-at, inum slævurum sigr: átta vetr vartu fyr jörð neðan, kýr mólkandi ok kona; ok hefir þú þar börn borit, ok hugða ek þat args aðal.",
+    "translations": {
+      "bellows": "Knowest thou, if I gave to him who deserved it not, to the less brave, victory? Eight winters thou wast 'neath the earth, a cow-milker and a woman; and there didst thou bear children, and that I thought the work of a pervert [argr].",
+      "thorpe": "Knowest thou, if I gave to those to whom I ought not, victory? Eight winters thou wast under the earth, a cow-milker and a woman; and there didst thou bear children, and that I thought the work of a pervert [argr].",
+      "literal": "Know-you, if I gave, to-those who I give should-not, the sluggish victory: eight winters were-you before [under] earth beneath, cow milking and woman; and have you there children borne, and thought I that of-pervert [argr] nature."
+    },
+    "sot_links": { "deities": ["deity_odin", "deity_loki"], "themes": ["Argr", "Gender-Bending"] }
+  },
+  {
+    "stanza_id": "loka_20",
+    "original": "En þig síðu skóku Sámseyju í, ok draptu á vétt sem völur; vitka líki fórtu ver-þjóð yfir, ok hugða ek þat args aðal.",
+    "translations": {
+      "bellows": "And they say that thou on Samsey once didst work with charms like a witch [völva]; in a sorcerer's guise didst thou travel among men, and that I thought the work of a pervert [argr].",
+      "thorpe": "But they say that thou in Samsey didst beat on the drum like a witch [völva]; in a sorcerer's guise didst thou wander among men, and that I thought the work of a pervert [argr].",
+      "literal": "But you side-shook [practiced seidr] Samsey in, and struck on lid [drum] as seeresses [volur]; wizard's likeness went-you man-folk over, and thought I that of-pervert [argr] nature."
+    },
+    "sot_links": { "deities": ["deity_odin"], "themes": ["Seidr", "Argr"] }
+  },
+  {
+    "stanza_id": "loka_21",
+    "original": "Frigg kveð ek Fjörgyns dóttur, at hón sé ver-gjörnust vera, sízt þú, Vei ok Vilja, lézt þér ver í faðm taka, Óðins konu.",
+    "translations": {
+      "bellows": "Be silent, Frigg! thou art Fjorgyn's daughter, and ever hast lusted for men; for Vili and Ve, the brothers of Vithrir, both in thy arms have lain.",
+      "thorpe": "Be silent, Frigg! thou art Fjörgynn's daughter, and hast ever been most wanton; since Ve and Vili, it is said, thou, Odin’s wife, didst into thy embrace take.",
+      "literal": "Frigg call I Fjorgyn's daughter, that she be man-eagerest [most wanton] being, since you, Vei and Vilja, let you man in embrace take, Odin's woman."
+    },
+    "sot_links": { "deities": ["deity_frigg", "deity_odin", "deity_villi", "deity_ve"], "figures": ["Fjorgynn"], "themes": ["Infidelity"] }
+  },
+  {
+    "stanza_id": "loka_22",
+    "original": "Veiztu, ef ek inni ætta í Ægis höllu Baldri líkan bur, út þú né kvæmir frá Ása sonum, vreiðr værir þú þá vegin.",
+    "translations": {
+      "bellows": "If a son I had here in Aegir's hall like Baldr who lately died, thou shouldst never come forth from the Aesir's folk till thy fierceness in fight were tried.",
+      "thorpe": "Knowest thou, if I had in Ægir’s hall a son like Baldr, out thou shouldst not go from the Aesir’s sons: thou shouldst be slain in thy anger.",
+      "literal": "Know-you, if I in-side had in Aegir's hall Baldr-like son, out you never come from Aesir's sons, angry were-you then slain."
+    },
+    "sot_links": { "deities": ["deity_frigg", "deity_baldr", "deity_loki"], "themes": ["Grief", "Protection"] }
+  },
+  {
+    "stanza_id": "loka_23",
+    "original": "Senn viltu, Frigg, at ek fleira telja mína mælstafi; því ræð ek, at þú Baldrs hrópir-at, sízt þú veizt, at ek því veld, at þú ríðat meir Baldr til sala.",
+    "translations": {
+      "bellows": "Shall I tell thee more, Frigg, of my wicked words? At my will shall it be; for I did the deed that Baldr no more thou shalt see riding home to the hall.",
+      "thorpe": "But wilt thou, Frigg! that I yet more mention of my evil words? It was my counsel that Baldr no more thou shalt see ride to the hall.",
+      "literal": "Soon will-you, Frigg, that I more tell my speech-staves; therefore rule I [I ensure], that you Baldr-shout-not [don't complain about Baldr], since you know, that I that cause, that you ride-not more Baldr to halls."
+    },
+    "sot_links": { "deities": ["deity_loki", "deity_baldr"], "themes": ["Confession", "The Death of Baldr"] }
+  },
+  {
+    "stanza_id": "loka_24",
+    "original": "Feikn ertu, Loki, er þú fræja ræðr yðra illa stafi; Freyja ek kveð-at löst-stafi mæla í Ægis höll.",
+    "translations": {
+      "bellows": "Mad art thou, Loki, that here thou shalt tell the Aesir of all thy shame; for the fate of all Freyja knows, I ween, even as well as I.",
+      "thorpe": "Thou art frantic, Loki! in mentioning your foul deeds. Freyja I believe to be of wit bereft, since she makes thee angry.",
+      "literal": "Frightful are-you, Loki, when you news rule your ill staves [evil words]; Freyja I speak-not fault-staves speak in Aegir's hall."
+    },
+    "sot_links": { "deities": ["deity_freyja", "deity_loki"] }
+  },
+  {
+    "stanza_id": "loka_25",
+    "original": "Þegi þú, Freyja, þik kveð ek fælna vera ok meini blandaða; Ása ok Alfa, er hér inni eru, hverr hefir þinn hór verið.",
+    "translations": {
+      "bellows": "Be silent, Freyja! for fully I know thee, sinless thou art not thyself; of the Aesir and Elves who are here within, each has as lover been thine.",
+      "thorpe": "Be silent, Freyja! I know thee full well; thou art not free from vices. Of the Aesir and the Alfs, who are here within, every one has been thy paramour.",
+      "literal": "Silent you, Freyja, you call I frantic [lustful] to-be and harm-blended; Aesir and Elves, who here in are, each has your lover been."
+    },
+    "sot_links": { "deities": ["deity_freyja"], "themes": ["Promiscuity"] }
+  },
+  {
+    "stanza_id": "loka_26",
+    "original": "Fals er þér á tungu, hygg ek, at þér verði-at gott; vreiðir eru þér Æsir ok Ásynjur, hryggr muntu heim fara.",
+    "translations": {
+      "bellows": "False is thy tongue, and soon shalt thou find that it works thee weary woe; the Aesir are wroth, and the Asynjur all, and in grief shalt thou homeward fare.",
+      "thorpe": "False is thy tongue; I think that hereafter it will perform no good for thee. Wroth with thee are the Aesir and the Asynjur; home thou shalt go sorrowing.",
+      "literal": "Falsehood is to-you on tongue, think I, that to-you becomes-not good; angry are to-you Aesir and Asynjur, wretched will-you home go."
+    }
+  },
+  {
+    "stanza_id": "loka_27",
+    "original": "Þegi þú, Freyja, þú ert fordæða ok meini blönduð, sízt þig at bræðr þínum stóðu blíð regin ok þú munt þá, Freyja, frussa.",
+    "translations": {
+      "bellows": "Be silent, Freyja! thou witch [fordæða] art, and evil is ever thy mind; for with thy brother the gods all caught thee once, and then, Freyja, thou didst fart.",
+      "thorpe": "Be silent, Freyja! thou art a sorceress, and with much evil blended; since against thy brother the beneficent powers found thee, and then, Freyja! thou didst break wind.",
+      "literal": "Silent you, Freyja, you are witch [fordæða] and harm-blended, since you with brother your stood kind powers and you will then, Freyja, [fart/sputter].'"
+    },
+    "sot_links": { "deities": ["deity_freyja", "deity_freyr"], "themes": ["Incest"] }
+  },
+  {
+    "stanza_id": "loka_28",
+    "original": "Lítit er þat, þótt mær fái sér ver eða hór; hitt er undr, er Áss ragr kemr hér inn, er börn hefir borit.",
+    "translations": {
+      "bellows": "Small is the sin if a woman seeks a lover or husband to have; but a wonder it is that a god [ragr] should come who has borne him children here.",
+      "thorpe": "It is a small matter if a maiden gets herself a husband or a paramour; but it is a wonder that a wretched [ragr] Ás should here enter, who has children borne.",
+      "literal": "Little is that, though maid gets herself man or lover; this is wonder, when god unmanly [ragr] comes here in, who children has borne."
+    },
+    "sot_links": { "deities": ["deity_njord", "deity_loki"], "themes": ["Argr", "Parentage"] }
+  },
+  {
+    "stanza_id": "loka_29",
+    "original": "Þegi þú, Njörðr, þú vart austr heðan gísl um seldr goðum; Hymis meyjar höfðu þik at hland-trogi ok þér í munn migu.",
+    "translations": {
+      "bellows": "Be silent, Njord! from the east wast thou sent as a hostage to the gods; and the daughters of Hymir as a chamber-pot used thee, and into thy mouth they pissed.",
+      "thorpe": "Be silent, Njord! thou wast from hence east-ward sent as a hostage to the gods. Hymir’s daughters had thee for a urinal, and in thy mouth made water.",
+      "literal": "Silent you, Njord, you were east from-here hostage about sold [given] to-gods; Hymir's maids had you for urine-trough and to-you in mouth urinated."
+    },
+    "sot_links": { "deities": ["deity_njord"], "figures": ["Hymir"], "themes": ["Hostage Exchange", "Humiliation"] }
+  },
+  {
+    "stanza_id": "loka_30",
+    "original": "Sú er bót, er ek var austr heðan gísl um seldr goðum, at ek gat mög þann, er mangi hatar ok þykkir sá Ása prýði.",
+    "translations": {
+      "bellows": "This help I had when from the east I was sent as a hostage to the gods: I begat a son who is hated of none, and is thought the pride of the gods.",
+      "thorpe": "This is my comfort, as I was from hence east-ward sent as a hostage to the gods, that I begat a son, whom no one hates, and who is thought the prince of the Aesir.",
+      "literal": "That is compensation, when I was east from-here hostage about sold to-gods, that I got son that, whom no-one hates and seems that Aesir's pride."
+    },
+    "sot_links": { "deities": ["deity_njord", "deity_freyr"] }
+  },
+  {
+    "stanza_id": "loka_31",
+    "original": "Hættu nú, Njörðr, haf þú í hófi þik, ek mun því lengr leyna-at; við systur þinni gaztu slíkan mög, ok er-at þó vánu verra.",
+    "translations": {
+      "bellows": "Stop now, Njord! in bounds hold thyself, no longer the secret I'll hide; with thy sister a son so mighty thou hadst, and no worse than one would ween.",
+      "thorpe": "Cease now, Njord! in bounds contain thyself; I will no longer keep it secret: it was with thy sister thou hadst such a son, although he is not worse than was to be expected.",
+      "literal": "Stop now, Njord, have you in moderation yourself, I will that longer hide-not; with sister yours got-you such son, and is-not though than-expectation worse."
+    },
+    "sot_links": { "deities": ["deity_njord", "deity_freyr"], "themes": ["Incest"] }
+  },
+  {
+    "stanza_id": "loka_32",
+    "original": "Auðigr ertu, Njörðr, ok áttu vé mörg, en þú hefir-at í Ægis höllu Baldri líkan bur, ok muntu æ vana vera.",
+    "translations": {
+      "bellows": "Rich art thou, Njord, and many a shrine thou hast, but thou hast not in Aegir's hall a son like Baldr, and ever shalt thou lack him.",
+      "thorpe": "Rich thou art, Njord! and many a temple hast; but thou hast not in Ægir’s hall a son like Baldr, and shalt ever be destitute of him.",
+      "literal": "Rich are-you, Njord, and have-you shrines many, but you have-not in Aegir's hall Baldr-like son, and will-you ever lacking be."
+    }
+  },
+  {
+    "stanza_id": "loka_33",
+    "original": "Þegi þú, Týr, þú kunnir aldregi semsa tveim um dæma; hægri hönd ek mun hinnar geta, er þér Fenrisúlfr sleit.",
+    "translations": {
+      "bellows": "Be silent, Tyr! for a right hand never couldst thou guide for two; thy right hand I shall name, that which Fenris-wolf tore from thee once.",
+      "thorpe": "Be silent, Tyr! thou couldst never settle a foot between two. Of thy right hand I will mention, which Fenrir from thee tore.",
+      "literal": "Silent you, Tyr, you could never reconcile two about judging; right hand I will that get [mention], which to-you Fenris-wolf tore-off."
+    },
+    "sot_links": { "deities": ["deity_tyr"], "beasts": ["beast_fenrir"], "themes": ["Maiming"] }
+  },
+  {
+    "stanza_id": "loka_34",
+    "original": "Handar em ek vanr, en þú Hróðvitnis, böl er beggja þrá; úlfrinn ok eigi hefir-at gott, er í böndum bíðr ragnarök.",
+    "translations": {
+      "bellows": "My hand I lack, but Hrodvitnir's son thou lackest, and bale to us both is the loss; the wolf is in chains, and in grief he bides the day when the gods shall go.",
+      "thorpe": "I of a hand am wanting, but thou of the wolf Hródvitnir; to us both the loss is cause of longing. The wolf has not fared well, who in bonds bides the gods’ destruction.",
+      "literal": "Hand am I lacking, but you Hrodvitnir [the wolf], bale is of-both longing; wolf-the also not has good, who in bonds bides Ragnarok."
+    },
+    "sot_links": { "deities": ["deity_tyr"], "beasts": ["beast_fenrir"], "themes": ["Ragnarok"] }
+  },
+  {
+    "stanza_id": "loka_35",
+    "original": "Þegi þú, Týr, þat varð þinni konu, at hón átti mög við mér; alin né pening hafðu þess aldregi, vanréttis, vesall.",
+    "translations": {
+      "bellows": "Be silent, Tyr! for thy wife a son by me did happen to have; not a penny of pay or a cubit of cloth hadst thou for the wrong, thou wretch.",
+      "thorpe": "Be silent, Tyr! it happened to thy wife to have a son by me; nor an ell nor a penny didst thou ever receive in compensation for that injury, thou wretch!",
+      "literal": "Silent you, Tyr, that happened to-your wife, that she had son with me; cubit nor penny had-you of-that never, of-wrong-done, wretched."
+    },
+    "sot_links": { "deities": ["deity_tyr", "deity_loki"], "themes": ["Infidelity", "Wergild Failure"] }
+  },
+  {
+    "stanza_id": "loka_36",
+    "original": "Freyr ek kveð-at löst-stafi mæla í Ægis höll; valla mundu þér Æsir ok Ásynjur vreiðir vera.",
+    "translations": {
+      "bellows": "I speak not words of shame to Freyr in Aegir's hall; surely the Aesir and Asynjur would not be wroth with thee.",
+      "thorpe": "To Freyr I will not utter words of insult in Ægir’s hall. Scarcely would the Aesir and the Asynjur be wroth with thee.",
+      "literal": "Freyr I speak-not fault-staves in Aegir's hall; scarcely would to-you Aesir and Asynjur angry be."
+    }
+  },
+  {
+    "stanza_id": "loka_37",
+    "original": "Þegi þú, Freyr, þú gaft Gýmis meyju gull ok seldir þitt sverð; en er Múspells synir ríða Myrkvið yfir, veizt-at þú, vesall, hvé þú vegr.",
+    "translations": {
+      "bellows": "Be silent, Freyr! for thy sword thou gavest for Gymir's daughter to have; but when Muspell's sons o'er Myrkwood ride, thou shalt lack a weapon, thou wretch.",
+      "thorpe": "Be silent, Freyr! thou gavest Gymir’s daughter gold, and didst sell thy sword; but when Muspell’s sons through Myrkvið ride, thou shalt not know, wretch! how thou shalt fight.",
+      "literal": "Silent you, Freyr, you gave Gymir's maid gold and sold your sword; but when Muspell's sons ride Mirkwood over, know-not you, wretched, how you fight."
+    },
+    "sot_links": { "deities": ["deity_freyr"], "figures": ["Gerdr"], "locations": ["Myrkvidr"], "themes": ["Ragnarok", "The Lost Sword"] }
+  },
+  {
+    "stanza_id": "loka_38",
+    "original": "Mantu þat, Loki, er þú meinstafi ræðr yðrum illa stafi? Freyr ek kveð-at löst-stafi mæla í Ægis höll.",
+    "translations": {
+      "bellows": "Rememberest thou, Loki, when thou didst speak words of shame to the Aesir here? Freyr I speak not words of shame to in Aegir's hall.",
+      "thorpe": "Rememberest thou, Loki! when thou to the Aesir didst utter foul words? Freyr I believe to be of wit bereft, since he makes thee angry.",
+      "literal": "Remember-you that, Loki, when you harm-staves rule your ill staves? Freyr I speak-not fault-staves speak in Aegir's hall."
+    }
+  },
+  {
+    "stanza_id": "loka_39",
+    "original": "Þegi þú, Freyr, þú vart í Vanaheimi gísl um seldr goðum; en er þú vart í skógum sleginn, þá varst-at þú Baldri líkr.",
+    "translations": {
+      "bellows": "Be silent, Freyr! for in Vanaheim wast thou sent as a hostage to the gods; and when thou wast beaten in the woods, then wast thou not like Baldr.",
+      "thorpe": "Be silent, Freyr! thou wast in Vanaheim as a hostage given to the gods; but when thou wast in the woods beaten, then wast thou not like Baldr.",
+      "literal": "Silent you, Freyr, you were in Vanaheim hostage about sold to-gods; but when you were in woods beaten, then were-not you Baldr like."
+    },
+    "sot_links": { "deities": ["deity_freyr"], "locations": ["Vanaheimr"] }
+  },
+  {
+    "stanza_id": "loka_40",
+    "original": "Ef ek átta eign, sem Freyr hefir, ok svá sæligh sali, ek munda-at láta þenna löst-stafi mæla í Ægis höll.",
+    "translations": {
+      "bellows": "If I had a heritage such as Freyr has, and so fair a hall, I would not let this speaker of shame speak words of shame in Aegir's hall.",
+      "thorpe": "If I had a heritage like Freyr, and so fair a hall, I would not let this utterer of foul words talk in Ægir’s hall.",
+      "literal": "If I had property, as Freyr has, and so happy halls, I would-not let this fault-staves speak in Aegir's hall."
+    },
+    "sot_links": { "figures": ["Byggvir"] }
+  },
+  {
+    "stanza_id": "loka_41",
+    "original": "Munaðu, Loki, er þú mæltir meinstafi yðrum illa stafi? Freyr ek kveð-at löst-stafi mæla í Ægis höll; Byggvir mælti, er hann í eyra heyrði Braga ok Loka deila.",
+    "translations": {
+      "bellows": "Rememberest thou, Loki, when thou didst speak words of shame to the Aesir here? Freyr I speak not words of shame to in Aegir's hall; Byggvir spoke, when he heard Bragi and Loki contending.",
+      "thorpe": "Rememberest thou, Loki! when thou to the Aesir didst utter foul words? Freyr I believe to be of wit bereft, since he makes thee angry. Byggvir then spake, as he in his ear heard Bragi and Loki contending.",
+      "literal": "Remember-you, Loki, when you harm-staves rule your ill staves? Freyr I speak-not fault-staves speak in Aegir's hall; Byggvir spoke, when he in ear heard Bragi and Loki deal [dispute].'"
+    },
+    "sot_links": { "figures": ["Byggvir"], "deities": ["deity_bragi", "deity_loki", "deity_freyr"], "themes": ["The Intervention"] }
+  },
+  {
+    "stanza_id": "loka_42",
+    "original": "Veiztu, ef ek ætta öðli, sem Freyr hefir, ok svá sæligh sali, korn-mali mýra ek munda-at láta þenna löst-stafi mæla í Ægis höll.",
+    "translations": {
+      "bellows": "Knowest thou, if I had a heritage like Freyr's, and so fair a hall, I would grind thee to dust, thou speaker of shame, and speak words of shame in Aegir's hall.",
+      "thorpe": "Knowest thou, if I had a heritage like Freyr, and so fair a hall, I would crush this speaker of foul words, and speak words of shame in Ægir’s hall.",
+      "literal": "Know-you, if I had heritage, as Freyr has, and so happy halls, corn-grinder of-moors [Byggvir] I would-not let this fault-staves speak in Aegir's hall."
+    },
+    "sot_links": { "figures": ["Byggvir"] }
+  },
+  {
+    "stanza_id": "loka_43",
+    "original": "Hvat er þat it litla, er ek þat löggja sé ok snapvíst snapa? At eyru Freys muntu æ vera ok undir kvernum klaka.",
+    "translations": {
+      "bellows": "What is that little thing that I see there, cringing and sniffing about? At Freyr's ears shalt thou ever be, and tattle beneath the millstone.",
+      "thorpe": "What is that little being that I see there, fawning and snapping? At Freyr’s ears thou wilt ever be, and under the millstone chatter.",
+      "literal": "What is that the little, that I that wagging see and snap-wise snap? At ears of-Freyr will-you ever be and under millstones chatter."
+    },
+    "sot_links": { "figures": ["Byggvir"], "themes": ["Insult to Servants"] }
+  },
+  {
+    "stanza_id": "loka_44",
+    "original": "Byggvir ek heiti, en mik bráðan kveða goð öll ok gumnar; hróðugr ek em þess, er hér drekka allir sínn öl-mál saman.",
+    "translations": {
+      "bellows": "Byggvir I am named, and nimble I am called by gods and men alike; proud am I of this, that the sons of the gods all drink their ale together.",
+      "thorpe": "Byggvir I am named, and nimble I am called by gods and men alike. Proud I am of this, that the Aesir’s sons all drink their ale together.",
+      "literal": "Byggvir I named-am, and me nimble call gods all and men; proud I am of-that, that here drink all their ale-talk together."
+    },
+    "sot_links": { "figures": ["Byggvir"] }
+  },
+  {
+    "stanza_id": "loka_45",
+    "original": "Þegi þú, Byggvir, þú kunnir aldregi deila mat með mönnum; ok þig í fleti fela kveða, þá er vágu verar.",
+    "translations": {
+      "bellows": "Be silent, Byggvir! thou never couldst guide the food for men in the fight; and hidden in the straw didst thou lie, they say, when men were at the battle.",
+      "thorpe": "Be silent, Byggvir! thou never couldst distribute food among men. In the straw of the floor they say thou didst hide thyself, when men went to battle.",
+      "literal": "Silent you, Byggvir, you could never deal meat among men; and you in floor hide say [they], when fought men."
+    },
+    "sot_links": { "figures": ["Byggvir"], "themes": ["Accusation of Cowardice"] }
+  },
+  {
+    "stanza_id": "loka_46",
+    "original": "Þegi þú, Heimdallr, þér var í árdaga þat it ljóta líf of lagit: aurgu baki þú skalt æ vera ok vaka vörðr goða.",
+    "translations": {
+      "bellows": "Be silent, Heimdall! for thee in olden days was an evil fate decreed; with a stiff back thou shalt ever be, and wake as the watchman of the gods.",
+      "thorpe": "Be silent, Heimdall! for thee in early days an evil life was fixed. With a wet back thou must ever be, and wake as the gods’ watchman.",
+      "literal": "Silent you, Heimdallr, to-you was in early-days that the ugly life of laid [decreed]: muddy back you shall ever have and wake warder of-gods."
+    },
+    "sot_links": { "deities": ["deity_heimdallr"], "themes": ["Hardship of Duty"] }
+  },
+  {
+    "stanza_id": "loka_47",
+    "original": "Ölr ertu, Loki, svá at þú ert örviti, hví né lezk-at-tu, Loki? Því at ofdrykkja veldr alda hveim, er sína mælti-at mælgi.",
+    "translations": {
+      "bellows": "Drunk art thou, Loki, and mad thou art, why wilt thou not leave off, Loki? For over-drinking leads every man to speak what he should not speak.",
+      "thorpe": "Drunk thou art, Loki! thou hast lost thy wits. Why dost thou not leave off, Loki? For over-drinking leads every man to speak what he should not speak.",
+      "literal": "Drunk are-you, Loki, so that you are witless, why never leave-off-you, Loki? Because that over-drinking causes of-men each, that his spoke-not speech [speaks what he shouldn't].'"
+    },
+    "sot_links": { "deities": ["deity_heimdallr", "deity_loki"], "themes": ["Sobriety", "Caution"] }
+  },
+  {
+    "stanza_id": "loka_48",
+    "original": "Þegi þú, Skaði, þú vart í skógum slegin ok áttu-at föður þinn; nú muntu æ vana vera, sízt þú lézt þér ver í faðm taka, Óðins konu.",
+    "translations": {
+      "bellows": "Be silent, Skadi! for in the woods wast thou beaten, and thy father thou shalt not have; and ever shalt thou lack him, since thou didst let Odin's wife in thy arms be taken.",
+      "thorpe": "Be silent, Skaði! thou wast in the woods beaten, and thy father thou shalt not have. Ever thou shalt lack him, since thou didst let Odin’s wife into thy embrace take.",
+      "literal": "Silent you, Skadi, you were in woods beaten and had-not father your; now will-you ever lacking be, since you let you man in embrace take, Odin's woman [Frigg].'"
+    },
+    "sot_links": { "deities": ["deity_skadi", "deity_odin", "deity_frigg"], "themes": ["Infidelity", "Loss"] }
+  },
+  {
+    "stanza_id": "loka_49",
+    "original": "Léttari muntu í máli, ef þú á lopt berr; en þó muntu æ vana vera, sízt þú lézt þér ver í faðm taka, Óðins konu.",
+    "translations": {
+      "bellows": "Lighter of speech shalt thou be if thou goest forth; but ever shalt thou lack him, since thou didst let Odin's wife in thy arms be taken.",
+      "thorpe": "Lighter thou wilt be in speech, if thou goest forth; but ever thou shalt lack him, since thou didst let Odin’s wife into thy embrace take.",
+      "literal": "Lighter will-you be in speech, if you in air bear [go forth]; but though will-you ever lacking be, since you let you man in embrace take, Odin's woman."
+    }
+  },
+  {
+    "stanza_id": "loka_50",
+    "original": "Veiztu, ef þú á lopt berr, hvat ek þér mæla mun: á því krossi, er ek þér kveða mun, þú skalt æ vera.",
+    "translations": {
+      "bellows": "Know, if thou goest forth, what I shall tell thee: on the cross that I shall name for thee, there shalt thou ever be.",
+      "thorpe": "Knowest thou, if thou goest forth, what I will to thee say? On that cross which I will mention to thee, thou shalt ever be.",
+      "literal": "Know-you, if you in air bear, what I to-you speak will: on that cross [frame], which I to-you say will, you shall ever be."
+    },
+    "sot_links": { "themes": ["Imprisonment"] }
+  },
+  {
+    "stanza_id": "loka_51",
+    "original": "Fyrir því ek þér mæla mun, sízt þú lézt þér ver í faðm taka, Óðins konu.",
+    "translations": {
+      "bellows": "Therefore I shall tell thee, since thou didst let Odin's wife in thy arms be taken.",
+      "thorpe": "Therefore I will to thee say, since thou didst let Odin’s wife into thy embrace take.",
+      "literal": "Because of-that I to-you speak will, since you let you man in embrace take, Odin's woman."
+    }
+  },
+  {
+    "stanza_id": "loka_52",
+    "original": "Veiztu, ef þú mæla muntu, hvat ek þér svara mun: þú vart fyrri mér á véum ok vildir mik vega.",
+    "translations": {
+      "bellows": "Know, if thou wilt speak, what I shall answer thee: thou wast first with me at the shrines and wouldst have killed me.",
+      "thorpe": "Knowest thou, if thou wilt speak, what I will answer thee? Thou wast first with me at the temples, and wouldst have slain me.",
+      "literal": "Know-you, if you speak will, what I to-you answer will: you were earlier [before] me at shrines and would me slay."
+    },
+    "sot_links": { "deities": ["deity_skadi", "deity_loki"], "themes": ["Old Grudges"] }
+  },
+  {
+    "stanza_id": "loka_53",
+    "original": "Öl muntu mæla, ef þú á Ægis bekki sitr ok vilt við mik mæla.",
+    "translations": {
+      "bellows": "Ale shalt thou speak, if thou sittest on Aegir's benches and wilt speak with me.",
+      "thorpe": "Ale thou wilt speak, if thou on Ægir’s benches sittest, and wilt with me speak.",
+      "literal": "Ale will-you speak, if you on Aegir's benches sit and will with me speak."
+    }
+  },
+  {
+    "stanza_id": "loka_54",
+    "original": "Veiztu, ef þú á Ægis bekki sitr ok vilt við mik mæla, hvat ek þér svara mun: þú vart fyrri mér á véum ok vildir mik vega.",
+    "translations": {
+      "bellows": "Know, if thou sittest on Aegir's benches and wilt speak with me, what I shall answer thee: thou wast first with me at the shrines and wouldst have killed me.",
+      "thorpe": "Knowest thou, if thou on Ægir’s benches sittest, and wilt with me speak, what I will answer thee? Thou wast first with me at the temples, and wouldst have slain me.",
+      "literal": "Know-you, if you on Aegir's benches sit and will with me speak, what I to-you answer will: you were earlier me at shrines and would me slay."
+    }
+  },
+  {
+    "stanza_id": "loka_55",
+    "original": "Heilir Æsir, heilar Ásynjur ok öll ginn-heilög regin, nema sá einn Áss, er innar sitr, Loki, bekkjum á.",
+    "translations": {
+      "bellows": "Hail to the Aesir! Hail to the Asynjur! Hail to all the holy gods! save only the god who sits within, Loki, there on the bench.",
+      "thorpe": "Hail to the Aesir! Hail to the Asynjur! and all the holy gods! save that one Ás, who sits within, Loki, on the bench.",
+      "literal": "Hail Aesir, hail Asynjur and all high-holy powers, except that one God, who inner sits, Loki, benches on."
+    }
+  },
+  {
+    "stanza_id": "loka_56",
+    "original": "Hví þú þá, Loki, mælisk af gólfi firi? sess þú á bekki bera! þá skal freista, hvárr fleira viti, gestr eða inn gamli þulr.",
+    "translations": {
+      "bellows": "Why then, Loki, dost thou speak from the floor? Take thy seat on the bench; then shall we try who knows more, the guest or the ancient sage.",
+      "thorpe": "Why then, Loki! speakest thou from the floor? Take thy seat on the bench. Then shall it be seen which knows the more, the guest or the old talker.",
+      "literal": "Why you then, Loki, speak from floor before? seat you on bench bear! then shall [we] try, which more knows, guest or the old sage."
+    }
+  },
+  {
+    "stanza_id": "loka_57",
+    "original": "Þegi þú, rægishríð, þér munu mínar hendr hamri loka; herðu-kamb ek þér ór höfði lýst, svá at þér verðr hvert bein brotið.",
+    "translations": {
+      "bellows": "Be silent, thou speaker of shame! for my hands shall stop thy mouth with the hammer; I shall strike the bone-comb from thy head, so that every bone in thee shall be broken.",
+      "thorpe": "Be silent, thou ribald! my hands shall stop thy mouth with the hammer. I will strike thy bone-comb from thy head, so that every bone in thee shall be broken.",
+      "literal": "Silent you, slander-storm [Loki], to-you will my hands with-hammer lock; shoulder-comb [head] I from-you from head strike, so that to-you becomes each bone broken."
+    },
+    "sot_links": { "deities": ["deity_thor", "deity_loki"], "artifacts": ["artifact_mjollnir"], "themes": ["Violence", "Silencing"] }
+  },
+  {
+    "stanza_id": "loka_58",
+    "original": "Jarðar burr er hér nú kominn; hví þú svá, Þórr, mælisk? En þú þorir eigi, þá er þú skalt við úlf vega ok svelgr hann Alföður allan.",
+    "translations": {
+      "bellows": "The son of Earth has now come here; why dost thou speak so, Thor? But thou wilt not dare when thou shalt fight with the wolf, and he swallows the All-father whole.",
+      "thorpe": "Jörd’s son is now come here. Why dost thou so, Thor! speak? But thou wilt not dare, when thou shalt fight with the wolf, and he devours the All-father whole.",
+      "literal": "Earth's son [Thor] is here now come; why you so, Thor, speak? But you dare not, when you shall with wolf fight and swallows he All-father all [entirely].'"
+    },
+    "sot_links": { "deities": ["deity_thor", "deity_odin"], "beasts": ["beast_fenrir"], "themes": ["Ragnarok", "Accusation of Cowardice"] }
+  },
+  {
+    "stanza_id": "loka_59",
+    "original": "Þegi þú, rægishríð, þér munu mínar hendr hamri loka; upp ek þér kasta í austrveg, síðan þik mangi sér.",
+    "translations": {
+      "bellows": "Be silent, thou speaker of shame! for my hands shall stop thy mouth with the hammer; up shall I throw thee into the eastern regions, and no one shall see thee again.",
+      "thorpe": "Be silent, thou ribald! my hands shall stop thy mouth with the hammer. I will cast thee up into the eastern parts, so that no one shall see thee more.",
+      "literal": "Silent you, slander-storm, to-you will my hands with-hammer lock; up I you throw in east-way, since you no-one sees."
+    },
+    "sot_links": { "deities": ["deity_thor"] }
+  },
+  {
+    "stanza_id": "loka_60",
+    "original": "Of austrförum þínum skaltu aldregi segja seggjum frá, sízt þú í hanzka-fingri hnúðir, einherji, ok þóttist-at þú Þórr vera.",
+    "translations": {
+      "bellows": "Of thy journeys to the east thou shalt never tell men; for in the thumb of a glove didst thou crouch, thou great fighter, and thoughtest thou wast not Thor at all.",
+      "thorpe": "Of thy journeys to the east thou shalt never tell to men; since in a glove-finger thou didst crouch, thou great warrior! and didst not think thyself to be Thor.",
+      "literal": "Of east-journeys yours shall-you never say to-men from [about], since you in glove-finger crouched, champion, and thought-not-you you Thor to-be."
+    },
+    "sot_links": { "deities": ["deity_thor"], "figures": ["Skrymir"], "themes": ["Humiliation"] }
+  },
+  {
+    "stanza_id": "loka_61",
+    "original": "Þegi þú, rægishríð, þér munu mínar hendr hamri loka; ek slæ þér af lofthvílum, svá at þú kemst aldri aftr til Ásgarðs.",
+    "translations": {
+      "bellows": "Be silent, thou speaker of shame! for my hands shall stop thy mouth with the hammer; I shall strike thee out of the air, so that thou shalt never come back to Asgard again.",
+      "thorpe": "Be silent, thou ribald! my hands shall stop thy mouth with the hammer. I will strike thee out of the air, so that thou shalt never more come back to Asgard.",
+      "literal": "Silent you, slander-storm, to-you will my hands with-hammer lock; I strike you from air-rests [legs/existence], so that you come never back to Asgard."
+    },
+    "sot_links": { "deities": ["deity_thor", "deity_loki"], "locations": ["Asgard"] }
+  },
+  {
+    "stanza_id": "loka_62",
+    "original": "Þegi þú, rægishríð, þér munu mínar hendr hamri loka; herðu-kamb ek þér ór höfði lýst, svá at þér verðr hvert bein brotið.",
+    "translations": {
+      "bellows": "Be silent, thou speaker of shame! for my hands shall stop thy mouth with the hammer; I shall strike the bone-comb from thy head, so that every bone in thee shall be broken.",
+      "thorpe": "Be silent, thou ribald! my hands shall stop thy mouth with the hammer. I will strike thy bone-comb from thy head, so that every bone in thee shall be broken.",
+      "literal": "Silent you, slander-storm, to-you will my hands with-hammer lock; shoulder-comb [head] I from-you from head strike, so that to-you becomes each bone broken."
+    }
+  },
+  {
+    "stanza_id": "loka_63",
+    "original": "Kvað ek fyr Ásum, kvað ek fyr Ása sonum, þat er mik lysti at mæla; en fyr þér einum mun ek út ganga, því at ek veit, at þú vegr.",
+    "translations": {
+      "bellows": "I have spoken to the Aesir, I have spoken to the sons of the Aesir, what my mind did list to say; but before thee alone shall I go forth, for I know that thou wilt strike.",
+      "thorpe": "I have said before the Aesir, I have said before the Aesir’s sons, what my mind suggested; but before thee alone I will go out, because I know thou wilt strike.",
+      "literal": "Spoke I before Aesir, spoke I before Aesir's sons, that which me listed [desired] to speak; but before you alone will I out go, because that I know, that you strike."
+    },
+    "sot_links": { "deities": ["deity_loki", "deity_thor"], "themes": ["Submission to Force"] }
+  },
+  {
+    "stanza_id": "loka_64",
+    "original": "Öl görðir þú, Ægir, en þú aldri munt síðan sumbl gera; eiga þín öll, er hér inni er, leiki yfir logi, ok brenni þér á baki.",
+    "translations": {
+      "bellows": "Ale hast thou brewed, Aegir, but nevermore shalt thou make a feast; all thy possessions here within shall the fire play over, and burn thy back.",
+      "thorpe": "Ale thou hast brewed, Ægir! but thou shalt never more a feast provide. All thy possessions, which are here within, may the flame play over, and burn thy back!",
+      "literal": "Ale made you, Aegir, but you never will since feast make; property your all, which here in is, play over flame, and burn to-you on back."
+    },
+    "sot_links": { "figures": ["Aegir"], "themes": ["Curse", "Destruction"] }
+  },
+  {
+    "stanza_id": "loka_65",
+    "original": "En eftir þetta faldist Loki í Fránangrsforsi í lax líki. Þar tóku æsir hann.",
+    "translations": {
+      "bellows": "But after this Loki hid himself in Franangr's waterfall in the shape of a salmon. There the Aesir caught him.",
+      "thorpe": "After this Loki hid himself in Fránangr’s waterfall in the likeness of a salmon, where the Aesir took him.",
+      "literal": "But after this hid-himself Loki in Franangr's-waterfall in salmon's likeness. There took Aesir him."
+    },
+    "sot_links": { "deities": ["deity_loki"], "locations": ["Franangrsfors"], "themes": ["Capture", "Transformation"] }
+  },
+  {
+    "stanza_id": "loka_66",
+    "original": "Hann var bundinn með þörmum sonar síns, Nara; en Narfi sonr hans varð at vargi.",
+    "translations": {
+      "faulkes": "He was bound with the entrails of his son, Nari; and Narfi his son became a wolf.",
+      "brodeur": "He was bound with the guts of his son Nari; but his son Narfi was changed into a wolf.",
+      "literal": "He was bound with guts of-son his, Nari; but Narfi son his became at [into] wolf."
+    },
+    "sot_links": { "deities": ["deity_loki"], "figures": ["Nari", "Narfi"], "themes": ["Punishment", "Transformation"] }
+  },
+  {
+    "stanza_id": "loka_67",
+    "original": "Skaði tók eitruðu orm ok festi upp yfir andlit Loka; draup þar ór eitr.",
+    "translations": {
+      "bellows": "Skadi took a venomous serpent and fastened it up over Loki's face; the venom dripped down from it.",
+      "thorpe": "Skaði took a venomous serpent, and fastened it up over Loki’s face. The venom dropped from it.",
+      "literal": "Skadi took venomous serpent and fastened up over face of-Loki; dripped there from poison."
+    },
+    "sot_links": { "deities": ["deity_skadi", "deity_loki"], "themes": ["Torture"] }
+  },
+  {
+    "stanza_id": "loka_68",
+    "original": "Sigyn, kona hans, sat þar ok hélt mundlaug undir eitrit. En er mundlaugin var full, þá gekk hón út at hella ór eitrinu; en á meðan draup eitrit á Loka.",
+    "translations": {
+      "bellows": "Sigyn, his wife, sat there and held a basin under the venom. But when the basin was full, she went out to pour out the venom; and meanwhile the venom dripped on Loki.",
+      "thorpe": "Sigyn, his wife, sat by him, and held a dish under the venom. When the dish was full, she went out to pour out the venom; but in the meantime the venom dropped on Loki.",
+      "literal": "Sigyn, woman his, sat there and held basin under venom-the. But when basin-the was full, then went she out to pour from venom-the; but in meanwhile dripped venom-the on Loki."
+    },
+    "sot_links": { "deities": ["deity_sigyn", "deity_loki"], "themes": ["Fidelity", "Suffering"] }
+  },
+  {
+    "stanza_id": "loka_69",
+    "original": "Þá kipptist hann svá hart við, at jörð öll skalf; þat eru nú kallaðir landskjálftar.",
+    "translations": {
+      "bellows": "Then he jerked so hard that the whole earth trembled; those are now called earthquakes.",
+      "thorpe": "Then he writhed so violently that all the earth shook: those are what are now called earthquakes.",
+      "literal": "Then jerked-himself he so hard with, that earth all shook; that are now called land-shakes [earthquakes].'"
+    },
+    "sot_links": { "themes": ["Natural Phenomena", "Origins of Earthquakes"] }
+  },
+  {
+    "stanza_id": "loka_70",
+    "original": "Þar liggr hann í böndum til ragnarök.",
+    "translations": {
+      "bellows": "There he lies in bonds until Ragnarok.",
+      "thorpe": "There he lies in bonds until Ragnarök.",
+      "literal": "There lies he in bonds until Ragnarok."
+    },
+    "sot_links": { "deities": ["deity_loki"], "themes": ["Imprisonment", "Ragnarok"] }
+  }
+]
