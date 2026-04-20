@@ -1,0 +1,137 @@
+[
+  {
+    "rune": "ᚠ (Fé)",
+    "original": "Fé er frænda róg / ok flæðar viti / ok grafseiðs gata.",
+    "translations": {
+      "standard": "Wealth is the strife of kinsmen / and the fire of the flood / and the path of the serpent.",
+      "literal": "Wealth is kinsmen's strife / and flood's beacon [gold] / and grave-serpent's path."
+    },
+    "sot_links": { "themes": ["Greed", "Gold Kennings"], "figures": ["Fafnir"] }
+  },
+  {
+    "rune": "ᚦ (Þurs)",
+    "original": "Þurs er kvenna kvöl / ok kletta búi / ok varðrúnar verr.",
+    "translations": {
+      "standard": "Giant is the torture of women / and the cliff-dweller / and the husband of a giantess.",
+      "literal": "Giant is women's torment / and cliff-dweller / and ward-rune's [giantess's] man."
+    },
+    "sot_links": { "beasts": ["beast_giant"], "themes": ["Conflict", "Hardship"] }
+  },
+  {
+    "rune": "ᚮ (Óss)",
+    "original": "Óss er aldin-gautr / ok Ásgarðs jöfurr / ok Valhallar vísi.",
+    "translations": {
+      "standard": "God is the aged Gautr [Odin] / and the prince of Asgard / and the lord of Valhall.",
+      "literal": "God is old-Gautr / and Asgard's prince / and Valhall's leader."
+    },
+    "sot_links": { "deities": ["deity_odin"], "locations": ["Asgard", "Valhall"] }
+  },
+  {
+    "rune": "ᚱ (Reið)",
+    "original": "Reið er sitjandi sæla / ok snörp ferð / ok jórs erfiði.",
+    "translations": {
+      "standard": "Riding is a sitting comfort / and a swift journey / and the toil of the horse.",
+      "literal": "Riding is sitting happiness / and sharp journey / and horse's toil."
+    },
+    "sot_links": { "themes": ["Travel", "Navigation"] }
+  },
+  {
+    "rune": "ᚴ (Kaun)",
+    "original": "Kaun er barna böl / ok bardaga för / ok húsasóttar hlutr.",
+    "translations": {
+      "standard": "Ulcer is the grief of children / and a place of battle / and the path of the pestilence.",
+      "literal": "Sore is children's bane / and battle's-way / and house-sickness's part."
+    },
+    "sot_links": { "themes": ["Disease", "Mortality"] }
+  },
+  {
+    "rune": "ᚼ (Hagall)",
+    "original": "Hagall er kaldakorn / ok krapadrífa / ok snotra sótt.",
+    "translations": {
+      "standard": "Hail is a cold grain / and a shower of sleet / and the sickness of serpents.",
+      "literal": "Hail is cold-grain / and sleet-drift / and snakes' sickness."
+    },
+    "sot_links": { "themes": ["Weather Hazards", "Environmental Damage"] }
+  },
+  {
+    "rune": "ᚾ (Nauð)",
+    "original": "Nauð er þýjar þrá / ok þungr kostr / ok vássamlig verk.",
+    "translations": {
+      "standard": "Constraint is the grief of a bond-woman / and a hard condition / and toilsome work.",
+      "literal": "Need is bond-woman's longing / and heavy choice [condition] / and wet [toilsome] work."
+    },
+    "sot_links": { "themes": ["Social Status", "Slavery"], "figures": ["Thura"] }
+  },
+  {
+    "rune": "ᛁ (Íss)",
+    "original": "Íss er árbörkr / ok fjarðar þak / ok feigra manna fár.",
+    "translations": {
+      "standard": "Ice is the bark of rivers / and the roof of the waves / and a danger for fey men.",
+      "literal": "Ice is river-bark / and fjord's roof / and fey [doomed] men's danger."
+    },
+    "sot_links": { "themes": ["Environmental Hazards", "Maritime Logic"] }
+  },
+  {
+    "rune": "ᛅ (Ár)",
+    "original": "Ár er gumna góði / ok gott sumar / ok algróinn akr.",
+    "translations": {
+      "standard": "Plenty is the boon of men / and a good summer / and a well-grown field.",
+      "literal": "Year [Harvest] is men's benefit / and good summer / and all-grown field."
+    },
+    "sot_links": { "themes": ["Prosperity", "Agriculture"], "deities": ["deity_freyr"] }
+  },
+  {
+    "rune": "ᛋ (Sól)",
+    "original": "Sól er skýja skjöldr / ok skínandi röðull / ok ísa aldrtregi.",
+    "translations": {
+      "standard": "Sun is the shield of the clouds / and a shining ray / and the grief of ice.",
+      "literal": "Sun is clouds' shield / and shining halo / and ice's life-sorrow [destroyer]."
+    },
+    "sot_links": { "themes": ["Light", "Environmental Balance"], "deities": ["deity_sol"] }
+  },
+  {
+    "rune": "ᛏ (Týr)",
+    "original": "Týr er einhendr áss / ok úlfs leifar / ok hofa hilmir.",
+    "translations": {
+      "standard": "Tyr is the one-handed god / and the leavings of the wolf / and the ruler of temples.",
+      "literal": "Tyr is one-handed god / and wolf's leavings / and temples' ruler."
+    },
+    "sot_links": { "deities": ["deity_tyr"], "beasts": ["beast_fenrir"], "themes": ["Sacrifice", "Justice"] }
+  },
+  {
+    "rune": "ᛒ (Bjarkan)",
+    "original": "Bjarkan er laufgrænt lík / ok lítit tré / ok unga-viðr.",
+    "translations": {
+      "standard": "Birch is a leafy-green limb / and a little tree / and a youthful wood.",
+      "literal": "Birch is leafy-green body / and little tree / and young-wood."
+    },
+    "sot_links": { "themes": ["Growth", "Renewal", "Nature"] }
+  },
+  {
+    "rune": "ᛘ (Maðr)",
+    "original": "Maðr er moldar auki / ok skipa skreytir / ok nadda niðr.",
+    "translations": {
+      "standard": "Man is the increase of dust / and the adorner of ships / and the descendant of nails [warrior].",
+      "literal": "Man is dust's increase / and ships' adorner / and points' [nails/spears] descendant."
+    },
+    "sot_links": { "themes": ["Mortality", "Craftsmanship", "Warfare"] }
+  },
+  {
+    "rune": "ᛚ (Lögr)",
+    "original": "Lögr er vellanda vatn / ok viðr ketill / ok glamma hringr.",
+    "translations": {
+      "standard": "Water is a welling stream / and a wide cauldron / and the ring of the giants.",
+      "literal": "Water is welling water / and wide kettle / and giants' ring [the sea]."
+    },
+    "sot_links": { "themes": ["Maritime Logic", "Liquid Assets"], "locations": ["The Sea"] }
+  },
+  {
+    "rune": "yr (Ýr)",
+    "original": "Ýr er beygðr bogi / ok hveiti-járn / ok fífu fár.",
+    "translations": {
+      "standard": "Yew is a bent bow / and brittle-iron / and the danger of the arrow.",
+      "literal": "Yew is bent bow / and wheat-iron [brittle iron] / and arrow's danger."
+    },
+    "sot_links": { "themes": ["Archery", "Ballistics", "Weaponry"] }
+  }
+]
