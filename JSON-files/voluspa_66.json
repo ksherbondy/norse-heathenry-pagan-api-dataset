@@ -1,0 +1,1041 @@
+[
+  {
+    "stanza_id": "vsp_01",
+    "original": "Hljóðs bið ek allar helgar kindir, meiri ok minni mögu Heimdallar; viltu, at ek, Valföðr, vel fram telja forn spjöll fira, þau er fremst um man.",
+    "translations": {
+      "bellows": "Hearing I ask from the holy races, From Heimdall's sons, both high and low; Thou wilt, Valfather, that I should relate Old tales of the world, the earliest I know.",
+      "thorpe": "Give ear, all ye holy beings, Greater and lower sons of Heimdall; Thou, Valfather, wilt that I relate The old traditions of men, the earliest I remember.",
+      "literal": "Silence I ask of all holy kins, greater and lesser sons of Heimdall; you wish that I, Father of the Slain, well relate the ancient stories of men, those that I remember earliest."
+    },
+    "sot_links": {
+      "deities": [
+        "deity_heimdallr",
+        "deity_odin"
+      ],
+      "themes": [
+        "The Call",
+        "Creation"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_02",
+    "original": "Ek man jötna ár um borna, þá er forðum mik fædda höfðu; níu man ek heima, níu íviðjur, mjötvið mæran fyr mold neðan.",
+    "translations": {
+      "bellows": "I remember yet the giants of old, Who gave me bread in the days gone by; Nine worlds I knew, the nine wood-maidens, And the glorious dwelling-tree down in the earth.",
+      "thorpe": "I remember giants born of yore, Who in former times reared me; Nine worlds I remember, nine trees, The great central tree beneath the earth.",
+      "literal": "I remember giants early born, those who long ago fed me; nine worlds I remember, nine giantesses, the glorious world-tree before it was under the earth."
+    },
+    "sot_links": {
+      "themes": [
+        "Nine Worlds",
+        "Yggdrasil",
+        "Jötnar"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_03",
+    "original": "Ár var alda þar er Ymir byggði, vara sandr né sær né svalar unnir; jörð fannsk æva né upphiminn, gap var ginnunga, en gras hvergi.",
+    "translations": {
+      "bellows": "Old was the age when Ymir lived; Sea nor cool waves nor sand there were; Earth had not been, nor heaven above, But a yawning gap, and grass nowhere.",
+      "thorpe": "It was Time's earliest dawn when Ymir dwelt: there was no sand nor sea, nor cooling billows; earth was nowhere found, nor heaven above; a yawning chasm was there, but grass nowhere.",
+      "literal": "Early was the age when Ymir lived, there was no sand nor sea nor cold waves; earth was found nowhere nor the high-heaven, there was a ginnunga-gap, and grass nowhere."
+    },
+    "sot_links": {
+      "themes": [
+        "Ginnungagap",
+        "Ymir",
+        "Creation Mythology"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_04",
+    "original": "Þór létu Burar synir bjöðum um yppa, þeir er miðgarð mæran sköpuðu; sól skein sunnan á salar steina, þá var grund groin grænum lauki.",
+    "translations": {
+      "bellows": "Then Bur's sons lifted the level land, Mithgarth the mighty there they made; The sun from the south warmed the stones of earth, And green was the ground with growing leeks.",
+      "thorpe": "Until Bur's sons raised the plains, they who the noble Midgard shaped. The sun shone from the south on the mansion's stones; then was the ground verdant with green leeks.",
+      "literal": "Until Bur's sons lifted the land-boards, those who Midgard the glorious shaped; Sun shone from the south on the hall's stones, then was the ground grown with green leeks."
+    },
+    "sot_links": {
+      "themes": [
+        "Midgard",
+        "Solar Logic",
+        "Growth"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_05",
+    "original": "Sól varp sunnan, sinni mána, hendi inni hægri um himinjódýr; sól þat ne vissi, hvar hon sali átti, stjörnur þat ne vissu, hvar þær staði áttu, máni þat ne vissi, hvat hann megins átti.",
+    "translations": {
+      "bellows": "The sun, the sister of the moon, from the south Her right hand cast over the heaven's edge; No knowledge she had where her home should be, The moon knew not what might was his, The stars knew not where their stations were.",
+      "thorpe": "The sun from the south, the moon's companion, her right hand cast round the heavenly horses. The sun knew not where she a dwelling had; the moon knew not what power he possessed; the stars knew not where they had a station.",
+      "literal": "Sun cast from the south, companion of the moon, her right hand around the heaven-horses; Sun knew not where she had halls, stars knew not where they had places, Moon knew not what might he had."
+    },
+    "sot_links": {
+      "themes": [
+        "Lunisolar Logic",
+        "Cosmic Order"
+      ],
+      "calendar_refs": [
+        "calendar_v3.json"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_06",
+    "original": "Þá gengu regin öll á rökstóla, ginnheilög goð, ok um þat gættusk; nótt ok niðjum nöfn um gáfu, morgun hétu ok miðjan dag, undorn ok aftan, árum at telja.",
+    "translations": {
+      "bellows": "Then sought the gods their assembly-seats, The holy ones, and council held; Names then gave they to noon and twilight, Morning and evening, night and mid-day, And the waning moon, for the year's full tale.",
+      "thorpe": "Then went all the powers to their judgment-seats, the all-holy gods, and thereon held council: to night and the waning moon gave names; morn they named, and mid-day, twilight and eve, for time-computation.",
+      "literal": "Then went all the powers to the doom-seats, very holy gods, and about that consulted; to night and the dark moon names they gave, morning they called and mid-day, afternoon and evening, to count the years."
+    },
+    "sot_links": {
+      "themes": [
+        "Time Computation",
+        "Calendar Logic"
+      ],
+      "calendar_refs": [
+        "calendar_v3.json"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_07",
+    "original": "Hittusk æsir á Iðavelli, þeir er hörg ok hof há timbruðu; afla lögðu, auð smíðuðu, tangir sköpuðu ok tól görðu.",
+    "translations": {
+      "bellows": "At Ithavoll met the mighty gods, Shrines and temples they timbered high; Forges they set, and they smithied ore, Tongs they wrought, and tools they fashioned.",
+      "thorpe": "The Aesir met on Ida's plain, they built altars and raised temples; edifices they reared, and gold fashioned; tongs they made, and tools fabricated.",
+      "literal": "Met the Aesir on the Field of Activity, they who altars and temples high timbered; forges they set, wealth they smithied, tongs they shaped and tools made."
+    },
+    "sot_links": {
+      "themes": [
+        "Craftsmanship",
+        "Origins"
+      ],
+      "artifacts": [
+        "artifact_mjolnir"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_08",
+    "original": "Tefldu í túni, teitir váru, var þeim vettugis vant ór gulli, unz þrjár kömu þursa meyjar, ámáttkar mjök, ór Jötunheimum.",
+    "translations": {
+      "bellows": "In their dwellings at peace they played at tables, Of gold no lack did the gods then know; Till thither came up three giant-maids, Mighty of stature, from Jotunheim.",
+      "thorpe": "At tables they played in the court, and were merry; for them there was no lack of gold, until there came three giant maidens, very powerful, from Jotunheim.",
+      "literal": "They played at tables in the court, they were glad, there was to them no lack of gold; until three came, giant-maids, very powerful, from the home of giants."
+    },
+    "sot_links": {
+      "themes": [
+        "The Golden Age",
+        "End of Peace"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_09",
+    "original": "Þá gengu regin öll á rökstóla, ginnheilög goð, ok um þat gættusk, hverr skyldi dverga dróttin skepja ór Brimis blóði ok ór Bláins leggjum.",
+    "translations": {
+      "bellows": "Then sought the gods their assembly-seats, The holy ones, and council held, To find who should shape the race of dwarfs Out of Brimir's blood and the legs of Blain.",
+      "thorpe": "Then went all the powers to their judgment-seats, the all-holy gods, and thereon held council, who should the dwarfs' mighty host create from Brimir's blood and from Blain's limbs.",
+      "literal": "Then went all the powers to the doom-seats, very holy gods, and about that consulted, who should of-dwarfs the host shape from Brimir's blood and from Blain's legs."
+    },
+    "sot_links": {
+      "themes": [
+        "Creation of Dwarfs",
+        "Brimir",
+        "Blain"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_10",
+    "original": "Þar var Mótsognir mæztr um orðinn dverga allra, en Durinn annarr; þeir manlíkun mörg gærðu dvergar í jörðu, sem Durinn sagði.",
+    "translations": {
+      "bellows": "Motsognir then was the worthiest deemed Of all the dwarfs, and Durin next; Many a likeness of men they made, The dwarfs in the earth, as Durin bade.",
+      "thorpe": "There was Motsognir the highest become of all the dwarfs, and Durin the next; they many images of men made, dwarfs in the earth, as Durin said.",
+      "literal": "There was Motsognir greatest become of-dwarfs all, and Durin second; they man-likenesses many made, dwarfs in earth, as Durin said."
+    },
+    "sot_links": {
+      "figures": [
+        "Motsognir",
+        "Durin"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_11",
+    "original": "Nýi ok Niði, Norðri ok Suðri, Austri ok Vestri, Alþjófr, Dvalinn, Bívurr, Bávurr, Bömburr, Nóri, Ánn ok Ánarr, Óinn, Mjöðvitnir.",
+    "translations": {
+      "bellows": "Nyi and Nithi, Northri and Suthri, Austri and Vestri, Althjof, Dvalin, Nar and Nain, Niping, Dain, Bifur, Bafur, Bombur, Nori, An and Onar, Ai, Mjothvitnir.",
+      "thorpe": "Nyi and Nidi, Nordri and Sudri, Austri and Vestri, Althjof, Dvalin, Na and Nain, Niping, Dain, Bifur, Bafur, Bombur, Nori, An and Anar, Ai, Mjodvitnir.",
+      "literal": "Nyi and Nidi, Northri and Suthri, Austri and Vestri, Althjof, Dvalin, Bivur, Bavur, Bombur, Nori, Ann and Annar, Oinn, Mjothvitnir."
+    },
+    "sot_links": {
+      "themes": [
+        "Dwarf Catalog",
+        "Cardinal Directions"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_12",
+    "original": "Vigr ok Gandálfr, Vindálfr, Þráinn, Þekkr ok Þorinn, Þrór, Vitr ok Litr, Nár ok Nýráðr, nú hefi ek dverga, Reginn ok Ráðsviðr, rétt um talda.",
+    "translations": {
+      "bellows": "Vig and Gandalf, Vindalf, Thrain, Thekk and Thorin, Thror, Vit and Lit, Nár and Nyrath, now have I told—Regin and Rathsvith—the list aright.",
+      "thorpe": "Vig and Gandalph, Vindalph, Thrain, Thekk and Thorin, Thror, Vit and Lit, Nar and Nyrad, now have I these dwarfs—Regin and Radsvid—rightly enumerated.",
+      "literal": "Vig and Gandalf, Vindalf, Thrain, Thekk and Thorin, Thror, Vit and Lit, Nar and Nyrad, now have I dwarfs, Regin and Radsvid, rightly counted."
+    }
+  },
+  {
+    "stanza_id": "vsp_13",
+    "original": "Fíli, Kíli, Fundinn, Njáli, Hepti, Víli, Hanarr, Svíurr, Billingr, Brúni, Bídr ok Balingr, Frár, Hornbori, Frægr ok Lóni, Aurvangr, Jari, Eikinskjaldi.",
+    "translations": {
+      "bellows": "Fili, Kili, Fundin, Nali, Hepti, Vili, Hanar, Svior, Frar, Hornbori, Fræg and Loni, Aurvang, Jari, Eikinskjaldi.",
+      "thorpe": "Fili, Kili, Fundin, Nali, Hepti, Vili, Hanar, Svior, Billing, Bruni, Bid, Balin, Frar, Hornbori, Fræg and Loni, Aurvang, Jari, Eikinskjaldi.",
+      "literal": "Fili, Kili, Fundin, Njali, Hepti, Vili, Hanar, Sviur, Billing, Bruni, Bid and Baling, Frar, Hornbori, Fræg and Loni, Aurvang, Jari, Eikinskjaldi."
+    }
+  },
+  {
+    "stanza_id": "vsp_14",
+    "original": "Mál er dverga í drótti Dvalins foldar til fira fiskatal töldu, þeir er sóttu frá salar steini Aurvanga sjöt til Jöruvalla.",
+    "translations": {
+      "bellows": "The dwarfs in Dvalin's band it is time To tell to men, even down to Lofar; Who sought from the rocks the dwelling-place Of Aurvang's self to Joruvellir.",
+      "thorpe": "It is time that the dwarfs in Dvalin's band, to the sons of men, should Lofar reckon: they who sought from the stony mansion the seat of Aurvanga, to Joruvellir.",
+      "literal": "Time is of-dwarfs in host of-Dvalin for-men fish-list to-count, they who sought from hall's stone Aurvanga's seat to Joruvellir."
+    }
+  },
+  {
+    "stanza_id": "vsp_15",
+    "original": "Þar var Draupnir ok Dolgþrasir, Hár, Haugspori, Hlévangr, Glói, Skirvir, Virvir, Skáfiðr, Ái, Álfr ok Yngvi, Eikinskjaldi.",
+    "translations": {
+      "bellows": "There were Draupnir and Dolgthrasir, Hor, Haugspori, Hlevang, Gloi, Dori, Ori, Duf, Andvari, Skirfir, Virfir, Skafith, Ai.",
+      "thorpe": "There was Draupnir and Dolgthrasir, Har, Haugspori, Hlevang, Gloi, Dori, Ori, Duf, Andvari, Skirfir, Virfir, Skafid, Ai.",
+      "literal": "There was Draupnir and Dolgthrasir, Har, Haugspori, Hlevang, Gloi, Skirvir, Virvir, Skafid, Ai, Alfr and Yngvi, Eikinskjaldi."
+    },
+    "sot_links": {
+      "artifacts": [
+        "artifact_draupnir"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_16",
+    "original": "Fjalarr ok Frosti, Finnr ok Ginnarr, Heri, Höggstari, Hljóðólfr, Móinn; þat mun æ uppi, meðan öld lifir, langniðja tal Lofars hafat.",
+    "translations": {
+      "bellows": "Fjalar and Frosti, Finn and Ginnar, Heri, Hogstari, Hlövang, Moin; While mankind lives shall Lofar's list Of ancestors' names be ever known.",
+      "thorpe": "Fjalar and Frosti, Finn and Ginnar, Heri, Hogstari, Hlövang, Moin; that shall while mankind lives, the list of Lofar's ancestors be ever known.",
+      "literal": "Fjalar and Frosti, Finn and Ginnar, Heri, Hoggstari, Hljodolf, Moin; that will ever be up, while men live, ancestor-list of-Lofar held."
+    }
+  },
+  {
+    "stanza_id": "vsp_17",
+    "original": "Unz þrjár kömu ór því liði, öflgir ok ástkir, æsir at húsi; fundu á landi, lítt megandi, Ask ok Emblu, örlögslausa.",
+    "translations": {
+      "bellows": "Then from the throng did three come forth, From the home of the gods, the mighty and kind; Ask and Embla unfashioned they found, Fate they had not, and force they lacked.",
+      "thorpe": "Until three Aesir from that host came, powerful and benevolent, to the sea-side, they found on the strand, helpless, Ask and Embla, without destiny.",
+      "literal": "Until three came from that host, powerful and loving, Aesir to the house; they found on land, little-mighty, Ask and Embla, fate-less."
+    },
+    "sot_links": {
+      "deities": [
+        "deity_odin",
+        "deity_hoenir",
+        "deity_lodur"
+      ],
+      "themes": [
+        "Creation of Humanity"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_18",
+    "original": "Önd þeir né áttu, óð þeir né höfðu, lá né læti né litu góða; önd gaf Óðinn, óð gaf Hænir, lá gaf Loðurr ok litu góða.",
+    "translations": {
+      "bellows": "Soul they had not, sense they had not, Heat nor motion, nor goodly hue; Soul gave Odin, sense gave Hoenir, Heat gave Lothur and goodly hue.",
+      "thorpe": "Spirit they possessed not, sense they had not, blood nor motive powers, nor goodly color. Odin gave spirit, Hoenir gave sense, Lodur gave blood and goodly color.",
+      "literal": "Breath they had not, spirit they had not, blood nor voice nor goodly color; breath gave Odin, spirit gave Hoenir, blood gave Lodur and goodly color."
+    },
+    "sot_links": {
+      "deities": [
+        "deity_odin",
+        "deity_hoenir",
+        "deity_lodur"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_19",
+    "original": "Ask veit ek standa, heitir Yggdrasill, hár baðmr, ausinn hvíta auri; þaðan koma döggvar þær er í dala falla, stendr æ yfir grænn Urðar brunni.",
+    "translations": {
+      "bellows": "An ash I know, Yggdrasil its name, With water white is the great tree wet; Thence come the dews that fall in the dales, Green by Urth's well does it ever grow.",
+      "thorpe": "I know an ash standing, named Yggdrasil, a lofty tree, laved with limpid water; thence come the dews into the dales that fall; ever stands it green over Urd's fountain.",
+      "literal": "An ash I know standing, called Yggdrasill, a high tree, sprinkled with white mud; thence come dews that in the dales fall; it stands ever green over Urd's well."
+    },
+    "sot_links": {
+      "themes": [
+        "Yggdrasil",
+        "Urd's Well"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_20",
+    "original": "Þaðan koma meyjar margs vitandi þrjár, ór þeim sal er und þolli stendr; Urð hétu eina, aðra Verðandi, — skáru á skíði, — Skuld ina þriðju; þær lög lögðu, þær líf kuru alda börnum, örlög seggja.",
+    "translations": {
+      "bellows": "Thence come the maidens mighty in wisdom, Three from the dwelling down 'neath the tree; Urth is one named, Verthandi the next, On the slate they scored, and Skuld the third; Laws they made there, and life allotted To the sons of men, and set their fates.",
+      "thorpe": "Thence come maidens, much knowing, three from the hall, which under that tree stands; Urd they named one, Verthandi another, they on a tablet cut, Skuld the third; they laws established, they life allotted to the sons of men, the destinies of men.",
+      "literal": "Thence come maidens of much wisdom, three from the hall that under the tree stands; Urd they called one, Verthandi the second, they carved on wood-slips, Skuld the third; they laws laid, they lives chose for the children of men, the fates of men."
+    },
+    "sot_links": {
+      "themes": [
+        "The Norns",
+        "Fate",
+        "Law"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_21",
+    "original": "Fólkvíg man hon fyrst í heimi, er Gullveigu geirum studdu ok í höll Hárs hana brendu; þrisvar brendu, þrisvar borna, oft, ósjaldan, þó hon enn lifir.",
+    "translations": {
+      "bellows": "The war I remember, the first in the world, When the gods with spears had Gullveig pierced, And in the hall of Hor had burned her; Three times burned, and three times born, Oft and again, yet ever she lives.",
+      "thorpe": "She that war remembers, the first in the world, when they Gullveig with spears upheld, and in the High One's hall burned her; thrice burned, thrice born, oft, not seldom, yet she still lives.",
+      "literal": "Folk-war remembers she first in world, when Gullveig with spears they-propped and in hall of-Har her burned; thrice burned, thrice born, oft, not-seldom, though she yet lives."
+    },
+    "sot_links": {
+      "figures": [
+        "Gullveig"
+      ],
+      "themes": [
+        "First War",
+        "Vanir War Initiation"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_22",
+    "original": "Heidi hana hétu, hvar er til húsa kom, völu vel spáa, vitti hon ganda; seið hon, hvar er hon kunni, seið hon hug villan, æ var hon angan illrar brúðar.",
+    "translations": {
+      "bellows": "Heith they named her who sought their home, The wide-seeing witch, in magic wise; Minds she bewitched that were moved by her magic, To evil women a joy she was.",
+      "thorpe": "Heidi they called her, wheresoe'er she came, the well-prophesying Vala: she knotted magic spells; she lewdness practiced; she was ever the joy of evil people.",
+      "literal": "Heidi her they-called, where she to houses came, Vala well-prophesying, she-bewitched with-wands; she practiced seiðr, where she could, she practiced seiðr on-minds deluded, ever was she delight of-evil bride."
+    }
+  },
+  {
+    "stanza_id": "vsp_23",
+    "original": "Þá gengu regin öll á rökstóla, ginnheilög goð, ok um þat gættusk, hvárt skyldu æsir afráð gjalda eða skyldu goðin öll gildi eiga.",
+    "translations": {
+      "bellows": "Then sought the gods their assembly-seats, The holy ones, and council held, Whether the gods should tribute give, Or to all alike should worship belong.",
+      "thorpe": "Then went all the powers to their judgment-seats, the all-holy gods, and thereon held council, whether the Aesir should a fine pay, or all the gods should tributes receive.",
+      "literal": "Then went all the powers to the doom-seats, very holy gods, and about that consulted, whether should Aesir tribute pay or should gods all worship have."
+    }
+  },
+  {
+    "stanza_id": "vsp_24",
+    "original": "Fleygði Óðinn ok í fólk um skaut, þat var enn fólkvíg fyrst í heimi; brotinn var borðvegur borgar ása, knáttu vanir vígspá völlu sporna.",
+    "translations": {
+      "bellows": "Odin let fly, and a spear he flung In the thick of the host, the first of the war; Broken was then the wall of the gods, And the Vanir held the field of battle.",
+      "thorpe": "Odin cast his spear, and mid the people slung it; that was first war in the world. Broken was the outer wall of the Aesir's burg. The Vanir, foreseeing conflict, over the plains advance.",
+      "literal": "Flung Odin and into folk shot, that was yet folk-war first in world; broken was board-wall of-burg of-Aesir, could Vanir with-war-spell the-field tread."
+    },
+    "sot_links": {
+      "deities": [
+        "deity_odin"
+      ],
+      "themes": [
+        "Spear Flinging",
+        "Vanir War"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_25",
+    "original": "Þá gengu regin öll á rökstóla, ginnheilög goð, ok um þat gættusk, hverr hefði loft alt lævi blandit eða ætt jötuns Óðs mey gefna.",
+    "translations": {
+      "bellows": "Then sought the gods their assembly-seats, The holy ones, and council held, To find who with venom the air had filled, Or had given Oth's bride to the giants' brood.",
+      "thorpe": "Then went all the powers to their judgment-seats, the all-holy gods, and thereon held council, who all the air with guile had blended, or to the giant race Odr's maid had given?",
+      "literal": "Then went all the powers to the doom-seats, very holy gods, and about that consulted, who had air all with-venom mixed or to-kin of-giant Od's maid given."
+    },
+    "sot_links": {
+      "figures": [
+        "Odr"
+      ],
+      "deities": [
+        "deity_freyja"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_26",
+    "original": "Ein var þar Þórr ofrunginn móði, hann sjaldan sitr, er hann slíkt of fregn; gengusk eiðar, orð ok særæri, mál öll meginlig, er á meðal fóru.",
+    "translations": {
+      "bellows": "Thor alone was swelled with rage, Rare sits he still when such things he hears; Bonds were broken, the binding oaths, And the pledges of might that were made between them.",
+      "thorpe": "Thor alone there was with resentment filled, he seldom sits when of the like he hears; broken were the oaths, the words, and promises, all the mighty ties between them formed.",
+      "literal": "One was there Thor swelled-with mood, he seldom sits when he such learns; broken-were oaths, words and solemn-vows, speeches all mighty, which between went."
+    },
+    "sot_links": {
+      "deities": [
+        "deity_thor"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_27",
+    "original": "Veit hon Heimdallar hljóð um folgit undir heiðvönum helgum baðmi; á sér hon ausask aurgan forsi af veði Valföðrs. Vituð ér enn — eða hvat?",
+    "translations": {
+      "bellows": "I know where Heimdall's horn is hid, Under the heaven-bright, holy tree; On it sits a stream in a foaming flood From Valfather's pledge. Would you know yet more?",
+      "thorpe": "She knows that Heimdall's horn is hidden under the heaven-bright holy tree. A river she sees flow with foamy fall, from Valfather's pledge. Understand ye yet, or what?",
+      "literal": "Knows she Heimdall's hearing hidden under heaven-bright holy tree; on it sees she poured muddy waterfall from pledge of-Valfather. Know you yet — or what?"
+    },
+    "sot_links": {
+      "deities": [
+        "deity_heimdallr",
+        "deity_odin"
+      ],
+      "themes": [
+        "Mimir's Well",
+        "Odin's Eye"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_28",
+    "original": "Ein sat hon úti, þá er inn aldni kom, yggjungr ása, ok í augu leit: Hvers fregnið mik? Hví freistið mín? Alt veit ek, Óðinn, hvar þú auga falt: í inum mæra Mímis brunni.",
+    "translations": {
+      "bellows": "Alone I sat when the Old One sought me, The terror of gods, and gazed in mine eyes: 'What do you ask of me? Why do you tempt me?' Odin, I know where your eye is hidden, Deep in the wide-famed well of Mimir.",
+      "thorpe": "Alone she sat without, when the ancient Aesir's lord came, and in her eye looked: 'What ask ye me? why tempt ye me?' I know all, Odin, where thou thine eye didst sink in the pure well of Mimir.",
+      "literal": "Alone sat she out, when the old-one came, Ygg of-Aesir, and in eyes looked: What ask-you me? Why tempt-you me? All know I, Odin, where you eye hid: in the glorious Mimir's well."
+    },
+    "sot_links": {
+      "deities": [
+        "deity_odin"
+      ],
+      "themes": [
+        "Mimir's Well"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_29",
+    "original": "Drekkr mjöð Mímir morgun hverjan af veði Valföðrs. Vituð ér enn — eða hvat?",
+    "translations": {
+      "bellows": "Mead from the pledge of Odin each morn Does Mimir drink. Would you know yet more?",
+      "thorpe": "Mimir drinks mead each morn from Valfather's pledge. Understand ye yet, or what?",
+      "literal": "Drinks mead Mimir morning each from pledge of-Valfather. Know you yet — or what?"
+    }
+  },
+  {
+    "stanza_id": "vsp_30",
+    "original": "Valði henni Herföðr hringa ok men, fekk spjöll spaklig ok spá ganda, sá hon vítt ok um vítt of veröld hverja.",
+    "translations": {
+      "bellows": "Necklaces had she and rings from Herfather, Wise was her spell and her magic seeds; Wide and far through the worlds she looked.",
+      "thorpe": "Herfather gave her rings and necklaces, useful discourse, and a divining spirit: wide and far she saw o'er every world.",
+      "literal": "Chose for-her Army-father rings and necklaces, got stories wise and prophecy of-wands, saw she wide and over wide over world each."
+    },
+    "sot_links": {
+      "deities": [
+        "deity_odin"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_31",
+    "original": "Ek sá Baldri, blóðgum tívur, Óðins barni, örlög fólgin; stóð um vaxinn völlum hærri, mjór ok mjög fagr, mistilteinn.",
+    "translations": {
+      "bellows": "I saw for Baldr, the bleeding god, The son of Odin, his destiny set; Famous and fair in the lofty fields, Full grown in strength the mistletoe stood.",
+      "thorpe": "I saw for Baldr, the blood-stained god, Odin's son, with fate concealed; there stood grown up, higher than the plains, slender and very fair, the mistletoe.",
+      "literal": "I saw for-Baldr, bloodied god, Odin's child, fate hidden; stood up-grown on-plains higher, slender and very fair, mistletoe."
+    },
+    "sot_links": {
+      "deities": [
+        "deity_baldr",
+        "deity_odin"
+      ],
+      "themes": [
+        "Death of Baldr",
+        "Fate"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_32",
+    "original": "Varð ór þeim meiði, er mær sýndisk, harmflaug hættlig, Höðr nam skjóta; Baldurs bróðir var of borinn snemma, sá nam Óðins sonr einnættr vega.",
+    "translations": {
+      "bellows": "From the branch which seemed so slender and fair Came a harmful shaft that Hoth should hurl; But the brother of Baldr was born ere long, And one night old, Odin's son slew him.",
+      "thorpe": "From that stem was made, as it appeared, a deadly-harmful dart: Hodr began to shoot. Baldr's brother was born betimes; he, Odin's son, at one night old, slew him.",
+      "literal": "Became from that branch, which slender seemed, a-harm-flight dangerous, Hodr took-to shoot; Baldr's brother was born early, he took Odin's son one-night-old to-slay."
+    },
+    "sot_links": {
+      "deities": [
+        "deity_hodr",
+        "deity_vali"
+      ],
+      "themes": [
+        "Vengeance"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_33",
+    "original": "Þó hann æva hendr né höfuð kembði, áðr á bál um bar Baldurs dólga; en Frigg um grét í Fensölum vá Valhallar. Vituð ér enn — eða hvat?",
+    "translations": {
+      "bellows": "His hands he washed not, his hair he combed not, Till he bore to the bale-fire Baldr's foe; But in Fensalir Frigg wept sore For Valhall's need. Would you know yet more?",
+      "thorpe": "He his hands washed not, nor his head combed, until he to the pile had borne Baldr's adversary. But Frigg wept in Fensalir for Valhall's calamity. Understand ye yet, or what?",
+      "literal": "Though he never hands nor head combed, before on bale-fire bore Baldr's-slayer; and Frigg wept in Fen-halls for-woe of-Valhalla. Know you yet — or what?"
+    },
+    "sot_links": {
+      "deities": [
+        "deity_frigg"
+      ],
+      "themes": [
+        "Grief",
+        "Valhalla"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_34",
+    "original": "Haft sá hon liggja undir Hveralundi, lægjarnlíki Loka áþekkjan; þar sitr Sigyn, þeygi of sínum ver vel glýjuð. Vituð ér enn — eða hvat?",
+    "translations": {
+      "bellows": "In chains she saw one lying low Under Hveralund, like Loki in form; There sits Sigyn, for her husband's sake Not glad is she. Would you know yet more?",
+      "thorpe": "A captive she saw lying under Hveralund, in form like Loki, craftily-wicked. There sits Sigyn, for her lord's sake, not much rejoiced. Understand ye yet, or what?",
+      "literal": "Captive saw she lying under Kettle-grove, deceit-eager-form of-Loki like; there sits Sigyn, not over her husband well rejoiced. Know you yet — or what?"
+    },
+    "sot_links": {
+      "deities": [
+        "deity_loki",
+        "deity_sigyn"
+      ],
+      "themes": [
+        "Binding of Loki"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_35",
+    "original": "Á fellr austan um eitrdala söxum ok sverðum, Slíðr heitir sú.",
+    "translations": {
+      "bellows": "A river flows from the east through venom-vales With daggers and swords; Slith is its name.",
+      "thorpe": "A river flows from the east through venom-vales, with swords and daggers; Slid is its name.",
+      "literal": "River falls from-east through poison-vales with-knives and swords, Slid is-called that-one."
+    },
+    "sot_links": {
+      "themes": [
+        "Cosmic Rivers",
+        "Venom-Vales"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_36",
+    "original": "Stóð fyr norðan á Niðavöllum salr ór gulli Sindra ættar;",
+    "translations": {
+      "bellows": "Northward a hall in Nithavellir Of gold there rose for Sindri's race;",
+      "thorpe": "There stood in the north, on Nidavellir, a hall of gold, for Sindri's race;",
+      "literal": "Stood before north on Dark-fields hall of gold of-Sindri's kin;"
+    },
+    "sot_links": {
+      "figures": [
+        "Sindri"
+      ],
+      "themes": [
+        "Nidavellir"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_37",
+    "original": "en annarr stóð á Ókólni, bjórsalr jötuns, en sá Brimir heitir.",
+    "translations": {
+      "bellows": "And in Okolnir another stood, Where the giant Brimir his beer-hall had.",
+      "thorpe": "and another stood in Okolnir, the giant's beer-hall, who Brimir is named.",
+      "literal": "and another stood on Not-cold, beer-hall of-giant, and that-one Brimir is-called."
+    },
+    "sot_links": {
+      "figures": [
+        "Brimir"
+      ],
+      "themes": [
+        "Giant-halls"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_38",
+    "original": "Sal sá hon standa sólu fjarri Náströndu á, norðr horfa dyrr; féllu eitrdropar inn um ljóra, sá er undinn salr orma hryggjum.",
+    "translations": {
+      "bellows": "A hall she saw standing far from the sun On Nastrond, and northwards its doors are turned; Venom-drops fall through the holes in the roof, For the hall is woven of serpents' backs.",
+      "thorpe": "A hall she saw standing far from the sun, on Nastrond; its doors look to the north. Venom-drops fall in through its apertures: that hall is woven of serpents' backs.",
+      "literal": "Hall saw she standing sun far-from, on Corpse-strand, north look doors; fell venom-drops in through roof-holes, that is woven hall of-serpents' backs."
+    },
+    "sot_links": {
+      "themes": [
+        "Nastrond",
+        "Hel"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_39",
+    "original": "Sá hon þar vaða þunga strauma menn meinsvara ok morðvarga ok þann er annars glepr eyrarúnu; þar saug Níðhöggr nái framgengna, sleit vargr vera. Vituð ér enn — eða hvat?",
+    "translations": {
+      "bellows": "There saw she wade through rivers wild Men who perjured themselves, and murderers too, And workers of ill with the wives of men; There Nithhogg sucked the blood of the slain, And the wolf tore men. Would you know yet more?",
+      "thorpe": "She saw there wading through turbid streams, perjured men and murderers, and him who another's wife seduces; there Nidhogg sucked the corpses of the departed; the wolf tore men. Understand ye yet, or what?",
+      "literal": "Saw she there wade heavy streams men oath-breakers and murder-wolves and that-one who another's whispers-ear-secrets [seduces]; there sucked Nidhogg corpses departed, tore wolf men. Know you yet — or what?"
+    },
+    "sot_links": {
+      "figures": [
+        "Nidhogg"
+      ],
+      "themes": [
+        "Punishment",
+        "Nastrond"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_40",
+    "original": "Austr sat in aldna í Járnviði ok fæddi þar Fenris kindir; verðr af þeim öllum einna nokkurr tungls tjúgari í trolls hami.",
+    "translations": {
+      "bellows": "In the east sat the old one, in Ironwood, And fed the offspring of Fenrir there; And of them all a monster shall come To rob the sun in a giant's shape.",
+      "thorpe": "Eastward sat the aged one in Jarnvid, and there reared Fenrir's progeny; of all these one shall become particularly the moon's devourer, in a troll's semblance.",
+      "literal": "Eastward sat the old-one in Iron-wood and fed there Fenrir's kin; becomes from them all one certain moon's snatcher in troll's skin."
+    },
+    "sot_links": {
+      "figures": [
+        "Fenrir"
+      ],
+      "themes": [
+        "Ironwood",
+        "Eclipse Logic"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_41",
+    "original": "Fyllisk fjörvi feigra manna, rýðr ragna sjöt rauðum blóði; svört verða sólskin of sumur eftir, veðr öll válynd. Vituð ér enn — eða hvat?",
+    "translations": {
+      "bellows": "He gorges the life of dying men, And the seats of the gods he stains with blood; Done is the sunshine through summers after, And all the winds are wild. Would you know yet more?",
+      "thorpe": "He is filled with the life's blood of men doomed to die; the gods' seats he reddens with ruddy gore; the sun-light is darkened in the summers following; all weather is changeful. Understand ye yet, or what?",
+      "literal": "Fills-himself with-life of-fey men, reddens gods' seats with-red blood; black become sun-shines over summers after, weather all treacherous. Know you yet — or what?"
+    },
+    "sot_links": {
+      "themes": [
+        "Fimbulwinter",
+        "Solar Logic"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_42",
+    "original": "Sat þar á haugi ok sló hörpu gýgjar hirðir, glaðr Eggþér; gól of honum í galgviði fagrrauðr hani, sá er Fjalarr heitir.",
+    "translations": {
+      "bellows": "On a hill there sat, and smote on his harp, Eggther the joyous, the giants' warder; Above him the cock in the bird-wood crowed, Fair and red did Fjalar stand.",
+      "thorpe": "There sat on a mound, and struck his harp, the giantess's warder, the joyous Eggther; over him crowed in the bird-wood, a light-red cock, which Fjalar is named.",
+      "literal": "Sat there on mound and struck harp giantess's herder, glad Eggther; sang over him in gallow-wood fair-red cock, that-one who Fjalar is-called."
+    },
+    "sot_links": {
+      "figures": [
+        "Eggther",
+        "Fjalar"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_43",
+    "original": "Gól of ásum Gullinkambi, sá vekr hölda at Herjaföðrs; en annarr gelr fyr jörð neðan sótrauðr hani at sölum Heljar.",
+    "translations": {
+      "bellows": "Then Gullinkambi sang to the gods, Who wakens the heroes in Herfather's hall; And another crows beneath the earth, A soot-red cock in the halls of Hel.",
+      "thorpe": "Gullinkambi crowed over the Aesir; he wakens the heroes in Herfather's hall; and another crows beneath the earth, a soot-red cock, in the halls of Hel.",
+      "literal": "Sang over Aesir Gold-comb, that-one wakes heroes at Army-father's; and another crows before earth beneath soot-red cock at halls of-Hel."
+    },
+    "sot_links": {
+      "deities": [
+        "deity_odin"
+      ],
+      "themes": [
+        "Valhalla",
+        "Hel"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_44",
+    "original": "Geyr nú Garmr mjög fyr Gnipahelli, festr mun slitna, en freki renna; fjöld veit hon fræði, fram sé ek lengra um ragnarök römm sigtíva.",
+    "translations": {
+      "bellows": "Loud bays Garm before Gnipahellir; The bursting fetters shall free the wolf; Much do I know, and more can see Of the fate of the gods, the mighty in fight.",
+      "thorpe": "Garm bays terribly before the Gnipa-cave: the fetters will be burst, and the wolf run loose. Much she knows, more can see, of the Ragnarok, of the mighty gods of victory.",
+      "literal": "Bays now Garm much before Cliff-cave, bond will break, and wolf run; much knows she wisdom, forward see I further of Ragnarok mighty of-victory-gods."
+    },
+    "sot_links": {
+      "figures": [
+        "Garm",
+        "Fenrir"
+      ],
+      "themes": [
+        "Ragnarok Initiation"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_45",
+    "original": "Bræðr munu berjask ok at bönum verðask, munu systrungar sifjum spilla; hart er í heimi, hórdómr mikill, skeggöld, skálmöld, skildir ro klofnir, vindöld, vargöld, áðr veröld steypisk; mun engi maðr öðrum þyrma.",
+    "translations": {
+      "bellows": "Brothers shall fight and fell each other, And sisters' sons shall kinship stain; Hard is it on earth, with mighty whoredom; Axe-time, sword-time, shields are sundered, Wind-time, wolf-time, ere the world falls; Nor ever shall men each other spare.",
+      "thorpe": "Brothers shall fight, and slay each other; cousins shall kinship violate. The world is hard: adultery abounds; axe-age, sword-age, shields are cloven, wind-age, wolf-age, ere the world sinks. No man will spare another.",
+      "literal": "Brothers will fight and to slayers become, will sister's-sons kinship spoil; hard is in world, adultery great, axe-age, sword-age, shields are cloven, wind-age, wolf-age, before world falls; will no man another spare."
+    },
+    "sot_links": {
+      "themes": [
+        "Social Decay",
+        "Ragnarök Signs"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_46",
+    "original": "Leika Míms synir, en mjötuðr kyndisk at inu galla Gjallarhorni; hátt blæss Heimdallr, horn er á lofti, mælar Óðinn við Míms höfuð.",
+    "translations": {
+      "bellows": "Mimir's sons dance, and the measure is fated Under the sounding Gjallarhorn; Loud blows Heimdall, the horn is aloft, In fear doth Odin with Mimir's head speak.",
+      "thorpe": "Mimir's sons dance, but the world-tree takes fire, at the loud-sounding Gjallarhorn. Heimdall blows loud, his horn is in the air; Odin speaks with Mimir's head.",
+      "literal": "Play Mimir's sons, and fate is-kindled at the screaming Gjallarhorn; high blows Heimdall, horn is in air, speaks Odin with Mimir's head."
+    },
+    "sot_links": {
+      "deities": [
+        "deity_heimdallr",
+        "deity_odin"
+      ],
+      "figures": [
+        "Mimir"
+      ],
+      "artifacts": [
+        "artifact_gjallarhorn"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_47",
+    "original": "Skelfr Yggdrasils askr standandi, ymr it aldna tré, en jötunn losnar; hræðask allir á helvegum, áðr Surtar þann sefi of svelgr.",
+    "translations": {
+      "bellows": "Yggdrasil shakes, and shiver the woods, The ancient tree groans, and the giant is loose; To the head of Odin the heroes fly, Ere the flaming sword of Surt shall consume them.",
+      "thorpe": "Yggdrasil's ash shudders as it stands, the ancient tree groans, and the giant is loosed. All are terrified on the roads to Hel, before Surt's kinsman has consumed it.",
+      "literal": "Shakes Yggdrasil's ash standing, groans the old tree, and giant is-loose; fear-themselves all on Hel-ways, before Surt's that-one [fire] it swallows."
+    },
+    "sot_links": {
+      "figures": [
+        "Surt"
+      ],
+      "themes": [
+        "Yggdrasil Destruction"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_48",
+    "original": "Hvat er með ásum? Hvat er með álfum? Gnýr allr Jötunheimr, æsir ro á þingi, stynja dvergar fyr steindurum, veggbergs vísir. Vituð ér enn — eða hvat?",
+    "translations": {
+      "bellows": "How fare the gods? how fare the elves? All Jotunheim groans, the gods are at council; The dwarfs before their stone doors groan, The masters of rocks. Would you know yet more?",
+      "thorpe": "How is it with the Aesir? How with the Alfar? All Jotunheim resounds; the Aesir are in council; the dwarfs groan before their stone doors, the sages of the rocky walls. Understand ye yet, or what?",
+      "literal": "What is with Aesir? What is with Elves? Roars all Giant-home, Aesir are at assembly, groan dwarfs before stone-doors, rock-wall's masters. Know you yet — or what?"
+    },
+    "sot_links": {
+      "themes": [
+        "Council of Gods"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_49",
+    "original": "Geyr nú Garmr mjög fyr Gnipahelli, festr mun slitna, en freki renna; fjöld veit hon fræði, fram sé ek lengra um ragnarök römm sigtíva.",
+    "translations": {
+      "bellows": "Loud bays Garm before Gnipahellir; The bursting fetters shall free the wolf; Much do I know, and more can see Of the fate of the gods, the mighty in fight.",
+      "thorpe": "Garm bays terribly before the Gnipa-cave: the fetters will be burst, and the wolf run loose. Much she knows, more can see, of the Ragnarok, of the mighty gods of victory.",
+      "literal": "Bays now Garm much before Cliff-cave, bond will break, and wolf run; much knows she wisdom, forward see I further of Ragnarok mighty of-victory-gods."
+    },
+    "sot_links": {
+      "figures": [
+        "Garm"
+      ],
+      "themes": [
+        "Ragnarok Refrain"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_50",
+    "original": "Hrymr ekr austan, hefisk lind fyrir, snýsk Jörmungandr í jötunmóði; ormr knýr unnir, en ari hlakkar, slítr nái neffölr, Naglfar losnar.",
+    "translations": {
+      "bellows": "Hrym steers from the east with shield held high, In giant-wrath does the serpent writhe; O'er the waves he twists, and the eagle squeals, The pale-beak tears corpses; Naglfar is loose.",
+      "thorpe": "Hrym steers from the east, he his shield raises before him; Jormungand writhes in giant-rage; the serpent beats the waves; the eagle screams; the pale-beak tears corpses; Naglfar is loosed.",
+      "literal": "Hrym drives from-east, raises shield before-him, turns Jormungandr in giant-rage; serpent beats waves, and eagle screams, tears corpses beak-pale, Naglfar is-loose."
+    },
+    "sot_links": {
+      "figures": [
+        "Hrym",
+        "Jormungandr"
+      ],
+      "artifacts": [
+        "artifact_naglfar"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_51",
+    "original": "Kjóll ferr austan, koma munu Muspells of lög lýðir, en Loki stýrir; fara fífls megir með freka öllum, þeim er bróðir Býleists í för er.",
+    "translations": {
+      "bellows": "A ship sails from the east, through the sea are coming Muspell's people, and Loki steers; The offspring of Fenrir all go with the wolf, And with them the brother of Byleist goes.",
+      "thorpe": "A ship comes from the east: Muspell's people over the sea are coming, and Loki steers; the sons of the fool [giant] are all with the wolf; Byleist's brother is with them in their course.",
+      "literal": "Ship goes from-east, come will Muspell's over sea people, and Loki steers; go fool's sons with wolf all, those whom brother of-Byleist [Loki] in company is."
+    },
+    "sot_links": {
+      "deities": [
+        "deity_loki"
+      ],
+      "themes": [
+        "Muspell's Sons",
+        "Naglfar"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_52",
+    "original": "Surtr ferr sunnan með sviga lævi, skín af sverði sól valtíva; grjótbjörg gnata, en gýgjar rata, troða halir helveg, en himinn klofnar.",
+    "translations": {
+      "bellows": "Surt fares from the south with the scourge of branches, The sun of the battle-gods shone from his sword; The crags are sundered, the giant-women sink, The dead throng Hel-way, and heaven is cloven.",
+      "thorpe": "Surt from the south comes with flickering flame; from his sword shines the sun of the gods of slaughtered falls. The rocky hills dash together, the giantesses totter; men tread the path of Hel, and heaven is cloven.",
+      "literal": "Surt goes from-south with-twigs' destruction [fire], shines from-sword sun of-slaughter-gods; rock-cliffs crash, and giantesses fall, tread men Hel-way, and heaven is-cloven."
+    },
+    "sot_links": {
+      "figures": [
+        "Surt"
+      ],
+      "themes": [
+        "Ragnarok Fire",
+        "Hel-way"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_53",
+    "original": "Þá kemr Hlínar harmr annarr fram, er Óðinn ferr við ulf vega, en bani Belja bjartr við Surti; þá mun Friggjar falla angantýr.",
+    "translations": {
+      "bellows": "Then comes to Hlin yet another hurt, When Odin fares to fight with the wolf, And Beli's slayer, bright, against Surt; Then shall fall the beloved of Frigg.",
+      "thorpe": "Then arises Hlin's second grief, when Odin goes with the wolf to fight, and the bright slayer of Beli with Surt; then will Frigg's beloved fall.",
+      "literal": "Then comes Hlin's sorrow second forward, when Odin goes against wolf to-fight, and slayer of-Beli [Freyr] bright against Surt; then will Frigg's delight [Odin] fall."
+    },
+    "sot_links": {
+      "deities": [
+        "deity_odin",
+        "deity_freyr",
+        "deity_frigg"
+      ],
+      "figures": [
+        "Fenrir",
+        "Surt"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_54",
+    "original": "Þá kemr inn mikli mögr Sigföður, Víðarr, vega at valdýrinu; lötr hann mögum Hveðrungs mund um standa hjör til hjarta, þá er hefnt föður.",
+    "translations": {
+      "bellows": "Then comes Sigfather's mighty son, Vithar, to fight with the foaming wolf; With his hand he thrusts his sword to the heart Of the giant's child, and his father is avenged.",
+      "thorpe": "Then comes the great son of Sieg-father, Vidar, to fight with the deadly beast. He with his hand impels his sword to the heart of the giant's son: then is his father avenged.",
+      "literal": "Then comes the great son of-Victory-father, Vidar, to-fight against slaughter-beast; lets he to-son of-Hvedrung [Fenrir] hand stand, sword to heart, then is avenged father."
+    },
+    "sot_links": {
+      "deities": [
+        "deity_vidar",
+        "deity_odin"
+      ],
+      "figures": [
+        "Fenrir"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_55",
+    "original": "Þá kemr inn mæri mögr Hlóðynjar, gengr Óðins sonr við orm vega, drepr hann af móði Miðgarðs véurr;",
+    "translations": {
+      "bellows": "Hither comes the son of Hlothyn, The bright one, Odin's son, to fight the serpent; In wrath he slays the warder of earth,",
+      "thorpe": "Then comes the great son of Hloddyn: Odin's son goes with the monster to fight; Midgard's Veor in his rage will slay it.",
+      "literal": "Then comes the glorious son of-Hlothyn, goes Odin's son against serpent to-fight, slays he in rage Midgard's-warder;"
+    },
+    "sot_links": {
+      "deities": [
+        "deity_thor"
+      ],
+      "figures": [
+        "Jormungandr"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_56",
+    "original": "munu halir allir heimstöð ryðja, gengr fet níu Fjörgynjar burr neppr frá naðri níðs ókvíðinn.",
+    "translations": {
+      "bellows": "Nine paces he goes, the son of Fjorgyn, And, dying, falls from the venomous worm; will men all home-stead leave.",
+      "thorpe": "Nine feet will Fjorgyn's son go, bowed from the serpent, who of infamy recks not; will men all home-stead leave.",
+      "literal": "will men all home-stead leave, goes paces nine Fjorgyn's son, dying-fast from serpent of-shame unfearing."
+    },
+    "sot_links": {
+      "deities": [
+        "deity_thor"
+      ],
+      "themes": [
+        "Thor's Fall"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_57",
+    "original": "Sól tötr svartna, sökkr fold í mar, hverfa af himni heiðar stjörnur; geisar eimr við aldurnara, leikr hár hiti við himin sjálfan.",
+    "translations": {
+      "bellows": "The sun turns black, earth sinks in the sea, The hot stars down from heaven are whirled; Fierce grows the steam and the life-feeding flame, Till fire leaps high about heaven itself.",
+      "thorpe": "The sun darkens, earth in ocean sinks, from heaven fall the bright stars, and the vapor glows with the all-nourishing fire, the heat rises high even to heaven itself.",
+      "literal": "Sun begins to-blacken, sinks earth in sea, vanish from heaven bright stars; rages steam with life-nourisher [fire], plays high heat against heaven itself."
+    },
+    "sot_links": {
+      "themes": [
+        "World Destruction",
+        "Solar Logic"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_58",
+    "original": "Geyr nú Garmr mjög fyr Gnipahelli, festr mun slitna, en freki renna; fjöld veit hon fræði, fram sé ek lengra um ragnarök römm sigtíva.",
+    "translations": {
+      "bellows": "Loud bays Garm before Gnipahellir; The bursting fetters shall free the wolf; Much do I know, and more can see Of the fate of the gods, the mighty in fight.",
+      "thorpe": "Garm bays terribly before the Gnipa-cave: the fetters will be burst, and the wolf run loose. Much she knows, more can see, of the Ragnarok, of the mighty gods of victory.",
+      "literal": "Bays now Garm much before Cliff-cave, bond will break, and wolf run; much knows she wisdom, forward see I further of Ragnarok mighty of-victory-gods."
+    },
+    "sot_links": {
+      "figures": [
+        "Garm"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_59",
+    "original": "Sér hon upp koma öðru sinni jörð ór ægi iðjagræna; falla forsar, flögrar örn yfir, sá er á fjalli fiska veiðir.",
+    "translations": {
+      "bellows": "Now do I see the earth anew Rise all green from the waves again; The cataracts fall, and the eagle flies, And fish he catches beneath the cliffs.",
+      "thorpe": "She sees arise a second time earth from ocean, beauteously green, waterfalls descending; the eagle flying over, which in the mountains fishes catches.",
+      "literal": "Sees she up come another time earth from sea ever-green; fall waterfalls, flies eagle over, he who on mountain fish catches."
+    },
+    "sot_links": {
+      "themes": [
+        "The New Earth",
+        "Regeneration"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_60",
+    "original": "Hittask æsir á Iðavelli ok um moldþinur mærar dæma, ok minnask þar á megindóma ok á förnar rúnar Fimbultýs.",
+    "translations": {
+      "bellows": "In Ithavoll meet the Aesir again, And utter their words of the mighty world-worm; The ancient runes of Fimbultyr there They remember, and all the deeds of old.",
+      "thorpe": "The Aesir meet on Ida's plain, and of the mighty earth-encircler speak, and there remember their mighty deeds, and the ancient runes of Fimbultyr.",
+      "literal": "Meet Aesir on Field-of-Activity and about world-serpent glorious judge, and remember there of mighty-events and of ancient runes of-Mighty-God [Odin]."
+    },
+    "sot_links": {
+      "deities": [
+        "deity_odin"
+      ],
+      "themes": [
+        "Return of Aesir"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_61",
+    "original": "Þar munu eftir undrsamligar gullnar töflur í grasi finnask, þær er í árdaga átt höfðu.",
+    "translations": {
+      "bellows": "Then in the grass are golden pieces found, The wonderful games of the ancient gods, Which in the days of old they had.",
+      "thorpe": "There shall be again found in the grass the wonderful golden tablets, which in days of old they had possessed.",
+      "literal": "There will after wondrous golden tables in grass be-found, those which in early-days they had."
+    },
+    "sot_links": {
+      "themes": [
+        "Golden Tablets",
+        "Legacy"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_62",
+    "original": "Munu ósánir akrar vaxa, böls mun batna, Baldr mun koma; búa þeir Höðr ok Baldr Hrofts sigtóftir vé valtíva. Vituð ér enn — eða hvat?",
+    "translations": {
+      "bellows": "Unsown shall the fields bring forth their grain, All ills grow better, and Baldr comes back; Baldr and Hoth dwell in Hropt's battle-hall, And the mighty gods: would you know yet more?",
+      "thorpe": "Unsown shall the fields bring forth; all evil be amended; Baldr shall come; Hodr and Baldr shall dwell in Hropt's palace of victory, the mansion of the gods of slaughter. Understand ye yet, or what?",
+      "literal": "Will unsown fields grow, ill will mend, Baldr will come; dwell they Hodr and Baldr in Hropt's [Odin's] victory-sites, sanctuary of-slaughter-gods. Know you yet — or what?"
+    },
+    "sot_links": {
+      "deities": [
+        "deity_baldr",
+        "deity_hodr"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_63",
+    "original": "Þá kná Hænir hlautvið kjósa ok burir byggja bræðra tveggja vítt vindheim. Vituð ér enn — eða hvat?",
+    "translations": {
+      "bellows": "Then Hönir wins the prophetic wand, And the sons of the brothers of Tveggi abide In the windy home: would you know yet more?",
+      "thorpe": "Then can Hoenir choose his lot, and the sons of the two brothers dwell in the wide wind-home. Understand ye yet, or what?",
+      "literal": "Then can Hoenir lot-wood choose and sons build of-brothers two [Odin/Vili/Ve] wide wind-home. Know you yet — or what?"
+    },
+    "sot_links": {
+      "deities": [
+        "deity_hoenir"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_64",
+    "original": "Sal sé hon standa sólu fegra, gulli þakðan á Gimli; þar skulu dyggvar dróttir byggja ok um aldardaga ynðis njóta.",
+    "translations": {
+      "bellows": "More fair than the sun, a hall I see, Roofed with gold, on Gimle it stands; There shall the righteous people dwell, And happiness ever there shall they have.",
+      "thorpe": "A hall she sees standing than the sun brighter, with gold bedecked, in Gimli: there shall be righteous people dwell, and for evermore happiness enjoy.",
+      "literal": "Hall sees she standing sun fairer, gold thatched on Gimli; there shall worthy hosts dwell and through age-days joy enjoy."
+    },
+    "sot_links": {
+      "themes": [
+        "Gimli",
+        "Afterlife"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_65",
+    "original": "Þá kemr inn ríki at regindómi öflugr ofan, sá er öllu ræðr.",
+    "translations": {
+      "bellows": "There comes on high, all kingdoms to rule, The mighty lord, the all-powerful one.",
+      "thorpe": "Then comes the mighty one to the great judgment, the powerful from above, who rules over all.",
+      "literal": "Then comes the mighty at the-great-judgment powerful from-above, he who all rules."
+    },
+    "sot_links": {
+      "themes": [
+        "The Mighty One"
+      ]
+    }
+  },
+  {
+    "stanza_id": "vsp_66",
+    "original": "Þar kemr inn dimmi dreki fljúgandi, naðr fránn neðan frá Niðafjöllum; berr sér í fjöðrum, flþgr völl yfir, Níðhöggr nái. Nú mun hon sökkvask.",
+    "translations": {
+      "bellows": "From below the dragon dark comes flying, Nithhogg from Nithafjoll over the plains; From his wings he shakes the corpses as he flies: Now she must sink.",
+      "thorpe": "There comes the dark dragon flying, the glistening serpent, from the Nidafells. He bears in his pinions corpses—over the plain flies Nidhogg. Now she will sink.",
+      "literal": "There comes the dark dragon flying, serpent glistening from-below from Dark-mountains; bears in feathers, flies field over, Nidhogg corpses. Now will she sink."
+    },
+    "sot_links": {
+      "figures": [
+        "Nidhogg"
+      ]
+    }
+  }
+]
