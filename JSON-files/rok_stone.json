@@ -1,0 +1,137 @@
+[
+  {
+    "inscription_id": "rok_01",
+    "original": "Aft Vámarð standa rúnar þar. En Varinn fáði þær, faðir, eft dauðan son.",
+    "translations": {
+      "literal": "After Vámóðr stand runes these. And Varinn colored them, father, after dead son.",
+      "standard": "In memory of Vámóðr stand these runes. And Varinn wrote them, the father, in memory of his dead son."
+    },
+    "sot_links": { "figures": ["Vámóðr", "Varinn"], "themes": ["Memorial", "Encryption Module"] }
+  },
+  {
+    "inscription_id": "rok_02",
+    "original": "Segjum munnminni þat, hverjar tvær nágistir þær væri, þær er tólf sinnum varat nágifnar at helu, báðar saman miðlar ýmissum mönnum.",
+    "translations": {
+      "literal": "Say [as] folk-memory that, which two war-booties those were, which twelve times were taken as war-booty, both together shared [to] various men.",
+      "standard": "I say this as folk-memory, which the two war-booties were that twelve times were taken as war-booty, both together from various men."
+    },
+    "sot_links": { "themes": ["Riddle Logic", "Folk-Memory"] }
+  },
+  {
+    "inscription_id": "rok_03",
+    "original": "Þat segjum annat, hverr fyrir níu öldum varð með Hreiðgotum lífi týna; ok dó hann með þeim fyrir sinni sök.",
+    "translations": {
+      "literal": "That say second, who before nine ages became with Hreiðgoths life lose; and died he with them for his guilt.",
+      "standard": "I say this second, who nine generations ago lost his life with the Hreiðgoths; and he died with them because of his guilt."
+    },
+    "sot_links": { "locations": ["Hreiðgotaland"], "themes": ["Heroic History", "Ancestral Debt"] }
+  },
+  {
+    "inscription_id": "rok_04",
+    "original": "Réð Þjóðríkr hinn þormóði, stillir flutna, strandu Hreiðmarar. Sitr nú gærr á gota sínum, skjaldi of fatlaðr, skati Maringa.",
+    "translations": {
+      "literal": "Ruled Þjóðríkr the bold, lord [of] sea-warriors, shore [of] Hreið-sea. Sits now ready on horse his, shield over slung, prince [of] Maerings.",
+      "standard": "Theodoric the bold, lord of sea-warriors, ruled over the shores of the Hreið-sea. Now he sits ready on his Gothic horse, his shield slung over his shoulder, the prince of the Maerings."
+    },
+    "sot_links": { "figures": ["Theodoric the Great"], "themes": ["Gothic Hardware", "Stanza Inversion"] }
+  },
+  {
+    "inscription_id": "rok_05",
+    "original": "Þat segjum tólfta, hvar hestr sé Gunnar etu vettvangi á, konungar tveir tigir sváir liggja.",
+    "translations": {
+      "literal": "That say twelfth, where horse may-be [of] Gunnr food-battlefield on, kings two tens [twenty] such lie.",
+      "standard": "I say this twelfth, where the horse of Gunnr [the wolf] sees food on the battlefield, where twenty kings lie dead."
+    },
+    "sot_links": { "figures": ["Gunnr"], "beasts": ["beast_wolf"], "themes": ["Battle Logic", "Kenning Implementation"] }
+  },
+  {
+    "inscription_id": "rok_06",
+    "original": "Þat segjum þrettánda, hverir tveir tigir konungar sátu at Sjólundi fjóra vetr, nafni bbornir, fimm bræðr, Valkis synir, hveðnir átta, Haðula synir.",
+    "translations": {
+      "literal": "That say thirteenth, which two tens [twenty] kings sat at Sjólund four winters, [of] names born, five brothers, Valkir's sons, eight [of] Hveðnir, Haðulr's sons.",
+      "standard": "I say this thirteenth, which twenty kings sat in Sjólund for four years, born with [the same] names, five brothers, the sons of Valkir, and eight Hveðnirs, the sons of Haðulr."
+    },
+    "sot_links": { "figures": ["Valkir", "Haðulr"], "locations": ["Sjólund"], "themes": ["Kingship Lists", "Numerical Symbolism"] }
+  },
+  {
+    "inscription_id": "rok_07",
+    "original": "Segjum munnminni þat, hverr of dæmi væri konunga sjá, hverr væri gjaldi goldinn eftir kvenna.",
+    "translations": {
+      "literal": "Say folk-memory that, who of example were kings this, who were payment paid after women.",
+      "standard": "I say this as folk-memory, which of these kings was paid a ransom for his wife."
+    },
+    "sot_links": { "themes": ["Riddle Logic", "Wife-Gild"] }
+  },
+  {
+    "inscription_id": "rok_08",
+    "original": "Segjum þat munnminni, hverr væri bborinn af tveimr tigi konunga á vettvangi.",
+    "translations": {
+      "literal": "Say that folk-memory, who were born of two tens [twenty] kings on battlefield.",
+      "standard": "I say this as folk-memory, who was born of twenty kings on the battlefield."
+    },
+    "sot_links": { "themes": ["Heroic Lineage", "Battlefield Birth"] }
+  },
+  {
+    "inscription_id": "rok_09",
+    "original": "Þat segjum tólfta, hvar hestr sé Gunnar etu vettvangi á, konungar tveir tigir sváir liggja.",
+    "translations": {
+      "literal": "That say twelfth, where horse may-be [of] Gunnr food-battlefield on, kings two tens [twenty] such lie.",
+      "standard": "I say this twelfth, where the horse of Gunnr [the wolf] sees food on the battlefield, where twenty kings lie dead."
+    },
+    "sot_links": { "figures": ["Gunnr"], "beasts": ["beast_wolf"], "themes": ["Battle Logic", "Death Records"] }
+  },
+  {
+    "inscription_id": "rok_10",
+    "original": "Segjum munnminni, hvar ítrir menn sáu hring-vápn dreyra-drifin.",
+    "translations": {
+      "literal": "Say folk-memory, where noble men saw ring-weapons blood-drifted.",
+      "standard": "I say this as folk-memory, where noble men saw ring-weapons [swords] covered in blood."
+    },
+    "sot_links": { "themes": ["Battle Imagery", "Kenning Implementation"] }
+  },
+  {
+    "inscription_id": "rok_11",
+    "original": "Sátti tulu tía kulu aft sunu sinna. Trúa þann teljum við.",
+    "translations": {
+      "literal": "Set [he] counts ten balls after sons his. True that count we.",
+      "standard": "He set ten counters for his sons. We count that as true."
+    },
+    "sot_links": { "themes": ["Cipher Logic", "Numerical Memory"] }
+  },
+  {
+    "inscription_id": "rok_12",
+    "original": "Segjum munnminni þat, hverr of dæmi væri konunga sjá. Segjum þat munnminni, hverr væri bborinn af tveimr tigi konunga á vettvangi.",
+    "translations": {
+      "literal": "Say folk-memory that, which of example were kings this. Say that folk-memory, who were born of two tens [twenty] kings on battlefield.",
+      "standard": "I say this as folk-memory, which of these kings was an example. I say this as folk-memory, who was born of twenty kings on the battlefield."
+    },
+    "sot_links": { "themes": ["Refrain Execution", "Heroic Lineage"] }
+  },
+  {
+    "inscription_id": "rok_13",
+    "original": "Þat segjum víg-tigi, hvar hestr sé Gunnar etu vettvangi á, konungar tveir tigir sváir liggja.",
+    "translations": {
+      "literal": "That say war-twenty [twenty-fold], where horse may-be [of] Gunnr food-battlefield on, kings two tens such lie.",
+      "standard": "I say this twenty-fold, where the horse of Gunnr sees food on the battlefield, where twenty kings lie dead."
+    },
+    "sot_links": { "figures": ["Gunnr"], "beasts": ["beast_wolf"], "themes": ["Battle Logic", "Encryption Scaling"] }
+  },
+  {
+    "inscription_id": "rok_14",
+    "original": "Aft Vámarð standa rúnar þar. Varinn fáði eft dauðan son. Segjum munnminni þat.",
+    "translations": {
+      "literal": "After Vámóðr stand runes there. Varinn colored after dead son. Say folk-memory that.",
+      "standard": "In memory of Vámóðr stand these runes. Varinn wrote them in memory of his dead son. I say this as folk-memory."
+    },
+    "sot_links": { "figures": ["Vámóðr", "Varinn"], "themes": ["Memorial Wrap-up"] }
+  },
+  {
+    "inscription_id": "rok_15",
+    "original": "Segjum munnminni, hvar ítrir menn sáu hring-vápn dreyra-drifin. Þat segjum víg-tigi.",
+    "translations": {
+      "literal": "Say folk-memory, where noble men saw ring-weapons blood-drifted. That say war-twenty.",
+      "standard": "I say this as folk-memory, where noble men saw ring-weapons covered in blood. I say this twenty-fold."
+    },
+    "sot_links": { "themes": ["System Termination", "Kenning Implementation"] }
+  }
+]
