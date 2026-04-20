@@ -1,0 +1,29 @@
+[
+  {
+    "inscription_id": "eggja_01",
+    "original": "hin varb naseuma maba pormni huuaR ob kam harba þi a fiti",
+    "translations": {
+      "literal": "Not was-it sun-struck [and] not man [with] iron stone [this]. Who over came [this] stone [is] the-one in water.",
+      "standard": "This stone was not hit by the sun, and the stone was not cut with iron. Let no man uncover it while the moon is waning, and let no misguided men lay it aside."
+    },
+    "sot_links": { "themes": ["Ritual Firewall", "Encryption"], "artifacts": ["Eggja Stone"] }
+  },
+  {
+    "inscription_id": "eggja_02",
+    "original": "alu misurki",
+    "translations": {
+      "literal": "alu [protection/sacred] misurki [wrong-doer].",
+      "standard": "Protection against the wrong-doer."
+    },
+    "sot_links": { "themes": ["Security Protocol", "Warding"] }
+  },
+  {
+    "inscription_id": "eggja_03",
+    "original": "Hinn varp naseu maba, þormni hvar ob kam. Her dreyra i baug sehu, maba þormni hvar ob kam.",
+    "translations": {
+      "literal": "He cast corpse-sea [blood] man, [with] weary-pole [oar] who over came. Here blood in ring see, man [with] weary-pole who over came.",
+      "standard": "He sprinkled the corpse-sea [blood] on it, he who came across [the water] with the weary-oar. In what way has the land of the horseman [the sea] come here to the land of men?"
+    },
+    "sot_links": { "themes": ["Necromancy", "Sea-Logic"], "locations": ["Corpse-sea"] }
+  }
+]
