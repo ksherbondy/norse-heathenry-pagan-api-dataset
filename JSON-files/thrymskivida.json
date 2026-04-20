@@ -1,0 +1,326 @@
+[
+  {
+    "stanza_id": "thry_01",
+    "original": "Vreiðr var þá Vingþórr, er hann vaknaði ok síns hamars of saknaði; skegg nam hrista, skör nam dýja, réð Jarðar burr um at þreifask.",
+    "translations": {
+      "bellows": "Wroth was Vingthor when he awoke, and his hammer he found was gone; his beard he shook, his hair he tossed, the son of Earth began to grope about.",
+      "thorpe": "Wroth was Vingthor, when he awoke, and his hammer missed; his beard he shook, his head he tossed, the son of Earth gaped around him.",
+      "literal": "Angry was then Wing-Thor, when he woke and his hammer of missed [lacked]; beard began-to shake, hair began-to toss, did Earth's son [Thor] about to grope-around."
+    },
+    "sot_links": { "deities": ["deity_thor"], "artifacts": ["artifact_mjollnir"], "themes": ["Theft", "Loss"] }
+  },
+  {
+    "stanza_id": "thry_02",
+    "original": "Ok hann þat orða fyrst of kvað: 'Heyrðu nú, Loki, hvat ek nú mæli, er eigi veit jarðar hvergi né upphimins: Áss er stolinn hamri!'",
+    "translations": {
+      "bellows": "And this was the first word that he spoke: 'Hearken now, Loki, what I tell thee, which no one knows on earth below or in heaven above: the hammer of the god is stolen!'",
+      "thorpe": "And first of all these words he uttered: 'Hearken now, Loki! what I now say, which no one knows on earth, or in high heaven: the god's hammer is stolen!'",
+      "literal": "And he that of-words first of spoke: 'Hear-you now, Loki, what I now speak, which not knows of-earth anywhere nor up-heaven: God is stolen [of] hammer!'"
+    },
+    "sot_links": { "deities": ["deity_thor", "deity_loki"], "artifacts": ["artifact_mjollnir"] }
+  },
+  {
+    "stanza_id": "thry_03",
+    "original": "Gengu þeir fagra Freyju túna, ok hann þat orða fyrst of kvað: 'Muntu mér, Freyja, fjaðrhams ljá, ef ek minn hamar mætta-ak finna?'",
+    "translations": {
+      "bellows": "To the dwelling of Freyja the fair they went, and this was the first word that he spoke: 'Wilt thou, Freyja, thy feather-garment lend me, that so my hammer I may find?'",
+      "thorpe": "They went to the fair Freyja’s dwelling, and he these words first of all said: 'Wilt thou, Freyja! lend me thy feather-coat, if I my hammer may find?'",
+      "literal": "Went they fair Freyja's courts, and he that of-words first of spoke: 'Will-you to-me, Freyja, feather-hide lend, if I my hammer might find?'"
+    },
+    "sot_links": { "deities": ["deity_freyja", "deity_thor"], "artifacts": ["artifact_feather_skin"], "themes": ["Resource Acquisition"] }
+  },
+  {
+    "stanza_id": "thry_04",
+    "original": "Þó gefða ek þér, þótt ór gulli væri, ok þó selda, þótt ór silfri væri.",
+    "translations": {
+      "bellows": "'I would give it thee though it were of gold, and I would grant it though it were of silver.'",
+      "thorpe": "'I would give it thee, although of gold it were, and trust it to thee, though it were of silver.'",
+      "literal": "Though gave I [it] to-you, though from gold [it] were, and though sold [it], though from silver [it] were."
+    },
+    "sot_links": { "deities": ["deity_freyja"] }
+  },
+  {
+    "stanza_id": "thry_05",
+    "original": "Flaug þá Loki, fjaðrhamr dundi, unz fyr útan kom Ása garða ok fyr innan kom jötna heima.",
+    "translations": {
+      "bellows": "Then Loki flew, the feather-dress whirred, till he left behind him the home of the gods, and reached at last the realm of the giants.",
+      "thorpe": "Then Loki flew, the feather-coat whirred, until he came beyond the Aesir’s dwellings, and at length arrived in Jötunheim.",
+      "literal": "Flew then Loki, feather-hide whirred, until before out came Aesir's courts and before in came giants' homes."
+    },
+    "sot_links": { "deities": ["deity_loki"], "locations": ["Jotunheimr", "Asgard"], "themes": ["Reconnaissance"] }
+  },
+  {
+    "stanza_id": "thry_06",
+    "original": "Þrymr sat á haugi, þursa dróttinn, greyjum sínum gullbönd sneri ok mörum sínum mön jafnaði.",
+    "translations": {
+      "bellows": "Thrym sat on a mound, the giants' lord, for his greyhounds gold bands he twisted, and for his horses their manes he smoothed.",
+      "thorpe": "Thrym sat on a mound, the Jötun’s lord, for his greyhounds gold bands plaiting, and his horses’ manes smoothing.",
+      "literal": "Thrymr sat on mound, giants' lord, greyhounds his gold-bands turned [twisted] and horses his manes smoothed."
+    },
+    "sot_links": { "figures": ["Thrymr"], "themes": ["The Antagonist"] }
+  },
+  {
+    "stanza_id": "thry_07",
+    "original": "Hvat er með ásum? Hvat er með álfum? Hví ertu einn kominn í jötunheima?",
+    "translations": {
+      "bellows": "'How fare the Aesir? How fare the Elves? Why comest thou alone to the giants' land?'",
+      "thorpe": "'How is it with the Aesir? How is it with the Alfs? Why art thou come alone to Jötunheim?'",
+      "literal": "What is with Aesir? What is with Elves? why are-you alone come in giant-homes?"
+    }
+  },
+  {
+    "stanza_id": "thry_08",
+    "original": "Illt er með ásum, illt er með álfum; hefir þú Hlórriða hamar of folginn?",
+    "translations": {
+      "bellows": "'Ill fares it with the Aesir, ill fares it with the Elves; hast thou hidden Hlorrithi's hammer?'",
+      "thorpe": "'It is ill with the Aesir, it is ill with the Alfs. Hast thou Hlorrithi’s hammer hidden?'",
+      "literal": "Ill is with Aesir, ill is with Elves; have you Hlorrithi's hammer of hidden?"
+    },
+    "sot_links": { "deities": ["deity_loki", "deity_thor"], "artifacts": ["artifact_mjollnir"] }
+  },
+  {
+    "stanza_id": "thry_09",
+    "original": "Ek hefi Hlórriða hamar of folginn átta röstum fyr jörð neðan; hann engi maðr aftr of heimtir, nema hanni færi Freyju at kván.",
+    "translations": {
+      "bellows": "'I have hidden Hlorrithi's hammer eight miles deep in the earth below; and back again shall no man bring it, unless Freyja I win to be my wife.'",
+      "thorpe": "'I have Hlorrithi’s hammer hidden eight rasts beneath the earth; no one shall ever take it back, unless he brings me Freyja for a wife.'",
+      "literal": "I have Hlorrithi's hammer of hidden eight miles before earth beneath; him no man back of fetches, unless to-him [he] brings Freyja as wife."
+    },
+    "sot_links": { "figures": ["Thrymr"], "deities": ["deity_freyja"], "themes": ["Ransom"] }
+  },
+  {
+    "stanza_id": "thry_10",
+    "original": "Flaug þá Loki, fjaðrhamr dundi, unz fyr útan kom jötna heima ok fyr innan kom Ása garða.",
+    "translations": {
+      "bellows": "Then Loki flew, the feather-dress whirred, till he left behind him the giants' land, and reached at last the home of the gods.",
+      "thorpe": "Then Loki flew, the feather-coat whirred, until he came beyond the Jötun dwellings, and at length arrived in the Aesir’s courts.",
+      "literal": "Flew then Loki, feather-hide whirred, until before out came giants' homes and before in came Aesir's courts."
+    }
+  },
+  {
+    "stanza_id": "thry_11",
+    "original": "Mætti hann Þór miðra garða, ok hann þat orða fyrst of kvað: 'Hefir þú erindi sem erfiði? Segðu á lopti löng tíðindi, oft sitjanda sögur of fallask ok liggjandi lúgi of mælir.'",
+    "translations": {
+      "bellows": "There Thor he met in the mid-court yard, and this was the first word that he spoke: 'Hast thou news as well as trouble? Say from the air thy tidings at length, for oft does the sitter his story forget, and the lier-down speaks only lies.'",
+      "thorpe": "Thor met him in the middle of the court, and these words first of all he said: 'Hast thou had success as well as labor? Tell me from the air thy long tidings; for ofttimes a sitter his tale forgets, and he who lies down speaks falsehood.'",
+      "literal": "Met he Thor mid courts, and he that of-words first of spoke: 'Have you errand as toil? Say in air long tidings, often sitter's stories of fail [are forgotten] and lying-one lie of speaks.'"
+    },
+    "sot_links": { "deities": ["deity_thor", "deity_loki"] }
+  },
+  {
+    "stanza_id": "thry_12",
+    "original": "Hefi ek erindi ok erfiði; Þrymr hefir þinn hamar, þursa dróttinn; hann engi maðr aftr of heimtir, nema honum færi Freyju at kván.",
+    "translations": {
+      "bellows": "'I have news as well as trouble; Thrym has thy hammer, the giants' lord; and back again shall no man bring it, unless Freyja he wins to be his wife.'",
+      "thorpe": "'I have had success as well as labor. Thrym has thy hammer, the Jötun’s lord. No one shall ever take it back, unless he brings him Freyja for a wife.'",
+      "literal": "Have I errand and toil; Thrymr has your hammer, giants' lord; him no man back of fetches, unless to-him [he] brings Freyja as wife."
+    }
+  },
+  {
+    "stanza_id": "thry_13",
+    "original": "Ganga þeir fagra Freyju at hitta, ok hann þat orða fyrst of kvað: 'Bitt þú þig, Freyja, brúðarlíni; vit skulum aka tvö í jötunheima.'",
+    "translations": {
+      "bellows": "To the fair Freyja then they went, and this was the first word that he spoke: 'Bind on thee, Freyja, the bridal veil, for we two must haste to the giants' land.'",
+      "thorpe": "They went the fair Freyja to find; and these words first of all he said: 'Bind on thee, Freyja! the bridal linen; we two must drive to Jötunheim.'",
+      "literal": "Went they fair Freyja to find, and he that of-words first of spoke: 'Bind you yourself, Freyja, bridal-linen; we-two shall drive two in giant-homes.'"
+    },
+    "sot_links": { "deities": ["deity_thor", "deity_freyja"] }
+  },
+  {
+    "stanza_id": "thry_14",
+    "original": "Vreið varð þá Freyja ok fnasaði, öll Ása salr undir bifðist, stökk þat it mikla men Brísinga: 'Mik veiztu verða ver-gjarnasta, ef ek ek með þér í jötunheima.'",
+    "translations": {
+      "bellows": "Wroth was Freyja, and fiercely she snorted, and the dwelling of all the gods was shaken, and the Brising-necklace burst asunder: 'Most lustful indeed should I look to all if I journeyed with thee to the giants' land.'",
+      "thorpe": "Wroth then was Freyja, and with anger chafed, all the Aesir’s hall beneath her trembled; in shivers flew the famed Brísinga necklace. 'Know me to be of women most lascivious, if I with thee drive to Jötunheim.'",
+      "literal": "Angry became then Freyja and snorted, all Aesir's hall under shook, sprang that the great necklace Brisings: 'Me know-you become man-eagerest, if I drive with you in giant-homes.'"
+    },
+    "sot_links": { "deities": ["deity_freyja"], "artifacts": ["artifact_brisingamen"], "themes": ["Indignation"] }
+  },
+  {
+    "stanza_id": "thry_15",
+    "original": "Senn váru æsir allir á þingi ok ásynjur allar á máli, ok um þat réðu rík regin, hvé þeir Hlórriða hamar of heimti.",
+    "translations": {
+      "bellows": "Soon were the gods in council together, and the goddesses all in conference met, and the mighty powers together planned how Hlorrithi's hammer they might find.",
+      "thorpe": "Straightway the Aesir were all at the Thing, and the Asynjur all in council; and thereon consulted the powerful gods, how Hlorrithi’s hammer they might get back.",
+      "literal": "Soon were Aesir all at assembly and Asynjur all at speech, and about that decided mighty powers, how they Hlorrithi's hammer of fetch."
+    },
+    "sot_links": { "themes": ["The Council"] }
+  },
+  {
+    "stanza_id": "thry_16",
+    "original": "Þá kvað þat Heimdallr, hvítastr ása, vissi hann vel fram, sem vanir aðrir: 'Bindum vér Þór þá brúðarlíni, hafi hann it mikla men Brísinga!'",
+    "translations": {
+      "bellows": "Then Heimdall spoke, whitest of the gods, like the Vanir he knew the future well: 'Bind we on Thor the bridal veil, let him bear the mighty Brising-necklace!'",
+      "thorpe": "Then spake Heimdall, of Aesir whitest—he well foresaw the future, like the Vanir—'Let us clothe Thor with bridal linen, let him have the famed Brísinga necklace.'",
+      "literal": "Then spoke that Heimdallr, whitest of-Aesir, knew he well forward, as Vanir others: 'Bind we Thor then bridal-linen, have he the great necklace Brisings!'"
+    },
+    "sot_links": { "deities": ["deity_heimdallr", "deity_thor"], "artifacts": ["artifact_brisingamen"], "themes": ["Strategy", "Gender-Bending"] }
+  },
+  {
+    "stanza_id": "thry_17",
+    "original": "Látum und hánum hrynja lukla ok kvenváðir um kné falla, en á brjósti breiða steina ok hagliga um höfuð falda.",
+    "translations": {
+      "bellows": "'Keys at his belt let clatter and jar, and a woman's dress let him wear over his knees; on his breast let us set the jewels bright, and a neat hood wrap about his head.'",
+      "thorpe": "'Let by his side keys jingle, and woman’s weeds fall round his knees, but on his breast placed precious stones, and a neat coif set on his head.'",
+      "literal": "Let under him clatter keys and woman-clothes around knees fall, but on breast broad stones [jewels] and neatly around head fold [hood].'"
+    }
+  },
+  {
+    "stanza_id": "thry_18",
+    "original": "Þá kvað þat Þórr, þrúðugr áss: 'Mik munu æsir argan kalla, ef ek bindast læt brúðarlíni.'",
+    "translations": {
+      "bellows": "Then Thor, the mighty, spoke and said: 'Argr [unmanly] the gods would call me surely, if I let them bind on me the bridal veil.'",
+      "thorpe": "Then spake Thor, the mighty Ás: 'Me the Aesir will unmanly [argan] call, if I let myself be clothed in bridal linen.'",
+      "literal": "Then spoke that Thor, mighty god: 'Me will Aesir unmanly [argan] call, if I bind let bridal-linen.'"
+    },
+    "sot_links": { "deities": ["deity_thor"], "themes": ["Argr", "Masculine Integrity"] }
+  },
+  {
+    "stanza_id": "thry_19",
+    "original": "Þá kvað þat Loki, Laufeyjar sonr: 'Þegi þú, Þórr, þeira orða; senn munu jötnar Ásgarð byggja, nema þú þinn hamar þér of heimtir.'",
+    "translations": {
+      "bellows": "Then Loki, Laufey's son, spoke and said: 'Be silent, Thor, and speak not thus; else will the giants in Asgard dwell if thy hammer is brought not home to thee.'",
+      "thorpe": "Then spake Loki, Laufey’s son: 'Thor! cease from such words; straightway will the Jötuns inhabit Asgard, unless thou gettest back thy hammer.'",
+      "literal": "Then spoke that Loki, Laufey's son: 'Silent you, Thor, of-those words; soon will giants Asgard inhabit, unless you your hammer to-you of fetch.'"
+    },
+    "sot_links": { "deities": ["deity_loki", "deity_thor"], "locations": ["Asgard"] }
+  },
+  {
+    "stanza_id": "thry_20",
+    "original": "Bundu þeir Þór þá brúðarlíni ok inu mikla meni Brísinga; létu und hánum hrynja lukla ok kvenváðir um kné falla, en á brjósti breiða steina ok hagliga um höfuð falda.",
+    "translations": {
+      "bellows": "Then they bound on Thor the bridal veil, and the mighty Brising-necklace they gave him; keys at his belt they let clatter and jar, and a woman's dress he wore over his knees; on his breast they set the jewels bright, and a neat hood wrapped they about his head.",
+      "thorpe": "Clothed they then Thor in bridal linen, and the famed Brísinga necklace; let by his side keys jingle, and woman’s weeds fall round his knees; and on his breast placed precious stones, and a neat coif set on his head.",
+      "literal": "Bound they Thor then bridal-linen and the great necklace Brisings; let under him clatter keys and woman-clothes around knees fall, but on breast broad stones and neatly around head fold."
+    }
+  },
+  {
+    "stanza_id": "thry_21",
+    "original": "Senn váru hafrar heim of reknir, skyndir at sköklo, rannu mjök gervir; björg brotnuðu, brann jörð í loga, ók Óðins sonr í jötunheima.",
+    "translations": {
+      "bellows": "Soon the goats were driven home, and to the shafts they were bound, and the mountains burst, and the earth was on fire, as the son of Odin journeyed to the giants' land.",
+      "thorpe": "Straightway the goats were home driven, hastened to the traces, they had fast to run. The mountains burst, the earth was in a flame; Odin’s son drove into Jötunheim.",
+      "literal": "Soon were goats home of driven, hurried at traces, ran much fast; mountains broke, burned earth in flame, drove Odin's son in giant-homes."
+    },
+    "sot_links": { "deities": ["deity_thor"], "beasts": ["beast_thor_goats"], "themes": ["Departure", "Environmental Impact"] }
+  },
+  {
+    "stanza_id": "thry_22",
+    "original": "Þá kvað þat Þrymr, þursa dróttinn: 'Rísið upp, jötnar, ok stráið bekki; nú færa mér Freyju at kván, Njarðar dóttur ór Nóatúnum.'",
+    "translations": {
+      "bellows": "Then Thrym spoke, the giants' lord: 'Rise up, giants, and strew the benches; for now they bring me Freyja to be my wife, the daughter of Njord from Noatun.'",
+      "thorpe": "Then spake Thrym, the Jötun’s lord: 'Rise up, Jötuns! and strew the benches; now they bring me Freyja to be my wife, Njörd’s daughter, from Nóatún.'",
+      "literal": "Then spoke that Thrymr, giants' lord: 'Rise up, giants, and strew benches; now fetch to-me Freyja as wife, Njord's daughter from Noatun.'"
+    },
+    "sot_links": { "figures": ["Thrymr"], "deities": ["deity_freyja", "deity_njord"], "locations": ["Noatun"] }
+  },
+  {
+    "stanza_id": "thry_23",
+    "original": "Ganga hér at garði gullhyrndar kýr, öxn alsvartir jötni at gamni; fjölð á ek menja, fjölð á ek fástafa, einnar mér Freyju ávant þykkir.",
+    "translations": {
+      "bellows": "'Gold-horned kine are in the court, and all-black oxen for the giant's joy; many my jewels, and many my gems, and Freyja alone I lack, I ween.'",
+      "thorpe": "'Hither to the court run gold-horned cows, all-black oxen, for the Jötuns’ joy. Many trinkets I have, many necklaces: Freyja alone I seemed to lack.'",
+      "literal": "Go here at court gold-horned cows, oxen all-black to-giant at joy; many have I necklaces, many have I gems, one to-me Freyja lacking seems."
+    },
+    "sot_links": { "figures": ["Thrymr"], "themes": ["Wealth", "The Missing Component"] }
+  },
+  {
+    "stanza_id": "thry_24",
+    "original": "Var þar at kveldi of komit snemma ok fyr jötna öl fram borit; einn át uxa, átta laxa, krásir allar, þær er konur skyldu, drakk Sifjar verr sáld þrjú mjaðar.",
+    "translations": {
+      "bellows": "Early it was in the evening-tide, and the ale was brought for the giants all; Thor ate an ox, and eight salmon, and all the dainties as well that for the women were set, and three tuns of mead the husband of Sif drank.",
+      "thorpe": "In the evening they were early come, and for the Jötuns beer was brought forth. Thor alone ate an ox, and eight salmon, and all the dainties as well that for the women were set; Sif’s husband drank three tuns of mead.",
+      "literal": "Was there at evening of come early and before giants ale forward borne; one [Thor] ate ox, eight salmon, dainties all, those which women should [eat], drank Sif's man measures three of-mead."
+    },
+    "sot_links": { "deities": ["deity_thor"], "themes": ["The Feast", "Anomalous Consumption"] }
+  },
+  {
+    "stanza_id": "thry_25",
+    "original": "Þá kvað þat Þrymr, þursa dróttinn: 'Hvar sáttu brúðir bíta hvassara? sá-at ek brúðir bíta breiðara, né inn meira mjöð mey of drekka.'",
+    "translations": {
+      "bellows": "Then Thrym spoke, the giants' lord: 'Where hast thou seen a bride bite more hungerly? I have never seen a bride bite broader, nor a maid that drank more mead than this.'",
+      "thorpe": "Then spake Thrym, the Jötun’s lord: 'Where hast thou seen brides eat more voraciously? I never saw brides eat more voraciously, nor a maiden drink more mead.'",
+      "literal": "Then spoke that Thrymr, giants' lord: 'Where saw-you brides bite sharper? saw-not I brides bite broader, nor the more mead maid of drink.'"
+    },
+    "sot_links": { "figures": ["Thrymr"], "themes": ["Suspicion"] }
+  },
+  {
+    "stanza_id": "thry_26",
+    "original": "Sat in alsnotra ambátt fyrir, er orð fann við jötuns máli: 'Át vætr Freyja átta nóttum, svá var hón óðfús í jötunheima.'",
+    "translations": {
+      "bellows": "Hard by the crafty handmaid sat, and a word she found to answer the giant: 'Eight nights has Freyja nothing eaten, so hot was her longing for the giants' land.'",
+      "thorpe": "The very prudent handmaid sat by, who a word found to answer the Jötun: 'Freyja has nothing eaten for eight nights, so eager was she for Jötunheim.'",
+      "literal": "Sat the all-wise handmaid [Loki] before, who word found against giant's speech: 'Ate nothing Freyja eight nights, so was she mad-eager in giant-homes.'"
+    },
+    "sot_links": { "deities": ["deity_loki"], "themes": ["Social Engineering", "The Explanation"] }
+  },
+  {
+    "stanza_id": "thry_27",
+    "original": "Laut und línu, lysti at kyssa, en hann utan stokk endlangann sal: 'Hví eru öndótt augu Freyju? þykkir mér ór augum eldr of brenna.'",
+    "translations": {
+      "bellows": "Thrym looked 'neath the veil, for he longed to kiss, but back he leaped the length of the hall: 'Why are so fearful the eyes of Freyja? Fire, methinks, from her eyes is flashing.'",
+      "thorpe": "Thrym stooped under the veil, he designed to kiss; but back he leaped the length of the hall. 'Why are Freyja’s eyes so piercing? methinks that fire burns from her eyes.'",
+      "literal": "Stooped under linen, desired to kiss, but he out sprang end-long hall: 'Why are fierce eyes of-Freyja? seems to-me from eyes fire of burn.'"
+    },
+    "sot_links": { "figures": ["Thrymr"], "themes": ["Close Encounter", "Physical Anomaly"] }
+  },
+  {
+    "stanza_id": "thry_28",
+    "original": "Sat in alsnotra ambátt fyrir, er orð fann við jötuns máli: 'Svaf vætr Freyja átta nóttum, svá var hón óðfús í jötunheima.'",
+    "translations": {
+      "bellows": "Hard by the crafty handmaid sat, and a word she found to answer the giant: 'Eight nights has Freyja nothing slept, so hot was her longing for the giants' land.'",
+      "thorpe": "The very prudent handmaid sat by, who a word found to answer the Jötun: 'Freyja has not slept for eight nights, so eager was she for Jötunheim.'",
+      "literal": "Sat the all-wise handmaid before, who word found against giant's speech: 'Slept nothing Freyja eight nights, so was she mad-eager in giant-homes.'"
+    }
+  },
+  {
+    "stanza_id": "thry_29",
+    "original": "Inn kom in arma jötna systir, hin er brúðfjár biðja þorði: 'Lát þér af höndum hringa rauða, ef þú öðlast vilt ást-frið minn, ást-frið minn, alla hylli.'",
+    "translations": {
+      "bellows": "In came the giant's wretched sister, for a bridal gift she dared to ask: 'Give me the rings of gold from thy fingers, if thou wouldst win my love and my luck, my love and my luck and all my favor.'",
+      "thorpe": "In came the Jötun’s wretched sister, who for a bridal gift dared ask: 'Take from thy hands the golden rings, if thou wilt gain my love, my love and all my favor.'",
+      "literal": "In came the wretched giants' sister, she who bridal-gift ask dared: 'Let to-yourself from hands rings red [gold], if you gain will love-peace mine, love-peace mine, all favor.'"
+    },
+    "sot_links": { "figures": ["Thrymr's Sister"], "themes": ["Greed", "The Side Quest"] }
+  },
+  {
+    "stanza_id": "thry_30",
+    "original": "Þá kvað þat Þrymr, þursa dróttinn: 'Berið inn hamar brúði at vígja, leggið Mjöllni í meyjar kné, vígið okkr saman Várar hendi.'",
+    "translations": {
+      "bellows": "Then Thrym spoke, the giants' lord: 'Bring in the hammer to hallow the bride; on the maiden's knees let Mjollnir lie, that us both the hand of Var may bless.'",
+      "thorpe": "Then spake Thrym, the Jötun’s lord: 'Bring in the hammer to consecrate the bride; lay Mjöllnir on the maiden’s knee; unite us together by the hand of Var.'",
+      "literal": "Then spoke that Thrymr, giants' lord: 'Bear in hammer bride to hallow, lay Mjollnir in maid's knee, hallow us-two together Var's [goddess of oaths] hand.'"
+    },
+    "sot_links": { "figures": ["Thrymr"], "artifacts": ["artifact_mjollnir"], "deities": ["deity_var"], "themes": ["The Trap", "Hallowing"] }
+  },
+  {
+    "stanza_id": "thry_31",
+    "original": "Hló Hlórriða hugr í brjósti, er harðevndr hamar of þekkti; Þrym drap hann fyrstan, þursa dróttin, ok ætt jötuns alla lamdi.",
+    "translations": {
+      "bellows": "The heart in the breast of Hlorrithi laughed when the hard-souled one his hammer beheld; first Thrym, the giants' lord, he slew, and then all the giants' race he smote.",
+      "thorpe": "The heart of Hlorrithi laughed in his breast, when the fierce-hearted his hammer recognized. He first slew Thrym, the Jötun’s lord, and all the Jötun’s race he crushed.",
+      "literal": "Laughed Hlorrithi's spirit in breast, when the hard-minded hammer of recognized; Thrymr struck he first, giants' lord, and kin of-giant all thrashed."
+    },
+    "sot_links": { "deities": ["deity_thor"], "artifacts": ["artifact_mjollnir"], "figures": ["Thrymr"], "themes": ["The Strike", "Vengeance"] }
+  },
+  {
+    "stanza_id": "thry_32",
+    "original": "Drap hann ina öldnu jötna systur, hin er brúðfjár of beðið hafði; hón skell of hlaut fyr skillinga, en högg hamars fyr hringa fjölð.",
+    "translations": {
+      "bellows": "He slew the giant's sister old, who a bridal gift had dared to ask; she got a blow for the money she begged, and a hammer's stroke for her many rings.",
+      "thorpe": "He slew the Jötun’s aged sister, who for a bridal gift had asked; she instead of shillings a blow received, and for many rings the hammer’s stroke.",
+      "literal": "Struck he the old giants' sister, she who bridal-gift of asked had; she slap of got for shillings, and hew of-hammer for rings' many."
+    },
+    "sot_links": { "deities": ["deity_thor"], "figures": ["Thrymr's Sister"] }
+  },
+  {
+    "stanza_id": "thry_33",
+    "original": "Svá kom Óðins sonr endr at hamri.",
+    "translations": {
+      "bellows": "And so did Odin's son get his hammer back.",
+      "thorpe": "So did Odin’s son get his hammer back.",
+      "literal": "So came Odin's son again at [to] hammer."
+    },
+    "sot_links": { "deities": ["deity_thor"], "artifacts": ["artifact_mjollnir"], "themes": ["Recovery", "System Restoration"] }
+  }
+]
