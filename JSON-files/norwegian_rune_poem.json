@@ -1,0 +1,137 @@
+[
+  {
+    "rune": "ᚠ (Fé)",
+    "original": "Fé vældr frænda róge; / fǿðesk úlfr í skóge.",
+    "translations": {
+      "standard": "Wealth causes the strife of kinsmen; / the wolf is fed in the forest.",
+      "literal": "Wealth causes kinsmen's strife; / feeds-itself wolf in wood."
+    },
+    "sot_links": { "themes": ["Greed", "Inheritance"], "beasts": ["beast_wolf"] }
+  },
+  {
+    "rune": "ᚦ (Þurs)",
+    "original": "Þurs vældr kvenna kvillu; / kátr værðr fár af illu.",
+    "translations": {
+      "standard": "Giant causes the sickness of women; / few grow cheerful from misfortune.",
+      "literal": "Giant causes women's sickness; / cheerful becomes few from ill [evil]."
+    },
+    "sot_links": { "beasts": ["beast_giant"], "themes": ["Disease", "Misfortune"] }
+  },
+  {
+    "rune": "ᚮ (Óss)",
+    "original": "Óss er flæstra færða / för; en skálpr er sværða.",
+    "translations": {
+      "standard": "Estuary is the way of most journeys; / but a scabbard is that of swords.",
+      "literal": "Estuary is most journeys' / way; but scabbard is [of] swords."
+    },
+    "sot_links": { "themes": ["Travel", "Weaponry"], "artifacts": ["artifact_sword"] }
+  },
+  {
+    "rune": "ᚱ (Reið)",
+    "original": "Reið kveða hrossom væsta; / Reginn sló sverðit bæzta.",
+    "translations": {
+      "standard": "Riding is said to be the worst thing for horses; / Reginn forged the best sword.",
+      "literal": "Riding say [to] horses worst; / Reginn struck sword-the best."
+    },
+    "sot_links": { "figures": ["Reginn"], "themes": ["Toil", "Smithing"], "artifacts": ["artifact_gram"] }
+  },
+  {
+    "rune": "ᚴ (Kaun)",
+    "original": "Kaun er barna bölve; / böl gørver mann fölvan.",
+    "translations": {
+      "standard": "Ulcer is the bane of children; / misfortune makes a man pale.",
+      "literal": "Ulcer is children's bane; / bale makes man pale."
+    },
+    "sot_links": { "themes": ["Mortality", "Sickness"] }
+  },
+  {
+    "rune": "ᚼ (Hagall)",
+    "original": "Hagall er kaldastr korna; / Kristr skóp hæimenn forna.",
+    "translations": {
+      "standard": "Hail is the coldest of grains; / Christ created the world of old.",
+      "literal": "Hail is coldest [of] grains; / Christ shaped world-the ancient."
+    },
+    "sot_links": { "themes": ["Environmental Extremes", "Christian Infiltration"], "figures": ["Christ"] }
+  },
+  {
+    "rune": "ᚾ (Nauð)",
+    "original": "Nauðr gerer næppa koste; / nøktan kælr í froste.",
+    "translations": {
+      "standard": "Constraint gives scant choice; / a naked man is chilled by the frost.",
+      "literal": "Need makes narrow choice [conditions]; / naked-one cools in frost."
+    },
+    "sot_links": { "themes": ["Social Hardship", "Survival Logic"] }
+  },
+  {
+    "rune": "ᛁ (Íss)",
+    "original": "Ís kǫllum brú bræiða; / blindan þarf at læiða.",
+    "translations": {
+      "standard": "Ice we call the broad bridge; / the blind man must be led.",
+      "literal": "Ice call-we bridge broad; / blind-man needs to lead [be led]."
+    },
+    "sot_links": { "themes": ["Navigation", "Physical Vulnerability"] }
+  },
+  {
+    "rune": "ᛅ (Ár)",
+    "original": "Ár er gumna góðe; / get ek at ǫrr var Fróðe.",
+    "translations": {
+      "standard": "Plenty is a boon to men; / I say that Frodi was generous.",
+      "literal": "Year [Harvest] is men's benefit; / guess I that generous was Frodi."
+    },
+    "sot_links": { "figures": ["Frodi"], "themes": ["Prosperity", "The Peace of Frodi"] }
+  },
+  {
+    "rune": "ᛋ (Sól)",
+    "original": "Sól er landa ljóme; / lúti ek helgum dóme.",
+    "translations": {
+      "standard": "Sun is the light of the lands; / I bow to the divine decree.",
+      "literal": "Sun is lands' light; / bow I [to] holy judgment."
+    },
+    "sot_links": { "themes": ["Light", "Ritual Submission"] }
+  },
+  {
+    "rune": "ᛏ (Týr)",
+    "original": "Týr er einhendr áss / ok úlfs leifar / ok hofa hilmir.",
+    "translations": {
+      "standard": "Tyr is the one-handed god / and the leavings of the wolf / and the ruler of temples.",
+      "literal": "Tyr is one-handed god / and wolf's leavings / and temples' ruler."
+    },
+    "sot_links": { "deities": ["deity_tyr"], "beasts": ["beast_fenrir"], "themes": ["Sacrifice", "Justice"] }
+  },
+  {
+    "rune": "ᛒ (Bjarkan)",
+    "original": "Bjarkan er laufgrønstr líma; / Kristr skóp mǫrg tíma.",
+    "translations": {
+      "standard": "Birch is the greenest of leafy boughs; / Christ created many opportunities.",
+      "literal": "Birch is greenest [of] leaves; / Christ shaped many times [opportunities]."
+    },
+    "sot_links": { "themes": ["Growth", "Christian Influence"], "figures": ["Christ"] }
+  },
+  {
+    "rune": "ᛘ (Maðr)",
+    "original": "Maðr er moldar auki; / mikil er greip á hauki.",
+    "translations": {
+      "standard": "Man is the increase of dust; / great is the claw of the hawk.",
+      "literal": "Man is dust's increase; / great is grip on hawk."
+    },
+    "sot_links": { "themes": ["Mortality", "Falconry", "Nature"] }
+  },
+  {
+    "rune": "ᛚ (Lögr)",
+    "original": "Lǫgr er, er fellr ór fjalle / fǫrr; en gull ero nosse.",
+    "translations": {
+      "standard": "Water is that which falls from a mountain / as a stream; but gold is a precious thing.",
+      "literal": "Water is, which falls out-of mountain / journey [stream]; but gold are treasures."
+    },
+    "sot_links": { "themes": ["Environmental Hazards", "Wealth Kennings"], "artifacts": ["artifact_gold"] }
+  },
+  {
+    "rune": "ᛦ (Ýr)",
+    "original": "Ýr er grønstr vetra; / vant er, er brennr, at létta.",
+    "translations": {
+      "standard": "Yew is the greenest of trees in winter; / it is wont to crackle when it burns.",
+      "literal": "Yew is greenest [of] winters; / wont is, when burns, to crackle."
+    },
+    "sot_links": { "themes": ["Endurance", "Pyrotechnics", "Nature"] }
+  }
+]
