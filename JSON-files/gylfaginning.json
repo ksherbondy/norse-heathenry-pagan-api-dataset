@@ -1,0 +1,1964 @@
+[
+  {
+    "section_id": "gylf_01",
+    "original": "Gylfi konungr var maðr vitr ok fjölkunnigr. Hann undraðist þat mjög, er ásafólk var svá kunnigt, at allir hlutir gengu at vilja þeira.",
+    "translations": {
+      "faulkes": "King Gylfi was a wise man and skilled in magic. He was greatly amazed that the Aesir-folk were so knowledgeable that everything went according to their will.",
+      "brodeur": "King Gylfi was a wise man and skilled in magic; he marvelled greatly that the Aesir-folk were so conning that all things went according to their will.",
+      "literal": "Gylfi king was man wise and magic-skilled. He wondered that much, that Aesir-folk were so knowing, that all things went at will theirs."
+    },
+    "sot_links": { "figures": ["Gylfi"], "themes": ["Wisdom", "Magic"] }
+  },
+  {
+    "section_id": "gylf_02",
+    "original": "Hann hugsaði, hvárt þat mundi vera af eðli sjálfra þeira, eða mundi þat vera af goðmögnuðum þeim, er þeir blótuðu.",
+    "translations": {
+      "faulkes": "He wondered whether this was due to their own nature or whether it was due to the divine powers they worshipped.",
+      "brodeur": "He pondered whether this might proceed from their own nature, or whether it came from the divine powers which they worshipped.",
+      "literal": "He thought, whether that would be from nature self theirs, or would that be from god-powers those, which they sacrificed-to."
+    },
+    "sot_links": { "themes": ["Sacrifice", "Divine Nature"] }
+  },
+  {
+    "section_id": "gylf_03",
+    "original": "Hann tók ferð sína til Ásgarðs ok fór hljóðliga ok brá á sik gamals manns líki ok duldist svá.",
+    "translations": {
+      "faulkes": "He set out on a journey to Asgard and traveled secretly, assuming the form of an old man to hide his identity.",
+      "brodeur": "He began his journey to Asgard, and went privily, and took on him the likeness of an old man, and so concealed himself.",
+      "literal": "He took journey his to Asgard and went quietly and cast on himself old man's likeness and hid so."
+    },
+    "sot_links": { "locations": ["Asgard"], "themes": ["Disguise"] }
+  },
+  {
+    "section_id": "gylf_04",
+    "original": "En æsirnir váru skyggnir, er þeir sáu ferð hans, áðr hann kom, ok gerðu móti honum sjónhverfingar.",
+    "translations": {
+      "faulkes": "But the Aesir were keen-sighted and saw his journey before he arrived, and they prepared delusions of sight against him.",
+      "brodeur": "But the Aesir were too far-sighted: they saw his journey before he came, and prepared for him delusions of the eye.",
+      "literal": "But the-Aesir were sharp-sighted, when they saw journey his, before he came, and made against him sight-delusions."
+    },
+    "sot_links": { "themes": ["Sight-Delusion", "Foresight"] }
+  },
+  {
+    "section_id": "gylf_05",
+    "original": "Er hann kom inn í borgina, þá sá hann þar háva höll, svá at varla mátti sjá yfir hana. Þak hennar var lagt gylltum skjöldum sem spánþak.",
+    "translations": {
+      "faulkes": "When he came into the stronghold, he saw a hall so high that he could hardly see over it. Its roof was covered with golden shields like shingles.",
+      "brodeur": "When he came into the fortress, he saw there a hall so high that he could hardly look over it; its roof was laid with golden shields even as a shingle-roof.",
+      "literal": "When he came in to the-burg, then saw he there high hall, so that hardly could see over it. Roof hers was laid golden shields as shingle-roof."
+    },
+    "sot_links": { "themes": ["Architecture", "Golden Shields"] }
+  },
+  {
+    "section_id": "gylf_06",
+    "original": "Svá segir Þjóðólfr enn hvinverski, at Valhöll var þökt skjöldum.",
+    "translations": {
+      "faulkes": "So says Thiodolf of Hvin that Valhalla was thatched with shields.",
+      "brodeur": "Thjodolfr of Hvinir likewise says that Valhall was thatched with shields.",
+      "literal": "So says Thjodolf the Hvin-dweller, that Valhalla was thatched shields-with."
+    },
+    "sot_links": { "locations": ["Valhalla"] }
+  },
+  {
+    "section_id": "gylf_07",
+    "original": "Gylfi sá mann í hallardurunum, er lék at handsöxum ok hafði sjau senn á lofti. Sá spurði hann at nafni.",
+    "translations": {
+      "faulkes": "Gylfi saw a man in the doorway of the hall who was juggling daggers, and had seven in the air at once. This man asked him his name.",
+      "brodeur": "Gylfi saw a man in the hall-doorway juggling with small swords, and having seven in the air at one time. This man asked of his name.",
+      "literal": "Gylfi saw man in hall-doors, who played at hand-axes and had seven at-once in air. That-one asked him at name."
+    },
+    "sot_links": { "themes": ["Juggling", "Martial Skill"] }
+  },
+  {
+    "section_id": "gylf_08",
+    "original": "Hann nefndist Gangleri ok kvaðst kominn af vegum villtum, bað sér gistingar ok spurði, hverr ætti höllina.",
+    "translations": {
+      "faulkes": "He called himself Gangleri and said he had come by pathless ways, and asked for a night's lodging and who owned the hall.",
+      "brodeur": "He called himself Gangleri, and said he had come by pathless ways, and prayed for a night's lodging; and he asked who owned the hall.",
+      "literal": "He named-himself Gangleri and said-himself come from ways wild, asked for-himself lodging and asked, who owned the-hall."
+    },
+    "sot_links": { "figures": ["Gangleri"], "themes": ["Hospitality"] }
+  },
+  {
+    "section_id": "gylf_09",
+    "original": "Sá svarar, at þat var konungr þeira, 'ok má ek fylgja þér at sjá hann. Skaltu þá sjálfr spyrja hann at nafni.'",
+    "translations": {
+      "faulkes": "The man replied that it was their king, 'and I can take you to see him. Then you can ask him his name yourself.'",
+      "brodeur": "The man answered that it was their king, 'and I can bring thee to see him; then shalt thou thyself ask him his name.'",
+      "literal": "That-one answers, that that was king theirs, 'and may I follow you to see him. Shall-you then self ask him at name.'"
+    }
+  },
+  {
+    "section_id": "gylf_10",
+    "original": "Maðrinn snerist fyrir honum inn í höllina, en hann gekk eftir, ok þegar laust hurðinni á hæla honum.",
+    "translations": {
+      "faulkes": "The man turned and led the way into the hall, and Gylfi followed, and the door immediately slammed shut behind him.",
+      "brodeur": "The man turned before him into the hall, and he followed after, and straightway the door shut on his heels.",
+      "literal": "The-man turned before him in to the-hall, but he went after, and at-once struck the-door on heels his."
+    },
+    "sot_links": { "themes": ["Thresholds"] }
+  },
+  {
+    "section_id": "gylf_11",
+    "original": "Hann sá þar mörg herbergi ok mikinn manfjölda. Sumir váru at leikum, sumir drukku, sumir váru með vápnum ok börðust.",
+    "translations": {
+      "faulkes": "He saw many rooms there and a great crowd of people. Some were playing games, some were drinking, some were armed and fighting.",
+      "brodeur": "He saw there many rooms and a great multitude of people, some of whom were at games, some at drink, some had weapons and were fighting.",
+      "literal": "He saw there many rooms and great man-multitude. Some were at games, some drank, some were with weapons and fought."
+    },
+    "sot_links": { "themes": ["Activity in Valhalla"] }
+  },
+  {
+    "section_id": "gylf_12",
+    "original": "Hann sá þrjú hásæti, ok hvert upp frá öðru, ok sátu þrír menn í. Þá spurði hann, hvat nöfn þeira váru.",
+    "translations": {
+      "faulkes": "He saw three thrones, one above the other, with three men sitting in them. He asked what their names were.",
+      "brodeur": "He saw three high-seats, each above the other, and three men sat therein. Then he asked what the names of these lords might be.",
+      "literal": "He saw three high-seats, and each up from other, and sat three men in. Then asked he, what names theirs were."
+    },
+    "sot_links": { "themes": ["The Three Kings"] }
+  },
+  {
+    "section_id": "gylf_13",
+    "original": "Sá er fylgdi honum svaraði, at sá, er í inu neðsta hásæti sat, var konungr ok hét Hár.",
+    "translations": {
+      "faulkes": "His guide replied that the one sitting in the lowest throne was king and was called High.",
+      "brodeur": "He who led him in answered that the king who sat in the lowest high-seat was called High.",
+      "literal": "That-one who followed him answered, that that-one, who in the lowest high-seat sat, was king and was-called High."
+    },
+    "sot_links": { "deities": ["deity_odin"], "figures": ["High"] }
+  },
+  {
+    "section_id": "gylf_14",
+    "original": "En þar næst hét Jafnhár, en sá er efstr sat, hét Þriði.",
+    "translations": {
+      "faulkes": "The next was called Just-as-high, and the one sitting at the top was called Third.",
+      "brodeur": "The second, Just-as-High; and the one who sat uppermost was called Third.",
+      "literal": "But there next was-called Just-as-High, but that-one who highest sat, was-called Third."
+    },
+    "sot_links": { "deities": ["deity_odin"], "figures": ["Just-as-High", "Third"] }
+  },
+  {
+    "section_id": "gylf_15",
+    "original": "Þá spyrr Hár, hvárt hann hafi fleira erindi, en mat ok drykk skal hann hafa sem aðra menn í Höllu Hárs.",
+    "translations": {
+      "faulkes": "Then High asked whether he had any other business, but he was to have food and drink like other men in the Hall of High.",
+      "brodeur": "Then High asked if he had other errands; and meat and drink were at his service, even as for all there in the Hall of High.",
+      "literal": "Then asks High, whether he had more errand, but food and drink shall he have as other men in Hall of-High."
+    },
+    "sot_links": { "themes": ["Hospitality"] }
+  },
+  {
+    "section_id": "gylf_16",
+    "original": "Hann sagðist vilja spyrja, ef þar væri nokkurr fróðr maðr.",
+    "translations": {
+      "faulkes": "He said he wanted to ask whether there was any wise man there.",
+      "brodeur": "He answered that he first desired to ask whether there was any wise man there.",
+      "literal": "He said-himself wish to-ask, if there were any wise man."
+    },
+    "sot_links": { "themes": ["Wisdom Seeking"] }
+  },
+  {
+    "section_id": "gylf_17",
+    "original": "Hár segir, at hann kemsk eigi heill á braut, nema hann sé fróðari. 'Ok statt þú fram, meðan þú spyrr. Sitja skal sá, er svarar.'",
+    "translations": {
+      "faulkes": "High said that he would not get away unscathed unless he were the wiser. 'And stand forward while you ask. He who answers shall sit.'",
+      "brodeur": "High said that he should not depart whole unless he were wiser. 'And stand thou forth whiles thou askest: he who answers shall sit.'",
+      "literal": "High says, that he comes not whole away, unless he be wiser. 'And stand you forward, while you ask. Sit shall he, who answers.'"
+    },
+    "sot_links": { "themes": ["Wisdom Contest"] }
+  },
+  {
+    "section_id": "gylf_18",
+    "original": "Gangleri hóf svá mál sitt: 'Hverr er æðstr ok ellztr allra goða?'",
+    "translations": {
+      "faulkes": "Gangleri began his speech thus: 'Who is the highest and oldest of all gods?'",
+      "brodeur": "Gangleri began his questioning thus: 'Who is foremost, or oldest, of all the gods?'",
+      "literal": "Gangleri began so speech his: 'Who is highest and oldest all of-gods?'"
+    },
+    "sot_links": { "themes": ["First Question"] }
+  },
+  {
+    "section_id": "gylf_19",
+    "original": "Hár svarar: 'Sá heitir Alföðr at váru máli, en í Ásgarði inum forna átti hann tólf nöfn.'",
+    "translations": {
+      "faulkes": "High replied: 'He is called All-father in our language, but in ancient Asgard he had twelve names.'",
+      "brodeur": "High answered: 'He is called All-father in our tongue, but in the Ancient Asgard he had twelve names.'",
+      "literal": "High answers: 'That-one is-called All-father at our language, but in Asgard the ancient had he twelve names.'"
+    },
+    "sot_links": { "deities": ["deity_odin"], "themes": ["Names of Odin"] }
+  },
+  {
+    "section_id": "gylf_20",
+    "original": "Þá spyrr Gangleri: 'Hvar er sá guð? Hvat má hann? Eða hvat hefir hann unnit til mikilla verka?'",
+    "translations": {
+      "faulkes": "Then Gangleri asked: 'Where is this god? What is his power? And what great deeds has he performed?'",
+      "brodeur": "Then asked Gangleri: 'Where is this god? What power hath he? What great works hath he wrought?'",
+      "literal": "Then asks Gangleri: 'Where is that god? What may he? Or what has he won to great works?'"
+    },
+    "sot_links": { "themes": ["Nature of Divinity"] }
+  },
+  {
+      "section_id": "gylf_21",
+      "original": "H\u00e1r segir: 'Eigi var hann gu\u00f0. Hann var illr ok allir hans \u00e6ttmenn. \u00deeir eru kalla\u00f0ir hr\u00edm\u00feursar.'",
+      "translations": {
+        "faulkes": "High said: 'He was by no means a god. He was evil and all his descendants. They are called frost-giants.'",
+        "brodeur": "High answered: 'In no wise do we acknowledge him to be a god; he was evil and all his kindred: we call them Rimethursar.'",
+        "literal": "High says: 'Not was he god. He was evil and all his kin-men. They are called rime-giants.'"
+      },
+      "sot_links": { "figures": ["Ymir"], "themes": ["Nature of Giants", "Good vs Evil"] }
+    },
+    {
+      "section_id": "gylf_22",
+      "original": "\u00de\u00e1 spyrr Gangleri: 'Hvat var upphaf \u00feess, e\u00f0a hvernig h\u00f3fsk \u00feat?'",
+      "translations": {
+        "faulkes": "Then Gangleri asked: 'What was the beginning of this, and how did it start?'",
+        "brodeur": "Then spake Gangleri: 'What was the beginning, or how did it begin? What was before?'",
+        "literal": "Then asks Gangleri: 'What was beginning of-this, or how began-it?'"
+      },
+      "sot_links": { "themes": ["Cosmogony"] }
+    },
+    {
+      "section_id": "gylf_23",
+      "original": "H\u00e1r svarar: 'S\u00e1r var sandr n\u00e9 s\u00e6r n\u00e9 svalar unnir... Ginnungagap, \u00feat var sem logn miki\u00f0.'",
+      "translations": {
+        "faulkes": "High replied: 'Neither sand nor sea nor cold waves... Ginnungagap, that was like a great calm.'",
+        "brodeur": "High answered: 'As is said in V\u00f6lusp\u00e1... Ginnungagap, it was as a still breeze.'",
+        "literal": "High answers: 'Neither was sand nor sea nor cold waves... Ginnungagap, that was as calm great.'"
+      },
+      "sot_links": { "themes": ["Ginnungagap"], "manuscripts": ["voluspa_66.json"] }
+    },
+    {
+      "section_id": "gylf_24",
+      "original": "N\u00e6st var \u00feat, \u00fe\u00e1 er \u00edsinn br\u00e1, \u00fe\u00e1 var\u00f0 \u00fear af kvikr \u00ed dropunum ok var\u00f0 manns l\u00edki, ok er s\u00e1 nefndr Ymir.'",
+      "translations": {
+        "faulkes": "Next, when the ice melted, it turned into drops of life and took the form of a man, and he is called Ymir.'",
+        "brodeur": "Next it was that when the rime dripped... there was quickened life from the drops... and he was named Ymir.'",
+        "literal": "Next was that, then when the-ice melted, then was there from-it quick-life in the-drops and became man's likeness, and is that-one named Ymir.'"
+      },
+      "sot_links": { "figures": ["Ymir"], "themes": ["Life from Ice"] }
+    },
+    {
+      "section_id": "gylf_25",
+      "original": "\u00de\u00e1 m\u00e6lti Gangleri: 'Hvar bygg\u00f0i Ymir, e\u00f0a vi\u00f0 hvat lif\u00f0i hann?'",
+      "translations": {
+        "faulkes": "Then Gangleri said: 'Where did Ymir live, and what did he live on?'",
+        "brodeur": "Then spake Gangleri: 'Where dwelt Ymir, or wherein did he find sustenance?'",
+        "literal": "Then spoke Gangleri: 'Where dwelt Ymir, or by what lived he?'"
+      }
+    },
+    {
+      "section_id": "gylf_26",
+      "original": "H\u00e1r svarar: 'Jafnskj\u00f3tt sem \u00edsinn rann, \u00fe\u00e1 var\u00f0 \u00fear af k\u00fdrin Au\u00f0humla, en fj\u00f3rar mj\u00f3lk\u00e1r runnu \u00f3r spenum hennar.'",
+      "translations": {
+        "faulkes": "High replied: 'As soon as the ice melted, the cow Audhumla was formed, and four rivers of milk ran from her teats.'",
+        "brodeur": "High answered: 'Straightway as the rime dripped, there sprang from it the cow called Audumla; four streams of milk ran from her udders.'",
+        "literal": "High answers: 'Just-as-fast as the-ice ran, then was there from-it the-cow Audhumla, and four milk-rivers ran from teats hers.'"
+      },
+      "sot_links": { "figures": ["Audhumla"], "themes": ["Sustenance"] }
+    },
+    {
+      "section_id": "gylf_27",
+      "original": "H\u00f3n sleikti hr\u00edmsteinana, er saltir v\u00e1ru. Ok inn fyrsta dag, er h\u00f3n sleikti steinana, kom \u00f3r steininum a\u00f0 kveldi manns h\u00e1r.'",
+      "translations": {
+        "faulkes": "She licked the rime-stones which were salty. And on the first day she licked the stones, there came from the stone in the evening a man's hair.'",
+        "brodeur": "She licked the rime-lumps, which were salt; and on the first day... there came forth from the lumps at evening a man's hair.'",
+        "literal": "She licked the-rime-stones, which salty were. And the first day, when she licked the-stones, came from the-stone at evening man's hair.'"
+      },
+      "sot_links": { "figures": ["Buri"], "themes": ["Emergence"] }
+    },
+    {
+      "section_id": "gylf_28",
+      "original": "Annan dag manns h\u00f6fu\u00f0, \u00feri\u00f0ja dag var \u00fear allr ma\u00f0r. S\u00e1 er nefndr B\u00fari.'",
+      "translations": {
+        "faulkes": "The second day a man's head, the third day there was a whole man. He is named Buri.'",
+        "brodeur": "The second day, a man's head; the third day, the whole man was there. He is named Buri.'",
+        "literal": "Second day man's head, third day was there all man. That-one is named Buri.'"
+      },
+      "sot_links": { "figures": ["Buri"] }
+    },
+    {
+      "section_id": "gylf_29",
+      "original": "Hann gat son \u00feann, er Borr hét. Hann fekk þeirar konu, er Bestla hét, dóttir Bölþorns jötuns.'",
+      "translations": {
+        "faulkes": "He had a son called Bor. He married a woman called Bestla, daughter of the giant Bolthorn.'",
+        "brodeur": "He begat a son called Borr, who wedded the woman named Bestla, daughter of Bölthorn the giant.'",
+        "literal": "He begat son that, who Bor named. He got that woman, who Bestla named, daughter of-Bolthorn giant.'"
+      },
+      "sot_links": { "figures": ["Bor", "Bestla", "Bolthorn"] }
+    },
+    {
+      "section_id": "gylf_30",
+      "original": "Ok g\u00e1tu \u00feeir \u00ferj\u00e1 sonu: einn hét \u00d3\u00f0inn, annarr Vili, \u00feri\u00f0i V\u00e9.'",
+      "translations": {
+        "faulkes": "And they had three sons: one was called Odin, the second Vili, the third Ve.'",
+        "brodeur": "And they had three sons: the first Odin, the second Vili, the third Vé.'",
+        "literal": "And begat they three sons: one named Odin, second Vili, third Ve.'"
+      },
+      "sot_links": { "deities": ["deity_odin", "deity_vili", "deity_ve"] }
+    },
+    {
+      "section_id": "gylf_31",
+      "original": "Synir Bors dr\u00e1pu Ymi j\u00f6tun. En er hann f\u00e6ll, \u00fe\u00e1 hlj\u00f3p sv\u00e1 mikit bl\u00f3\u00f0 \u00f3r s\u00e1rum hans, at \u00fear drukknu\u00f0u allir hr\u00edm\u00feursar.'",
+      "translations": {
+        "faulkes": "Bor's sons killed the giant Ymir. And when he fell, so much blood gushed from his wounds that all the frost-giants drowned.'",
+        "brodeur": "The sons of Borr slew Ymir the giant; and where he fell there gushed out so much blood... that all the race of the Rimethursar was drowned.'",
+        "literal": "Sons of-Bor slew Ymir giant. And when he fell, then ran so much blood from wounds his, that there drowned all rime-giants.'"
+      },
+      "sot_links": { "themes": ["The Great Flood", "End of Ymir"] }
+    },
+    {
+      "section_id": "gylf_32",
+      "original": "\u00deeir t\u00f3ku Ymi ok fluttu \u00ed mi\u00f0jan Ginnungagap ok ger\u00f0u af honum j\u00f6r\u00f0ina.'",
+      "translations": {
+        "faulkes": "They took Ymir and carried him to the middle of Ginnungagap and made the earth from him.'",
+        "brodeur": "They took Ymir and bore him into the middle of Ginnungagap, and made of him the earth.'",
+        "literal": "They took Ymir and moved in middle Ginnungagap and made from him the-earth.'"
+      },
+      "sot_links": { "themes": ["Earth Creation"] }
+    },
+    {
+      "section_id": "gylf_33",
+      "original": "Af bl\u00f3\u00f0i hans s\u00e6inn ok v\u00f6tnin. J\u00f6r\u00f0in var g\u00f6r af holdinu, en bj\u00f6rgin af beinunum.'",
+      "translations": {
+        "faulkes": "From his blood the sea and the lakes. The earth was made from the flesh, and the rocks from the bones.'",
+        "brodeur": "Of his blood the sea and the waters... the earth was fashioned of his flesh, and the rocks of his bones.'",
+        "literal": "From blood his the-sea and the-waters. The-earth was made from the-flesh, but the-rocks from the-bones.'"
+      }
+    },
+    {
+      "section_id": "gylf_34",
+      "original": "Steina ok ur\u00f0ir ger\u00f0u \u00feeir af t\u00f6nnum ok j\u00f6xlum ok \u00f3r \u00feeim beinum, er brotin v\u00e1ru.'",
+      "translations": {
+        "faulkes": "Stones and scree they made from the teeth and molars and from those bones that were broken.'",
+        "brodeur": "Stones and scree they made of his teeth and his grinders and of those bones which were broken.'",
+        "literal": "Stones and screes made they from teeth and molars and from those bones, which broken were.'"
+      }
+    },
+    {
+      "section_id": "gylf_35",
+      "original": "\u00deeir t\u00f3ku ok hauss hans ok ger\u00f0u \u00fear af himin ok settu hann upp yfir j\u00f6r\u00f0ina me\u00f0 fj\u00f3rum skautum.'",
+      "translations": {
+        "faulkes": "They also took his skull and made from it the sky and set it up over the earth with four corners.'",
+        "brodeur": "They took his skull also, and made of it the heaven, and set it up over the earth with four corners.'",
+        "literal": "They took also skull his and made there from heaven and set it up over the-earth with four corners.'"
+      },
+      "sot_links": { "themes": ["Sky Creation"] }
+    },
+    {
+      "section_id": "gylf_36",
+      "original": "Undir hvert horn settu \u00feeir dverg. \u00deeir heita sv\u00e1: Austri, Vestri, Nor\u00f0ri, Su\u00f0ri.'",
+      "translations": {
+        "faulkes": "Under each corner they set a dwarf. Their names are: East, West, North, South.'",
+        "brodeur": "And under each corner they set a dwarf... these are their names: Austri, Vestri, Nordri, Sudri.'",
+        "literal": "Under each corner set they dwarf. They are-called so: East, West, North, South.'"
+      },
+      "sot_links": { "themes": ["Cardinal Directions"], "manuscripts": ["voluspa_66.json"] }
+    },
+    {
+      "section_id": "gylf_37",
+      "original": "\u00de\u00e1 t\u00f3ku \u00feeir s\u00eda ok gneista, \u00feeir er lausir fóru ór Múspellsheimi, ok settu á miðjan himininn.'",
+      "translations": {
+        "faulkes": "Then they took the sparks and glowing embers that were flying around loose from Muspellheim and set them in the middle of the sky.'",
+        "brodeur": "Then they took the glowing embers and sparks... and set them in the midst of the heaven.'",
+        "literal": "Then took they embers and sparks, those which loose went from Muspellheim, and set on middle the-sky.'"
+      },
+      "sot_links": { "themes": ["Star Creation", "Muspellheim"] }
+    },
+    {
+      "section_id": "gylf_38",
+      "original": "J\u00f6r\u00f0in er kringl\u00f3tt \u00fat\u00edfr\u00e1, ok \u00fear \u00fat um liggr inn dj\u00fapi sj\u00e1r.'",
+      "translations": {
+        "faulkes": "The earth is circular around the edge, and around the outside lies the deep sea.'",
+        "brodeur": "The earth is ring-shaped without, and round about it lies the deep ocean.'",
+        "literal": "The-earth is circular outward, and there out around lies the deep sea.'"
+      },
+      "sot_links": { "themes": ["Geographic Structure"] }
+    },
+    {
+      "section_id": "gylf_39",
+      "original": "\u00deeir ger\u00f0u borg um mi\u00f0ja j\u00f6r\u00f0ina fyrir \u00f3fri\u00f0i j\u00f6tna, en til \u00feessarar borgar g\u00f6r\u00f0u \u00feeir af augnabr\u00famm Ymis, ok hét s\u00fa borg Mi\u00f0gar\u00f0r.'",
+      "translations": {
+        "faulkes": "They made a stronghold in the middle of the earth against the hostility of giants, and for this stronghold they used Ymir's eyelashes, and it was called Midgard.'",
+        "brodeur": "They made also a stronghold... against the hostility of the giants, and for this stronghold they used Ymir's eyebrows, and called that stronghold Midgard.'",
+        "literal": "They made burg around middle the-earth against hostility of-giants, and to this burg made they from eyebrows of-Ymir, and was-called that burg Midgard.'"
+      },
+      "sot_links": { "locations": ["Midgard"], "themes": ["Protection"] }
+    },
+    {
+      "section_id": "gylf_40",
+      "original": "\u00deeir t\u00f3ku ok heila hans ok köstuðu í loftit ok gerðu af skýin.'",
+      "translations": {
+        "faulkes": "They also took his brain and threw it into the air and made the clouds from it.'",
+        "brodeur": "They took his brain also, and cast it in the air, and made therefrom the clouds.'",
+        "literal": "They took also brain his and threw in the-air and made from-it the-clouds.'"
+      },
+      "sot_links": { "themes": ["Atmosphere Creation"] }
+    },
+	{
+	  "section_id": "gylf_41",
+	  "original": "Þá mælti Gangleri: 'Hvaðan komu mennirnir, þeir er heiminn byggja?' Hár svarar: 'Bors synir gengu með sævarströndu, fundu þeir tré tvö ok tóku upp ok sköpuðu af menn.'",
+	  "translations": {
+	    "faulkes": "Then Gangleri said: 'Where did the people who inhabit the world come from?' High replied: 'Bor's sons were walking along the sea-shore and found two trees and took them and shaped people out of them.'",
+	    "brodeur": "Then spake Gangleri: 'Whence came the men who people the world?' High answered: 'As the sons of Borr were walking along the sea-strand, they found two trees, and took up the trees and shaped men of them.'",
+	    "literal": "Then spoke Gangleri: 'From-where came the-men, those who the-world inhabit?' High answers: 'Bor's sons went along sea-strand, found they trees two and took up and shaped from-them men.'"
+	  },
+	  "sot_links": { "themes": ["Creation of Humanity", "Ask and Embla"], "manuscripts": ["voluspa_66.json"] }
+	},
+	{
+	  "section_id": "gylf_42",
+	  "original": "Einn gaf önd ok líf, annarr vit ok hræring, þriði ásjónu, málit ok heyrn ok sjón.'",
+	  "translations": {
+	    "faulkes": "The first gave breath and life, the second wit and movement, the third appearance, speech, hearing and sight.'",
+	    "brodeur": "The first gave them spirit and life; the second, wit and feeling; the third, form, speech, hearing, and sight.'",
+	    "literal": "One gave breath and life, second wit and movement, third appearance, speech and hearing and sight.'"
+	  },
+	  "sot_links": { "themes": ["Human Hardware"], "deities": ["deity_odin", "deity_vili", "deity_ve"] }
+	},
+	{
+	  "section_id": "gylf_43",
+	  "original": "Næst þessu gerðu þeir sér borg í miðjum heimi, er kölluð er Ásgarðr. Þar byggðu goðin ok ættir þeira.'",
+	  "translations": {
+	    "faulkes": "Next to this they made themselves a stronghold in the middle of the world, which is called Asgard. There the gods and their kindred lived.'",
+	    "brodeur": "Next they made for themselves a city in the midst of the world, which is known as Asgard... there dwelt the gods and their kindred.'",
+	    "literal": "Next this made they for-themselves burg in middle world, which called is Asgard. There dwelt the-gods and kin theirs.'"
+	  },
+	  "sot_links": { "locations": ["Asgard"] }
+	},
+	{
+	  "section_id": "gylf_44",
+	  "original": "Nótt hét dóttir jötuns, hon var svört ok dökk sem hon átti ætt til. Hon var gift þeim manni, er Naglfari hét.'",
+	  "translations": {
+	    "faulkes": "A giant's daughter was called Night; she was black and dark as befitted her ancestry. She was married to a man called Naglfari.'",
+	    "brodeur": "A giant's daughter was named Night; she was swarthy and dark, as conformed to her race. She was wedded to the man named Naglfari.'",
+	    "literal": "Night was-called daughter of-giant, she was black and dark as she had kin to. She was married that man, who Naglfari named.'"
+	  },
+	  "sot_links": { "figures": ["Nott"], "themes": ["Cosmic Genealogy"] }
+	},
+	{
+	  "section_id": "gylf_45",
+	  "original": "Alföðr tók Nótt ok Dag, son hennar, ok gaf þeim tvá hesta ok kerrur oksetti þau upp á himin.'",
+	  "translations": {
+	    "faulkes": "All-father took Night and Day, her son, and gave them two horses and carriages and set them up in the sky.'",
+	    "brodeur": "All-father took Night, and Day her son, and gave to them two horses and two chariots, and sent them up into the heavens.'",
+	    "literal": "All-father took Night and Day, son hers, and gave them two horses and carts and set them up on heaven.'"
+	  },
+	  "sot_links": { "figures": ["Nott", "Dagr"], "themes": ["Time Computation"], "calendar_refs": ["calendar_v3.json"] }
+	},
+	{
+	  "section_id": "gylf_46",
+	  "original": "Sól ok Máni eru systkin. Þau eru börn þess manns, er Mundilfari hét.'",
+	  "translations": {
+	    "faulkes": "Sun and Moon are siblings. They are the children of a man called Mundilfari.'",
+	    "brodeur": "Sun and Moon are brother and sister; they are children of a man called Mundilfari.'",
+	    "literal": "Sun and Moon are siblings. They are children that man's, who Mundilfari named.'"
+	  },
+	  "sot_links": { "figures": ["Sol", "Mani"], "calendar_refs": ["calendar_v3.json"] }
+	},
+	{
+	  "section_id": "gylf_47",
+	  "original": "Þá mælti Gangleri: 'Hvat er leið til himins af jörðu?' Hár svarar ok hló at: 'Eigi er nú fróðliga spurt. Ertu eigi heyrt, at goðin gerðu brú af jörðu til himins, er heitir Bifröst?'",
+	  "translations": {
+	    "faulkes": "Then Gangleri said: 'What is the way to heaven from earth?' High replied and laughed: 'That is not a wise question. Haven't you heard that the gods made a bridge from earth to heaven called Bifrost?'",
+	    "brodeur": "Then spake Gangleri: 'What is the way to heaven from earth?' Then High answered, and laughed aloud: 'Now is it not wisely asked; hast thou not read that the gods made a bridge from earth to heaven, which is called Bifröst?'",
+	    "literal": "Then spoke Gangleri: 'What is path to heaven from earth?' High answers and laughed at: 'Not is now wisely asked. Are-you not heard, that the-gods made bridge from earth to heaven, which is-called Bifrost?'"
+	  },
+	  "sot_links": { "themes": ["Bifrost", "The Bridge"], "artifacts": ["artifact_bifrost"] }
+	},
+	{
+	  "section_id": "gylf_48",
+	  "original": "Í upphafi settu þeir stjórnarmenn í miðri borginni ok dæmdu um forlög manna. Þar var gerð höll, er Gladsheimr heitir.'",
+	  "translations": {
+	    "faulkes": "In the beginning they appointed rulers in the middle of the city and judged the fates of men. There a hall was built called Gladsheim.'",
+	    "brodeur": "In the beginning they established rulers, and bade them ordain fates with him... that hall was called Gladsheim.'",
+	    "literal": "In beginning set they rulers in middle the-burg and judged about fates of-men. There was made hall, which Gladsheim is-called.'"
+	  },
+	  "sot_links": { "locations": ["Gladsheim"], "themes": ["Governance"] }
+	},
+	{
+	  "section_id": "gylf_49",
+	  "original": "Annan sal gerðu þeir, þat var hörg, er gyðjurnar áttu, ok var hann harðla fagr. Þann kölluðu þeir Vingólf.'",
+	  "translations": {
+	    "faulkes": "They made another hall, it was a sanctuary belonging to the goddesses, and it was very beautiful. They called it Vingolf.'",
+	    "brodeur": "They made another hall: that was a sanctuary, and it belonged to the goddesses; it was very fair. Men call it Vingólf.'",
+	    "literal": "Another hall made they, that was sanctuary, which the-goddesses had, and was he very fair. That called they Vingolf.'"
+	  },
+	  "sot_links": { "locations": ["Vingolf"], "deities": ["deity_frigga"] }
+	},
+	{
+	  "section_id": "gylf_50",
+	  "original": "Þá gengu regin öll á rökstóla ok dæmdu, hverr skyldi dverga dróttin skepja ór moldunni.'",
+	  "translations": {
+	    "faulkes": "Then all the powers went to their judgment-seats and judged who should create the host of dwarfs out of the earth.'",
+	    "brodeur": "Then all the Powers went to their judgment-seats, and held council, and remembered how the dwarfs had quickened in the mould.'",
+	    "literal": "Then went powers all to doom-seats and judged, who should of-dwarfs host shape from the-earth.'"
+	  },
+	  "sot_links": { "themes": ["Dwarf Creation"], "manuscripts": ["voluspa_66.json"] }
+	},
+	{
+	  "section_id": "gylf_51",
+	  "original": "Askr Yggdrasils er allra trjá mestr ok beztr. Limar hans dreifask um heim allan.'",
+	  "translations": {
+	    "faulkes": "The ash Yggdrasil is the greatest and best of all trees. Its branches spread over all the world.'",
+	    "brodeur": "The Ash is greatest of all trees and best: its limbs spread out over all the world.'",
+	    "literal": "Ash Yggdrasil is all of-trees greatest and best. Branches hers spread-out over world all.'"
+	  },
+	  "sot_links": { "themes": ["Yggdrasil"], "locations": ["Urd's Well", "Mimir's Well"] }
+	},
+	{
+	  "section_id": "gylf_52",
+	  "original": "Þrjár rætr trésins halda því upp ok standa harðla breitt. Ein er með ásum, önnur með hrímþursum, þriðja yfir Niflheimi.'",
+	  "translations": {
+	    "faulkes": "Three roots of the tree hold it up and extend very far. One is among the Aesir, another among frost-giants, the third over Niflheim.'",
+	    "brodeur": "Three roots of the Ash uphold it and stand exceeding broad: one is among the Aesir; another among the Rime-Giants... the third over Niflheim.'",
+	    "literal": "Three roots of-the-tree hold that up and stand very broad. One is with Aesir, another with rime-giants, third over Niflheim.'"
+	  },
+	  "sot_links": { "locations": ["Niflheim", "Jotunheim"] }
+	},
+	{
+	  "section_id": "gylf_53",
+	  "original": "En undir þeirri rót, er til hrímþursa horfir, þar er Mímisbrunnr, er speki ok mannvit er í fólgit.'",
+	  "translations": {
+	    "faulkes": "But under that root which turns towards the frost-giants is Mimir's well, in which wisdom and understanding are stored.'",
+	    "brodeur": "But under that root which turns toward the Rime-Giants is Mimir's Well, wherein wisdom and understanding are stored.'",
+	    "literal": "But under that root, which to rime-giants looks, there is Mimir's-well, where wisdom and human-wit is in hidden.'"
+	  },
+	  "sot_links": { "locations": ["Mimir's Well"], "figures": ["Mimir"] }
+	},
+	{
+	  "section_id": "gylf_54",
+	  "original": "Þriðja rót asksins stendr á himni, ok undir þeirri rót er brunnr sá, er harðla heilagr er, er heitir Urðarbrunnr.'",
+	  "translations": {
+	    "faulkes": "The third root of the ash is in heaven, and under that root is a well which is very holy, called Urd's well.'",
+	    "brodeur": "The third root of the Ash stands in heaven; and under that root is the well which is very holy, that is called the Well of Urdr.'",
+	    "literal": "Third root of-the-ash stands on heaven, and under that root is well that, which very holy is, which is-called Urd's-well.'"
+	  },
+	  "sot_links": { "locations": ["Urd's Well"] }
+	},
+	{
+	  "section_id": "gylf_55",
+	  "original": "Þar eiga goðin dómstað sinn. Hvern dag ríða æsir þangat upp um Bifröst.'",
+	  "translations": {
+	    "faulkes": "There the gods have their place of judgment. Every day the Aesir ride up there over Bifrost.'",
+	    "brodeur": "There the gods have their judgment-seat; every day the Aesir ride thither up over Bifröst.'",
+	    "literal": "There have the-gods judgment-place theirs. Each day ride Aesir thither up over Bifrost.'"
+	  },
+	  "sot_links": { "themes": ["Governance"], "artifacts": ["artifact_bifrost"] }
+	},
+	{
+	  "section_id": "gylf_56",
+	  "original": "Þá mælti Gangleri: 'Hvat er fleira at segja frá askinum?' Hár segir: 'Margt er þar af at segja.'",
+	  "translations": {
+	    "faulkes": "Then Gangleri said: 'What more is there to say about the ash?' High replied: 'There is much to tell about it.'",
+	    "brodeur": "Then spake Gangleri: 'What more of noteworthy things is there to tell concerning the Ash?' High said: 'Much is there to be told of it.'",
+	    "literal": "Then spoke Gangleri: 'What is more to say from the-ash?' High says: 'Much is there of to say.'"
+	    }
+	},
+	{
+	  "section_id": "gylf_57",
+	  "original": "Örn einn sitr í limum asksins, ok er hann margs vitandi, en í milli augna honum sitr haukr sá, er heitir Veðrfölnir.'",
+	  "translations": {
+	    "faulkes": "An eagle sits in the branches of the ash, and it has knowledge of many things, and between its eyes sits a hawk called Vedrfolnir.'",
+	    "brodeur": "An eagle sits in the limbs of the Ash, and he has understanding of many a thing; and between his eyes sits the hawk called Vedrfölnir.'",
+	    "literal": "Eagle one sits in branches the-ash's, and is he much knowing, but in middle eyes his sits hawk that, which is-called Vedrfolnir.'"
+	    },
+	    "sot_links": { "figures": ["Vedrfolnir"], "themes": ["Cosmic Fauna"] }
+	},
+	{
+	  "section_id": "gylf_58",
+	  "original": "Í Valhöll er herfang svá mikit, at þeir menn, er í bardaga hafa fallit, eru þar kallaðir einherjar.'",
+	  "translations": {
+	    "faulkes": "In Valhalla there is such a great host that those men who have fallen in battle are called there Einherjar.'",
+	    "brodeur": "In Valhall there is a great multitude... all those men who have fallen in fight... are called Einherjar.'",
+	    "literal": "In Valhalla is army-catch so great, that those men, who in battle have fallen, are there called einherjar.'"
+	    },
+	    "sot_links": { "themes": ["Einherjar"], "locations": ["Valhalla"] }
+	},
+	{
+	  "section_id": "gylf_59",
+	  "original": "Göltr sá, er Sæhrímnir heitir, hann er soðinn hvern dag ok heill at aftni.'",
+	  "translations": {
+	    "faulkes": "The boar called Saehrimnir, he is cooked every day and whole again by evening.'",
+	    "brodeur": "The boar which is called Sæhrímnir; he is cooked every day and becomes whole again at evening.'",
+	    "literal": "Boar that, who Saehrimnir named, he is boiled each day and whole at evening.'"
+	   },
+	   "sot_links": { "figures": ["Saehrimnir"], "themes": ["Recurring Resources"] }
+	},
+	{
+	  "section_id": "gylf_60",
+	  "original": "En Óðinn gefr mat sinn tveim úlfum, er hann á, er heita Geri ok Freki.'",
+	  "translations": {
+	    "faulkes": "But Odin gives his food to two wolves that he has, called Geri and Freki.'",
+	      "brodeur": "But Odin gives his meat to two wolves that he hath, called Geri and Freki.'",
+	      "literal": "But Odin gives food his two wolves, which he has, which are-called Geri and Freki.'"
+	    },
+	    "sot_links": { "deities": ["deity_odin"], "figures": ["Geri", "Freki"] }
+	},
+	{
+	      "section_id": "gylf_61",
+	      "original": "Hrafnar tveir sitja á öxlum honum ok segja í eyru honum öll tíðindi... Þeir heita svá: Huginn ok Muninn.",
+	      "translations": {
+	        "faulkes": "Two ravens sit on his shoulders and speak into his ears all the news they hear... Their names are Huginn and Muninn.",
+	        "brodeur": "Two ravens sit on his shoulders and whisper in his ears all tidings which they see or hear; they are called thus: Huginn and Muninn.",
+	        "literal": "Ravens two sit on shoulders his and say in ears his all tidings... They are-named so: Huginn and Muninn."
+	      },
+	      "sot_links": { "deities": ["deity_odin"], "figures": ["Huginn", "Muninn"], "themes": ["Information Gathering"] }
+	},
+	{
+	      "section_id": "gylf_62",
+	      "original": "Fimm hundruð dura ok um fjóra tuga, svá hygg ek á Valhöllu vera.",
+	      "translations": {
+	        "faulkes": "Five hundred doors and forty more, I think, are in Valhalla.",
+	        "brodeur": "Five hundred doors and forty more methinks are in Valhall.",
+	        "literal": "Five hundred doors and about four tens, so think I on Valhalla to-be."
+	      },
+	      "sot_links": { "locations": ["Valhalla"], "themes": ["Architecture", "Scale"] }
+	},
+	{
+	      "section_id": "gylf_63",
+	      "original": "Hvern dag, er þeir hafa klæzk, þá vápnast þeir ok ganga út í tún ok berjast ok fellir hverr annan. Þat er leikr þeira.",
+	      "translations": {
+	        "faulkes": "Every day, when they have dressed, they arm themselves and go out into the courtyard and fight and fell each other. That is their sport.",
+	        "brodeur": "Every day, as soon as they are clothed, they straightway arm themselves and go forth into the court and fight and fell each one the other: this is their sport.",
+	        "literal": "Each day, when they have clothed-themselves, then arm they themselves and go out in court and fight and fells each other. That is sport theirs."
+	      },
+	      "sot_links": { "themes": ["Einherjar", "Training Loop"] }
+	},
+	{
+	      "section_id": "gylf_64",
+	      "original": "Enn eru þær aðrar, er þjóna í Valhöll, bera drykk ok gæta borðbúnaðar... Þessar heita valkyrjur.",
+	      "translations": {
+	        "faulkes": "There are still others who serve in Valhalla, bring drink and look after the table-service... These are called Valkyries.",
+	        "brodeur": "There are yet others whose office it is to serve in Valhall, to bear drink and mind the table-service... these are called Valkyrjur.",
+	        "literal": "Yet are those others, who serve in Valhalla, bear drink and guard table-equipment... These are-called valkyries."
+	      },
+	      "sot_links": { "figures": ["Valkyries"], "themes": ["Service", "Selection of the Slain"] }
+	},
+	{
+	      "section_id": "gylf_65",
+	      "original": "Þórr er þeira framast, sá er kallaðr er Ása-Þórr eða Öku-Þórr. Hann á þrjá gripa dýrliga. Einn þeira er hamarrinn Mjölnir.",
+	      "translations": {
+	        "faulkes": "Thor is the foremost of them, he who is called Asa-Thor or Oku-Thor. He has three precious possessions. One of them is the hammer Mjolnir.",
+	        "brodeur": "Thor is the foremost of them... he has three jewels of great price. First is the hammer Mjöllnir.",
+	        "literal": "Thor is theirs foremost, that-one who called is Asa-Thor or Wagon-Thor. He has three possessions precious. One theirs is hammer-the Mjolnir."
+	      },
+	      "sot_links": { "deities": ["deity_thor"], "artifacts": ["artifact_mjolnir", "artifact_megingjord", "artifact_jarngreipr"] }
+	},
+	{
+	      "section_id": "gylf_66",
+	      "original": "Annarr sonr Óðins er Baldr, ok er frá honum gott at segja. Hann er beztr ok hann lofa allir.",
+	      "translations": {
+	        "faulkes": "Odin's second son is Baldr, and there are good things to be said of him. He is the best, and everyone praises him.",
+	        "brodeur": "Odin's second son is Baldr, and good things are to be said of him. He is best, and all praise him.",
+	        "literal": "Second son of-Odin is Baldr, and is from him good to say. He is best and him praise all."
+	      },
+	      "sot_links": { "deities": ["deity_baldr"] }
+	},
+	{
+	      "section_id": "gylf_67",
+	      "original": "Hinn þriði áss er sá, er nefndr er Njörðr. Hann býr á himni, þar sem heitir Nóatún.",
+	      "translations": {
+	        "faulkes": "The third god is the one named Njord. He lives in heaven in a place called Noatun.",
+	        "brodeur": "The third god is he who is called Njördr; he dwells in heaven, in the abode called Nóatún.",
+	        "literal": "The third god is that-one, who named is Njord. He dwells on heaven, there where called-is Noatun."
+	      },
+	      "sot_links": { "deities": ["deity_njord"], "locations": ["Noatun"] }
+	},
+	{
+	      "section_id": "gylf_68",
+	      "original": "Njörðr á þá konu, er Skaði heitir, dóttir Þjaza jötuns.",
+	      "translations": {
+	        "faulkes": "Njord has a wife called Skadi, daughter of the giant Thjazi.",
+	        "brodeur": "Njördr has to wife the woman named Skaði, daughter of Thjazi the giant.",
+	        "literal": "Njord has that woman, who Skadi named, daughter of-Thjazi giant."
+	      },
+	      "sot_links": { "deities": ["deity_skadi"], "figures": ["Thjazi"] }
+	},
+	{
+	      "section_id": "gylf_69",
+	      "original": "Njörðr í Nóatúnum gat síðan tvö börn: hét sonr Freyr, en dóttir Freyja. Þau váru fögr álitum ok máttug.",
+	      "translations": {
+	        "faulkes": "Njord in Noatun afterwards had two children: a son called Freyr and a daughter Freyja. They were beautiful in appearance and powerful.",
+	        "brodeur": "Njördr in Nóatún begot afterward two children: the son was called Freyr, and the daughter Freyja; they were fair of face and mighty.",
+	        "literal": "Njord in Noatun begat since two children: named-was son Freyr, but daughter Freyja. They were fair appearance-with and mighty."
+	      },
+	      "sot_links": { "deities": ["deity_freyr", "deity_freyja"], "vanir": ["vanir-gods.json"] }
+	},
+	{
+	      "section_id": "gylf_70",
+	      "original": "Týr er djarfastr ok bezt hugaðr, ok hann ræðr mjög sigri í orrostum.",
+	      "translations": {
+	        "faulkes": "Tyr is the most daring and stout-hearted, and he has a large share of power over victory in battles.",
+	        "brodeur": "Týr is most daring and stout-hearted, and he wields great power over victory in strife.",
+	        "literal": "Tyr is most-daring and best minded, and he rules much victory in battles."
+	      },
+	      "sot_links": { "deities": ["deity_tyr"] }
+	},
+	{
+	      "section_id": "gylf_71",
+	      "original": "Bragi heitir einn. Hann er ágætr at speki ok mest at málsnilld ok orðskimi.",
+	      "translations": {
+	        "faulkes": "One is called Bragi. He is famous for wisdom and especially for eloquence and command of language.",
+	        "brodeur": "One is called Bragi: he is renowned for wisdom, and most of all for fluency of speech and skill with words.",
+	        "literal": "Bragi is-named one. He is excellent at wisdom and most at eloquence and word-glitter."
+	      },
+	      "sot_links": { "deities": ["deity_bragi"] }
+	},
+	{
+	      "section_id": "gylf_72",
+	      "original": "Kona hans er Iðunn. Hón varðveitir í eski sínu epli þau, er goðin skulu á bíta, þá er þau eldast.",
+	      "translations": {
+	        "faulkes": "His wife is Idunn. She keeps in her box those apples which the gods must bite when they grow old.",
+	        "brodeur": "His wife is Idunn; she guards in her chest of ash those apples which the gods must taste whensoever they grow old.",
+	        "literal": "Woman his is Idunn. She guards in box hers apples those, which the-gods shall on bite, when that they grow-old."
+	      },
+	      "sot_links": { "deities": ["deity_idunn"], "artifacts": ["artifact_apples_of_idunn"] }
+	},
+	{
+	      "section_id": "gylf_73",
+	      "original": "Heimdallr heitir einn, hann er kallaðr hvíti áss. Hann er mikill ok heilagr.",
+	      "translations": {
+	        "faulkes": "One is called Heimdall, he is called the white god. He is great and holy.",
+	        "brodeur": "Heimdallr is the name of one: he is called the White God. He is great and holy.",
+	        "literal": "Heimdall is-named one, he is called white god. He is great and holy."
+	      },
+	      "sot_links": { "deities": ["deity_heimdallr"] }
+	},
+	{
+	      "section_id": "gylf_74",
+	      "original": "Höðr heitir einn ássinn, hann er blindr. Ærit er hann styrkr, en vilja mundu goðin, at þenna áss þyrfti eigi at nefna.",
+	      "translations": {
+	        "faulkes": "One of the gods is called Hod, he is blind. He is strong enough, but the gods would prefer that this god did not have to be named.",
+	        "brodeur": "Hödr is the name of one of the Aesir: he is blind. He is of sufficient strength, but the gods would desire that no occasion should rise of naming this god.",
+	        "literal": "Hod is-named one god-the, he is blind. Enough is he strong, but wish would the-gods, that this god needed not to name."
+	      },
+	      "sot_links": { "deities": ["deity_hodr"] }
+	},
+	{
+	      "section_id": "gylf_75",
+	      "original": "Víðarr heitir einn, hinn þögli áss. Hann á þykkan skó. Hann er næst styrkr Þór.",
+	      "translations": {
+	        "faulkes": "One is called Vidar, the silent god. He has a thick shoe. He is nearly as strong as Thor.",
+	        "brodeur": "Víðarr is the name of one, the Silent God. He has a thick shoe. He is nearly as strong as Thor.",
+	        "literal": "Vidar is-named one, the silent god. He has thick shoe. He is next strong Thor."
+	      },
+	      "sot_links": { "deities": ["deity_vidar"] }
+	},
+	{
+	      "section_id": "gylf_76",
+	      "original": "Váli heitir einn, sonr Óðins ok Rindar. Hann er djarfr í orrostum ok hittinn mjög.",
+	      "translations": {
+	        "faulkes": "One is called Vali, son of Odin and Rind. He is daring in battles and a very good shot.",
+	        "brodeur": "Ali or Váli is the name of one, son of Odin and Rindr: he is daring in fights, and a most fortunate marksman.",
+	        "literal": "Vali is-named one, son of-Odin and Rind. He is daring in battles and a-good-shot much."
+	      },
+	      "sot_links": { "deities": ["deity_vali"] }
+	},
+	{
+	      "section_id": "gylf_77",
+	      "original": "Ullr heitir einn, sonr Sifjar, stjúpsonr Þórs. Hann er bogmaðr svá góðr ok skíðfærr.",
+	      "translations": {
+	        "faulkes": "One is called Ullr, son of Sif, stepson of Thor. He is such a good archer and skier.",
+	        "brodeur": "Ullr is the name of one, son of Sif, step-son of Thor; he is so excellent an archer and snow-shoe runner.",
+	        "literal": "Ullr is-named one, son of-Sif, stepson of-Thor. He is bowman so good and ski-able."
+	      },
+	      "sot_links": { "deities": ["deity_ullr"] }
+	},
+	{
+	      "section_id": "gylf_78",
+	      "original": "Forseti heitir sonr Baldurs ok Nönnu Nepsdóttur. Hann á þann sal, er Glitnir heitir.",
+	      "translations": {
+	        "faulkes": "Forseti is the name of the son of Baldr and Nanna daughter of Nep. He has a hall called Glitnir.",
+	        "brodeur": "Forseti is the name of the son of Baldr and Nanna daughter of Nepr: he has that hall which is called Glitnir.",
+	        "literal": "Forseti is-named son of-Baldr and Nanna Nep's-daughter. He has that hall, which Glitnir named."
+	      },
+	      "sot_links": { "deities": ["deity_forseti"], "locations": ["Glitnir"] }
+	},
+	{
+	      "section_id": "gylf_79",
+	      "original": "Sá er enn taldr með ásum, er sumir kalla rógbera ásanna... ok hann er nefndr Loki eða Loftr.",
+	      "translations": {
+	        "faulkes": "There is also one reckoned among the Aesir whom some call the slanderer of the gods... and he is named Loki or Lopt.",
+	        "brodeur": "Also numbered among the Aesir is he whom some call the backbiter of the Aesir... his name is Loki or Loptr.",
+	        "literal": "That-one is yet counted with Aesir, whom some call slander-bearer of-Aesir-the... and he is named Loki or Lopt."
+	      },
+	      "sot_links": { "deities": ["deity_loki"] }
+	},
+	{
+	      "section_id": "gylf_80",
+	      "original": "Loki átti þrjú börn með Angrboðu: eitt var Fenrisúlfr, annat Jörmungandr, þriðja Hel.",
+	      "translations": {
+	        "faulkes": "Loki had three children with Angrboda: one was Fenris-wolf, the second Jormungand, the third Hel.",
+	        "brodeur": "Loki had three children by Angrboda... the first was Fenris-wolf; the second, Jörmungandr; the third is Hel.",
+	        "literal": "Loki had three children with Angrboda: one was Fenris-wolf, second Jormungand, third Hel."
+	      },
+	      "sot_links": { "deities": ["deity_loki"], "figures": ["Fenrir", "Jormungand", "Hel"], "themes": ["Loki's Offspring"] }
+	},
+	{
+		    "section_id": "gylf_81",
+		    "original": "Þá mælti Gangleri: 'Hverjar eru ásynjurnar?' Hár segir: 'Frigg er æðst. Hón á þann bæ, er Fensalir heita, ok er hann harðla fagr.'",
+		    "translations": {
+		      "faulkes": "Then Gangleri said: 'Who are the goddesses?' High said: 'Frigg is the foremost. She owns the dwelling called Fensalir and it is very beautiful.'",
+		      "brodeur": "Then spake Gangleri: 'Who are the Goddesses?' High said: 'Frigg is the foremost; she has that estate which is called Fensalir, and it is most magnificent.'",
+		      "literal": "Then spoke Gangleri: 'Who are the goddesses?' High says: 'Frigg is highest. She has that farm, which Fensalir named-is, and is he very fair.'"
+		    },
+		    "sot_links": { "deities": ["deity_frigg"], "locations": ["Fensalir"] }
+	},
+	{
+		    "section_id": "gylf_82",
+		    "original": "Önnur er Sága. Hón býr á Sökkvabekk, ok er þat mikill bær.'",
+		    "translations": {
+		      "faulkes": "The second is Saga. She lives at Sokkvabekk, and it is a large dwelling.'",
+		      "brodeur": "The second is Sága: she dwells at Sökkvabekkr, and that is a great abode.'",
+		      "literal": "Second is Saga. She dwells at Sunk-bench, and is that great farm.'"
+		    },
+		    "sot_links": { "deities": ["deity_saga"], "locations": ["Sokkvabekk"] }
+	},
+	{
+		    "section_id": "gylf_83",
+		    "original": "Þriðja er Eir. Hón er læknir beztr.'",
+		    "translations": {
+		      "faulkes": "The third is Eir. She is the best physician.'",
+		      "brodeur": "The third is Eir: she is the best physician.'",
+		      "literal": "Third is Eir. She is healer best.'"
+		    },
+		    "sot_links": { "deities": ["deity_eir"], "themes": ["Healing"] }
+	},
+	{
+		    "section_id": "gylf_84",
+		    "original": "Fjórða er Gefjun. Hón er mær, ok henni þjóna þær, er meyjar andast.'",
+		    "translations": {
+		      "faulkes": "The fourth is Gefjun. She is a virgin, and she is served by those who die as virgins.'",
+		      "brodeur": "The fourth is Gefjun: she is a virgin, and they serve her who die maidens.'",
+		      "literal": "Fourth is Gefjun. She is maiden, and her serve those, who maidens die.'"
+		    },
+		    "sot_links": { "deities": ["deity_gefjun"] }
+	},
+	{
+		    "section_id": "gylf_85",
+		    "original": "Fimta er Fulla. Hón er enn mær ok ferr laushár ok hefir gullband um höfuð. Hón berr eski Friggjar ok gætir skóklæða hennar.'",
+		    "translations": {
+		      "faulkes": "The fifth is Fulla. She is also a virgin and goes with her hair loose and has a golden band around her head. She carries Frigg's casket and looks after her footwear.'",
+		      "brodeur": "The fifth is Fulla: she is also a maid, and goes with hair flowing and a gold band about her head; she bears Frigg's coffer and has charge of her footwear.'",
+		      "literal": "Fifth is Fulla. She is yet maiden and goes loose-haired and has gold-band around head. She bears casket of-Frigg and guards shoe-clothes hers.'"
+		    },
+		    "sot_links": { "deities": ["deity_fulla"] }
+	},
+	{
+		    "section_id": "gylf_86",
+		    "original": "Freyja er tignust með Frigg. Hón á þann bœ er Fólkvangr heitir. Hvar sem hón ríðr til vígs, þá á hón hálfan val, en hálfan Óðinn.'",
+		    "translations": {
+		      "faulkes": "Freyja is the most noble along with Frigg. She owns the dwelling called Folkvang. Wherever she rides to battle, she gets half the slain, and Odin half.'",
+		      "brodeur": "Freyja is most gently born (together with Frigg): she has 그 estate which is called Fólkvangr; and wheresoever she rides to the strife, she has one-half of the kill, and Odin half.'",
+		      "literal": "Freyja is most-noble with Frigg. She has that farm which Folkvang named-is. Where that she rides to war, then has she half slaughter-the, but half Odin.'"
+		    },
+		    "sot_links": { "deities": ["deity_freyja", "deity_odin"], "locations": ["Folkvangr"] }
+	},
+	{
+		    "section_id": "gylf_87",
+		    "original": "Salr hennar Sessrúmnir, hann er mikill ok fagr. En er hón ferr, þá ekr hón köttum tveim ok sitr í kerru.'",
+		    "translations": {
+		      "faulkes": "Her hall is Sessrumnir, it is large and beautiful. And when she travels, she drives two cats and sits in a carriage.'",
+		      "brodeur": "Her hall is Sessrúmnir; it is great and fair. When she goes forth, she drives her cats and sits in a chariot.'",
+		      "literal": "Hall hers Sessrumnir, he is great and fair. And when she goes, then drives she cats two and sits in cart.'"
+		    },
+		    "sot_links": { "locations": ["Sessrumnir"], "themes": ["Freyja's Cats"] }
+		  },
+		  {
+		    "section_id": "gylf_88",
+		    "original": "Sjöunda er Sjöfn. Hón gætir mjög at snúa hugum manna til ásta.'",
+		    "translations": {
+		      "faulkes": "The seventh is Sjofn. She is much concerned with turning people's minds to love.'",
+		      "brodeur": "The seventh is Sjöfn: she is much concerned to turn men's minds to love.'",
+		      "literal": "Seventh is Sjofn. She guards much to turn minds of-men to love.'"
+		    },
+		    "sot_links": { "deities": ["deity_sjofn"] }
+		  },
+		  {
+		    "section_id": "gylf_89",
+		    "original": "Áttunda er Lofn. Hón er svá mild ok góð til áheita, at hón fær lof af Alföður eða Frigg at saman byggja menn.'",
+		    "translations": {
+		      "faulkes": "The eighth is Lofn. She is so kind and good to pray to that she gets permission from All-father or Frigg to bring people together.'",
+		      "brodeur": "The eighth is Lofn: she is so gracious and kindly to such as call upon her, that she wins leave from All-father or Frigg for the coming together of mankind.'",
+		      "literal": "Eighth is Lofn. She is so mild and good to prayers, that she gets leave from All-father or Frigg to together build men [unite them].'"
+		    },
+		    "sot_links": { "deities": ["deity_lofn"] }
+		  },
+		  {
+		    "section_id": "gylf_90",
+		    "original": "Níunda er Vár. Hón hlýðir á eiða manna ok einkamál, er veita sín á milli konur ok karlar.'",
+		    "translations": {
+		      "faulkes": "The ninth is Var. She listens to people's oaths and private agreements that women and men make between themselves.'",
+		      "brodeur": "The ninth is Vár: she lends ear to men's oaths and private compacts which women and men make between each other.'",
+		      "literal": "Ninth is Var. She listens on oaths of-men and private-talk, which grant themselves between women and men.'"
+		    },
+		    "sot_links": { "deities": ["deity_var"], "themes": ["Oaths"] }
+		  },
+		  {
+		    "section_id": "gylf_91",
+		    "original": "Tíunda er Vör. Hón er svá vitr ok spurul, at engan hlut má hana dylja.'",
+		    "translations": {
+		      "faulkes": "The tenth is Vor. She is so wise and searching that nothing can be concealed from her.'",
+		      "brodeur": "The tenth is Vör: she is wise and of searching spirit, so that nothing can be concealed from her.'",
+		      "literal": "Tenth is Vor. She is so wise and questioning, that no thing may her hide.'"
+		    },
+		    "sot_links": { "deities": ["deity_vor"] }
+		  },
+		  {
+		    "section_id": "gylf_92",
+		    "original": "Ellifta er Syn. Hón gætir dura í höllinni ok lýkr fyrir þeim, er eigi skulu inn ganga.'",
+		    "translations": {
+		      "faulkes": "The eleventh is Syn. She guards the doors in the hall and shuts them against those who are not to enter.'",
+		      "brodeur": "The eleventh is Syn: she keeps the door in the hall, and locks it before those who should not go in.'",
+		      "literal": "Eleventh is Syn. She guards doors in the-hall and locks before those, who not shall in go.'"
+		    },
+		    "sot_links": { "deities": ["deity_syn"], "themes": ["Gatekeeping"] }
+		  },
+		  {
+		    "section_id": "gylf_93",
+		    "original": "Tólfta er Hlín. Hón er sett til gæzlu yfir þeim mönnum, er Frigg vill forða við háska.'",
+		    "translations": {
+		      "faulkes": "The twelfth is Hlin. She is assigned to guard those people whom Frigg wants to protect from some danger.'",
+		      "brodeur": "The twelfth is Hlín: she is established as keeper over those men whom Frigg desires to save from any peril.'",
+		      "literal": "Twelfth is Hlin. She is set to guarding over those men, whom Frigg wishes to-save from danger.'"
+		    },
+		    "sot_links": { "deities": ["deity_hlin"] }
+		  },
+		  {
+		    "section_id": "gylf_94",
+		    "original": "Þrettánda er Snotra. Hón er vitr ok látprúð.'",
+		    "translations": {
+		      "faulkes": "The thirteenth is Snotra. She is wise and courtly.'",
+		      "brodeur": "The thirteenth is Snotra: she is wise and of courtly manners.'",
+		      "literal": "Thirteenth is Snotra. She is wise and manner-proud.'"
+		    },
+		    "sot_links": { "deities": ["deity_snotra"] }
+		  },
+		  {
+		    "section_id": "gylf_95",
+		    "original": "Fjórtánda er Gná. Hana sendir Frigg í ýmsa heima at erindum sínum. Hón á þann hest, er rennr loft ok lög ok heitir Hófvarpnir.'",
+		    "translations": {
+		      "faulkes": "The fourteenth is Gna. Frigg sends her into various worlds on her errands. She has the horse that runs through air and water called Hofvarpnir.'",
+		      "brodeur": "The fourteenth is Gná: her Frigg sends to various worlds on her errands. She has a horse which runs through air and over water and is called Hófvarpnir.'",
+		      "literal": "Fourteenth is Gna. Her sends Frigg in various worlds at errands hers. She has that horse, which runs air and sea and is-called Hoof-thrower.'"
+		    },
+		    "sot_links": { "deities": ["deity_gna"], "figures": ["Hofvarpnir"] }
+		  },
+		  {
+		    "section_id": "gylf_96",
+		    "original": "Sól ok Bil eru taldar með ásynjum, en áðr er sagt frá þeim.'",
+		    "translations": {
+		      "faulkes": "Sol and Bil are counted among the goddesses, but they have been mentioned before.'",
+		      "brodeur": "Sól and Bil are numbered among the Goddesses, but of their nature it has been told before.'",
+		      "literal": "Sun and Bil are counted with goddesses, but before is said from them.'"
+		    },
+		    "sot_links": { "deities": ["deity_sol", "deity_bil"] }
+		  },
+		  {
+		    "section_id": "gylf_97",
+		    "original": "Enn eru þær aðrar, er kallaðar eru valkyrjur. Þær sendir Óðinn til hverrar orrostu. Þær kjósa feiga menn ok ráða sigri.'",
+		    "translations": {
+		      "faulkes": "There are still others who are called Valkyries. Odin sends them to every battle. They choose which men are to die and determine victory.'",
+		      "brodeur": "There are yet others whose office it is to serve in Valhall... these are called Valkyrjur. Odin sends them to every battle; they determine men's feyness and award victory.'",
+		      "literal": "Yet are those others, who called are valkyries. Them sends Odin to each battle. They choose fey men and rule victory.'"
+		    },
+		    "sot_links": { "figures": ["Valkyries"], "themes": ["Selection of the Slain"] }
+		  },
+		  {
+		    "section_id": "gylf_98",
+		    "original": "Freyr hafði gengið í Hliðskjálf ok sá of alla heima. Hann sá í Jötunheima ok sá þar mey eina fagra.'",
+		    "translations": {
+		      "faulkes": "Freyr had gone into Hlidskjalf and looked over all worlds. He looked into Jotunheim and saw there a beautiful girl.'",
+		      "brodeur": "Freyr had gone into Hliðskjálf, and looked out over all the worlds; and as he looked into Jötunheim, he saw a maiden, fair and noble.'",
+		      "literal": "Freyr had gone in Hlidskjalf and saw over all worlds. He saw in Giant-home and saw there maiden one fair.'"
+		    },
+		    "sot_links": { "deities": ["deity_freyr"], "locations": ["Hlidskjalf", "Jotunheim"] }
+		  },
+		  {
+		    "section_id": "gylf_99",
+		    "original": "Hón hét Gerðr ok var dóttir Gymis jötuns ok Aurboðu. Af fegrð hennar lýsti yfir loft ok lög.'",
+		    "translations": {
+		      "faulkes": "She was called Gerd and was the daughter of the giant Gymir and Aurboda. From her beauty there was a brightness over air and sea.'",
+		      "brodeur": "She was named Gerdr, and was daughter of Gymir the giant, and of Aurboða... from her beauty a brightness rose over sky and sea.'",
+		      "literal": "She named-was Gerd and was daughter of-Gymir giant and Aurboda. From beauty hers light-shone over air and sea.'"
+		    },
+		    "sot_links": { "figures": ["Gerdr", "Gymir", "Aurboda"] }
+		  },
+		  {
+		    "section_id": "gylf_100",
+		    "original": "Freyr fekk svá mikinn harm, at hann mælti ekki. Hann sendi Skírni, skósvein sinn, at biðja hennar.'",
+		    "translations": {
+		      "faulkes": "Freyr was so overcome with grief that he said nothing. He sent Skirnir, his servant, to woo her.'",
+		      "brodeur": "Then Freyr took so great heaviness of spirit that he spake not a word... he called Skírnir, his page, and bade him go woo her.'",
+		      "literal": "Freyr got so great grief, that he spoke not. He sent Skirnir, shoe-swain his, to ask hers [propose].'"
+		    },
+		    "sot_links": { "deities": ["deity_freyr"], "figures": ["Skirnir"] }
+		  },
+		  {
+		      "section_id": "gylf_101",
+		      "original": "Skírnir fór í Jötunheima ok gat bæn Freys. Hann fekk sverðit, er sjálft vágu í mót jötnum, en Freyr varð vápnlaus síðan.",
+		      "translations": {
+		        "faulkes": "Skirnir went to Jotunheim and obtained Freyr's request. He received the sword that fought against giants on its own, and Freyr was weaponless thereafter.",
+		        "brodeur": "Skírnir went into Jötunheim and wooed the maiden for him... and he received the sword. Thenceforth Freyr was swordless.",
+		        "literal": "Skirnir went in Giant-home and got prayer [request] Freyr's. He got sword-the, which self fought against giants, but Freyr became weaponless since."
+		      },
+		      "sot_links": { "deities": ["deity_freyr"], "artifacts": ["artifact_freyr_sword"], "themes": ["Sacrifice", "Vulnerability"] }
+		    },
+		    {
+		      "section_id": "gylf_102",
+		      "original": "Þá mælti Gangleri: 'Hvat er frá Þór at segja? Er hann nokkurn tíma ofrliði borinn?' Hár svarar: 'Margt er frá honum at segja.'",
+		      "translations": {
+		        "faulkes": "Then Gangleri said: 'What is there to tell about Thor? Has he ever been overcome by superior force?' High replied: 'There is much to tell about him.'",
+		        "brodeur": "Then spake Gangleri: 'What is there to be told of Thor? Has he ever encountered such might... that he was the weaker?' High answered: 'There are many things to tell of him.'",
+		        "literal": "Then spoke Gangleri: 'What is from Thor to say? Is he some time over-strength borne [overpowered]?' High answers: 'Much is from him to say.'"
+		      },
+		      "sot_links": { "deities": ["deity_thor"] }
+		    },
+		    {
+		      "section_id": "gylf_103",
+		      "original": "Þórr fór með hafra sína ok kerru ok með honum sá áss, er Loki heitir. Þeir kómum at kveldi til eins búanda.",
+		      "translations": {
+		        "faulkes": "Thor set out with his goats and carriage, and with him that god called Loki. In the evening they came to a certain peasant's house.",
+		        "brodeur": "Thor went forth with his he-goats and chariot, and with him that Asa called Loki; they came at evening to a certain husbandman's.'",
+		        "literal": "Thor went with goats his and cart and with him that god, who Loki named. They came at evening to one farmer."
+		      },
+		      "sot_links": { "deities": ["deity_thor", "deity_loki"], "figures": ["Tanngrisnir", "Tanngnjostr"] }
+		    },
+		    {
+		      "section_id": "gylf_104",
+		      "original": "Þórr tók hafra sína ok skar báða. Síðan váru þeir flegnir ok bornir til ketils. En er soðit var, settist Þórr til náttverðar.",
+		      "translations": {
+		        "faulkes": "Thor took his goats and slaughtered both. Then they were flayed and put in the pot. And when it was cooked, Thor sat down to supper.",
+		        "brodeur": "Thor took his he-goats and slaughtered them both; next they were flayed and borne to the cauldron... when it was cooked, Thor sat down to supper.'",
+		        "literal": "Thor took goats his and cut [slaughtered] both. Since were they flayed and borne to kettle. But when cooked was, sat-himself Thor to night-meal."
+		      },
+		      "sot_links": { "themes": ["Hospitality", "Recurring Resources"] }
+		    },
+		    {
+		      "section_id": "gylf_105",
+		      "original": "Þórr bauð til matar búandanum ok konu hans ok börnum þeira. Sonr búanda hét Þjálfi, en Röskva dóttir.",
+		      "translations": {
+		        "faulkes": "Thor invited the peasant and his wife and their children to the meal. The peasant's son was called Thjalfi, and the daughter Roskva.",
+		        "brodeur": "Thor invited to meat with him the husbandman and his wife and their children. The son of the husbandman was named Thjálfi, and the daughter Röskva.'",
+		        "literal": "Thor invited to meat farmer-the and woman his and children theirs. Son of-farmer named Thjalfi, but Roskva daughter."
+		      },
+		      "sot_links": { "figures": ["Thjalfi", "Roskva"] }
+		    },
+		    {
+		      "section_id": "gylf_106",
+		      "original": "Þórr lagði hafrstökurnar út frá eldinum ok mælti, at þeir skyldu kasta beinunum á hafrstökurnar.",
+		      "translations": {
+		        "faulkes": "Thor laid the goat-skins out away from the fire and said they should throw the bones onto the goat-skins.",
+		        "brodeur": "Thor laid the goat-skins out from the fire, and said that the husbandman and his household should cast the bones forth on the goat-skins.'",
+		        "literal": "Thor laid goat-skins-the out from fire-the and spoke, that they should throw bones-the on goat-skins-the."
+		      },
+		      "sot_links": { "themes": ["Ritual Protocol"] }
+		    },
+		    {
+		      "section_id": "gylf_107",
+		      "original": "Þjálfi, sonr búanda, helt á lærleggi hafrsins ok braut á knífi sínum ok skoraði til mergjar.",
+		      "translations": {
+		        "faulkes": "Thjalfi, the peasant's son, took the goat's leg-bone and broke it with his knife and split it to get at the marrow.",
+		        "brodeur": "Thjálfi, the husbandman's son, took the ham-bone of the goat and split it with his knife and broke it for the marrow.'",
+		        "literal": "Thjalfi, son of-farmer, held on thigh-bone of-goat-the and broke with knife his and scored to marrow."
+		      },
+		      "sot_links": { "themes": ["Violation of Protocol"] }
+		    },
+		    {
+		      "section_id": "gylf_108",
+		      "original": "Um morguninn stóð Þórr upp ok tók hamarinn Mjölni ok hóf upp ok vígði hafrstökurnar. Stóðu þá upp hafrarnir.",
+		      "translations": {
+		        "faulkes": "In the morning Thor got up and took the hammer Mjolnir and raised it and hallowed the goat-skins. Then the goats stood up.",
+		        "brodeur": "Thor rose at dawn... took the hammer Mjöllnir, and lifted it up and hallowed the goat-skins; and the he-goats rose up.'",
+		        "literal": "Around morning-the stood Thor up and took hammer-the Mjolnir and raised up and hallowed goat-skins-the. Stood then up goats-the."
+		      },
+		      "sot_links": { "artifacts": ["artifact_mjolnir"], "themes": ["Resurrection"] }
+		    },
+		    {
+		      "section_id": "gylf_109",
+		      "original": "En annarr var haltr eftra fœti. Þat fann Þórr ok sagði, at búandinn mundi eigi skynsamliga hafa farit með beinum hafrsins.",
+		      "translations": {
+		        "faulkes": "But one was lame in a hind leg. Thor noticed this and said the peasant must have been careless with the goat's bones.",
+		        "brodeur": "But one of them was lame in the hind leg; Thor noted this, and declared that the husbandman or his household could not have dealt wisely with the bones.'",
+		        "literal": "But other was lame in-hind foot. That found Thor and said, that farmer-the would not sensibly have gone [dealt] with bones of-goat-the."
+		      }
+		    },
+		    {
+		      "section_id": "gylf_110",
+		      "original": "Þórr varð reiðr mjög ok greip hamarinn svá fast, at hvítnuðu knúarnir. Búandinn varð hræddr ok bauð bætr fyrir.",
+		      "translations": {
+		        "faulkes": "Thor became very angry and gripped the hammer so hard that his knuckles whitened. The peasant was terrified and offered compensation.",
+		        "brodeur": "Thor became so wroth that he gripped the hammer so hard that the knuckles whitened... the husbandman was adread, and offered for recompense all that he had.'",
+		        "literal": "Thor became angry much and gripped hammer-the so fast, that whitened knuckles-the. Farmer-the became afraid and offered compensation for."
+		      }
+		    },
+		    {
+		      "section_id": "gylf_111",
+		      "original": "Þórr tók þá til sætta börn hans, Þjálfa ok Röskvu, ok urðu þau fylgjumenn hans síðan.",
+		      "translations": {
+		        "faulkes": "Thor then took his children, Thjalfi and Roskva, as a settlement, and they became his followers thereafter.",
+		        "brodeur": "Then Thor took his children, Thjálfi and Röskva, and they became his bond-servants, and follow him ever since.'",
+		        "literal": "Thor took then to settlement children his, Thjalfi and Roskva, and became they followers his since."
+		      },
+		      "sot_links": { "figures": ["Thjalfi", "Roskva"] }
+		    },
+		    {
+		      "section_id": "gylf_112",
+		      "original": "Þeir fóru síðan í Jötunheima ok kómum til sjávar þess, er stórr er. Þeir gengu á land upp ok í mörk mikla.",
+		      "translations": {
+		        "faulkes": "Then they went to Jotunheim and came to a sea that is very large. They went up onto the land and into a great forest.",
+		        "brodeur": "Thence he went into Jötunheim... they came to a great sea; then they went up on the land and into a great wood.'",
+		        "literal": "They went since in Giant-home and came to sea that, which great is. They went on land up and in forest great."
+		      },
+		      "sot_links": { "locations": ["Jotunheim"] }
+		    },
+		    {
+		      "section_id": "gylf_113",
+		      "original": "Þeir sáu þar skála einn mikinn. Dyrr váru á öðrum enda ok jafnbreiðar skálanum. Þar leituðu þeir sér náttstaðar.",
+		      "translations": {
+		        "faulkes": "They saw there a very large building. There were doors at one end as wide as the building itself. There they sought a place to sleep.",
+		        "brodeur": "They saw a certain house, very large... the door was at one end, and as wide as the house... they sought them a night-lodging.'",
+		        "literal": "They saw there building one great. Doors were on other end and as-wide building-the. There sought they for-themselves night-place."
+		      }
+		    },
+		    {
+		      "section_id": "gylf_114",
+		      "original": "Um miðnætti varð landskjálfti mikill. Þórr stóð upp ok leitaði sér afhúss ok fann afhús til hægri handar.",
+		      "translations": {
+		        "faulkes": "At midnight there was a great earthquake. Thor got up and looked for a side-room and found one on the right-hand side.",
+		        "brodeur": "In the middle of the night there was a great earthquake... Thor rose up and sought out a side-chamber on the right hand.'",
+		        "literal": "Around mid-night became land-quake great. Thor stood up and sought for-himself side-room and found side-room to right hand."
+		      }
+		    },
+		    {
+		      "section_id": "gylf_115",
+		      "original": "Eftir þat heyrðu þeir gný mikinn ok gauragang. Um morguninn gekk Þórr út ok sá mann liggja í mörkinni, ok var sá eigi lítill.",
+		      "translations": {
+		        "faulkes": "After that they heard a great crashing and noise. In the morning Thor went out and saw a man lying in the forest, and he was not small.",
+		        "brodeur": "They heard a great groaning and a crashing... Thor went out and saw a man lying in the wood; and he was no little one.'",
+		        "literal": "After that heard they noise great and crashing. Around morning-the went Thor out and saw man lie in forest-the, and was that-one not small."
+		      }
+		    },
+		    {
+		      "section_id": "gylf_116",
+		      "original": "Hann svaf ok hraut sterkliga. Þá skildi Þórr, hvat gauragangrinn var. Hann spennti megingjörðum sínum.",
+		      "translations": {
+		        "faulkes": "He was sleeping and snoring loudly. Then Thor understood what the noise had been. He buckled on his belt of strength.",
+		        "brodeur": "He slept and snored mightily. Then Thor knew what the noise was... he girded himself with his megingjörð.'",
+		        "literal": "He slept and snored strongly. Then understood Thor, what crashing-the was. He buckled belt-of-strength his."
+		      },
+		      "sot_links": { "artifacts": ["artifact_megingjord"] }
+		    },
+		    {
+		      "section_id": "gylf_117",
+		      "original": "Maðrinn vaknaði ok stóð upp skjótt. Þórr spurði hann at nafni. Hann nefndist Skrýmir.",
+		      "translations": {
+		        "faulkes": "The man woke up and stood up quickly. Thor asked him his name. He called himself Skrymir.",
+		        "brodeur": "The man woke and rose up quickly... Thor asked him his name. He called himself Skrýmir.'",
+		        "literal": "Man-the woke and stood up quickly. Thor asked him at name. He named-himself Skrymir."
+		      },
+		      "sot_links": { "figures": ["Skrymir"] }
+		    },
+		    {
+		      "section_id": "gylf_118",
+		      "original": "Skrýmir tók hanzka sinn ok spurði, ef þeir hefðu þar í hvílt. Þá sá Þórr, at þat var skálinn, er þeir höfðu í verit.",
+		      "translations": {
+		        "faulkes": "Skrymir took his glove and asked if they had slept in it. Then Thor saw that this was the building they had been in.",
+		        "brodeur": "Skrýmir took up his glove... 'did ye find my glove?' Then Thor saw that that was the house wherein they had been.'",
+		        "literal": "Skrymir took glove his and asked, if they had there in rested. Then saw Thor, that that was building-the, which they had in been."
+		      }
+		    },
+		    {
+		      "section_id": "gylf_119",
+		      "original": "Skrýmir bauð, at þeir skyldu hafa samlag at mötuneyti. Hann leysti nestbagga sinn ok tók til dögurðar.",
+		      "translations": {
+		        "faulkes": "Skrymir proposed that they should share their provisions. He untied his food-bag and began his breakfast.",
+		        "brodeur": "Skrýmir asked if they would have his company... he untied his provision-sack and began to eat his morning-meal.'",
+		        "literal": "Skrymir offered, that they should have fellowship at meal-sharing. He untied food-bag his and took to breakfast."
+		      }
+		    },
+		    {
+		      "section_id": "gylf_120",
+		      "original": "Þeir fóru þann dag allan, unz kveldaði. Þá fann Skrýmir þeim náttstað undir eik einni mikilli.",
+		      "translations": {
+		        "faulkes": "They traveled all that day until evening. Then Skrymir found them a place to sleep under a large oak tree.",
+		        "brodeur": "They fared that day until it was evening... Skrýmir found them a night-lodging under a certain great oak-tree.'",
+		        "literal": "They went that day all, until evening-became. Then found Skrymir them night-place under oak one great."
+		      }
+		    },
+			{
+			    "section_id": "gylf_121",
+			    "original": "Skrýmir fór at sofa ok hraut sterkliga. Þórr tók nestbaggann ok skyldi leysa, en svá er at segja, at hann fekk engan knút leyst.",
+			    "translations": {
+			      "faulkes": "Skrymir went to sleep and snored loudly. Thor took the provision bag and tried to untie it, but it must be said that he could not get a single knot undone.",
+			      "brodeur": "Skrýmir fell asleep and snored hard... Thor took the provision-sack and should have unloosed it; but such is the thing to be told, that he could not get one knot unfastened.",
+			      "literal": "Skrymir went to sleep and snored strongly. Thor took food-bag-the and should untie, but so is to say, that he got no knot untied."
+			    },
+			    "sot_links": { "figures": ["Skrymir"], "themes": ["Magic Knots", "Thwarted Effort"] }
+			  },
+			  {
+			    "section_id": "gylf_122",
+			    "original": "Þá varð Þórr reiðr ok greip hamarinn Mjölni ok hljóp at Skrými ok laust hann í höfuðit.",
+			    "translations": {
+			      "faulkes": "Then Thor became angry and gripped the hammer Mjolnir and went at Skrymir and struck him in the head.",
+			      "brodeur": "Then Thor became wroth, gripped the hammer Mjöllnir with both hands... and fetched a blow at Skrýmir's head.",
+			      "literal": "Then became Thor angry and gripped hammer-the Mjolnir and leaped at Skrymir and struck him in head-the."
+			    },
+			    "sot_links": { "artifacts": ["artifact_mjolnir"], "themes": ["First Blow"] }
+			  },
+			  {
+			    "section_id": "gylf_123",
+			    "original": "Skrýmir vaknaði ok spurði, ef laufsblað felli í höfuð honum. Þeir fóru til svefns undir annarri eik.",
+			    "translations": {
+			      "faulkes": "Skrymir woke up and asked if a leaf had fallen on his head. They went to sleep under another oak.",
+			      "brodeur": "Skrýmir awoke and asked whether a leaf of the tree had fallen on his head... they went to sleep under another oak.",
+			      "literal": "Skrymir woke and asked, if leaf-blade fell in head him. They went to sleep under another oak."
+			    }
+			  },
+			  {
+			    "section_id": "gylf_124",
+			    "original": "At miðri nótt heyrði Þórr, at Skrýmir hraut, svá at dundi í skóginum. Hann laust hann í miðjan hvirfilinn.",
+			    "translations": {
+			      "faulkes": "At midnight Thor heard Skrymir snoring so that the forest echoed. He struck him right in the middle of the crown.",
+			      "brodeur": "At midnight Thor heard Skrýmir snoring... he dealt him a blow in the very midst of the crown.",
+			      "literal": "At mid night heard Thor, that Skrymir snored, so that thundered in forest-the. He struck him in middle crown-the."
+			    },
+			    "sot_links": { "themes": ["Second Blow"] }
+			  },
+			  {
+			    "section_id": "gylf_125",
+			    "original": "Skrýmir vaknaði ok mælti: 'Hvat er nú? Fell akarn í höfuð mér?' Þórr gekk í burtu skyndiliga.",
+			    "translations": {
+			      "faulkes": "Skrymir woke up and said: 'What is it now? Did an acorn fall on my head?' Thor walked away quickly.",
+			      "brodeur": "Skrýmir awoke and said: 'What is it now? Did an acorn fall on my head?' Thor went away hastily.",
+			      "literal": "Skrymir woke and spoke: 'What is now? Fell acorn in head me?' Thor went in away quickly."
+			    }
+			  },
+			  {
+			    "section_id": "gylf_126",
+			    "original": "Lítlu fyrir dag laust Þórr hit þriðja höggit, svá at hamarrinn sökk til skaftsins í þunnvangann.",
+			    "translations": {
+			      "faulkes": "A little before dawn Thor struck the third blow, so that the hammer sank in up to the handle in the giant's temple.",
+			      "brodeur": "A little before day Thor struck the third blow... so that the hammer sank in up to the haft in the temple.",
+			      "literal": "Little before day struck Thor the third blow, so that hammer-the sank to shaft-the in temple-the."
+			    },
+			    "sot_links": { "themes": ["Third Blow"] }
+			  },
+			  {
+			    "section_id": "gylf_127",
+			    "original": "Skrýmir settist upp ok strauk um vangann ok mælti: 'Munu kvistir falla af trénu í höfuð mér?'",
+			    "translations": {
+			      "faulkes": "Skrymir sat up and stroked his cheek and said: 'Could some twigs be falling from the tree onto my head?'",
+			      "brodeur": "Skrýmir sat up and stroked his cheek and said: 'Are there any birds sitting in the tree above me? ...methought some twigs fell on my head.'",
+			      "literal": "Skrymir sat-himself up and stroked around cheek-the and spoke: 'Will twigs fall from tree-the in head me?'"
+			    }
+			  },
+			  {
+			    "section_id": "gylf_128",
+			    "original": "Skrýmir mælti: 'Nú skiljast vegir várir. En eigi skuluð þér mikla yðr, er þér komið í borgina Utgarð.'",
+			    "translations": {
+			      "faulkes": "Skrymir said: 'Now our paths divide. But you should not act big when you come to the castle Utgard.'",
+			      "brodeur": "Skrýmir said: 'Now our ways part... but ye shall not bear yourselves proudly when ye come to the castle Utgard.'",
+			      "literal": "Skrymir spoke: 'Now part ways ours. But not shall you greaten yourselves, when you come in burg-the Utgard.'"
+			    },
+			    "sot_links": { "locations": ["Utgard"] }
+			  },
+			  {
+			    "section_id": "gylf_129",
+			    "original": "Þeir sáu borgina standa á völlum ok var svá há, at þeir urðu at beygja höfuðin aftr á herðarnar at sjá yfir.",
+			    "translations": {
+			      "faulkes": "They saw the castle standing on the plains and it was so high that they had to bend their heads back onto their shoulders to see over it.",
+			      "brodeur": "They saw the castle standing on the plain, and it was so high that they must bend their heads back to their shoulder-blades to see over it.",
+			      "literal": "They saw burg-the stand on plains and was so high, that they became to bend heads-the back on shoulders-the to see over."
+			    }
+			  },
+			  {
+			    "section_id": "gylf_130",
+			    "original": "Grindin var lokuð. Þórr gekk at ok mátti eigi lúka upp, en þeir smugu milli grindanna ok kómu svá inn.",
+			    "translations": {
+			      "faulkes": "The gate was locked. Thor went to it and could not open it, but they squeezed through the bars and so got in.",
+			      "brodeur": "The gate was locked; Thor went to it and could not unloose it... but they crept between the bars and so came in.'",
+			      "literal": "Gate-the was locked. Thor went at and could not lock up [open], but they squeezed between bars-the and came so in."
+			    },
+			    "sot_links": { "themes": ["Gatekeeping", "Scale"] }
+			  },
+			  {
+			    "section_id": "gylf_131",
+			    "original": "Þeir sáu höll mikla ok gengu inn. Þar sátu menn margir á bekkjum ok váru flestir stórir.",
+			    "translations": {
+			      "faulkes": "They saw a large hall and went in. Many people were sitting on benches there and most of them were large.",
+			      "brodeur": "They saw a great hall and went in; there sat many men on the benches, and most of them were very large.'",
+			      "literal": "They saw hall great and went in. There sat men many on benches and were most great."
+			    }
+			  },
+			  {
+			    "section_id": "gylf_132",
+			    "original": "Þá komu þeir fyrir konunginn Utgarða-Loka ok kvöddu hann, en hann leit seint til þeira ok glotti við tönn.",
+			    "translations": {
+			      "faulkes": "Then they came before the king Utgarda-Loki and greeted him, but he was slow to look at them and grinned through his teeth.",
+			      "brodeur": "Then they came before the king Útgarða-Loki and saluted him; but he looked slowly toward them and bared his teeth in a grin.'",
+			      "literal": "Then came they before king-the Utgarda-Loki and greeted him, but he looked slowly to them and grinned with tooth."
+			    },
+			    "sot_links": { "figures": ["Utgarda-Loki"] }
+			  },
+			  {
+			    "section_id": "gylf_133",
+			    "original": "Hann mælti: 'Eigi skal hér dveljast sá maðr, er eigi kann nokkura list eða íþrótt.'",
+			    "translations": {
+			      "faulkes": "He said: 'No one shall stay here who does not know some craft or skill.'",
+			      "brodeur": "He said: 'No one is permitted to dwell here who does not know some art or craft.'",
+			      "literal": "He spoke: 'Not shall here stay that man, who not knows some art or skill.'"
+			    },
+			    "sot_links": { "themes": ["Meritocracy", "Wisdom Contest"] }
+			  },
+			  {
+			    "section_id": "gylf_134",
+			    "original": "Loki mælti: 'Svá er íþrótt mín, at engi skal skjótara eta mat sinn en ek.'",
+			    "translations": {
+			      "faulkes": "Loki said: 'This is my skill, that no one shall eat their food faster than I.'",
+			      "brodeur": "Then Loki spake: 'I know an art... no one shall eat his meat more quickly than I.'",
+			      "literal": "Loki spoke: 'So is skill mine, that no-one shall quicker eat food his than I.'"
+			    },
+			    "sot_links": { "deities": ["deity_loki"] }
+			  },
+			  {
+			    "section_id": "gylf_135",
+			    "original": "Utgarða-Loki kallar á mann þann, er Logi heitir, ok skyldi hann reyna við Loka.",
+			    "translations": {
+			      "faulkes": "Utgarda-Loki called a man named Logi, and he was to compete against Loki.",
+			      "brodeur": "Útgarða-Loki called a certain man named Logi, and said that he should try his skill against Loki.'",
+			      "literal": "Utgarda-Loki calls on man that, who Logi named, and should he try against Loki."
+			    },
+			    "sot_links": { "figures": ["Logi"] }
+			  },
+			  {
+			    "section_id": "gylf_136",
+			    "original": "Trogan var fyllt af kjöti. Loki át alt kjöt af beinunum, en Logi át kjötit ok beinin ok trogina með. Logi var kallaðr vinnandi.",
+			    "translations": {
+			      "faulkes": "The trough was filled with meat. Loki ate all the meat off the bones, but Logi ate the meat and the bones and the trough too. Logi was declared the winner.",
+			      "brodeur": "The trough was filled with meat... Loki ate all the flesh from the bones, but Logi had eaten all the flesh, and the bones also, and the trough withal... Logi was called the victor.'",
+			      "literal": "Trough-the was filled of meat. Loki ate all meat from bones-the, but Logi ate meat-the and bones-the and trough-the with. Logi was called winner."
+			    },
+			    "sot_links": { "themes": ["Eating Contest", "Elemental Delusion"] }
+			  },
+			  {
+			    "section_id": "gylf_137",
+			    "original": "Þá spyrr Utgarða-Loki, hvat sá ungi maðr kunni. Þjálfi segir, at hann skal þreyta rás við hvern, er konungr fær til.",
+			    "translations": {
+			      "faulkes": "Then Utgarda-Loki asked what the young man could do. Thjalfi said he would try a race against anyone the king provided.",
+			      "brodeur": "Then Útgarða-Loki asked what that young man could do; Thjálfi said that he would run a race with whomsoever the king should bring forward.'",
+			      "literal": "Then asks Utgarda-Loki, what that young man knew. Thjalfi says, that he shall strive-at race against each, who king gets to."
+			    },
+			    "sot_links": { "figures": ["Thjalfi"] }
+			  },
+			  {
+			    "section_id": "gylf_138",
+			    "original": "Utgarða-Loki nefndi til mann, er Hugi hét, ok rann hann við Þjálfa.",
+			    "translations": {
+			      "faulkes": "Utgarda-Loki named a man called Hugi, and he ran against Thjalfi.",
+			      "brodeur": "Útgarða-Loki named a certain little wight named Hugi, and bade him run with Thjálfi.'",
+			      "literal": "Utgarda-Loki named to man, who Hugi named, and ran he against Thjalfi."
+			    },
+			    "sot_links": { "figures": ["Hugi"] }
+			  },
+			  {
+			    "section_id": "gylf_139",
+			    "original": "Í inni fyrstu rás var Hugi svá langt fram, at hann snerist í mót honum á skeiðsendanum.",
+			    "translations": {
+			      "faulkes": "In the first race Hugi was so far ahead that he turned back toward Thjalfi at the end of the course.",
+			      "brodeur": "In the first race Hugi was so far ahead that he turned back to meet him at the end of the course.'",
+			      "literal": "In the first race was Hugi so far forward, that he turned in toward him on course-end-the."
+			    }
+			  },
+			  {
+			    "section_id": "gylf_140",
+			    "original": "Í annarri rás var Hugi kumpánslengd fyrir. Þá mælti Utgarða-Loki: 'Vel hleypr Þjálfi, en eigi vænti ek, at hann vinni rásina.'",
+			    "translations": {
+			      "faulkes": "In the second race Hugi was a bow-shot ahead. Then Utgarda-Loki said: 'Thjalfi runs well, but I do not expect him to win the race.'",
+			      "brodeur": "In the second race... Hugi was ahead by a long bow-shot. Then spake Útgarða-Loki: 'Thjálfi runs well, yet I do not believe he will win.'",
+			      "literal": "In second race was Hugi bow-shot-length before. Then spoke Utgarda-Loki: 'Well runs Thjalfi, but not expect I, that he wins race-the.'"
+			    },
+			    "sot_links": { "themes": ["Running Contest", "Mental Delusion"] }
+			  },
+			  {
+			      "section_id": "gylf_141",
+			      "original": "Þá mælti Utgarða-Loki: 'Hvat mun Þórr vilja reyna? Svá miklar sögur ganga frá stórvirkjum hans.'",
+			      "translations": {
+			        "faulkes": "Then Utgarda-Loki said: 'What will Thor wish to try? Such great stories go about his mighty deeds.'",
+			        "brodeur": "Then spake Útgarða-Loki: 'What will Thor try? For great wonders are told of his mighty works.'",
+			        "literal": "Then spoke Utgarda-Loki: 'What will Thor wish to-try? So great stories go from great-works his.'"
+			      },
+			      "sot_links": { "deities": ["deity_thor"] }
+			    },
+			    {
+			      "section_id": "gylf_142",
+			      "original": "Þórr mælti, at hann skyldi fyrst reyna drykkju. Utgarða-Loki lætr taka horn eitt mikit ok mælti: 'Vel er drukkit af þessu horni í einum drykk.'",
+			      "translations": {
+			        "faulkes": "Thor said he would first try a drinking contest. Utgarda-Loki had a large horn brought and said: 'It is considered well-drunk if this horn is emptied in one draught.'",
+			        "brodeur": "Thor answered that he would first try a drinking-bout. Útgarða-Loki bade take a great horn... and said: 'It is held a good drink if this horn be drained in one draught.'",
+			        "literal": "Thor spoke, that he should first try drinking. Utgarda-Loki lets take horn one great and spoke: 'Well is drunk from this horn in one draught.'"
+			      },
+			      "sot_links": { "artifacts": ["artifact_drinking_horn_tides"] }
+			    },
+			    {
+			      "section_id": "gylf_143",
+			      "original": "Þórr drakk svá sem hann mátti mest, en er hann sá í hornit, þá sýndist honum, at varla hafði því lægra gengið en áðr.",
+			      "translations": {
+			        "faulkes": "Thor drank as much as he possibly could, but when he looked into the horn, it seemed to him that the level was hardly lower than before.",
+			        "brodeur": "Thor drank as much as he could... but when he looked into the horn, it seemed to him as if the liquid had fallen but little lower than before.'",
+			        "literal": "Thor drank so as he might most, but when he saw in horn-the, then seemed-to him, that hardly had it lower gone than before."
+			      }
+			    },
+			    {
+			      "section_id": "gylf_144",
+			      "original": "Í annarri tilraun drakk hann svá, at hann þóttist víst vita, at nú mundi bót sjást, en vökvinn hafði minna þorrnat en í inni fyrstu tilraun.",
+			      "translations": {
+			        "faulkes": "In the second attempt he drank so that he thought he was certain to see a difference, but the liquid had gone down less than in the first attempt.",
+			        "brodeur": "In the second draught... it seemed to him as if he must have seen the bottom... yet the liquid was even less diminished than before.'",
+			        "literal": "In second attempt drank he so, that he thought-himself certainly know, that now would difference be-seen, but liquid-the had less dried-up than in the first attempt."
+			      }
+			    },
+			    {
+			      "section_id": "gylf_145",
+			      "original": "Í þriðju tilraun drakk hann svá, at honum sýndist þó nokkur munur vera. Þá mælti Utgarða-Loki: 'Sýnist nú, at megin þitt er eigi svá mikit sem vér hugðum.'",
+			      "translations": {
+			        "faulkes": "In the third attempt he drank so that he thought there was some difference. Then Utgarda-Loki said: 'It seems now that your strength is not as great as we thought.'",
+			        "brodeur": "In the third draught... then he saw that some small difference was made. Then spake Útgarða-Loki: 'It is seen now that thy might is not so great as we thought.'",
+			        "literal": "In third attempt drank he so, that him seemed though some difference be. Then spoke Utgarda-Loki: 'Seems now, that strength thine is not so great as we thought.'"
+			      }
+			    },
+			    {
+			      "section_id": "gylf_146",
+			      "original": "Utgarða-Loki mælti: 'Hér gera ungmenni þat at leik at hefja kött minn upp af jörðu. Vilja þessu reyna, Ása-Þórr?'",
+			      "translations": {
+			        "faulkes": "Utgarda-Loki said: 'The young men here make it a sport to lift my cat up from the ground. Will you try this, Asa-Thor?'",
+			        "brodeur": "Útgarða-Loki spake: 'Young lads here do a small thing which they call a game, to lift my cat up from the earth. Will you try this, Asa-Thor?'",
+			        "literal": "Utgarda-Loki spoke: 'Here make young-people that at sport to heave cat mine up from earth. Will-you this try, Asa-Thor?'"
+			      },
+			      "sot_links": { "figures": ["Jormungandr"], "themes": ["Lifting the Cat"] }
+			    },
+			    {
+			      "section_id": "gylf_147",
+			      "original": "Þá hljóp fram köttur grár ok heldr mikill. Þórr gekk til ok tók höndum undir miðjan kviðinn ok hóf upp. En kötturinn kreppti hrygginn ok lyfti einum fœtinum.",
+			      "translations": {
+			        "faulkes": "Then a grey cat jumped forward and was rather large. Thor went to it and put his hands under the middle of its belly and lifted up. But the cat arched its back and lifted one paw.",
+			        "brodeur": "Therewithal a grey cat leaped forth... Thor went over to it and put his hands under its belly and lifted it up; but the cat arched its back... and only one of its feet was lifted.'",
+			        "literal": "Then leaped forward cat grey and rather great. Thor went to and took hands-with under middle belly-the and heaved up. But cat-the arched back-the and lifted one foot-the."
+			      }
+			    },
+			    {
+			      "section_id": "gylf_148",
+			      "original": "Utgarða-Loki mælti: 'Svá fór sem ek vænti. Kötturinn er mikill, en Þórr er lágur ok lítill hjá stórmenninu hér.'",
+			      "translations": {
+			        "faulkes": "Utgarda-Loki said: 'It went as I expected. The cat is large, but Thor is low and small compared to the great men here.'",
+			        "brodeur": "Útgarða-Loki said: 'This game went even as I looked for it: the cat is very great, but Thor is low and little beside the huge men that are here with us.'",
+			        "literal": "Utgarda-Loki spoke: 'So went as I expected. Cat-the is great, but Thor is low and small beside great-men-the here.'"
+			      }
+			    },
+			    {
+			      "section_id": "gylf_149",
+			      "original": "Þá mælti Þórr: 'Kallið mér þá til hvern, er við mik vill glíma.' Utgarða-Loki svarar: 'Hér er kerling sú, er mik hefir fellt, Elli heitir hón.'",
+			      "translations": {
+			        "faulkes": "Then Thor said: 'Call someone here to wrestle with me.' Utgarda-Loki replied: 'Here is an old woman who has thrown me, her name is Elli.'",
+			        "brodeur": "Then spake Thor: 'Let someone come and wrestle with me.' Útgarða-Loki answered: 'Here is an old woman, my nurse, Elli; she has thrown men who seemed to me no less strong than Thor.'",
+			        "literal": "Then spoke Thor: 'Call for-me then to each, who with me wishes to-wrestle.' Utgarda-Loki answers: 'Here is old-woman that, who me has felled, Elli named is she.'"
+			      },
+			      "sot_links": { "figures": ["Elli"], "themes": ["Wrestling Old Age"] }
+			    },
+			    {
+			      "section_id": "gylf_150",
+			      "original": "En svá fór glíman, at því harðara er Þórr tók, því fastar stóð hón. Síðan fell Þórr á kné öðrum fœti.",
+			      "translations": {
+			        "faulkes": "But the wrestling went so that the harder Thor gripped, the firmer she stood. Then Thor fell on one knee.",
+			        "brodeur": "The wrestling went thus: the harder Thor clutched... the more sturdily she stood; then Thor fell on one knee.'",
+			        "literal": "But so went wrestling-the, that that harder Thor took, that faster stood she. Since fell Thor on knee one foot-with."
+			      }
+			    },
+			    {
+			      "section_id": "gylf_151",
+			      "original": "Um morguninn fylgdi Utgarða-Loki þeim út úr borginni ok spurði Þór, hvernig honum þætti ferð sín orðin.",
+			      "translations": {
+			        "faulkes": "In the morning Utgarda-Loki accompanied them out of the castle and asked Thor how he thought his journey had turned out.",
+			        "brodeur": "At daybreak Utgarda-Loki accompanied them out of the castle... he asked Thor how he thought his journey had ended.'",
+			        "literal": "Around morning-the followed Utgarda-Loki them out from burg-the and asked Thor, how him seemed journey his become."
+			      }
+			    },
+			    {
+			      "section_id": "gylf_152",
+			      "original": "Þá svarar Utgarða-Loki: 'Satt skal þér segja, nú er þú ert kominn ór borginni. Allt váru þat sjónhverfingar, er ek gerði.'",
+			      "translations": {
+			        "faulkes": "Then Utgarda-Loki replied: 'The truth shall be told to you, now that you are out of the castle. Everything I did was a visual delusion.'",
+			        "brodeur": "Then answered Útgarða-Loki: 'Now I will tell thee the truth... if I live and have my way, thou shalt never come into it again. All these things were visual delusions.'",
+			        "literal": "Then answers Utgarda-Loki: 'Truth shall to-you say, now when you are come from burg-the. All were that sight-delusions, which I made.'"
+			      },
+			      "sot_links": { "themes": ["Sjónhverfingar", "The Revelation"] }
+			    },
+			    {
+			      "section_id": "gylf_153",
+			      "original": "Nestbaggann batt ek með járnsíma, en þú fannst eigi hvar upp skyldi lúka.'",
+			      "translations": {
+			        "faulkes": "I tied the provision bag with iron wire, and you could not find where to open it.'",
+			        "brodeur": "I tied the provision-sack with iron wire... and thou couldst not find where it should be unloosed.'",
+			        "literal": "Provision-bag-the bound I with iron-wire, but you found not where up should lock [open].'"
+			      }
+			    },
+			    {
+			      "section_id": "gylf_154",
+			      "original": "Hamars-höggin þrjú, er þú laust, þau hittu þrjá dala, en þú sást eigi fjallið, er ek setti fyrir.'",
+			      "translations": {
+			        "faulkes": "The three hammer-blows you struck hit three valleys, but you did not see the mountain I set in the way.'",
+			        "brodeur": "The three hammer-blows that thou struckest... they hit three valleys; but thou sawest not the mountain which I set in the way.'",
+			        "literal": "Hammer-blows-the three, which you struck, those hit three valleys, but you saw not mountain-the, which I set before.'"
+			      },
+			      "sot_links": { "themes": ["Environmental Shaping"] }
+			    },
+			    {
+			      "section_id": "gylf_155",
+			      "original": "Hornið var annars endans út í sjá, en þar er þú drakkst, þá sáum vér, at þverra tók í hafinu. Þat eru nú kallaðar fjörur.'",
+			      "translations": {
+			        "faulkes": "The other end of the horn was out in the sea, and where you drank, we saw that the ocean began to decrease. Those are now called tides.'",
+			        "brodeur": "The other end of the horn was out in the sea... where thou drankest, we saw that the sea ebbed. Those are now called tides.'",
+			        "literal": "Horn-the was other end-the out in sea, but there where you drank, then saw we, that decrease took in ocean-the. That are now called tides.'"
+			      },
+			      "sot_links": { "themes": ["Tide Logic"], "calendar_refs": ["calendar_v3.json"] }
+			    },
+			    {
+			      "section_id": "gylf_156",
+			      "original": "Kötturinn var Miðgarðsormr. Þú lyftir honum svá hátt, at þú komst höfðinu upp til himins.'",
+			      "translations": {
+			        "faulkes": "The cat was the Midgard Serpent. You lifted it so high that its head reached up to heaven.'",
+			        "brodeur": "The cat was Midgard Serpent... thou didst lift him so high that his head reached up to heaven.'",
+			        "literal": "Cat-the was Midgard-serpent. You lifted him so high, that you came head-the up to heaven.'"
+			      },
+			      "sot_links": { "figures": ["Jormungandr"] }
+			    },
+			    {
+			      "section_id": "gylf_157",
+			      "original": "Elli var elli sjálf. Engi maðr hefir þann kraft, at hann felli hana eigi.'",
+			      "translations": {
+			        "faulkes": "Elli was Old Age itself. No man has the strength not to be felled by her.'",
+			        "brodeur": "Elli was Old Age; no man has the strength to stand against her.'",
+			        "literal": "Elli was old-age self. No man has that strength, that he fells her not.'"
+			      },
+			      "sot_links": { "themes": ["Inevitability of Age"] }
+			    },
+			    {
+			      "section_id": "gylf_158",
+			      "original": "Þegar Þórr heyrði þetta, greip hann hamarinn ok skyldi ljósta hann, en þá sá hann engan Utgarða-Loka ok enga borg.'",
+			      "translations": {
+			        "faulkes": "When Thor heard this, he gripped the hammer and was about to strike him, but then he saw no Utgarda-Loki and no castle.'",
+			        "brodeur": "When Thor heard this, he gripped his hammer... but then he saw neither Útgarða-Loki nor any castle.'",
+			        "literal": "When Thor heard this, gripped he hammer-the and should strike him, but then saw he no Utgarda-Loki and no burg.'"
+			      }
+			    },
+			    {
+			      "section_id": "gylf_159",
+			      "original": "Þá sneri hann aftr til Þrúðvanga, en sá ormr lá enn í sjánum.'",
+			      "translations": {
+			        "faulkes": "Then he turned back to Thrudvangar, but that serpent still lay in the sea.'",
+			        "brodeur": "Then he turned back to Thrúdvangar; but the serpent lay still in the sea.'",
+			        "literal": "Then turned he back to Thrudvangar, but that serpent lay yet in sea-the.'"
+			      },
+			      "sot_links": { "locations": ["Thrudvangar"] }
+			    },
+			    {
+			      "section_id": "gylf_160",
+			      "original": "Þá mælti Gangleri: 'Mikill er Þórr fyrir sér.' Hár segir: 'Eigi er nú dult, hverr styrkr hans er.'",
+			      "translations": {
+			        "faulkes": "Then Gangleri said: 'Thor is very powerful.' High said: 'It is no longer a secret what his strength is.'",
+			        "brodeur": "Then spake Gangleri: 'Thor is a great one... even if he were deceived.' High said: 'It is not hidden now what his strength is.'",
+			        "literal": "Then spoke Gangleri: 'Great is Thor for himself.' High says: 'Not is now hidden, what strength his is.'"
+			      }
+			    },
+                {
+    "section_id": "gylf_161",
+    "original": "Þórr unni sér eigi heima ok bjóst ferðar sinnar skyndiliga, svá at hann hafði eigi kerru né hafra ok engan fylgdarman.",
+    "translations": {
+      "faulkes": "Thor was not content at home and prepared for a journey so hastily that he had neither carriage nor goats nor any companion.",
+      "brodeur": "Thor misliked his stay at home, and made ready his journey so hastily that he had with him no chariot, and no he-goats, and no company.",
+      "literal": "Thor loved himself not home-at [was restless] and prepared journey his quickly, so that he had not cart nor goats and no companion."
+    },
+    "sot_links": { "deities": ["deity_thor"], "themes": ["Restlessness"] }
+  },
+  {
+    "section_id": "gylf_162",
+    "original": "Hann gekk út ór Miðgarði sem ungr maðr ok kom at kveldi til jötuns þess, er Hymir er nefndr.",
+    "translations": {
+      "faulkes": "He went out from Midgard as a young man and came in the evening to the giant who is named Hymir.",
+      "brodeur": "He went out of Midgard in the guise of a young lad, and came at evening to a certain giant who is named Hymir.",
+      "literal": "He went out from Midgard as young man and came at evening to giant that, who Hymir is named."
+    },
+    "sot_links": { "locations": ["Midgard"], "figures": ["Hymir"] }
+  },
+  {
+    "section_id": "gylf_163",
+    "original": "Þórr gisti þar um nóttina. En í dagan bjóst Hymir at róa á sjá at fiska.",
+    "translations": {
+      "faulkes": "Thor stayed there for the night. But at dawn Hymir prepared to go out to sea to fish.",
+      "brodeur": "Thor tarried there as a guest that night; but at dawning Hymir rose and made ready his boat for fishing.",
+      "literal": "Thor lodged there over night-the. But in dawn prepared Hymir to row on sea to fish."
+    },
+    "sot_links": { "themes": ["Hospitality", "Fishing"] }
+  },
+  {
+    "section_id": "gylf_164",
+    "original": "Þórr hljóp á bátinn ok bað Hymi lofa sér at róa á sjá með honum.",
+    "translations": {
+      "faulkes": "Thor jumped onto the boat and asked Hymir to let him row out to sea with him.",
+      "brodeur": "Thor sprang into the boat and prayed Hymir let him row to sea with him.",
+      "literal": "Thor leaped on boat-the and asked Hymir allow himself to row on sea with him."
+    }
+  },
+  {
+    "section_id": "gylf_165",
+    "original": "Þórr gekk þar til, er hann sá yxnflokk nokkurn. Hann tók þann yxinn, er Himinhrjóðr hét, ok sleit af höfuðit.",
+    "translations": {
+      "faulkes": "Thor went to where he saw a herd of oxen. He took that ox called Himinhrjod and tore off its head.",
+      "brodeur": "Thor went thither where he saw a certain herd of oxen... he took that ox which was called Himinhrjódr, and struck off its head.",
+      "literal": "Thor went there to, where he saw ox-flock some. He took that ox-the, which Himinhrjod named, and tore off head-the."
+    },
+    "sot_links": { "figures": ["Himinhrjod"], "themes": ["Bait Preparation"] }
+  },
+  {
+    "section_id": "gylf_166",
+    "original": "Hymir mælti, at þeir væru komnir nógu langt, en Þórr vildi róa miklu lengra.",
+    "translations": {
+      "faulkes": "Hymir said that they had come far enough, but Thor wanted to row much further.",
+      "brodeur": "Hymir said that they had come far enough... but Thor said he would row much further.",
+      "literal": "Hymir spoke, that they were come enough far, but Thor wished row much further."
+    }
+  },
+  {
+    "section_id": "gylf_167",
+    "original": "Hymir mælti: 'Hér munu vér komnir á þær slóðir, er Miðgarðsormr liggr.'",
+    "translations": {
+      "faulkes": "Hymir said: 'We must have come to those waters where the Midgard Serpent lies.'",
+      "brodeur": "Hymir spake: 'We are come so far that it is perilous to sit out longer because of the Midgard Serpent.'",
+      "literal": "Hymir spoke: 'Here will we come on those tracks, where Midgard-serpent lies.'"
+    },
+    "sot_links": { "figures": ["Jormungand"] }
+  },
+  {
+    "section_id": "gylf_168",
+    "original": "Þórr tók þá vaðinn ok hnefldist við oxahöfuðit ok kastaði fyrir borð. Miðgarðsormr geinaði yfir oxahöfuðinu.",
+    "translations": {
+      "faulkes": "Thor then took the line and fixed the ox-head on the hook and threw it overboard. The Midgard Serpent gaped over the ox-head.",
+      "brodeur": "Thor took a line... and set the ox-head on the hook and cast it overboard; and the Midgard Serpent gaped at the ox-head.'",
+      "literal": "Thor took then line-the and fixed with ox-head-the and threw before board. Midgard-serpent gaped over ox-head-the."
+    },
+    "sot_links": { "themes": ["Fishing for the Serpent"] }
+  },
+  {
+    "section_id": "gylf_169",
+    "original": "En er ormrinn kastaði við, þá hnykti Þórr svá fast, at báðir hnefar hans skullu á borðinu.",
+    "translations": {
+      "faulkes": "And when the serpent jerked away, Thor pulled so hard that both his fists struck the gunwale.",
+      "brodeur": "And when the Serpent felt the hook, he tugged so hard that both Thor's fists struck the gunwale.'",
+      "literal": "And when serpent-the jerked back, then snatched Thor so fast, that both fists his struck on board-the."
+    }
+  },
+  {
+    "section_id": "gylf_170",
+    "original": "Þórr spyrnti svá fast, at hann hljóp í gegnum bátinn ok stóð á grunni.",
+    "translations": {
+      "faulkes": "Thor kicked so hard that his feet went through the boat and he stood on the sea-bed.",
+      "brodeur": "Thor braced his feet so hard that he thrust through the boat with his feet and stepped on the bottom.'",
+      "literal": "Thor kicked so fast, that he leaped through boat-the and stood on bottom."
+    },
+    "sot_links": { "themes": ["Divine Strength"] }
+  },
+  {
+    "section_id": "gylf_171",
+    "original": "Þórr greip hamarinn ok hóf á loft, en jötunninn hljóp til hnífs síns ok hjó á vaðinn.",
+    "translations": {
+      "faulkes": "Thor gripped the hammer and raised it aloft, but the giant rushed for his knife and cut the line.",
+      "brodeur": "Thor gripped his hammer and raised it aloft; but the giant fumbled for his fishing-knife and hacked off the line.'",
+      "literal": "Thor gripped hammer-the and raised on aloft, but giant-the leaped to knife his and hewed on line-the."
+    },
+    "sot_links": { "artifacts": ["artifact_mjolnir"] }
+  },
+  {
+    "section_id": "gylf_172",
+    "original": "Ormrinn sökk í sjáinn, en Þórr kastaði hamrinum eftir honum.",
+    "translations": {
+      "faulkes": "The serpent sank into the sea, but Thor threw the hammer after it.",
+      "brodeur": "The Serpent sank into the sea, but Thor cast his hammer after him.'",
+      "literal": "Serpent-the sank in sea-the, but Thor threw hammer-the after him."
+    }
+  },
+  {
+    "section_id": "gylf_173",
+    "original": "Þórr laust Hymi svá mikit högg, at hann fell fyrir borð, en Þórr vað til lands.",
+    "translations": {
+      "faulkes": "Thor struck Hymir such a blow that he fell overboard, but Thor waded to land.",
+      "brodeur": "Thor dealt Hymir a blow... so that he fell overboard... but Thor waded to land.'",
+      "literal": "Thor struck Hymir so great blow, that he fell before board, but Thor waded to land."
+    }
+  },
+  {
+    "section_id": "gylf_174",
+    "original": "Þá mælti Gangleri: 'Hvat er næst þessu at segja?' Hár svarar: 'Frá Baldri eru þau tíðindi, er mest eru.'",
+    "translations": {
+      "faulkes": "Then Gangleri said: 'What is the next thing to tell?' High replied: 'The news of Baldr is the most important.'",
+      "brodeur": "Then spake Gangleri: 'What more is there to tell?' High answered: 'There are tidings which are of greatest import... concerning Baldr.'",
+      "literal": "Then spoke Gangleri: 'What is next this to say?' High answers: 'From Baldr are those tidings, which most are.'"
+    },
+    "sot_links": { "deities": ["deity_baldr"] }
+  },
+  {
+    "section_id": "gylf_175",
+    "original": "Baldr inn góða dreymdi drauma stóra ok hættliga um líf sitt.",
+    "translations": {
+      "faulkes": "Baldr the Good dreamed great and dangerous dreams about his life.",
+      "brodeur": "Baldr the Good dreamed great and perilous dreams touching his life.'",
+      "literal": "Baldr the good dreamed dreams great and dangerous about life his."
+    },
+    "sot_links": { "themes": ["Prophetic Dreams"] }
+  },
+  {
+    "section_id": "gylf_176",
+    "original": "Frigg tók eiða til þess, at hlífa Baldri, af eldi ok vatni, af járni ok öllum málmi, af steinum ok jörðu, af trjánum, af sóttum, af dýrunum.",
+    "translations": {
+      "faulkes": "Frigg took oaths to spare Baldr from fire and water, from iron and all metals, from stones and earth, from trees, from diseases, from animals.",
+      "brodeur": "Frigg took oaths to spare Baldr from fire and water, from iron and all kinds of metal, from stones, earth, trees, sicknesses, beasts.'",
+      "literal": "Frigg took oaths to that, to spare Baldr, from fire and water, from iron and all metal, from stones and earth, from trees-the, from sicknesses, from animals-the."
+    },
+    "sot_links": { "deities": ["deity_frigg"], "themes": ["The Oaths"] }
+  },
+  {
+    "section_id": "gylf_177",
+    "original": "Þat var þá skemmtun ásanna, at Baldr skyldi standa upp á þingum, en allir aðrir skyldu skjóta á hann eða höggva.",
+    "translations": {
+      "faulkes": "It became an amusement for the Aesir that Baldr should stand at assemblies and everyone else should shoot at him or strike him.",
+      "brodeur": "This was the pastime of the Aesir... that Baldr should stand up at the Thing... and all the others should shoot at him or hew at him.'",
+      "literal": "That was then amusement of-Aesir, that Baldr should stand up on assemblies, but all others should shoot on him or hew."
+    },
+    "sot_links": { "themes": ["Invulnerability Game"] }
+  },
+  {
+    "section_id": "gylf_178",
+    "original": "En er Loki sá þetta, þá líkaði honum illa, er Baldr sakaði ekki. Hann brá á sik konu líki.",
+    "translations": {
+      "faulkes": "But when Loki saw this, he was displeased that Baldr was not harmed. He assumed the form of a woman.",
+      "brodeur": "But when Loki saw this, it misliked him... that Baldr took no hurt. He took on him the likeness of a woman.'",
+      "literal": "But when Loki saw this, then liked-it him ill, that Baldr hurt not. He cast on himself woman's likeness."
+    },
+    "sot_links": { "deities": ["deity_loki"], "themes": ["Jealousy", "Disguise"] }
+  },
+  {
+    "section_id": "gylf_179",
+    "original": "Loki spurði Frigg, ef allir hlutir hefðu eiða svarit. Frigg svarar: 'Vaxinn er einn viðarteinungr fyrir vestan Valhöll. Sá er mistilteinn kallaðr.'",
+    "translations": {
+      "faulkes": "Loki asked Frigg if all things had sworn oaths. Frigg replied: 'There is a twig growing west of Valhalla called mistletoe.'",
+      "brodeur": "Loki asked Frigg if all things had sworn oaths... Frigg answered: 'There grows a tree-sprout alone... it is called Mistletoe.'",
+      "literal": "Loki asked Frigg, if all things had oaths sworn. Frigg answers: 'Grown is one wood-twig before west Valhalla. That is mistletoe called.'"
+    },
+    "sot_links": { "deities": ["deity_frigg", "deity_loki"], "themes": ["The Weakness"] }
+  },
+  {
+    "section_id": "gylf_180",
+    "original": "Loki tók mistilteininn ok sleit upp ok gekk til þings.",
+    "translations": {
+      "faulkes": "Loki took the mistletoe and tore it up and went to the assembly.",
+      "brodeur": "Loki took the Mistletoe and pulled it up and went to the Thing.'",
+      "literal": "Loki took mistletoe-the and tore up and went to assembly."
+    },
+    "sot_links": { "artifacts": ["artifact_mistletoe"], "themes": ["Betrayal"] }
+  },
+  {
+    "section_id": "gylf_181",
+    "original": "Höðr tók mistilteininn ok skaut at Baldri at tilvísun Loka. Fleinninn flaug í gönum honum ok fell hann dauðr til jarðar.",
+    "translations": {
+      "faulkes": "Hod took the mistletoe and shot at Baldr at Loki's direction. The shaft flew through him and he fell dead to the ground.",
+      "brodeur": "Hödr took the Mistletoe and shot at Baldr, Loki guiding his hand. The shaft flew through him, and he fell dead to the earth.",
+      "literal": "Hod took mistletoe-the and shot at Baldr at direction of-Loki. Shaft-the flew through him and fell he dead to earth."
+    },
+    "sot_links": { "deities": ["deity_hodr", "deity_baldr", "deity_loki"], "themes": ["The Slaying"] }
+  },
+  {
+    "section_id": "gylf_182",
+    "original": "Þá er Baldr var fallinn, þá féllust öllum ásum orðtök ok svá hendur at taka til hans.",
+    "translations": {
+      "faulkes": "When Baldr had fallen, all the Aesir lost the power of speech and also the use of their hands to pick him up.",
+      "brodeur": "When Baldr was fallen, words failed all the Aesir, and their hands failed also to clasp him.",
+      "literal": "When that Baldr was fallen, then failed all Aesir words and also hands to take to him."
+    },
+    "sot_links": { "themes": ["Grief", "System Paralysis"] }
+  },
+  {
+    "section_id": "gylf_183",
+    "original": "Óðinn bar þenna skaða svá mikinn, at hann vissi mest, hversu mikit afnám ok skaði ásunum var í fráfalli Baldurs.",
+    "translations": {
+      "faulkes": "Odin felt this loss most severely, for he understood best what a great deprivation and loss the death of Baldr was for the Aesir.",
+      "brodeur": "Odin took this misfortune most heavily, for he best perceived what a great deprivation and loss the death of Baldr was to the Aesir.",
+      "literal": "Odin bore this loss so great, that he knew most, how great deprivation and loss to-Aesir-the was in death of-Baldr."
+    },
+    "sot_links": { "deities": ["deity_odin"] }
+  },
+  {
+    "section_id": "gylf_184",
+    "original": "Frigg spurði, hverr væri sá með ásum, er ríða vildi á Helveg ok freista ef hann mætti finna Baldr.",
+    "translations": {
+      "faulkes": "Frigg asked who there was among the Aesir who would ride the road to Hel and try to find Baldr.",
+      "brodeur": "Frigg asked who there might be among the Aesir who would ride the Way to Hel and seek to find Baldr.",
+      "literal": "Frigg asked, who were that-one with Aesir, who ride would on Hel-way and try if he might find Baldr."
+    },
+    "sot_links": { "deities": ["deity_frigg"], "locations": ["Hel"] }
+  },
+  {
+    "section_id": "gylf_185",
+    "original": "Hermóðr inn hvati, sonr Óðins, nefndist til þeirar ferðar. Hann tók Sleipni, hest Óðins, ok steig á ok hleypst af stað.",
+    "translations": {
+      "faulkes": "Hermod the Bold, Odin's son, offered himself for the journey. He took Sleipnir, Odin's horse, and mounted and galloped away.",
+      "brodeur": "Hermóðr the Bold, Odin's son, was named for that journey. He took Sleipnir, Odin's horse, and mounted him, and leaped forth on his way.",
+      "literal": "Hermod the bold, son of-Odin, named-himself to that journey. He took Sleipnir, horse of-Odin, and stepped on and leaped from stead [set off]."
+    },
+    "sot_links": { "figures": ["Hermod"], "artifacts": ["artifact_sleipnir"] }
+  },
+  {
+    "section_id": "gylf_186",
+    "original": "Hermóðr reið níu nætur dökka dali ok djúpa, svá at hann sá ekki, fyrr en hann kom til árinnar Gjallar.",
+    "translations": {
+      "faulkes": "Hermod rode for nine nights through dark and deep valleys, so that he saw nothing until he reached the river Gjöll.",
+      "brodeur": "Hermóðr rode nine nights through dark dales and deep... until he came to the river Gjöll.",
+      "literal": "Hermod rode nine nights dark valleys and deep, so that he saw not, before than he came to river-the Gjoll."
+    },
+    "sot_links": { "themes": ["The Descent"] }
+  },
+  {
+    "section_id": "gylf_187",
+    "original": "Mær sú gætti brúarinnar, er Móðguðr heitir. Hón spurði hann at nafni ok ætt.",
+    "translations": {
+      "faulkes": "A maiden called Modgud guarded the bridge. She asked him his name and lineage.",
+      "brodeur": "The maiden who guards the bridge is named Móðguðr; she asked him his name and race.",
+      "literal": "Maiden that guarded bridge-the, who Modgud named. She asked him at name and kin."
+    },
+    "sot_links": { "figures": ["Modgud"] }
+  },
+  {
+    "section_id": "gylf_188",
+    "original": "Hermóðr reið þar til, er hann kom at Helgrindum. Hann hleypti hestinum yfir grindina.",
+    "translations": {
+      "faulkes": "Hermod rode until he reached the gates of Hel. He made the horse leap over the gate.",
+      "brodeur": "Hermóðr rode on till he came to Hel-gate... he gave the spurs to the horse, and it leaped so hard over the gate.",
+      "literal": "Hermod rode there until, when he came at Hel-gates. He leaped horse-the over gate-the."
+    }
+  },
+  {
+    "section_id": "gylf_189",
+    "original": "Hann sá þar Baldr, bróður sinn, sitja í öndugi. Hermóðr dvaldist þar um nóttina.",
+    "translations": {
+      "faulkes": "He saw his brother Baldr sitting there in the place of honor. Hermod stayed there for the night.",
+      "brodeur": "He saw Baldr, his brother, sitting in the high-seat... Hermóðr tarried there that night.",
+      "literal": "He saw there Baldr, brother his, sit in high-seat. Hermod stayed there over night-the."
+    }
+  },
+  {
+    "section_id": "gylf_190",
+    "original": "Um morguninn bað Hermóðr Hel, at Baldr skyldi ríða heim með honum. Hel sagði, at reyna skyldi, ef Baldr væri svá ástsaell sem sagt er.",
+    "translations": {
+      "faulkes": "In the morning Hermod asked Hel that Baldr might ride home with him. Hel said it should be tested whether Baldr was as beloved as was said.",
+      "brodeur": "At morn Hermóðr prayed Hel that Baldr might ride home with him... Hel said that this should be put to the proof, whether Baldr were so all-beloved as is said.",
+      "literal": "Around morning-the asked Hermod Hel, that Baldr should ride home with him. Hel said, that try should, if Baldr were so beloved as said is."
+    },
+    "sot_links": { "figures": ["Hel"], "themes": ["The Condition"] }
+  },
+  {
+    "section_id": "gylf_191",
+    "original": "'Ef allir hlutir í veröldinni, kykvir ok dauðir, gráta hann, þá skal hann fara aftr til ásanna.'",
+    "translations": {
+      "faulkes": "'If everything in the world, living and dead, weeps for him, then he shall go back to the Aesir.'",
+      "brodeur": "'If all things in the world, quick and dead, weep for him, then he shall go back to the Aesir.'",
+      "literal": "'If all things in world-the, living and dead, weep him, then shall he go back to Aesir-the.'"
+    }
+  },
+  {
+    "section_id": "gylf_192",
+    "original": "Æsirnir sendu um allan heim erindsreka at biðja, at Baldr væri grátinn ór Helju.",
+    "translations": {
+      "faulkes": "The Aesir sent messengers all over the world to request that Baldr be wept out of Hel.",
+      "brodeur": "Then the Aesir sent over all the world messengers to pray that Baldr might be wept out of Hel.",
+      "literal": "Aesir-the sent around all world messengers to ask, that Baldr were wept out-of Hel."
+    }
+  },
+  {
+    "section_id": "gylf_193",
+    "original": "En er sendimenn fóru heim, fundu þeir í helli nokkurum hlandskonu, er nefndist Þökk. Þeir báðu hana gráta Baldr.",
+    "translations": {
+      "faulkes": "But as the messengers were returning home, they found a giantess in a cave called Thokk. They asked her to weep for Baldr.",
+      "brodeur": "When the messengers went home... they found in a certain cave a giantess; she called herself Thökk. They prayed her to weep Baldr out of Hel.",
+      "literal": "But when messengers went home, found they in cave some giantess, who named-was Thokk. They asked her weep Baldr."
+    },
+    "sot_links": { "figures": ["Thokk"], "deities": ["deity_loki"] }
+  },
+  {
+    "section_id": "gylf_194",
+    "original": "Hón svarar: 'Þökk mun gráta þurrum tárum Baldurs bálför. Hvorki kviks né dauðs naut ek karls sonar. Haldi Hel því, er hefir.'",
+    "translations": {
+      "faulkes": "She replied: 'Thokk will weep dry tears for Baldr's funeral. I had no use for the old man's son, living or dead. Let Hel hold what she has.'",
+      "brodeur": "She answered: 'Thökk will weep with dry tears Baldr's bale-fire... let Hel hold what she hath.'",
+      "literal": "She answers: 'Thokk will weep dry tears Baldr's bale-journey. Neither quick nor dead used I man's son. Hold Hel that, which has.'"
+    },
+    "sot_links": { "themes": ["The Refusal"] }
+  },
+  {
+    "section_id": "gylf_195",
+    "original": "En þess geta menn, at þar hafi verið Loki Laufeyjarson, er flest illt hefir gert með ásum.",
+    "translations": {
+      "faulkes": "And it is thought that this must have been Loki Laufeyjarson, who has done most evil among the Aesir.",
+      "brodeur": "And men ween that there was Loki Laufeyjarson, who hath wrought most ill among the Aesir.",
+      "literal": "But that guess men, that there had been Loki Laufeyjarson, who most ill has done with Aesir."
+    }
+  },
+  {
+    "section_id": "gylf_196",
+    "original": "Þá varð Loki tekinn ok færðr í helli nokkurn. Þeir tóku þrjá hellusteina ok settu á egg ok boruðu rauf í stein hvern.",
+    "translations": {
+      "faulkes": "Then Loki was taken and brought to a certain cave. They took three flat stones and set them on edge and drilled a hole through each stone.",
+      "brodeur": "Then Loki was taken... and brought to a certain cave. They took three flat stones, and set them on edge and drilled a hole through each stone.",
+      "literal": "Then was Loki taken and brought in cave some. They took three cave-stones and set on edge and bored hole in stone each."
+    },
+    "sot_links": { "themes": ["The Binding"] }
+  },
+  {
+    "section_id": "gylf_197",
+    "original": "Skaði tók eitrhorm ok festi upp yfir andlit Loka. Sigyn, kona hans, stendr hjá honum ok heldr mundlaug undir eitrdropana.",
+    "translations": {
+      "faulkes": "Skadi took a venomous serpent and fastened it up over Loki's face. Sigyn, his wife, stands by him and holds a basin under the drops of venom.",
+      "brodeur": "Skaði took a venomous serpent and fastened it up over Loki's face... Sigyn, his wife, stands by him and holds a basin under the venom-drops.",
+      "literal": "Skadi took venom-serpent and fastened up over face of-Loki. Sigyn, woman his, stands by him and holds basin under venom-drops-the."
+    },
+    "sot_links": { "deities": ["deity_skadi", "deity_sigyn", "deity_loki"] }
+  },
+  {
+    "section_id": "gylf_198",
+    "original": "En er mundlaugin fyllist, þá fer hón ok hverfir ór eitrinu, en meðan drýpur eitrið í andlit honum. Þá kippist hann svá hart við, at jörð öll skelfr.",
+    "translations": {
+      "faulkes": "But when the basin is full, she goes and empties out the venom, and meanwhile the venom drips onto his face. Then he jerks so hard that the whole earth shakes.",
+      "brodeur": "But when the basin is full... then the venom drips on his face; then he writhes against it so hard that all the earth trembles.'",
+      "literal": "But when basin-the fills-itself, then goes she and turns [empties] out venom-the, but meanwhile drips venom-the in face him. Then jerks he so hard with, that earth all shakes."
+    },
+    "sot_links": { "themes": ["Earthquakes", "Loki's Punishment"] }
+  },
+  {
+    "section_id": "gylf_199",
+    "original": "Þá mælti Gangleri: 'Hvat er þá at segja frá ragnarökum?' Hár svarar: 'Margt ok stórt er frá því at segja.'",
+    "translations": {
+      "faulkes": "Then Gangleri said: 'What is to be said about Ragnarok?' High replied: 'There are many and great things to tell about it.'",
+      "brodeur": "Then spake Gangleri: 'What tidings are to be told concerning Ragnarök?' High answered: 'Many things there are to be said thereof, and great.'",
+      "literal": "Then spoke Gangleri: 'What is then to say from ragnarok?' High answers: 'Much and great is from that to say.'"
+    },
+    "sot_links": { "manuscripts": ["voluspa_66.json"] }
+  },
+  {
+    "section_id": "gylf_200",
+    "original": "Ok þegar heyrði Gangleri gný mikinn til allra handa ok leit út úr höllinni. Þá sá hann enga höll ok enga borg.",
+    "translations": {
+      "faulkes": "And immediately Gangleri heard a great noise on all sides and looked out of the hall. Then he saw no hall and no castle.",
+      "brodeur": "Straightway Gangleri heard a great noise on every side... he saw no hall and no castle, but only the open plain.'",
+      "literal": "And at-once heard Gangleri noise great to all hands [sides] and looked out from hall-the. Then saw he no hall and no burg."
+    },
+    "sot_links": { "themes": ["The Disappearance", "System Shutdown"] }
+  }
+  
+]
