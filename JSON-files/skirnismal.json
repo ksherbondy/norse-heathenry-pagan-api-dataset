@@ -1,0 +1,411 @@
+[
+  {
+    "stanza_id": "skir_01",
+    "original": "Rístu nú, Skírnir, ok gakk at beiða mær mæli ok þess að fregna: hveim inn hýri hveim inn hýri hugar vreiðr sé?",
+    "translations": {
+      "bellows": "Rise up, Skirnir, and speed thee to seek speech with my son, and to ask this: with whom the wise one is so wroth?",
+      "thorpe": "Rise now, Skirnir! and go to entreat our son to speak; and to ask him, with whom he is so wroth.",
+      "literal": "Rise now, Skirnir, and go to ask [for] maid-speech and of-that to-ask: with-whom the cheerful [Freyr] at-mind angry be?"
+    },
+    "sot_links": { "deities": ["deity_freyr"], "figures": ["Skirnir"], "themes": ["Inquiry", "Melancholy"] }
+  },
+  {
+    "stanza_id": "skir_02",
+    "original": "Illra orða er mér ván af syni þínum, ef ek geng at mæla við mög; ok þess of fregna, hveim inn hýri hugar vreiðr sé.",
+    "translations": {
+      "bellows": "Ill words I expect from thy son, if I go to speak with the youth; and to ask this: with whom the wise one is so wroth.",
+      "thorpe": "Harsh words I expect from your son, if I go to speak with the youth, and to ask him with whom he is so wroth.",
+      "literal": "Ill words is to-me expectation from son yours, if I go to speak with youth; and of-that to-ask, with-whom the cheerful [one] at-mind angry be."
+    }
+  },
+  {
+    "stanza_id": "skir_03",
+    "original": "Segðu mér þat, Freyr, fólkvaldi goða, ok ek vilja vita: hví þú einn sitr endlanga daga, minn drottinn, um sali?",
+    "translations": {
+      "bellows": "Tell me, Freyr, lord of the gods, for I fain would know: why sittest thou alone all the long day here in the hall, my lord?",
+      "thorpe": "Tell me, Freyr! prince of the gods! for I desire to know, why thou sittest alone in the wide hall, through the live-long day?",
+      "literal": "Say me that, Freyr, folk-ruler of-gods, and I will know: why you alone sit end-long days, my lord, around halls?"
+    },
+    "sot_links": { "deities": ["deity_freyr"], "themes": ["Isolation"] }
+  },
+  {
+    "stanza_id": "skir_04",
+    "original": "Hví of segjak þér, seggr inn ungi, mikinn móðtrega? því at álfröðull lýsir um alla daga, en eigi at mínum vilja.",
+    "translations": {
+      "bellows": "How shall I tell thee, thou youthful man, my heavy heart's grief? For the sun shines every day, but not to my desire.",
+      "thorpe": "Why should I tell thee, young man! my great heart’s sorrow? for the elf-beam shines every day, but not to my mind.",
+      "literal": "Why of say-I to-you, man the young, great mind-grief? because that elf-beam [sun] lights around all days, but not at my will."
+    },
+    "sot_links": { "themes": ["Despair"] }
+  },
+  {
+    "stanza_id": "skir_05",
+    "original": "Munat þín munúð svá mikil vera, at þú mér né segir; því at vit ung saman várum í árdaga, vel mættim tveir trúask.",
+    "translations": {
+      "bellows": "Thy love-longing, I think, is not so great that thou canst not tell it to me; for young we were together in days of old, and well we may trust each other.",
+      "thorpe": "Thy love, I think, is not so great that thou canst not tell it to me; for we in young days were together: we two might well trust each other.",
+      "literal": "Will-not your desire [love] so great be, that you to-me never say; because that we-two young together were in early-days, well might [we] two trust-each-other."
+    },
+    "sot_links": { "figures": ["Skirnir"], "themes": ["Comradeship", "Trust"] }
+  },
+  {
+    "stanza_id": "skir_06",
+    "original": "Í Gymis görðum ek sá ganga mér tíða mey; armar lýstu, en af þaðan allt lopt ok lá.",
+    "translations": {
+      "bellows": "In Gymir's courts I saw a maid, for whom I have long desired; her arms gave light, and from them all the air and sea were bright.",
+      "thorpe": "In Gymir’s courts I saw a maid, for whom I have a longing; her arms gave light, and from them all the air and sea.",
+      "literal": "In Gymir's courts I saw go to-me desired maid; arms lit [shone], and from thence all air and sea."
+    },
+    "sot_links": { "figures": ["Gymir", "Gerdr"], "themes": ["The Vision"] }
+  },
+  {
+    "stanza_id": "skir_07",
+    "original": "Mær er mér tíðari en manni hveim ungom í árdaga; Ása ok Alfa þat vill engi maðr, at vit samt séim.",
+    "translations": {
+      "bellows": "That maid is dearer to me than to any youth in days of yore; of the Aesir and Elves no man will grant that we together should be.",
+      "thorpe": "The maid is dearer to me than to any youth in early days; but of the Aesir and the Alfs, no one will that we should be together.",
+      "literal": "Maid is to-me more-desired than man each young in early-days; of-Aesir and Elves that will no man, that we-two together be."
+    },
+    "sot_links": { "deities": ["deity_freyr"], "themes": ["Forbidden Love"] }
+  },
+  {
+    "stanza_id": "skir_08",
+    "original": "Mar gefðu mér þá, þann er mik um myrkvan beri vísan vafrloga, ok þat sverð, er sjálft vegsk við jötna ættir.",
+    "translations": {
+      "bellows": "Give me then the horse that through the dark will bear me, through the flickering flame; and the sword that of itself will fight against the giants' race.",
+      "thorpe": "Give me then the steed, which will bear me through the dark and knowing flickering flame; and that sword, which of itself will fight against the Jötun race.",
+      "literal": "Horse give you me then, that which me through dark bear certain flickering-flame, and that sword, which self fights against giants' kin."
+    },
+    "sot_links": { "artifacts": ["artifact_freyr_sword"], "beasts": ["beast_freyr_horse"], "themes": ["The Request", "Hardware Handover"] }
+  },
+  {
+    "stanza_id": "skir_09",
+    "original": "Mar ek þér þann gef, er þik um myrkvan berr vísan vafrloga, ok þat sverð, er sjálft vegsk, ef sá er vaskr, er berr.",
+    "translations": {
+      "bellows": "The horse I give thee that through the dark will bear thee, through the flickering flame; and the sword that of itself will fight if he is brave who bears it.",
+      "thorpe": "The steed I give thee, which will bear thee through the dark and knowing flickering flame; and that sword, which of itself will fight, if he who bears it be worthy.",
+      "literal": "Horse I to-you that give, which you through dark bears certain flickering-flame, and that sword, which self fights, if he be brave, who bears [it]."
+    }
+  },
+  {
+    "stanza_id": "skir_10",
+    "original": "Myrkt er úti, mál kveð ek okkur fara úrig fjöll yfir, þursa þjóðar sjá; báðir vit komumsk, eða okkr báða tekr sá inn ámáttki jötunn.",
+    "translations": {
+      "bellows": "Dark is it without, I say it is time for us to fare over the misty fells, the giant-folk to see; both of us shall return, or both of us the mighty giant shall take.",
+      "thorpe": "Dark it is without, ’tis time, I say, for us to go across the damp fells, among the Jötun people. We will both return, or that powerful Jötun will take us both.",
+      "literal": "Dark is out, time say I for-us-two to-go dewy mountains over, giants' people to-see; both we-two come-away, or us-two both takes that the mighty giant."
+    },
+    "sot_links": { "locations": ["Jotunheimr"], "themes": ["The Journey"] }
+  },
+  {
+    "stanza_id": "skir_11",
+    "original": "Hvat er þat hlym-hlym, er ek heyri nú til í garða okkra? jörð bifask, en allir fyrir skjálfa garðar Gymis.",
+    "translations": {
+      "bellows": "What is that noise of noises that now I hear in our courts? The earth trembles, and all the courts of Gymir shake before it.",
+      "thorpe": "What is that crashing which I hear within our courts? The earth shakes, and all the dwellings of Gymir tremble.",
+      "literal": "What is that noise-noise, which I hear now in in courts ours? earth shakes, and all before tremble courts of-Gymir."
+    },
+    "sot_links": { "figures": ["Gerdr", "Gymir"], "themes": ["Arrival"] }
+  },
+  {
+    "stanza_id": "skir_12",
+    "original": "Hunda sáu þar sitja fyrir durum úti, fjötraða við garðshlið; ok hvat mælti hirðir, er hann sat á haugi?",
+    "translations": {
+      "bellows": "Dogs they saw sitting before the doors without, fettered at the gate; and what said the herdsman as he sat on the mound?",
+      "thorpe": "Dogs are seen sitting before the doors, fettered at the gate. And what said the shepherd, who sat on a mound?",
+      "literal": "Dogs saw-they there sit before doors out, fettered with court-gate; and what spoke herdsman, when he sat on mound?"
+    },
+    "sot_links": { "themes": ["The Watchman"] }
+  },
+  {
+    "stanza_id": "skir_13",
+    "original": "Hvat er þat manna, er ríðr á fákvigg? hversu kemst þú yfir vafrloga, er brennr um alla sali?",
+    "translations": {
+      "bellows": "What man is this who rides on the war-steed? How comest thou through the flickering flame that burns around all the hall?",
+      "thorpe": "What man is this, who on a steed is riding? How comest thou across the flickering flame, which burns around all the dwellings?",
+      "literal": "What is that of-men, who rides on mount-steed? how come-you over flickering-flame, which burns around all halls?"
+    }
+  },
+  {
+    "stanza_id": "skir_14",
+    "original": "Hirtir ertu feigr, eða ertu framgenginn? mælisk þú aldregi við Gymis mey.",
+    "translations": {
+      "bellows": "Art thou fey, or art thou a ghost? Never shalt thou speak with Gymir's maid.",
+      "thorpe": "Art thou fey? or art thou a ghost? Never wilt thou speak with Gymir’s maid.",
+      "literal": "Herdsman are-you fey, or are-you dead? speak-you never with Gymir's maid."
+    }
+  },
+  {
+    "stanza_id": "skir_15",
+    "original": "Kostir eru betri en at klökkva sé, þeim er fús er fara; eino dægri mér var aldr lagiðr ok allt líf of skapað.",
+    "translations": {
+      "bellows": "Better choices are there than to weep for him who is eager to fare; to a single day was my age decreed and all my life was shaped.",
+      "thorpe": "Choices are better than to weep, for him who is ready to depart. For one day my age was decreed, and all my life determined.",
+      "literal": "Choices are better than that to-whine be, to-him who eager is to-go; one day to-me was age laid and all life of shaped."
+    },
+    "sot_links": { "themes": ["Fate", "Courage"] }
+  },
+  {
+    "stanza_id": "skir_16",
+    "original": "Hvat er þat hlym-hlym, er ek heyri nú til í höllu okkri? drykkr munda-at sletta, en allir fyrir skjálfa garðar Gymis.",
+    "translations": {
+      "bellows": "What is that noise of noises that now I hear in our hall? The mead is not spilled, but all the courts of Gymir shake before it.",
+      "thorpe": "What is that crashing which I hear within our hall? The drink should not be spilled, and all the dwellings of Gymir tremble.",
+      "literal": "What is that noise-noise, which I hear now in in hall ours? drink would-not splash, but all before tremble courts of-Gymir."
+    },
+    "sot_links": { "figures": ["Gerdr"] }
+  },
+  {
+    "stanza_id": "skir_17",
+    "original": "Maðr er hér úti, stiginn af marks baki, lætr hann mar drekka.",
+    "translations": {
+      "bellows": "A man is here without, dismounted from his horse; he lets the steed drink.",
+      "thorpe": "A man is here without, dismounted from his horse; he lets his steed drink.",
+      "literal": "Man is here out, stepped from horse's back, lets he horse drink."
+    }
+  },
+  {
+    "stanza_id": "skir_18",
+    "original": "Inn bið þú hann ganga í okkarn sal ok drekka inn mæra mjöð; þó em ek hrædd, at hér úti sé minn bróður-bani.",
+    "translations": {
+      "bellows": "Bid him come in into our hall and drink the famous mead; though I fear that here without is my brother's slayer.",
+      "thorpe": "Bid him enter into our hall, and drink the famous mead; though I fear that here without is my brother’s slayer.",
+      "literal": "In bid you him go in our hall and drink the famous mead; though am I afraid, that here out be my brother's-slayer."
+    },
+    "sot_links": { "figures": ["Gerdr"], "themes": ["Hospitality", "Precaution"] }
+  },
+  {
+    "stanza_id": "skir_19",
+    "original": "Hvat er þat Alfa eða Ása sona eða vísra Vana? hví þú einn komst í gegnum brennanda eld at vitja várra sala?",
+    "translations": {
+      "bellows": "Who art thou of the Elves, or of the Aesir's sons, or of the wise Vanir? Why camest thou alone through the burning fire to visit our halls?",
+      "thorpe": "Who art thou of the Alfs, or of the Aesir’s sons, or of the wise Vanir? Why comest thou alone through the burning fire our halls to visit?",
+      "literal": "What is that of-Elves or of-Aesir's sons or of-wise Vanir? why you alone came-you in through burning fire to visit our halls?"
+    }
+  },
+  {
+    "stanza_id": "skir_20",
+    "original": "Em-at ek Alfa né Ása sona né vísra Vana; þó ek einn komsk í gegnum brennanda eld at vitja yðvarra sala.",
+    "translations": {
+      "bellows": "I am not of the Elves, nor of the Aesir's sons, nor of the wise Vanir; though I alone came through the burning fire to visit your halls.",
+      "thorpe": "I am not of the Alfs, nor of the Aesir’s sons, nor of the wise Vanir; yet I alone have come through the burning fire your halls to visit.",
+      "literal": "Am-not I of-Elves nor of-Aesir's sons nor of-wise Vanir; though I alone came-I in through burning fire to visit your halls."
+    },
+    "sot_links": { "figures": ["Skirnir"] }
+  },
+  {
+    "stanza_id": "skir_21",
+    "original": "Epli ellifu hér hefi ek algullin, þau mun ek þér, Gerðr, gefa, frið at kaupa, at þú þér Frey kveðir óleiðastan lifa.",
+    "translations": {
+      "bellows": "Eleven apples, all of gold, here have I, Gerdr, to give thee, to buy thy love, that thou mayst say that Freyr is to thee the dearest of all who live.",
+      "thorpe": "Apples eleven here I have all-golden; these I will give thee, Gerdr! thy love to buy, that thou mayst say, Freyr is to thee the dearest of living beings.",
+      "literal": "Apples eleven here have I all-golden, those will I to-you, Gerdr, give, peace [love] to buy, that you for-yourself Freyr call least-hated living."
+    },
+    "sot_links": { "figures": ["Gerdr"], "deities": ["deity_freyr"], "themes": ["Bribery"] }
+  },
+  {
+    "stanza_id": "skir_22",
+    "original": "Epli ellifu ek þigg aldregi at mannsinskis munum, né vit Freyr, meðan fjörvi stýrum, senn í samveldi séim.",
+    "translations": {
+      "bellows": "Eleven apples I will never take at any man's desire; nor shall Freyr and I, while life is ours, together ever dwell.",
+      "thorpe": "Apples eleven I will never take at any man’s desire; nor shall Freyr and I, while our lives last, live together.",
+      "literal": "Apples eleven I receive never at man's-desire, nor we-two Freyr, while life [we] rule, ever in union be."
+    },
+    "sot_links": { "figures": ["Gerdr"], "deities": ["deity_freyr"], "themes": ["Rejection"] }
+  },
+  {
+    "stanza_id": "skir_23",
+    "original": "Baug ek þér þann gef, er brenndr var með ungom Óðins syni; átta eru jafnhöfðir, er af drjúpa ina níundu hverja nótt.",
+    "translations": {
+      "bellows": "The ring I give thee which was burned of old with Odin's youthful son; eight of equal weight from it shall drop every ninth night.",
+      "thorpe": "The ring I will give thee, which was burnt with Odin’s youthful son; eight of equal weight from it will drop, every ninth night.",
+      "literal": "Ring I to-you that give, which burned was with young Odin's son; eight are equally-heavy, which off drip the ninth each night."
+    },
+    "sot_links": { "artifacts": ["artifact_draupnir"], "deities": ["deity_baldr"] }
+  },
+  {
+    "stanza_id": "skir_24",
+    "original": "Baug ek þiggat, þótt brenndr sé með ungom Óðins syni; er-at mér gulls vant í görðum Gymis, at deila fé föður.",
+    "translations": {
+      "bellows": "The ring I will not take, though it was burned of old with Odin's youthful son; no lack of gold have I in Gymir's courts, to share my father's wealth.",
+      "thorpe": "The ring I will not take, although it was burnt with Odin’s youthful son. I have no lack of gold in Gymir’s courts, enjoying my father’s wealth.",
+      "literal": "Ring I receive-not, though burned be with young Odin's son; is-not to-me gold's want in courts of-Gymir, to deal [share] wealth of-father."
+    },
+    "sot_links": { "figures": ["Gerdr", "Gymir"] }
+  },
+  {
+    "stanza_id": "skir_25",
+    "original": "Sér þú þenna mæki, mær, mjóvan, málfáðan, er ek hefi í hendi mér? höfuð hveggja ek mun þér af hálsi höggva, nema þú mér sáttmál segir.",
+    "translations": {
+      "bellows": "Seest thou this sword, O maid, so bright and sharp, that I have in my hand? Thy head from thy neck shall I hew away, unless thou grantest my will.",
+      "thorpe": "Seest thou this sword, young maiden! thin, glittering-bladed, which I have in my hand? I will hew thy head from thy neck, unless thou agreest to my suit.",
+      "literal": "See you this sword, maid, thin, speech-ornamented, which I have in hand mine? head yours I will to-you from neck hew, unless you to-me agreement say."
+    },
+    "sot_links": { "artifacts": ["artifact_freyr_sword"], "themes": ["Threats", "Escalation"] }
+  },
+  {
+    "stanza_id": "skir_26",
+    "original": "Ánauð þola ek vil aldregi at mannsinskis munum; þó hygg ek, ef it Gymir finnist, at ykkr vígi mæti.",
+    "translations": {
+      "bellows": "Constraint will I never endure at any man's desire; yet I ween, if thou and Gymir meet, that a fight ye both shall find.",
+      "thorpe": "Constraint I will never endure at any man’s desire; but I think, if thou and Gymir meet, a conflict will arise between you.",
+      "literal": "Constraint [slavery] endure I will never at man's-desire; though think I, if you-two Gymir find-each-other, that to-you-two battle meets."
+    },
+    "sot_links": { "figures": ["Gerdr", "Gymir"] }
+  },
+  {
+    "stanza_id": "skir_27",
+    "original": "Sér þú þenna mæki, mær, mjóvan, málfáðan, er ek hefi í hendi mér? undir þessum eggjum hnígr sá inn gamli jötunn, verðr þinn feigr faðir.",
+    "translations": {
+      "bellows": "Seest thou this sword, O maid, so bright and sharp, that I have in my hand? Beneath its edge shall the old giant fall, thy father is fey indeed.",
+      "thorpe": "Seest thou this sword, young maiden! thin, glittering-bladed, which I have in my hand? Under its edge shall that old giant fall; thy father is doomed to death.",
+      "literal": "See you this sword, maid, thin, speech-ornamented, which I have in hand mine? under these edges falls that the old giant, becomes your fey father."
+    }
+  },
+  {
+    "stanza_id": "skir_28",
+    "original": "Tamsvönd ek þig lesta, en ek þig temja mun, mær, at mínum munum; þar skaltu ganga, er þig gumnar sönn eigi framar sé.",
+    "translations": {
+      "bellows": "With a taming-wand I strike thee, and I will tame thee, O maid, to my will; thither shalt thou go where the sons of men shall never see thee more.",
+      "thorpe": "With a taming-wand I will smite thee, and will tame thee, maiden! to my will. There shalt thou go, where the sons of men shall never more behold thee.",
+      "literal": "Taming-wand I you strike, and I you tame will, maid, at my desires; there shall-you go, where you men truly never further see."
+    },
+    "sot_links": { "artifacts": ["artifact_tamsvondr"], "themes": ["Curse", "Magic"] }
+  },
+  {
+    "stanza_id": "skir_29",
+    "original": "Ara þúfu á skaltu ár sitja, horfa heimi ór, snugga helju til; matr sé þér leiðari en manna hveim inn fráni ormr með firum.",
+    "translations": {
+      "bellows": "On an eagle's hill shalt thou early sit, looking forth from the world, and turning toward Hel; food shall be more loathsome to thee than to any man is the glittering serpent among men.",
+      "thorpe": "On an eagle’s mount shalt thou early sit, looking from the world, facing toward Hel. Food shall be more loathsome to thee than is to any man the glistening serpent among men.",
+      "literal": "Eagle's hill on shall-you early sit, look world from, sniff Hel to; meat be to-you more-loathed than men each the gleaming serpent among men."
+    },
+    "sot_links": { "locations": ["Hel"], "themes": ["Isolation", "The Curse"] }
+  },
+  {
+    "stanza_id": "skir_30",
+    "original": "At undri verðir, er þú út kómir; á þig Hrímgrímnir gapi, á þig hveðna hvegi; verðir þú víðförulli en vörðr á brú; grátandi gapa, gapa ok gæta, gína ok gapa, gegnum grindir snapa.",
+    "translations": {
+      "bellows": "A gazing-stock shalt thou be when thou comest forth; let Rimgrimnir gape at thee, and all things stare; more famous shalt thou be than the watchman on the bridge; weeping shalt thou gape, gape and stare, yawn and gape, through the bars thou shalt look.",
+      "thorpe": "A gazing-stock shalt thou be, when thou comest forth; Hrímgrímnir shall at thee gape, all beings at thee stare; more widely known shalt thou become than the watchman on the bridge. Grinning mayest thou gape, gape and pine, yawn and gape, and through the bars snap.",
+      "literal": "At wonder become-you, when you out come; on you Rimgrimnir gape, on you everyone always; become you more-widely-traveled than warder on bridge; weeping gape, gape and watch, yawn and gape, through bars snap."
+    },
+    "sot_links": { "figures": ["Hrimgrimnir"], "themes": ["The Curse", "Public Shame"] }
+  },
+  {
+    "stanza_id": "skir_31",
+    "original": "Tregi ok herja, fjall ok fár, vreiði ok ván, vaxi þér tár með trega; sezk þú niðr, en ek mun segja þér sváran sútargjall ok tvöfaldan tregatól.",
+    "translations": {
+      "bellows": "Grief and horror, pain and fear, anger and hope, let them grow with thy tears and grief; sit thee down, and I shall tell thee of a heavy flood of sorrow and a double grief.",
+      "thorpe": "Terror and misery, mountain and danger, wrath and expectation, may they grow with thy tears and grief! Sit thee down, and I will tell thee a heavy tale of sorrow and double grief.",
+      "literal": "Grief and raiding [terror], mountain and danger, wrath and expectation, grow to-you tears with grief; sit you down, but I will say to-you heavy sorrow-blast and twofold grief-tool."
+    }
+  },
+  {
+    "stanza_id": "skir_32",
+    "original": "Ofskelfir þig þursar í jötunheimum, hvern dag of rísa hrímþursar til halla Gymis; fúss skaltu vera, en aldregi fús, vaxa þér tár með trega.",
+    "translations": {
+      "bellows": "Giants shall shake thee in the giants' world, every day shall the frost-giants fare to Gymir's halls; eager shalt thou be, yet never have thy will, and tears shall grow with thy grief.",
+      "thorpe": "Giants shall terrify thee in Jötunheim; each day shalt thou rise, frost-giants to Gymir’s halls; fey shalt thou be, but never fey [willing], may tears grow with thy grief.",
+      "literal": "Over-shake you giants in giant-homes, each day of rise rime-giants to halls of-Gymir; eager shall-you be, but never eager [satisfied], grow to-you tears with grief."
+    },
+    "sot_links": { "locations": ["Jotunheimr"] }
+  },
+  {
+    "stanza_id": "skir_33",
+    "original": "Með þursi þú skalt æra, því at þú skalt undir þursi vera, eða þú muntu verlaus vera; megi þitt geð, því at þú muntu meingjörn vera, verða at undri veröldu.",
+    "translations": {
+      "bellows": "With a giant thou shalt dwell, for a giant's wife thou shalt be, or else thou shalt never have a husband; let thy mind be so, for thou shalt be full of vice, a gazing-stock to the world.",
+      "thorpe": "With a giant thou shalt dwell, for under a giant thou shalt be, or thou shalt be husbandless; may thy mind, as thou art evil-disposed, become a wonder to the world.",
+      "literal": "With giant you shall [live], because that you shall under giant be, or you will man-less be; may your spirit, because that you will harm-eager be, become at wonder of-world."
+    }
+  },
+  {
+    "stanza_id": "skir_34",
+    "original": "Hlýðið, jötnar, hlýðið, hrímþursar, synir Suttungs, sjalfir ásliðar, hvé ek fyrbýð, hvé ek fyrirbanna manna glaum meyju, manna nyt meyju.",
+    "translations": {
+      "bellows": "Hear, ye giants, hear, ye frost-giants, sons of Suttung, and ye gods as well, how I forbid, how I ban for the maid the joy of men, the help of men.",
+      "thorpe": "Hear, ye Jötuns! hear, ye frost-giants! sons of Suttung! and ye Aesir-host! how I forbid, how I prohibit man’s company to the maiden, man’s use to the maiden.",
+      "literal": "Listen, giants, listen, rime-giants, sons of-Suttung, self Aesir-ranks, how I forbid, how I ban of-men joy to-maid, of-men use to-maid."
+    },
+    "sot_links": { "figures": ["Suttung"] }
+  },
+  {
+    "stanza_id": "skir_35",
+    "original": "Hrímgrímnir heitir þurs, er þig hafa skal fyr nágrindr neðan; þar þér vílmegir á viðarrótum geita hland gefi; dýrari drykk þú aldregi, mær, fáir, at þínum munum, at mínum munum.",
+    "translations": {
+      "bellows": "Rimgrimnir is the giant's name who shall have thee beneath the corpse-gate; there shall wretched thralls from the tree-roots give thee the urine of goats; no better drink shalt thou ever get, O maid, at thy will, at my will.",
+      "thorpe": "Hrímgrímnir is the giant’s name, who shall possess thee under the corpse-gate. There shall wretched slaves from the tree-roots give thee goats’ water; a better drink shalt thou never, maiden! receive at thy desire, at my desire.",
+      "literal": "Rimgrimnir named-is giant, who you have shall before corpse-gates beneath; there to-you wretched-sons [slaves] on wood-roots goats' urine give; dearer drink you never, maid, get, at your desires, at my desires."
+    },
+    "sot_links": { "figures": ["Hrimgrimnir"], "themes": ["Abject Punishment"] }
+  },
+  {
+    "stanza_id": "skir_36",
+    "original": "Þurs ríst ek þér ok þrjá stafi, ergi ok æði ok óþola; svá ek þat af ríst, sem ek þat á reist, ef gerask þarfar þess.",
+    "translations": {
+      "bellows": "I write thee a giant-rune and three letters more, lewdness and madness and unrest; so can I write them off as I wrote them on, if there be need of this.",
+      "thorpe": "A Thurs [rune] I cut for thee, and three characters: lewdness, and madness, and impatience. So I can cut it off, as I have cut it on, if there be need of it.",
+      "literal": "Giant [rune] carve I for-you and three staves, lust and madness and impatience; so I that off carve, as I that on carved, if become needs of-that."
+    },
+    "sot_links": { "themes": ["Runic Magic", "The Malware Payload"] }
+  },
+  {
+    "stanza_id": "skir_37",
+    "original": "Heill verðu nú, sveinn, ok tak við hrímkálki fullum forns mjaðar; þó hafða ek ætlað, at ek munda-at manni hveim unna unna Vana.",
+    "translations": {
+      "bellows": "Hail to thee now, youth, and take the frost-cup full of the ancient mead; though I had thought that never a one of the Vanir I should love.",
+      "thorpe": "Hail now, young man! and take the frost-cup, filled with old mead; although I had not thought that I should ever love one of the Vanir race.",
+      "literal": "Hale be-you now, boy, and take with frost-cup full of-ancient mead; though had I intended, that I would-not man each love love [of] Vanir."
+    },
+    "sot_links": { "deities": ["deity_freyr"], "figures": ["Gerdr"], "themes": ["Submission"] }
+  },
+  {
+    "stanza_id": "skir_38",
+    "original": "Erendi mín öll vil ek vita, áðr ek ríða heim heðan: nær þú at þingi vilt inum þveit-eyja mæta Njarðar syni.",
+    "translations": {
+      "bellows": "My errand all I fain would know, ere hence I ride my way: when wilt thou meet at the meeting-place the son of Njord?",
+      "thorpe": "My full errand I will know, before I hence ride home: when thou wilt meet the son of Njörd at the appointed place.",
+      "literal": "Errand mine all will I know, before I ride home from-here: when you at assembly will the son of-Njord meet."
+    },
+    "sot_links": { "deities": ["deity_freyr", "deity_njord"], "figures": ["Skirnir"] }
+  },
+  {
+    "stanza_id": "skir_39",
+    "original": "Barri heitir, er vit báðir vitum, lútr ok logn-vaki; en at níu nóttum þar mun Njarðar syni Gerðr unna unna.",
+    "translations": {
+      "bellows": "Barri is called, as we both know, a still and quiet grove; and there after nine nights to the son of Njord will Gerdr grant her love.",
+      "thorpe": "Barri is the name, which we both know, a still and quiet grove. In nine nights’ time, there to Njörd’s son Gerdr will grant her love.",
+      "literal": "Barri named-is, which we-two both know, still and calm-waking; and at nine nights there will to-Njord's son Gerdr love grant."
+    },
+    "sot_links": { "locations": ["Barri"], "deities": ["deity_freyr"], "figures": ["Gerdr"] }
+  },
+  {
+    "stanza_id": "skir_40",
+    "original": "Segðu mér þat, Skírnir, áðr þú söðli of kastir ok þú einn fet fetir framar: hvat þú árnaðir í jötunheimum þíns eða míns munar?",
+    "translations": {
+      "bellows": "Tell me, Skirnir, ere thou throwest the saddle, or one step further thou farest: what hast thou won in the giant's world of thy desire or mine?",
+      "thorpe": "Tell me, Skirnir! before thou throwest the saddle off, or further goest: what thou hast accomplished in Jötunheim, to my desire or thine?",
+      "literal": "Say me that, Skirnir, before you saddle of throw and you one foot foot [step] further: what you accomplished in giant-homes of-your or mine desire?"
+    }
+  },
+  {
+    "stanza_id": "skir_41",
+    "original": "Barri heitir, er vit báðir vitum, lútr ok logn-vaki; en at níu nóttum þar mun Njarðar syni Gerðr unna unna.",
+    "translations": {
+      "bellows": "Barri is called, as we both know, a still and quiet grove; and there after nine nights to the son of Njord will Gerdr grant her love.",
+      "thorpe": "Barri is the name, which we both know, a still and quiet grove. In nine nights’ time, there to Njörd’s son Gerdr will grant her love.",
+      "literal": "Barri named-is, which we-two both know, still and calm-waking; and at nine nights there will to-Njord's son Gerdr love grant."
+    }
+  },
+  {
+    "stanza_id": "skir_42",
+    "original": "Eina nótt ek munda-at, aðra munda-at, hvé ek þrjár þreyjak? oft mér mánaðr minni þótti en sjá half hýnótt.",
+    "translations": {
+      "bellows": "One night is long, and two are longer, how shall I strive for three? Oft a month has seemed shorter to me than this half night of desire.",
+      "thorpe": "One night is long, two nights are longer; how shall I three endure? Often a month has seemed shorter to me than this half night of longing.",
+      "literal": "One night I would-not, another I would-not, how I three endure? often to-me month less seemed than this half desire-night."
+    },
+    "sot_links": { "deities": ["deity_freyr"], "themes": ["Impatience", "Desire"] }
+  }
+]
