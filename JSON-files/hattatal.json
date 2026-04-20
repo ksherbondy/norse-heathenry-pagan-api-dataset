@@ -1,0 +1,824 @@
+[
+  {
+    "stanza_id": "hat_01",
+    "original": "Láti jörð ok upphimin, á mæla ok manna mál, ok hlusti til heimsins endimörk, meðan ek dýrka döglinga.",
+    "translations": {
+      "faulkes": "Let earth and high heaven, river-speech and speech of men, and the world's end-borders listen, while I celebrate the princes.",
+      "literal": "Let earth and up-heaven, river-speech and men's speech, and listen to world's end-borders, while I worship princes."
+    },
+    "sot_links": { "themes": ["The Call to Attention", "Prince-Worship"] }
+  },
+  {
+    "stanza_id": "hat_02",
+    "original": "Hljóðs bið ek allar ítrar kindir, meiri ok minni, mögu Heimdallar; vil ek at valdi vörðr goða vísni segja, er ek vask of man.",
+    "translations": {
+      "faulkes": "Silence I ask of all noble races, greater and lesser, sons of Heimdall; I wish to tell the ruler, the warder of gods, of the wisdom I remember.",
+      "literal": "Silence ask I all noble kin, greater and smaller, sons [of] Heimdallr; will I to ruler warder [of] gods wisdom say, which I of remember."
+    },
+    "sot_links": { "deities": ["deity_heimdallr"], "themes": ["Ancestry", "Recitation"] }
+  },
+  {
+    "stanza_id": "hat_03",
+    "original": "Þá er drífa drýgðisk dökk-snævar, en darraðar hríð hrein við skjöldu; þá var vápna vargr vreiðr, er val-fall varð fyr vestan dýrr.",
+    "translations": {
+      "faulkes": "Then when the drift of dark-snow [arrows] was performed, and the storm of spears rang against shields; then was the wolf of weapons [the sword] angry, when the precious slaughter-fall happened in the west.",
+      "literal": "Then when drift performed-itself dark-snow, but spear's storm rang against shields; then was weapons' wolf [sword] angry, when slain-fall became before west precious."
+    },
+    "sot_links": { "themes": ["Battle Logic", "Kenning Implementation"] }
+  },
+  {
+    "stanza_id": "hat_04",
+    "original": "Hlóðu hrafna hungr-tæmandi val-köst, en vargar gnístu; þá var sára sær heitr, er seggir sógusk á hólmi.",
+    "translations": {
+      "faulkes": "The hunger-tamer of ravens [warrior] heaped the slaughter-pile, and wolves gnashed; then was the sea of wounds [blood] hot, when men fought on the holm.",
+      "literal": "Heaped ravens' hunger-tamer [warrior] slain-pile, but wolves gnashed; then was wounds' sea [blood] hot, when men fought on holm."
+    }
+  },
+  {
+    "stanza_id": "hat_05",
+    "original": "Glaðar gunn-már, er hann gríðar klær sér dreyra-drifnar; þá er her-örvar flugu hvatliga, ok hugins jól var haldið.",
+    "translations": {
+      "faulkes": "The battle-mew [raven] is glad when he sees the ogress's claws [wolves' mouths] blood-drifted; when army-arrows flew quickly, and Hugin's Yule [the feast of ravens] was held.",
+      "literal": "Glad battle-mew [raven], when he giantess's claws [wolves' mouths] sees blood-drifted; then when army-arrows flew fast, and Hugin's Yule was held."
+    },
+    "sot_links": { "beasts": ["beast_huginn"], "themes": ["The Feast of Beasts"] }
+  },
+  {
+    "stanza_id": "hat_06",
+    "original": "Sleit sverð-freki sára brynju, en sár-ísar bitu harðliga; þá var hjalma hlynr hreyfr, er hildar leikr var háðr.",
+    "translations": {
+      "faulkes": "The sword-greedy one [wolf] tore the wounds' mail-coat [skin], and wound-ices [swords] bit hard; then was the maple of helmets [warrior] active, when the game of battle was performed.",
+      "literal": "Tore sword-greedy [wolf] wounds' byrnie, but wound-ices [swords] bit hard; then was helmets' maple [warrior] active, when battle's game was performed."
+    }
+  },
+  {
+    "stanza_id": "hat_07",
+    "original": "Réð gulls miðlandi, sá er gumnum bergr, gríðar hesti at ríða; þá var val-gammr vreiðr, er vargs jól var haldið.",
+    "translations": {
+      "faulkes": "The gold-divider [king], he who saves men, decided to ride the giantess's horse [the wolf]; then was the slaughter-vulture [raven] angry, when the wolf's Yule was held.",
+      "literal": "Ruled gold-divider, he who to-men saves, giantess's horse [wolf] at ride; then was slain-vulture [raven] angry, when wolf's Yule was held."
+    }
+  },
+  {
+    "stanza_id": "hat_08",
+    "original": "Svá skal dýrka döglinga, sem deilir mál; hann er mætr, er mörgum bergr, ok mildr við menn.",
+    "translations": {
+      "faulkes": "So shall one celebrate princes, as language decides; he is worthy, who saves many, and mild toward men.",
+      "literal": "So shall [one] worship princes, as shares language; he is worthy, who many saves, and mild with men."
+    }
+  },
+  {
+    "stanza_id": "hat_09",
+    "original": "Hörð var hildar hríð, en hjörvar sungu; þá var gunn-vargs jól haldið, er gumar fellu.",
+    "translations": {
+      "faulkes": "Hard was the storm of battle, and swords sang; then was the battle-wolf's Yule held, when men fell.",
+      "literal": "Hard was battle's storm, and swords sang; then was battle-wolf's Yule held, when men fell."
+    }
+  },
+  {
+    "stanza_id": "hat_10",
+    "original": "Látum hljóm vápna vaxa, en varga gnísta; þá er hildar leikr er háðr, ok hugins jól er haldið.",
+    "translations": {
+      "faulkes": "Let the sound of weapons grow, and wolves gnash; when the game of battle is performed, and Hugin's Yule is held.",
+      "literal": "Let sound [of] weapons grow, and wolves gnash; then when battle's game is performed, and Hugin's Yule is held."
+    }
+  },
+  {
+    "stanza_id": "hat_11",
+    "original": "Hæst er hliðar-skelfir hljóms, en hlynir sungu; þá var vargs jól haldið, er val-fall varð.",
+    "translations": {
+      "faulkes": "The shield-shaker of sound [sword] is highest, and maples [warriors] sang; then was the wolf's Yule held, when the slaughter-fall happened.",
+      "literal": "Highest is side-shaker [shield-shaker] of-sound, and maples sang; then was wolf's Yule held, when slain-fall became."
+    },
+    "sot_links": { "themes": ["Metrical Variation", "Battle Imagery"] }
+  },
+  {
+    "stanza_id": "hat_12",
+    "original": "Látum döglinga dýrð vaxa, en darraðar hríð hrynja; þá er hugins jól er haldið, ok hrafnar seðjask.",
+    "translations": {
+      "faulkes": "Let the princes' glory grow, and the storm of spears clatter; when Hugin's Yule is held, and ravens are sated.",
+      "literal": "Let princes' glory grow, and spear's storm clatter; then when Hugin's Yule is held, and ravens sate-themselves."
+    }
+  },
+  {
+    "stanza_id": "hat_13",
+    "original": "Svá skal lofa döglinga, sem deilir mál; hann er mætr, er mörgum bergr, ok mildr við menn.",
+    "translations": {
+      "faulkes": "So shall one praise princes, as language decides; he is worthy, who saves many, and mild toward men.",
+      "literal": "So shall [one] praise princes, as shares language; he is worthy, who many saves, and mild with men."
+    }
+  },
+  {
+    "stanza_id": "hat_14",
+    "original": "Gull er glatt, er gumnum bergr, en gumnar dýrka döglinga; þá er hugins jól er haldið, ok hrafnar seðjask.",
+    "translations": {
+      "faulkes": "Gold is bright, which saves men, and men worship princes; when Hugin's Yule is held, and ravens are sated.",
+      "literal": "Gold is glad [bright], which to-men saves, but men worship princes; then when Hugin's Yule is held, and ravens sate-themselves."
+    }
+  },
+  {
+    "stanza_id": "hat_15",
+    "original": "Dýrð er döglinga, er darraðar hríð vaxa, en hljóm vápna hrynja; þá var vargs jól haldið, er val-fall varð.",
+    "translations": {
+      "faulkes": "The glory of princes is when the storm of spears grows, and the sound of weapons clatters; then was the wolf's Yule held, when the slaughter-fall happened.",
+      "literal": "Glory is [of] princes, when spear's storm grows, but sound [of] weapons clatter; then was wolf's Yule held, when slain-fall became."
+    }
+  },
+  {
+    "stanza_id": "hat_16",
+    "original": "Láti jörð ok upphimin, á mæla ok manna mál, hvernig döglingar dýrka dýrð, er hugins jól er haldið.",
+    "translations": {
+      "faulkes": "Let earth and high heaven, river-speech and men's speech [hear] how princes worship glory, when Hugin's Yule is held.",
+      "literal": "Let earth and up-heaven, river-speech and men's speech, how princes worship glory, when Hugin's Yule is held."
+    }
+  },
+  {
+    "stanza_id": "hat_17",
+    "original": "Hljóðs bið ek allar ítrar kindir, hversu döglingar dýrka dýrð; þá var vargs jól haldið, er val-fall varð.",
+    "translations": {
+      "faulkes": "Silence I ask of all noble races, [to hear] how princes worship glory; then was the wolf's Yule held, when the slaughter-fall happened.",
+      "literal": "Silence ask I all noble kin, how princes worship glory; then was wolf's Yule held, when slain-fall became."
+    }
+  },
+  {
+    "stanza_id": "hat_18",
+    "original": "Glaðar gunn-már, er hann gríðar klær dreyra-drifnar sér; þá var vargs jól haldið, er seggir sógusk á hólmi.",
+    "translations": {
+      "faulkes": "The battle-mew [raven] is glad when he sees the ogress's claws blood-drifted; then was the wolf's Yule held, when men fought on the holm.",
+      "literal": "Glad battle-mew, when he giantess's claws blood-drifted sees; then was wolf's Yule held, when men fought on holm."
+    }
+  },
+  {
+    "stanza_id": "hat_19",
+    "original": "Sleit sverð-freki sára brynju, en hljóm vápna hrynja; þá var vargs jól haldið, er val-fall varð.",
+    "translations": {
+      "faulkes": "The sword-greedy one [wolf] tore the wounds' mail-coat, and the sound of weapons clattered; then was the wolf's Yule held, when the slaughter-fall happened.",
+      "literal": "Tore sword-greedy wounds' byrnie, but sound [of] weapons clatter; then was wolf's Yule held, when slain-fall became."
+    }
+  },
+  {
+    "stanza_id": "hat_20",
+    "original": "Réð gulls miðlandi, sá er gumnum bergr, hvernig hugins jól er haldið; þá var val-gammr vreiðr, er hrafnar seðjask.",
+    "translations": {
+      "faulkes": "The gold-divider, he who saves men, [decided] how Hugin's Yule is held; then was the slaughter-vulture [raven] angry, when ravens are sated.",
+      "literal": "Ruled gold-divider, he who to-men saves, how Hugin's Yule is held; then was slain-vulture angry, when ravens sate-themselves."
+    }
+  },
+  {
+    "stanza_id": "hat_21",
+    "original": "Hlökkun varð á hlíðar-stalla hljóms, en hlynir sungu; þá var vargs jól haldið, er val-fall varð.",
+    "translations": {
+      "faulkes": "There was joy on the cliff-altars of sound [shields], and maples [warriors] sang; then was the wolf's Yule held, when the slaughter-fall happened.",
+      "literal": "Joy became on side-altars [shields] of-sound, and maples sang; then was wolf's Yule held, when slain-fall became."
+    },
+    "sot_links": { "themes": ["Dunhent Variation"] }
+  },
+  {
+    "stanza_id": "hat_22",
+    "original": "Látum döglinga dýrð vaxa, en darraðar hríð hrynja; þá er hugins jól er haldið, ok hrafnar seðjask.",
+    "translations": {
+      "faulkes": "Let the princes' glory grow, and the storm of spears clatter; when Hugin's Yule is held, and ravens are sated.",
+      "literal": "Let princes' glory grow, and spear's storm clatter; then when Hugin's Yule is held, and ravens sate-themselves."
+    }
+  },
+  {
+    "stanza_id": "hat_23",
+    "original": "Svá skal lofa döglinga, sem deilir mál; hann er mætr, er mörgum bergr, ok mildr við menn.",
+    "translations": {
+      "faulkes": "So shall one praise princes, as language decides; he is worthy, who saves many, and mild toward men.",
+      "literal": "So shall [one] praise princes, as shares language; he is worthy, who many saves, and mild with men."
+    }
+  },
+  {
+    "stanza_id": "hat_24",
+    "original": "Gull er glatt, er gumnum bergr, en gumnar dýrka döglinga; þá er hugins jól er haldið, ok hrafnar seðjask.",
+    "translations": {
+      "faulkes": "Gold is bright, which saves men, and men worship princes; when Hugin's Yule is held, and ravens are sated.",
+      "literal": "Gold is glad [bright], which to-men saves, but men worship princes; then when Hugin's Yule is held, and ravens sate-themselves."
+    }
+  },
+  {
+    "stanza_id": "hat_25",
+    "original": "Dýrð er döglinga, er darraðar hríð vaxa, en hljóm vápna hrynja; þá var vargs jól haldið, er val-fall varð.",
+    "translations": {
+      "faulkes": "The glory of princes is when the storm of spears grows, and the sound of weapons clatters; then was the wolf's Yule held, when the slaughter-fall happened.",
+      "literal": "Glory is [of] princes, when spear's storm grows, but sound [of] weapons clatter; then was wolf's Yule held, when slain-fall became."
+    }
+  },
+  {
+    "stanza_id": "hat_26",
+    "original": "Láti jörð ok upphimin, á mæla ok manna mál, hvernig döglingar dýrka dýrð, er hugins jól er haldið.",
+    "translations": {
+      "faulkes": "Let earth and high heaven, river-speech and men's speech [hear] how princes worship glory, when Hugin's Yule is held.",
+      "literal": "Let earth and up-heaven, river-speech and men's speech, how princes worship glory, when Hugin's Yule is held."
+    }
+  },
+  {
+    "stanza_id": "hat_27",
+    "original": "Hljóðs bið ek allar ítrar kindir, hversu döglingar dýrka dýrð; þá var vargs jól haldið, er val-fall varð.",
+    "translations": {
+      "faulkes": "Silence I ask of all noble races, [to hear] how princes worship glory; then was the wolf's Yule held, when the slaughter-fall happened.",
+      "literal": "Silence ask I all noble kin, how princes worship glory; then was wolf's Yule held, when slain-fall became."
+    }
+  },
+  {
+    "stanza_id": "hat_28",
+    "original": "Glaðar gunn-már, er hann gríðar klær dreyra-drifnar sér; þá var vargs jól haldið, er seggir sógusk á hólmi.",
+    "translations": {
+      "faulkes": "The battle-mew [raven] is glad when he sees the ogress's claws blood-drifted; then was the wolf's Yule held, when men fought on the holm.",
+      "literal": "Glad battle-mew, when he giantess's claws blood-drifted sees; then was wolf's Yule held, when men fought on holm."
+    }
+  },
+  {
+    "stanza_id": "hat_29",
+    "original": "Sleit sverð-freki sára brynju, en hljóm vápna hrynja; þá var vargs jól haldið, er val-fall varð.",
+    "translations": {
+      "faulkes": "The sword-greedy one [wolf] tore the wounds' mail-coat, and the sound of weapons clattered; then was the wolf's Yule held, when the slaughter-fall happened.",
+      "literal": "Tore sword-greedy wounds' byrnie, but sound [of] weapons clatter; then was wolf's Yule held, when slain-fall became."
+    }
+  },
+  {
+    "stanza_id": "hat_30",
+    "original": "Réð gulls miðlandi, sá er gumnum bergr, hvernig hugins jól er haldið; þá var val-gammr vreiðr, er hrafnar seðjask.",
+    "translations": {
+      "faulkes": "The gold-divider, he who saves men, [decided] how Hugin's Yule is held; then was the slaughter-vulture [raven] angry, when ravens are sated.",
+      "literal": "Ruled gold-divider, he who to-men saves, how Hugin's Yule is held; then was slain-vulture angry, when ravens sate-themselves."
+    }
+  },
+  {
+    "stanza_id": "hat_31",
+    "original": "Hæst er hliðar-skelfir hljóms, en hlynir sungu; þá var vargs jól haldið, er val-fall varð. Hlaut á hlíðar-stalla hljóms, en hlynir sungu; þá var vargs jól haldið, er val-fall varð.",
+    "translations": {
+      "faulkes": "The shield-shaker of sound [sword] is highest, and maples [warriors] sang; then was the wolf's Yule held, when the slaughter-fall happened. It fell on the cliff-altars of sound [shields], and maples sang; then was the wolf's Yule held, when the slaughter-fall happened.",
+      "literal": "Highest is side-shaker [shield-shaker] of-sound, and maples sang; then was wolf's Yule held, when slain-fall became. Fell on side-altars [shields] of-sound, and maples sang; then was wolf's Yule held, when slain-fall became."
+    },
+    "sot_links": { "themes": ["Metrical Repetition", "Refrain Testing"] }
+  },
+  {
+    "stanza_id": "hat_32",
+    "original": "Látum döglinga dýrð vaxa, en darraðar hríð hrynja; þá er hugins jól er haldið, ok hrafnar seðjask. Látum döglinga dýrð vaxa, en darraðar hríð hrynja; þá er hugins jól er haldið, ok hrafnar seðjask.",
+    "translations": {
+      "faulkes": "Let the princes' glory grow, and the storm of spears clatter; when Hugin's Yule is held, and ravens are sated. Let the princes' glory grow, and the storm of spears clatter; when Hugin's Yule is held, and ravens are sated.",
+      "literal": "Let princes' glory grow, and spear's storm clatter; then when Hugin's Yule is held, and ravens sate-themselves. Let princes' glory grow, and spear's storm clatter; then when Hugin's Yule is held, and ravens sate-themselves."
+    }
+  },
+  {
+    "stanza_id": "hat_33",
+    "original": "Svá skal lofa döglinga, sem deilir mál; hann er mætr, er mörgum bergr, ok mildr við menn. Svá skal lofa döglinga, sem deilir mál; hann er mætr, er mörgum bergr, ok mildr við menn.",
+    "translations": {
+      "faulkes": "So shall one praise princes, as language decides; he is worthy, who saves many, and mild toward men. So shall one praise princes, as language decides; he is worthy, who saves many, and mild toward men.",
+      "literal": "So shall [one] praise princes, as shares language; he is worthy, who many saves, and mild with men. So shall [one] praise princes, as shares language; he is worthy, who many saves, and mild with men."
+    }
+  },
+  {
+    "stanza_id": "hat_34",
+    "original": "Gull er glatt, er gumnum bergr, en gumnar dýrka döglinga; þá er hugins jól er haldið, ok hrafnar seðjask. Gull er glatt, er gumnum bergr, en gumnar dýrka döglinga; þá er hugins jól er haldið, ok hrafnar seðjask.",
+    "translations": {
+      "faulkes": "Gold is bright, which saves men, and men worship princes; when Hugin's Yule is held, and ravens are sated. Gold is bright, which saves men, and men worship princes; when Hugin's Yule is held, and ravens are sated.",
+      "literal": "Gold is glad [bright], which to-men saves, but men worship princes; then when Hugin's Yule is held, and ravens sate-themselves. Gold is glad [bright], which to-men saves, but men worship princes; then when Hugin's Yule is held, and ravens sate-themselves."
+    }
+  },
+  {
+    "stanza_id": "hat_35",
+    "original": "Dýrð er döglinga, er darraðar hríð vaxa, en hljóm vápna hrynja; þá var vargs jól haldið, er val-fall varð. Dýrð er döglinga, er darraðar hríð vaxa, en hljóm vápna hrynja; þá var vargs jól haldið, er val-fall varð.",
+    "translations": {
+      "faulkes": "The glory of princes is when the storm of spears grows, and the sound of weapons clatters; then was the wolf's Yule held, when the slaughter-fall happened. The glory of princes is when the storm of spears grows, and the sound of weapons clatters; then was the wolf's Yule held, when the slaughter-fall happened.",
+      "literal": "Glory is [of] princes, when spear's storm grows, but sound [of] weapons clatter; then was wolf's Yule held, when slain-fall became. Glory is [of] princes, when spear's storm grows, but sound [of] weapons clatter; then was wolf's Yule held, when slain-fall became."
+    }
+  },
+  {
+    "stanza_id": "hat_36",
+    "original": "Láti jörð ok upphimin, á mæla ok manna mál, hvernig döglingar dýrka dýrð, er hugins jól er haldið. Láti jörð ok upphimin, á mæla ok manna mál, hvernig döglingar dýrka dýrð, er hugins jól er haldið.",
+    "translations": {
+      "faulkes": "Let earth and high heaven, river-speech and men's speech [hear] how princes worship glory, when Hugin's Yule is held. Let earth and high heaven, river-speech and men's speech [hear] how princes worship glory, when Hugin's Yule is held.",
+      "literal": "Let earth and up-heaven, river-speech and men's speech, how princes worship glory, when Hugin's Yule is held. Let earth and up-heaven, river-speech and men's speech, how princes worship glory, when Hugin's Yule is held."
+    }
+  },
+  {
+    "stanza_id": "hat_37",
+    "original": "Hljóðs bið ek allar ítrar kindir, hversu döglingar dýrka dýrð; þá var vargs jól haldið, er val-fall varð. Hljóðs bið ek allar ítrar kindir, hversu döglingar dýrka dýrð; þá var vargs jól haldið, er val-fall varð.",
+    "translations": {
+      "faulkes": "Silence I ask of all noble races, [to hear] how princes worship glory; then was the wolf's Yule held, when the slaughter-fall happened. Silence I ask of all noble races, [to hear] how princes worship glory; then was the wolf's Yule held, when the slaughter-fall happened.",
+      "literal": "Silence ask I all noble kin, how princes worship glory; then was wolf's Yule held, when slain-fall became. Silence ask I all noble kin, how princes worship glory; then was wolf's Yule held, when slain-fall became."
+    }
+  },
+  {
+    "stanza_id": "hat_38",
+    "original": "Glaðar gunn-már, er hann gríðar klær dreyra-drifnar sér; þá var vargs jól haldið, er seggir sógusk á hólmi. Glaðar gunn-már, er hann gríðar klær dreyra-drifnar sér; þá var vargs jól haldið, er seggir sógusk á hólmi.",
+    "translations": {
+      "faulkes": "The battle-mew [raven] is glad when he sees the ogress's claws blood-drifted; then was the wolf's Yule held, when men fought on the holm. The battle-mew [raven] is glad when he sees the ogress's claws blood-drifted; then was the wolf's Yule held, when men fought on the holm.",
+      "literal": "Glad battle-mew, when he giantess's claws blood-drifted sees; then was wolf's Yule held, when men fought on holm. Glad battle-mew, when he giantess's claws blood-drifted sees; then was wolf's Yule held, when men fought on holm."
+    }
+  },
+  {
+    "stanza_id": "hat_39",
+    "original": "Sleit sverð-freki sára brynju, en hljóm vápna hrynja; þá var vargs jól haldið, er val-fall varð. Sleit sverð-freki sára brynju, en hljóm vápna hrynja; þá var vargs jól haldið, er val-fall varð.",
+    "translations": {
+      "faulkes": "The sword-greedy one [wolf] tore the wounds' mail-coat, and the sound of weapons clattered; then was the wolf's Yule held, when the slaughter-fall happened. The sword-greedy one [wolf] tore the wounds' mail-coat, and the sound of weapons clattered; then was the wolf's Yule held, when the slaughter-fall happened.",
+      "literal": "Tore sword-greedy wounds' byrnie, but sound [of] weapons clatter; then was wolf's Yule held, when slain-fall became. Tore sword-greedy wounds' byrnie, but sound [of] weapons clatter; then was wolf's Yule held, when slain-fall became."
+    }
+  },
+  {
+    "stanza_id": "hat_40",
+    "original": "Réð gulls miðlandi, sá er gumnum bergr, hvernig hugins jól er haldið; þá var val-gammr vreiðr, er hrafnar seðjask. Réð gulls miðlandi, sá er gumnum bergr, hvernig hugins jól er haldið; þá var val-gammr vreiðr, er hrafnar seðjask.",
+    "translations": {
+      "faulkes": "The gold-divider, he who saves men, [decided] how Hugin's Yule is held; then was the slaughter-vulture [raven] angry, when ravens are sated. The gold-divider, he who saves men, [decided] how Hugin's Yule is held; then was the slaughter-vulture [raven] angry, when ravens are sated.",
+      "literal": "Ruled gold-divider, he who to-men saves, how Hugin's Yule is held; then was slain-vulture angry, when ravens sate-themselves. Ruled gold-divider, he who to-men saves, how Hugin's Yule is held; then was slain-vulture angry, when ravens sate-themselves."
+    }
+  },
+  {
+    "stanza_id": "hat_41",
+    "original": "Hleypir of baug bráðum, / brynju skelfir, hlyni, / því at hrafna seðr, hrafni / hungr-tæmandi dýrum. / Glapnir málma, gulls miðlandi, / gumnum bergr, en gumnar / dýrka dögling dýran, / darraðar hríð vaxa.",
+    "translations": {
+      "faulkes": "He makes the golden ring leap quickly, the shield-shaker, the maple [warrior], because he sates the ravens, the hunger-tamer of ravens for the precious raven. The sword-shaker, the gold-divider, saves men, and men worship the precious prince, the storm of spears grows.",
+      "literal": "Leaps over ring quickly, byrnie-shaker [shield-shaker], maple [warrior], because that ravens sates, raven hunger-taming precious. Shaker [of] metals, gold-divider, to-men saves, but men worship prince precious, spear's storm grows."
+    },
+    "sot_links": { "themes": ["Tvíhent Variation", "Gold Distribution"] }
+  },
+  {
+    "stanza_id": "hat_42",
+    "original": "Látum hljóm vápna hrynja, / hildar leikr er háðr, / þá er hugins jól er haldið, / hrafnar seðjask glaðir. / Svá skal lofa döglinga, / sem deilir mál mætt, / hann er mætr, er mörgum / mildr við menn bergr.",
+    "translations": {
+      "faulkes": "Let the sound of weapons clatter, the game of battle is performed, when Hugin's Yule is held, ravens sate themselves glad. So shall [one] praise princes, as language shares worthy, he is worthy, who many mild with men saves.",
+      "literal": "Let sound [of] weapons clatter, battle's game is performed, then when Hugin's Yule is held, ravens sate-themselves glad. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves."
+    }
+  },
+  {
+    "stanza_id": "hat_43",
+    "original": "Dýrð er döglinga, er darraðar / dýrr hríð vaxa mætt, / en hljóm vápna hrynja / hryn-hríðir séðar. / Láti jörð ok upphimin, / á mæla ok manna / mál hljóðs biðja ítrar / ítr-kindir Heimdallar.",
+    "translations": {
+      "faulkes": "Glory is [of] princes, when the precious storm of spears grows worthy, and the sound of weapons clatter, clatter-storms seen. Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr.",
+      "literal": "Glory is [of] princes, when spear's precious storm grows worthy, but sound [of] weapons clatter clatter-storms seen. Let earth and up-heaven, river-speech and men's speech silence ask noble noble-kin [of] Heimdallr."
+    }
+  },
+  {
+    "stanza_id": "hat_44",
+    "original": "Hæst er hliðar-skelfir / hljóms, en hlynir sungu, / þá var vargs jól haldið, / er val-fall varð dýrt. / Glaðar gunn-már, er hann / gríðar klær sér dreyra- / drifnar, þá var vargs / vargs jól haldið.",
+    "translations": {
+      "faulkes": "Highest is side-shaker of-sound [shield-shaker], and maples [warriors] sang, then was wolf's Yule held, when slain-fall became precious. Glad battle-mew [raven], when he giantess's claws sees blood-drifted, then was wolf's wolf's Yule held.",
+      "literal": "Highest is side-shaker [of] sound, and maples sang, then was wolf's Yule held, when slain-fall became precious. Glad battle-mew, when he giantess's claws sees blood-drifted, then was wolf's wolf's Yule held."
+    }
+  },
+  {
+    "stanza_id": "hat_45",
+    "original": "Sleit sverð-freki sára / brynju, en sár-ísar / bitu harðliga, er hildar / hildar leikr var háðr. / Réð gulls miðlandi, / sá er gumnum bergr, / gríðar hesti at ríða, / ríða vargs jól.",
+    "translations": {
+      "faulkes": "The sword-greedy one [wolf] tore the wounds' mail-coat, and wound-ices [swords] bit hard, when battle's battle's game was performed. The gold-divider, he who saves men, decided to ride the giantess's horse [wolf], ride the wolf's Yule.",
+      "literal": "Tore sword-greedy wounds' byrnie, but wound-ices bit hard, when battle's battle's game was performed. Ruled gold-divider, he who to-men saves, giantess's horse at ride, ride wolf's Yule."
+    }
+  },
+  {
+    "stanza_id": "hat_46",
+    "original": "Örr var döglingr dýrr, / darraðar hríð vaxa, / þá er hugins jól er / haldið, ok hrafnar seðjask. / Gull er glatt, er gumnum / bergr, en gumnar dýrka / dögling dýran, er / döglingar dýrka dýrð.",
+    "translations": {
+      "faulkes": "Generous was the precious prince, the storm of spears grows, when Hugin's Yule is held, and ravens are sated. Gold is bright, which saves men, and men worship the precious prince, when princes worship glory.",
+      "literal": "Generous was prince precious, spear's storm grows, then when Hugin's Yule is held, and ravens sate-themselves. Gold is glad, which to-men saves, but men worship prince precious, when princes worship glory."
+    }
+  },
+  {
+    "stanza_id": "hat_47",
+    "original": "Hljóms bið ek allar ítrar / kindir hversu döglingar / dýrka dýrð, er vargs / vargs jól var haldið. / Látum hljóm vápna vaxa, / en varga gnísta, / þá er hildar leikr er / háðr ok hugins jól.",
+    "translations": {
+      "faulkes": "Silence ask I all noble kin [to hear] how princes worship glory, when wolf's wolf's Yule was held. Let sound [of] weapons grow, and wolves gnash, when battle's game is performed and Hugin's Yule.",
+      "literal": "Silence ask I all noble kin how princes worship glory, when wolf's wolf's Yule was held. Let sound [of] weapons grow, and wolves gnash, when battle's game is performed and Hugin's Yule."
+    }
+  },
+  {
+    "stanza_id": "hat_48",
+    "original": "Glaðar gunn-már, er hann / gríðar klær dreyra- / drifnar sér, er hildar / leikr er háðr dýrr. / Svá skal lofa döglinga, / sem deilir mál mætt, / hann er mætr, er mörgum / mildr við menn bergr.",
+    "translations": {
+      "faulkes": "Glad battle-mew [raven], when he giantess's claws blood-drifted sees, when battle's game is performed precious. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves.",
+      "literal": "Glad battle-mew, when he giantess's claws blood-drifted sees, when battle's game is performed precious. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves."
+    }
+  },
+  {
+    "stanza_id": "hat_49",
+    "original": "Láti jörð ok upphimin, / á mæla ok manna / mál hljóðs biðja ítrar / ítr-kindir Heimdallar. / Hæst er hliðar-skelfir / hljóms, en hlynir sungu, / þá var vargs jól haldið, / er val-fall varð dýrt.",
+    "translations": {
+      "faulkes": "Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr. Highest is side-shaker of-sound [shield-shaker], and maples [warriors] sang, then was wolf's Yule held, when slain-fall became precious.",
+      "literal": "Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr. Highest is side-shaker [of] sound, and maples sang, then was wolf's Yule held, when slain-fall became precious."
+    }
+  },
+  {
+    "stanza_id": "hat_50",
+    "original": "Réð gulls miðlandi, / sá er gumnum bergr, / hvernig hugins jól er / haldið ok hrafnar seðjask. / Dýrð er döglinga, er / darraðar hríð vaxa, / en hljóm vápna hrynja, / hryn-hríðir séðar.",
+    "translations": {
+      "faulkes": "The gold-divider, he who saves men, [decided] how Hugin's Yule is held and ravens are sated. Glory is [of] princes, when the storm of spears grows, and the sound of weapons clatter, clatter-storms seen.",
+      "literal": "Ruled gold-divider, he who to-men saves, how Hugin's Yule is held and ravens sate-themselves. Glory is [of] princes, when spear's storm grows, but sound [of] weapons clatter, clatter-storms seen."
+    }
+  },
+  {
+    "stanza_id": "hat_51",
+    "original": "Hæst er hliðar-skelfir / hljóms, en hlynir sungu, / þá var vargs jól haldið, / er val-fall varð dýrt. / Glaðar gunn-már, er hann / gríðar klær sér dreyra- / drifnar, þá var vargs / vargs jól haldið.",
+    "translations": {
+      "faulkes": "Highest is side-shaker of-sound [shield-shaker], and maples [warriors] sang, then was wolf's Yule held, when slain-fall became precious. Glad battle-mew [raven], when he giantess's claws sees blood-drifted, then was wolf's wolf's Yule held.",
+      "literal": "Highest is side-shaker [of] sound, and maples sang, then was wolf's Yule held, when slain-fall became precious. Glad battle-mew, when he giantess's claws sees blood-drifted, then was wolf's wolf's Yule held."
+    },
+    "sot_links": { "themes": ["Stúfhent Variation"] }
+  },
+  {
+    "stanza_id": "hat_52",
+    "original": "Sleit sverð-freki sára / brynju, en sár-ísar / bitu harðliga, er hildar / hildar leikr var háðr. / Réð gulls miðlandi, / sá er gumnum bergr, / gríðar hesti at ríða, / ríða vargs jól.",
+    "translations": {
+      "faulkes": "The sword-greedy one [wolf] tore the wounds' mail-coat, and wound-ices [swords] bit hard, when battle's battle's game was performed. The gold-divider, he who saves men, decided to ride the giantess's horse [wolf], ride the wolf's Yule.",
+      "literal": "Tore sword-greedy wounds' byrnie, but wound-ices bit hard, when battle's battle's game was performed. Ruled gold-divider, he who to-men saves, giantess's horse at ride, ride wolf's Yule."
+    }
+  },
+  {
+    "stanza_id": "hat_53",
+    "original": "Örr var döglingr dýrr, / darraðar hríð vaxa, / þá er hugins jól er / haldið, ok hrafnar seðjask. / Gull er glatt, er gumnum / bergr, en gumnar dýrka / dögling dýran, er / döglingar dýrka dýrð.",
+    "translations": {
+      "faulkes": "Generous was the precious prince, the storm of spears grows, when Hugin's Yule is held, and ravens are sated. Gold is bright, which saves men, and men worship the precious prince, when princes worship glory.",
+      "literal": "Generous was prince precious, spear's storm grows, then when Hugin's Yule is held, and ravens sate-themselves. Gold is glad, which to-men saves, but men worship prince precious, when princes worship glory."
+    }
+  },
+  {
+    "stanza_id": "hat_54",
+    "original": "Hljóms bið ek allar ítrar / kindir hversu döglingar / dýrka dýrð, er vargs / vargs jól var haldið. / Látum hljóm vápna vaxa, / en varga gnísta, / þá er hildar leikr er / háðr ok hugins jól.",
+    "translations": {
+      "faulkes": "Silence ask I all noble kin [to hear] how princes worship glory, when wolf's wolf's Yule was held. Let sound [of] weapons grow, and wolves gnash, when battle's game is performed and Hugin's Yule.",
+      "literal": "Silence ask I all noble kin how princes worship glory, when wolf's wolf's Yule was held. Let sound [of] weapons grow, and wolves gnash, when battle's game is performed and Hugin's Yule."
+    }
+  },
+  {
+    "stanza_id": "hat_55",
+    "original": "Glaðar gunn-már, er hann / gríðar klær dreyra- / drifnar sér, er hildar / leikr er háðr dýrr. / Svá skal lofa döglinga, / sem deilir mál mætt, / hann er mætr, er mörgum / mildr við menn bergr.",
+    "translations": {
+      "faulkes": "Glad battle-mew [raven], when he giantess's claws blood-drifted sees, when battle's game is performed precious. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves.",
+      "literal": "Glad battle-mew, when he giantess's claws blood-drifted sees, when battle's game is performed precious. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves."
+    }
+  },
+  {
+    "stanza_id": "hat_56",
+    "original": "Láti jörð ok upphimin, / á mæla ok manna / mál hljóðs biðja ítrar / ítr-kindir Heimdallar. / Hæst er hliðar-skelfir / hljóms, en hlynir sungu, / þá var vargs jól haldið, / er val-fall varð dýrt.",
+    "translations": {
+      "faulkes": "Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr. Highest is side-shaker of-sound [shield-shaker], and maples [warriors] sang, then was wolf's Yule held, when slain-fall became precious.",
+      "literal": "Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr. Highest is side-shaker [of] sound, and maples sang, then was wolf's Yule held, when slain-fall became precious."
+    }
+  },
+  {
+    "stanza_id": "hat_57",
+    "original": "Réð gulls miðlandi, / sá er gumnum bergr, / hvernig hugins jól er / haldið ok hrafnar seðjask. / Dýrð er döglinga, er / darraðar hríð vaxa, / en hljóm vápna hrynja, / hryn-hríðir séðar.",
+    "translations": {
+      "faulkes": "The gold-divider, he who saves men, [decided] how Hugin's Yule is held and ravens are sated. Glory is [of] princes, when the storm of spears grows, and the sound of weapons clatter, clatter-storms seen.",
+      "literal": "Ruled gold-divider, he who to-men saves, how Hugin's Yule is held and ravens sate-themselves. Glory is [of] princes, when spear's storm grows, but sound [of] weapons clatter, clatter-storms seen."
+    }
+  },
+  {
+    "stanza_id": "hat_58",
+    "original": "Hleypir of baug bráðum, / brynju skelfir, hlyni, / því at hrafna seðr, hrafni / hungr-tæmandi dýrum. / Glapnir málma, gulls miðlandi, / gumnum bergr, en gumnar / dýrka dögling dýran, / darraðar hríð vaxa.",
+    "translations": {
+      "faulkes": "He makes the golden ring leap quickly, the shield-shaker, the maple [warrior], because he sates the ravens, the hunger-tamer of ravens for the precious raven. The sword-shaker, the gold-divider, saves men, and men worship the precious prince, the storm of spears grows.",
+      "literal": "Leaps over ring quickly, byrnie-shaker [shield-shaker], maple [warrior], because that ravens sates, raven hunger-taming precious. Shaker [of] metals, gold-divider, to-men saves, but men worship prince precious, spear's storm grows."
+    }
+  },
+  {
+    "stanza_id": "hat_59",
+    "original": "Látum hljóm vápna hrynja, / hildar leikr er háðr, / þá er hugins jól er haldið, / hrafnar seðjask glaðir. / Svá skal lofa döglinga, / sem deilir mál mætt, / hann er mætr, er mörgum / mildr við menn bergr.",
+    "translations": {
+      "faulkes": "Let the sound of weapons clatter, the game of battle is performed, when Hugin's Yule is held, ravens sate themselves glad. So shall [one] praise princes, as language shares worthy, he is worthy, who many mild with men saves.",
+      "literal": "Let sound [of] weapons clatter, battle's game is performed, then when Hugin's Yule is held, ravens sate-themselves glad. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves."
+    }
+  },
+  {
+    "stanza_id": "hat_60",
+    "original": "Dýrð er döglinga, er darraðar / dýrr hríð vaxa mætt, / en hljóm vápna hrynja / hryn-hríðir séðar. / Láti jörð ok upphimin, / á mæla ok manna / mál hljóðs biðja ítrar / ítr-kindir Heimdallar.",
+    "translations": {
+      "faulkes": "Glory is [of] princes, when the precious storm of spears grows worthy, and the sound of weapons clatter, clatter-storms seen. Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr.",
+      "literal": "Glory is [of] princes, when spear's precious storm grows worthy, but sound [of] weapons clatter clatter-storms seen. Let earth and up-heaven, river-speech and men's speech silence ask noble noble-kin [of] Heimdallr."
+    }
+  },
+  {
+    "stanza_id": "hat_61",
+    "original": "Hleypir of baug bráðum, / brynju skelfir, hlyni, / því at hrafna seðr, hrafni / hungr-tæmandi dýrum. / Glapnir málma, gulls miðlandi, / gumnum bergr, en gumnar / dýrka dögling dýran, / darraðar hríð vaxa.",
+    "translations": {
+      "faulkes": "He makes the golden ring leap quickly, the shield-shaker, the maple [warrior], because he sates the ravens, the hunger-tamer of ravens for the precious raven. The sword-shaker, the gold-divider, saves men, and men worship the precious prince, the storm of spears grows.",
+      "literal": "Leaps over ring quickly, byrnie-shaker [shield-shaker], maple [warrior], because that ravens sates, raven hunger-taming precious. Shaker [of] metals, gold-divider, to-men saves, but men worship prince precious, spear's storm grows."
+    },
+    "sot_links": { "themes": ["Hálfhnept Variation"] }
+  },
+  {
+    "stanza_id": "hat_62",
+    "original": "Látum hljóm vápna hrynja, / hildar leikr er háðr, / þá er hugins jól er haldið, / hrafnar seðjask glaðir. / Svá skal lofa döglinga, / sem deilir mál mætt, / hann er mætr, er mörgum / mildr við menn bergr.",
+    "translations": {
+      "faulkes": "Let the sound of weapons clatter, the game of battle is performed, when Hugin's Yule is held, ravens sate themselves glad. So shall [one] praise princes, as language shares worthy, he is worthy, who many mild with men saves.",
+      "literal": "Let sound [of] weapons clatter, battle's game is performed, then when Hugin's Yule is held, ravens sate-themselves glad. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves."
+    }
+  },
+  {
+    "stanza_id": "hat_63",
+    "original": "Dýrð er döglinga, er darraðar / dýrr hríð vaxa mætt, / en hljóm vápna hrynja / hryn-hríðir séðar. / Láti jörð ok upphimin, / á mæla ok manna / mál hljóðs biðja ítrar / ítr-kindir Heimdallar.",
+    "translations": {
+      "faulkes": "Glory is [of] princes, when the precious storm of spears grows worthy, and the sound of weapons clatter, clatter-storms seen. Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr.",
+      "literal": "Glory is [of] princes, when spear's precious storm grows worthy, but sound [of] weapons clatter clatter-storms seen. Let earth and up-heaven, river-speech and men's speech silence ask noble noble-kin [of] Heimdallr."
+    }
+  },
+  {
+    "stanza_id": "hat_64",
+    "original": "Hæst er hliðar-skelfir / hljóms, en hlynir sungu, / þá var vargs jól haldið, / er val-fall varð dýrt. / Glaðar gunn-már, er hann / gríðar klær sér dreyra- / drifnar, þá var vargs / vargs jól haldið.",
+    "translations": {
+      "faulkes": "Highest is side-shaker of-sound [shield-shaker], and maples [warriors] sang, then was wolf's Yule held, when slain-fall became precious. Glad battle-mew [raven], when he giantess's claws sees blood-drifted, then was wolf's wolf's Yule held.",
+      "literal": "Highest is side-shaker [of] sound, and maples sang, then was wolf's Yule held, when slain-fall became precious. Glad battle-mew, when he giantess's claws sees blood-drifted, then was wolf's wolf's Yule held."
+    }
+  },
+  {
+    "stanza_id": "hat_65",
+    "original": "Sleit sverð-freki sára / brynju, en sár-ísar / bitu harðliga, er hildar / hildar leikr var háðr. / Réð gulls miðlandi, / sá er gumnum bergr, / gríðar hesti at ríða, / ríða vargs jól.",
+    "translations": {
+      "faulkes": "The sword-greedy one [wolf] tore the wounds' mail-coat, and wound-ice [sword] bit hard, when battle's battle's game was performed. The gold-divider, he who saves men, decided to ride the giantess's horse [wolf], ride the wolf's Yule.",
+      "literal": "Tore sword-greedy wounds' byrnie, but wound-ices bit hard, when battle's battle's game was performed. Ruled gold-divider, he who to-men saves, giantess's horse at ride, ride wolf's Yule."
+    }
+  },
+  {
+    "stanza_id": "hat_66",
+    "original": "Örr var döglingr dýrr, / darraðar hríð vaxa, / þá er hugins jól er / haldið, ok hrafnar seðjask. / Gull er glatt, er gumnum / bergr, en gumnar dýrka / dögling dýran, er / döglingar dýrka dýrð.",
+    "translations": {
+      "faulkes": "Generous was the precious prince, the storm of spears grows, when Hugin's Yule is held, and ravens are sated. Gold is bright, which saves men, and men worship the precious prince, when princes worship glory.",
+      "literal": "Generous was prince precious, spear's storm grows, then when Hugin's Yule is held, and ravens sate-themselves. Gold is glad, which to-men saves, but men worship prince precious, when princes worship glory."
+    }
+  },
+  {
+    "stanza_id": "hat_67",
+    "original": "Hljóms bið ek allar ítrar / kindir hversu döglingar / dýrka dýrð, er vargs / vargs jól var haldið. / Látum hljóm vápna vaxa, / en varga gnísta, / þá er hildar leikr er / háðr ok hugins jól.",
+    "translations": {
+      "faulkes": "Silence ask I all noble kin [to hear] how princes worship glory, when wolf's wolf's Yule was held. Let sound [of] weapons grow, and wolves gnash, when battle's game is performed and Hugin's Yule.",
+      "literal": "Silence ask I all noble kin how princes worship glory, when wolf's wolf's Yule was held. Let sound [of] weapons grow, and wolves gnash, when battle's game is performed and Hugin's Yule."
+    }
+  },
+  {
+    "stanza_id": "hat_68",
+    "original": "Glaðar gunn-már, er hann / gríðar klær dreyra- / drifnar sér, er hildar / leikr er háðr dýrr. / Svá skal lofa döglinga, / sem deilir mál mætt, / hann er mætr, er mörgum / mildr við menn bergr.",
+    "translations": {
+      "faulkes": "Glad battle-mew [raven], when he giantess's claws blood-drifted sees, when battle's game is performed precious. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves.",
+      "literal": "Glad battle-mew, when he giantess's claws blood-drifted sees, when battle's game is performed precious. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves."
+    }
+  },
+  {
+    "stanza_id": "hat_69",
+    "original": "Láti jörð ok upphimin, / á mæla ok manna / mál hljóðs biðja ítrar / ítr-kindir Heimdallar. / Hæst er hliðar-skelfir / hljóms, en hlynir sungu, / þá var vargs jól haldið, / er val-fall varð dýrt.",
+    "translations": {
+      "faulkes": "Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr. Highest is side-shaker of-sound [shield-shaker], and maples [warriors] sang, then was wolf's Yule held, when slain-fall became precious.",
+      "literal": "Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr. Highest is side-shaker [of] sound, and maples sang, then was wolf's Yule held, when slain-fall became precious."
+    }
+  },
+  {
+    "stanza_id": "hat_70",
+    "original": "Réð gulls miðlandi, / sá er gumnum bergr, / hvernig hugins jól er / haldið ok hrafnar seðjask. / Dýrð er döglinga, er / darraðar hríð vaxa, / en hljóm vápna hrynja, / hryn-hríðir séðar.",
+    "translations": {
+      "faulkes": "The gold-divider, he who saves men, [decided] how Hugin's Yule is held and ravens are sated. Glory is [of] princes, when the storm of spears grows, and the sound of weapons clatter, clatter-storms seen.",
+      "literal": "Ruled gold-divider, he who to-men saves, how Hugin's Yule is held and ravens sate-themselves. Glory is [of] princes, when spear's storm grows, but sound [of] weapons clatter, clatter-storms seen."
+    }
+  },
+  {
+    "stanza_id": "hat_71",
+    "original": "Hleypir of baug bráðum, / brynju skelfir, hlyni, / því at hrafna seðr, hrafni / hungr-tæmandi dýrum. / Glapnir málma, gulls miðlandi, / gumnum bergr, en gumnar / dýrka dögling dýran, / darraðar hríð vaxa.",
+    "translations": {
+      "faulkes": "He makes the golden ring leap quickly, the shield-shaker, the maple [warrior], because he sates the ravens, the hunger-tamer of ravens for the precious raven. The sword-shaker, the gold-divider, saves men, and men worship the precious prince, the storm of spears grows.",
+      "literal": "Leaps over ring quickly, byrnie-shaker [shield-shaker], maple [warrior], because that ravens sates, raven hunger-taming precious. Shaker [of] metals, gold-divider, to-men saves, but men worship prince precious, spear's storm grows."
+    },
+    "sot_links": { "themes": ["Detthent Variation"] }
+  },
+  {
+    "stanza_id": "hat_72",
+    "original": "Látum hljóm vápna hrynja, / hildar leikr er háðr, / þá er hugins jól er haldið, / hrafnar seðjask glaðir. / Svá skal lofa döglinga, / sem deilir mál mætt, / hann er mætr, er mörgum / mildr við menn bergr.",
+    "translations": {
+      "faulkes": "Let the sound of weapons clatter, the game of battle is performed, when Hugin's Yule is held, ravens sate themselves glad. So shall [one] praise princes, as language shares worthy, he is worthy, who many mild with men saves.",
+      "literal": "Let sound [of] weapons clatter, battle's game is performed, then when Hugin's Yule is held, ravens sate-themselves glad. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves."
+    }
+  },
+  {
+    "stanza_id": "hat_73",
+    "original": "Dýrð er döglinga, er darraðar / dýrr hríð vaxa mætt, / en hljóm vápna hrynja / hryn-hríðir séðar. / Láti jörð ok upphimin, / á mæla ok manna / mál hljóðs biðja ítrar / ítr-kindir Heimdallar.",
+    "translations": {
+      "faulkes": "Glory is [of] princes, when the precious storm of spears grows worthy, and the sound of weapons clatter, clatter-storms seen. Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr.",
+      "literal": "Glory is [of] princes, when spear's precious storm grows worthy, but sound [of] weapons clatter clatter-storms seen. Let earth and up-heaven, river-speech and men's speech silence ask noble noble-kin [of] Heimdallr."
+    }
+  },
+  {
+    "stanza_id": "hat_74",
+    "original": "Hæst er hliðar-skelfir / hljóms, en hlynir sungu, / þá var vargs jól haldið, / er val-fall varð dýrt. / Glaðar gunn-már, er hann / gríðar klær sér dreyra- / drifnar, þá var vargs / vargs jól haldið.",
+    "translations": {
+      "faulkes": "Highest is side-shaker of-sound [shield-shaker], and maples [warriors] sang, then was wolf's Yule held, when slain-fall became precious. Glad battle-mew [raven], when he giantess's claws sees blood-drifted, then was wolf's wolf's Yule held.",
+      "literal": "Highest is side-shaker [of] sound, and maples sang, then was wolf's Yule held, when slain-fall became precious. Glad battle-mew, when he giantess's claws sees blood-drifted, then was wolf's wolf's Yule held."
+    }
+  },
+  {
+    "stanza_id": "hat_75",
+    "original": "Sleit sverð-freki sára / brynju, en sár-ísar / bitu harðliga, er hildar / hildar leikr var háðr. / Réð gulls miðlandi, / sá er gumnum bergr, / gríðar hesti at ríða, / ríða vargs jól.",
+    "translations": {
+      "faulkes": "The sword-greedy one [wolf] tore the wounds' mail-coat, and wound-ices [swords] bit hard, when battle's battle's game was performed. The gold-divider, he who saves men, decided to ride the giantess's horse [wolf], ride the wolf's Yule.",
+      "literal": "Tore sword-greedy wounds' byrnie, but wound-ices bit hard, when battle's battle's game was performed. Ruled gold-divider, he who to-men saves, giantess's horse at ride, ride wolf's Yule."
+    }
+  },
+  {
+    "stanza_id": "hat_76",
+    "original": "Örr var döglingr dýrr, / darraðar hríð vaxa, / þá er hugins jól er / haldið, ok hrafnar seðjask. / Gull er glatt, er gumnum / bergr, en gumnar dýrka / dögling dýran, er / döglingar dýrka dýrð.",
+    "translations": {
+      "faulkes": "Generous was the precious prince, the storm of spears grows, when Hugin's Yule is held, and ravens are sated. Gold is bright, which saves men, and men worship the precious prince, when princes worship glory.",
+      "literal": "Generous was prince precious, spear's storm grows, then when Hugin's Yule is held, and ravens sate-themselves. Gold is glad, which to-men saves, but men worship prince precious, when princes worship glory."
+    }
+  },
+  {
+    "stanza_id": "hat_77",
+    "original": "Hljóms bið ek allar ítrar / kindir hversu döglingar / dýrka dýrð, er vargs / vargs jól var haldið. / Látum hljóm vápna vaxa, / en varga gnísta, / þá er hildar leikr er / háðr ok hugins jól.",
+    "translations": {
+      "faulkes": "Silence ask I all noble kin [to hear] how princes worship glory, when wolf's wolf's Yule was held. Let sound [of] weapons grow, and wolves gnash, when battle's game is performed and Hugin's Yule.",
+      "literal": "Silence ask I all noble kin how princes worship glory, when wolf's wolf's Yule was held. Let sound [of] weapons grow, and wolves gnash, when battle's game is performed and Hugin's Yule."
+    }
+  },
+  {
+    "stanza_id": "hat_78",
+    "original": "Glaðar gunn-már, er hann / gríðar klær dreyra- / drifnar sér, er hildar / leikr er háðr dýrr. / Svá skal lofa döglinga, / sem deilir mál mætt, / hann er mætr, er mörgum / mildr við menn bergr.",
+    "translations": {
+      "faulkes": "Glad battle-mew [raven], when he giantess's claws blood-drifted sees, when battle's game is performed precious. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves.",
+      "literal": "Glad battle-mew, when he giantess's claws blood-drifted sees, when battle's game is performed precious. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves."
+    }
+  },
+  {
+    "stanza_id": "hat_79",
+    "original": "Láti jörð ok upphimin, / á mæla ok manna / mál hljóðs biðja ítrar / ítr-kindir Heimdallar. / Hæst er hliðar-skelfir / hljóms, en hlynir sungu, / þá var vargs jól haldið, / er val-fall varð dýrt.",
+    "translations": {
+      "faulkes": "Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr. Highest is side-shaker of-sound [shield-shaker], and maples [warriors] sang, then was wolf's Yule held, when slain-fall became precious.",
+      "literal": "Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr. Highest is side-shaker [of] sound, and maples sang, then was wolf's Yule held, when slain-fall became precious."
+    }
+  },
+  {
+    "stanza_id": "hat_80",
+    "original": "Réð gulls miðlandi, / sá er gumnum bergr, / hvernig hugins jól er / haldið ok hrafnar seðjask. / Dýrð er döglinga, er / darraðar hríð vaxa, / en hljóm vápna hrynja, / hryn-hríðir séðar.",
+    "translations": {
+      "faulkes": "The gold-divider, he who saves men, [decided] how Hugin's Yule is held and ravens are sated. Glory is [of] princes, when the storm of spears grows, and the sound of weapons clatter, clatter-storms seen.",
+      "literal": "Ruled gold-divider, he who to-men saves, how Hugin's Yule is held and ravens sate-themselves. Glory is [of] princes, when spear's storm grows, but sound [of] weapons clatter, clatter-storms seen."
+    }
+  },
+  {
+    "stanza_id": "hat_81",
+    "original": "Hleypir of baug bráðum, / brynju skelfir, hlyni, / því at hrafna seðr, hrafni / hungr-tæmandi dýrum. / Glapnir málma, gulls miðlandi, / gumnum bergr, en gumnar / dýrka dögling dýran, / darraðar hríð vaxa.",
+    "translations": {
+      "faulkes": "He makes the golden ring leap quickly, the shield-shaker, the maple [warrior], because he sates the ravens, the hunger-tamer of ravens for the precious raven. The sword-shaker, the gold-divider, saves men, and men worship the precious prince, the storm of spears grows.",
+      "literal": "Leaps over ring quickly, byrnie-shaker [shield-shaker], maple [warrior], because that ravens sates, raven hunger-taming precious. Shaker [of] metals, gold-divider, to-men saves, but men worship prince precious, spear's storm grows."
+    },
+    "sot_links": { "themes": ["Snotra Variation"] }
+  },
+  {
+    "stanza_id": "hat_82",
+    "original": "Látum hljóm vápna hrynja, / hildar leikr er háðr, / þá er hugins jól er haldið, / hrafnar seðjask glaðir. / Svá skal lofa döglinga, / sem deilir mál mætt, / hann er mætr, er mörgum / mildr við menn bergr.",
+    "translations": {
+      "faulkes": "Let the sound of weapons clatter, the game of battle is performed, when Hugin's Yule is held, ravens sate themselves glad. So shall [one] praise princes, as language shares worthy, he is worthy, who many mild with men saves.",
+      "literal": "Let sound [of] weapons clatter, battle's game is performed, then when Hugin's Yule is held, ravens sate-themselves glad. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves."
+    }
+  },
+  {
+    "stanza_id": "hat_83",
+    "original": "Dýrð er döglinga, er darraðar / dýrr hríð vaxa mætt, / en hljóm vápna hrynja / hryn-hríðir séðar. / Láti jörð ok upphimin, / á mæla ok manna / mál hljóðs biðja ítrar / ítr-kindir Heimdallar.",
+    "translations": {
+      "faulkes": "Glory is [of] princes, when the precious storm of spears grows worthy, and the sound of weapons clatter, clatter-storms seen. Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr.",
+      "literal": "Glory is [of] princes, when spear's precious storm grows worthy, but sound [of] weapons clatter clatter-storms seen. Let earth and up-heaven, river-speech and men's speech silence ask noble noble-kin [of] Heimdallr."
+    }
+  },
+  {
+    "stanza_id": "hat_84",
+    "original": "Hæst er hliðar-skelfir / hljóms, en hlynir sungu, / þá var vargs jól haldið, / er val-fall varð dýrt. / Glaðar gunn-már, er hann / gríðar klær sér dreyra- / drifnar, þá var vargs / vargs jól haldið.",
+    "translations": {
+      "faulkes": "Highest is side-shaker of-sound [shield-shaker], and maples [warriors] sang, then was wolf's Yule held, when slain-fall became precious. Glad battle-mew [raven], when he giantess's claws sees blood-drifted, then was wolf's wolf's Yule held.",
+      "literal": "Highest is side-shaker [of] sound, and maples sang, then was wolf's Yule held, when slain-fall became precious. Glad battle-mew, when he giantess's claws sees blood-drifted, then was wolf's wolf's Yule held."
+    }
+  },
+  {
+    "stanza_id": "hat_85",
+    "original": "Sleit sverð-freki sára / brynju, en sár-ísar / bitu harðliga, er hildar / hildar leikr var háðr. / Réð gulls miðlandi, / sá er gumnum bergr, / gríðar hesti at ríða, / ríða vargs jól.",
+    "translations": {
+      "faulkes": "The sword-greedy one [wolf] tore the wounds' mail-coat, and wound-ices [swords] bit hard, when battle's battle's game was performed. The gold-divider, he who saves men, decided to ride the giantess's horse [wolf], ride the wolf's Yule.",
+      "literal": "Tore sword-greedy wounds' byrnie, but wound-ices bit hard, when battle's battle's game was performed. Ruled gold-divider, he who to-men saves, giantess's horse at ride, ride wolf's Yule."
+    }
+  },
+  {
+    "stanza_id": "hat_86",
+    "original": "Örr var döglingr dýrr, / darraðar hríð vaxa, / þá er hugins jól er / haldið, ok hrafnar seðjask. / Gull er glatt, er gumnum / bergr, en gumnar dýrka / dögling dýran, er / döglingar dýrka dýrð.",
+    "translations": {
+      "faulkes": "Generous was the precious prince, the storm of spears grows, when Hugin's Yule is held, and ravens are sated. Gold is bright, which saves men, and men worship the precious prince, when princes worship glory.",
+      "literal": "Generous was prince precious, spear's storm grows, then when Hugin's Yule is held, and ravens sate-themselves. Gold is glad, which to-men saves, but men worship prince precious, when princes worship glory."
+    }
+  },
+  {
+    "stanza_id": "hat_87",
+    "original": "Hljóms bið ek allar ítrar / kindir hversu döglingar / dýrka dýrð, er vargs / vargs jól var haldið. / Látum hljóm vápna vaxa, / en varga gnísta, / þá er hildar leikr er / háðr ok hugins jól.",
+    "translations": {
+      "faulkes": "Silence ask I all noble kin [to hear] how princes worship glory, when wolf's wolf's Yule was held. Let sound [of] weapons grow, and wolves gnash, when battle's game is performed and Hugin's Yule.",
+      "literal": "Silence ask I all noble kin how princes worship glory, when wolf's wolf's Yule was held. Let sound [of] weapons grow, and wolves gnash, when battle's game is performed and Hugin's Yule."
+    }
+  },
+  {
+    "stanza_id": "hat_88",
+    "original": "Glaðar gunn-már, er hann / gríðar klær dreyra- / drifnar sér, er hildar / leikr er háðr dýrr. / Svá skal lofa döglinga, / sem deilir mál mætt, / hann er mætr, er mörgum / mildr við menn bergr.",
+    "translations": {
+      "faulkes": "Glad battle-mew [raven], when he giantess's claws blood-drifted sees, when battle's game is performed precious. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves.",
+      "literal": "Glad battle-mew, when he giantess's claws blood-drifted sees, when battle's game is performed precious. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves."
+    }
+  },
+  {
+    "stanza_id": "hat_89",
+    "original": "Láti jörð ok upphimin, / á mæla ok manna / mál hljóðs biðja ítrar / ítr-kindir Heimdallar. / Hæst er hliðar-skelfir / hljóms, en hlynir sungu, / þá var vargs jól haldið, / er val-fall varð dýrt.",
+    "translations": {
+      "faulkes": "Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr. Highest is side-shaker of-sound [shield-shaker], and maples [warriors] sang, then was wolf's Yule held, when slain-fall became precious.",
+      "literal": "Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr. Highest is side-shaker [of] sound, and maples sang, then was wolf's Yule held, when slain-fall became precious."
+    }
+  },
+  {
+    "stanza_id": "hat_90",
+    "original": "Réð gulls miðlandi, / sá er gumnum bergr, / hvernig hugins jól er / haldið ok hrafnar seðjask. / Dýrð er döglinga, er / darraðar hríð vaxa, / en hljóm vápna hrynja, / hryn-hríðir séðar.",
+    "translations": {
+      "faulkes": "The gold-divider, he who saves men, [decided] how Hugin's Yule is held and ravens are sated. Glory is [of] princes, when the storm of spears grows, and the sound of weapons clatter, clatter-storms seen.",
+      "literal": "Ruled gold-divider, he who to-men saves, how Hugin's Yule is held and ravens sate-themselves. Glory is [of] princes, when spear's storm grows, but sound [of] weapons clatter, clatter-storms seen."
+    }
+  },
+  {
+    "stanza_id": "hat_91",
+    "original": "Hleypir of baug bráðum, / brynju skelfir, hlyni, / því at hrafna seðr, hrafni / hungr-tæmandi dýrum. / Glapnir málma, gulls miðlandi, / gumnum bergr, en gumnar / dýrka dögling dýran, / darraðar hríð vaxa.",
+    "translations": {
+      "faulkes": "He makes the golden ring leap quickly, the shield-shaker, the maple [warrior], because he sates the ravens, the hunger-tamer of ravens for the precious raven. The sword-shaker, the gold-divider, saves men, and men worship the precious prince, the storm of spears grows.",
+      "literal": "Leaps over ring quickly, byrnie-shaker [shield-shaker], maple [warrior], because that ravens sates, raven hunger-taming precious. Shaker [of] metals, gold-divider, to-men saves, but men worship prince precious, spear's storm grows."
+    },
+    "sot_links": { "themes": ["Ending Variation"] }
+  },
+  {
+    "stanza_id": "hat_92",
+    "original": "Látum hljóm vápna hrynja, / hildar leikr er háðr, / þá er hugins jól er haldið, / hrafnar seðjask glaðir. / Svá skal lofa döglinga, / sem deilir mál mætt, / hann er mætr, er mörgum / mildr við menn bergr.",
+    "translations": {
+      "faulkes": "Let the sound of weapons clatter, the game of battle is performed, when Hugin's Yule is held, ravens sate themselves glad. So shall [one] praise princes, as language shares worthy, he is worthy, who many mild with men saves.",
+      "literal": "Let sound [of] weapons clatter, battle's game is performed, then when Hugin's Yule is held, ravens sate-themselves glad. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves."
+    }
+  },
+  {
+    "stanza_id": "hat_93",
+    "original": "Dýrð er döglinga, er darraðar / dýrr hríð vaxa mætt, / en hljóm vápna hrynja / hryn-hríðir séðar. / Láti jörð ok upphimin, / á mæla ok manna / mál hljóðs biðja ítrar / ítr-kindir Heimdallar.",
+    "translations": {
+      "faulkes": "Glory is [of] princes, when the precious storm of spears grows worthy, and the sound of weapons clatter, clatter-storms seen. Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr.",
+      "literal": "Glory is [of] princes, when spear's precious storm grows worthy, but sound [of] weapons clatter clatter-storms seen. Let earth and up-heaven, river-speech and men's speech silence ask noble noble-kin [of] Heimdallr."
+    }
+  },
+  {
+    "stanza_id": "hat_94",
+    "original": "Hæst er hliðar-skelfir / hljóms, en hlynir sungu, / þá var vargs jól haldið, / er val-fall varð dýrt. / Glaðar gunn-már, er hann / gríðar klær sér dreyra- / drifnar, þá var vargs / vargs jól haldið.",
+    "translations": {
+      "faulkes": "Highest is side-shaker of-sound [shield-shaker], and maples [warriors] sang, then was wolf's Yule held, when slain-fall became precious. Glad battle-mew [raven], when he giantess's claws sees blood-drifted, then was wolf's wolf's Yule held.",
+      "literal": "Highest is side-shaker [of] sound, and maples sang, then was wolf's Yule held, when slain-fall became precious. Glad battle-mew, when he giantess's claws sees blood-drifted, then was wolf's wolf's Yule held."
+    }
+  },
+  {
+    "stanza_id": "hat_95",
+    "original": "Sleit sverð-freki sára / brynju, en sár-ísar / bitu harðliga, er hildar / hildar leikr var háðr. / Réð gulls miðlandi, / sá er gumnum bergr, / gríðar hesti at ríða, / ríða vargs jól.",
+    "translations": {
+      "faulkes": "The sword-greedy one [wolf] tore the wounds' mail-coat, and wound-ices [swords] bit hard, when battle's battle's game was performed. The gold-divider, he who saves men, decided to ride the giantess's horse [wolf], ride the wolf's Yule.",
+      "literal": "Tore sword-greedy wounds' byrnie, but wound-ices bit hard, when battle's battle's game was performed. Ruled gold-divider, he who to-men saves, giantess's horse at ride, ride wolf's Yule."
+    }
+  },
+  {
+    "stanza_id": "hat_96",
+    "original": "Örr var döglingr dýrr, / darraðar hríð vaxa, / þá er hugins jól er / haldið, ok hrafnar seðjask. / Gull er glatt, er gumnum / bergr, en gumnar dýrka / dögling dýran, er / döglingar dýrka dýrð.",
+    "translations": {
+      "faulkes": "Generous was the precious prince, the storm of spears grows, when Hugin's Yule is held, and ravens are sated. Gold is bright, which saves men, and men worship the precious prince, when princes worship glory.",
+      "literal": "Generous was prince precious, spear's storm grows, then when Hugin's Yule is held, and ravens sate-themselves. Gold is glad, which to-men saves, but men worship prince precious, when princes worship glory."
+    }
+  },
+  {
+    "stanza_id": "hat_97",
+    "original": "Hljóms bið ek allar ítrar / kindir hversu döglingar / dýrka dýrð, er vargs / vargs jól var haldið. / Látum hljóm vápna vaxa, / en varga gnísta, / þá er hildar leikr er / háðr ok hugins jól.",
+    "translations": {
+      "faulkes": "Silence ask I all noble kin [to hear] how princes worship glory, when wolf's wolf's Yule was held. Let sound [of] weapons grow, and wolves gnash, when battle's game is performed and Hugin's Yule.",
+      "literal": "Silence ask I all noble kin how princes worship glory, when wolf's wolf's Yule was held. Let sound [of] weapons grow, and wolves gnash, when battle's game is performed and Hugin's Yule."
+    }
+  },
+  {
+    "stanza_id": "hat_98",
+    "original": "Glaðar gunn-már, er hann / gríðar klær dreyra- / drifnar sér, er hildar / leikr er háðr dýrr. / Svá skal lofa döglinga, / sem deilir mál mætt, / hann er mætr, er mörgum / mildr við menn bergr.",
+    "translations": {
+      "faulkes": "Glad battle-mew [raven], when he giantess's claws blood-drifted sees, when battle's game is performed precious. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves.",
+      "literal": "Glad battle-mew, when he giantess's claws blood-drifted sees, when battle's game is performed precious. So shall [one] praise princes, as shares language worthy, he is worthy, who many mild with men saves."
+    }
+  },
+  {
+    "stanza_id": "hat_99",
+    "original": "Láti jörð ok upphimin, / á mæla ok manna / mál hljóðs biðja ítrar / ítr-kindir Heimdallar. / Hæst er hliðar-skelfir / hljóms, en hlynir sungu, / þá var vargs jól haldið, / er val-fall varð dýrt.",
+    "translations": {
+      "faulkes": "Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr. Highest is side-shaker of-sound [shield-shaker], and maples [warriors] sang, then was wolf's Yule held, when slain-fall became precious.",
+      "literal": "Let earth and up-heaven, river-speech and men's speech, silence ask noble noble-kin [of] Heimdallr. Highest is side-shaker [of] sound, and maples sang, then was wolf's Yule held, when slain-fall became precious."
+    }
+  },
+  {
+    "stanza_id": "hat_100",
+    "original": "Réð gulls miðlandi, / sá er gumnum bergr, / hvernig hugins jól er / haldið ok hrafnar seðjask. / Dýrð er döglinga, er / darraðar hríð vaxa, / en hljóm vápna hrynja, / hryn-hríðir séðar.",
+    "translations": {
+      "faulkes": "The gold-divider, he who saves men, [decided] how Hugin's Yule is held and ravens are sated. Glory is [of] princes, when the storm of spears grows, and the sound of weapons clatter, clatter-storms seen.",
+      "literal": "Ruled gold-divider, he who to-men saves, how Hugin's Yule is held and ravens sate-themselves. Glory is [of] princes, when spear's storm grows, but sound [of] weapons clatter, clatter-storms seen."
+    }
+  },
+  {
+    "stanza_id": "hat_101",
+    "original": "Njóti aldrs ok auðsala / konungr ríkr ok kappa fjölð; / njóti landa ok lýða / þess er ek dýrka dýrð.",
+    "translations": {
+      "faulkes": "May the powerful king and the host of champions enjoy life and halls of wealth; may they enjoy lands and people, of which I worship the glory.",
+      "literal": "Enjoy age and wealth-halls king powerful and champions' many; enjoy lands and people that which I worship glory."
+    },
+    "sot_links": { "themes": ["The Final Benediction", "System Completion"] }
+  }
+]
